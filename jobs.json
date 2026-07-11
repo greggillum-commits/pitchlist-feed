@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-07-10T13:20:16.341Z",
+  "generatedAt": "2026-07-11T12:07:41.570Z",
   "jobs": [
+    {
+      "id": "114c5adedcb6fc03",
+      "title": "Associate Internal Communications Specialist",
+      "company": "Cengage Group",
+      "location": "Washington, D.C., US",
+      "remote": "remote",
+      "source": "Adzuna",
+      "datePosted": "2026-07-10T22:46:38Z",
+      "url": "https://www.adzuna.com/land/ad/5796465067?se=zufIHCF98RGNqvBiBxieKA&utm_medium=api&utm_source=59a3324b&v=CC587721A77A7231B49CB1891F3D15CA9EA3DB28",
+      "salary": "$78,125",
+      "description": "Associate Specialist, Corporate Communications Role Headline: Help translate strategy into understanding, engagement, and action. We Believe in the Power and Joy of Learning At Cengage Group, our employees have a direct impact in helping learners around the world discover the power and joy of learning. We are bonded by our shared purpose-driving innovation that helps millions of learners improve their lives and achieve their dreams through education. Where You'll Work This is a fully remote pos…",
+      "tags": [
+        "communications",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "226ba43e3469867f",
+      "title": "Entry-Level Sales & Marketing Associate | No Experience Required",
+      "company": "G.E.M USA",
+      "location": "Alexandria, Alexandria City",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-07-10T15:01:45Z",
+      "url": "https://www.adzuna.com/details/5795912396?utm_medium=api&utm_source=59a3324b",
+      "salary": "$48,009",
+      "description": "Are you ready to launch your career in sales, marketing, community outreach, or nonprofit fundraising ? We're looking for motivated, energetic individuals to join our growing team as Entry-Level Sales & Marketing Associates . This full-time opportunity is ideal for recent graduates, career changers, or anyone looking to build valuable experience in sales, customer engagement, event marketing, and nonprofit outreach . No previous experience is required—we provide comprehensive paid training, ong…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
     {
       "id": "938f63f34aba6676",
       "title": "Communications Associate",
@@ -50,14 +82,30 @@
       ]
     },
     {
-      "id": "363b4f49a265398a",
+      "id": "3553b60dce1cc452",
+      "title": "Marketing Associate - IAFF Financial Corporation",
+      "company": "IAFF Financial",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-07-10T01:31:12Z",
+      "url": "https://www.adzuna.com/details/5795138397?utm_medium=api&utm_source=59a3324b",
+      "salary": "$75,052",
+      "description": "Marketing Associate IAFF Financial Corporation (IAFF-FC) FLSA Status: Exempt Reports To: Affiliate & Membership Engagement Program Coordinator / COO Position Summary The Marketing Associate supports the organization's marketing, member engagement, operational, and administrative initiatives. This role works collaboratively across the IAFF-FC, and affiliated organizations to support marketing and member outreach, administration and operational processes. The ideal candidate will be a highly orga…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "13005fd9d6ae03bc",
       "title": "Marketing Coordinator",
       "company": "U.S. Chamber of Commerce",
       "location": "Washington, Washington, D.C.",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-07-10T01:09:07Z",
-      "url": "https://www.adzuna.com/land/ad/5795124368?se=CC5NFGJ88RGtVOgiVZrYow&utm_medium=api&utm_source=59a3324b&v=40DEDB33D350346F7664077BA9B0902131531B9D",
+      "url": "https://www.adzuna.com/land/ad/5795124368?se=IBQBGyF98RG6JP0nGhfLVg&utm_medium=api&utm_source=59a3324b&v=40DEDB33D350346F7664077BA9B0902131531B9D",
       "salary": "$51,846 – $55,000",
       "description": "About Us: If you are passionate about the ability of American business to improve lives, solve problems, and strengthen society, the U.S. Chamber of Commerce is the place for you. As the world’s largest business organization, we believe in building a future that gives everyone the opportunity to pursue a better tomorrow. We make it our job today–and every day–to build the strongest relationships possible among the American people, business leaders, and elected officials in Washington, D.C., sta…",
       "tags": [
@@ -147,14 +195,14 @@
       ]
     },
     {
-      "id": "e7ec60886212dfab",
+      "id": "ddb050bb3a50afa9",
       "title": "Field Marketing Associate",
       "company": "Acosta Group",
       "location": "Bethesda, Montgomery County",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-07-08T19:07:33Z",
-      "url": "https://www.adzuna.com/land/ad/5793404124?se=0EKlFmJ88RGAncPd-SLEBg&utm_medium=api&utm_source=59a3324b&v=008ECA19E68F7774416135F2569658852437DF1A",
+      "url": "https://www.adzuna.com/land/ad/5793404124?se=IOIwHSF98RGNqvBiBxieKA&utm_medium=api&utm_source=59a3324b&v=008ECA19E68F7774416135F2569658852437DF1A",
       "salary": "$34,326",
       "description": "DESCRIPTION Grassroots representatives will distribute flyers door-to-door at MDU properties (apartments, condos, townhomes, senior living communities, student housing, etc.) to market Verizon promotions, promote events, and help drive sales of products and services. Call potential customers to create sales leads that will be distributed to Sales Specialists. Assist Sales Specialists at property to engage consumers. This position will be full time hours and requires flexibility to work evenings…",
       "tags": [
@@ -327,14 +375,14 @@
       ]
     },
     {
-      "id": "7e2827d36c981723",
+      "id": "c8cd61d37016cb61",
       "title": "Communications Coordinator",
       "company": "Maximus",
       "location": "Washington, D.C., US",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-07-04T22:45:22Z",
-      "url": "https://www.adzuna.com/land/ad/5788696984?se=lrhdE2J88RG1cqTmEaCebw&utm_medium=api&utm_source=59a3324b&v=1261EA1744F70DA941EDBC99435F0FF8DCE1C639",
+      "url": "https://www.adzuna.com/land/ad/5788696984?se=ADwsGiF98RGLl9LUZyfB6A&utm_medium=api&utm_source=59a3324b&v=1261EA1744F70DA941EDBC99435F0FF8DCE1C639",
       "salary": "$53,937",
       "description": "Maximus is seeking a talented Communications Coordinator to support the Organ Procurement and Transplantation Network (OPTN) program by developing and delivering clear, accurate, and engaging communications for diverse stakeholder audiences. This position is contingent upon Maximus' successful award of the OPTN contract, with award notification anticipated in early July. The Communications Coordinator will help translate complex healthcare, policy, and operational information into accessible co…",
       "tags": [
@@ -343,83 +391,18 @@
       ]
     },
     {
-      "id": "8124cfdc970101ed",
+      "id": "8c290a624f880e58",
       "title": "Associate, Brand Copywriter (Work from Home)",
       "company": "Capital One",
       "location": "Washington, D.C., US",
       "remote": "remote",
       "source": "Adzuna",
       "datePosted": "2026-07-04T22:44:46Z",
-      "url": "https://www.adzuna.com/land/ad/5788695962?se=XOPZFGJ88RGsZZWON0yP8A&utm_medium=api&utm_source=59a3324b&v=759C1956507E49F1504D0BE2AC52E7ED82BCE833",
+      "url": "https://www.adzuna.com/land/ad/5788695962?se=mC1vGyF98RGNqvBiBxieKA&utm_medium=api&utm_source=59a3324b&v=759C1956507E49F1504D0BE2AC52E7ED82BCE833",
       "salary": "$65,036",
       "description": "Associate, Brand Copywriter (Work from Home) Retail Bank Keep Me Informed (KMI) is seeking a talented Brand Copywriter to join our team. The Copywriter performs a key process role of composing and editing communications while capturing the intent and any mandatory requirements deemed necessary by Legal and Compliance. Responsibilities include creating content for digital and direct mail communications, proofreading other team members' work, documenting audit requirements and obtaining approvals…",
       "tags": [
         "brand",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "6b6e0df336746451",
-      "title": "Public Relations Assistant – Immediate Start",
-      "company": "CryptoGex",
-      "location": "Washington, D.C., US",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-07-03T20:27:55Z",
-      "url": "https://www.adzuna.com/details/5787399516?utm_medium=api&utm_source=59a3324b",
-      "salary": "$41,600 – $61,360",
-      "description": "About Us At CryptoGex , we specialize in designing and delivering high-impact technology experiences. We bring innovation to life through conferences, tech exhibitions, and immersive brand environments that connect companies with forward-thinking audiences. Position Overview We are currently seeking a motivated Public Relations Assistant for an immediate start at our Washington, DC location. The Public Relations Assistant will support the company's communications and public relations initiative…",
-      "tags": [
-        "public relations",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "05da828dacd1e8cf",
-      "title": "Communications Assistant – Immediate Start",
-      "company": "CryptoGex",
-      "location": "Washington, D.C., US",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-07-03T20:27:55Z",
-      "url": "https://www.adzuna.com/details/5787399511?utm_medium=api&utm_source=59a3324b",
-      "salary": "$41,600 – $58,240",
-      "description": "About Us At CryptoGex , we specialize in designing and delivering high-impact technology experiences. We bring innovation to life through conferences, tech exhibitions, and immersive brand environments that connect companies with forward-thinking audiences. Position Overview We are currently seeking a Communications Assistant for an immediate start at our Washington, DC location. The Communications Assistant will support internal and external communication efforts by assisting with corresponden…",
-      "tags": [
-        "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "14d6d8e7bab9d757",
-      "title": "Communications Coordinator, Media Relations (Future Opportunity)",
-      "company": "ICF",
-      "location": "Arlington, Arlington County",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-07-03T05:12:46Z",
-      "url": "https://www.adzuna.com/details/5786624258?utm_medium=api&utm_source=59a3324b",
-      "salary": "$61,232 – $104,094",
-      "description": "Please note: This role is contingent upon contract award. While not an immediate opening, we are actively interviewing and may extend offers in anticipation of the award, with start dates dependent upon contract finalization. Communications Coordinator, Media Relations @ ICF Next, we are fearless in finding new ways to solve problems, relentless in making sure it pays off for our clients and committed to making a positive change in the world. Here’s your chance to join our award-winning agency,…",
-      "tags": [
-        "media relations",
-        "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "1733cba1b9156544",
-      "title": "Entry-Level Marketing Associate | Full-Time | Paid Training",
-      "company": "G.E.M Usa",
-      "location": "Cameron Station, Alexandria City",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-07-03T01:55:09Z",
-      "url": "https://www.adzuna.com/details/5786445328?utm_medium=api&utm_source=59a3324b",
-      "salary": "$36,400 – $52,000",
-      "description": "Are you looking for an entry-level marketing job with paid training, full-time hours, and opportunities for career advancement ? We're hiring motivated, outgoing individuals to join our growing team as Entry-Level Marketing Associates . This is an excellent opportunity for recent graduates, career changers, and individuals looking to gain hands-on experience in marketing, customer engagement, brand promotions, sales support, and business development . No previous marketing experience is require…",
-      "tags": [
-        "marketing",
         "entry-level"
       ]
     },
@@ -744,22 +727,6 @@
       "description": "Who We Are: \n SiriusXM and its brands (Pandora, SiriusXM Media, AdsWizz, Simplecast, and SiriusXM Connect) are leading a new era of audio entertainment and services by delivering the most compelling subscription and ad-supported audio entertainment experience for listeners -- in the car, at home, and anywhere on the go with connected devices. Our vision is to shape the future of audio, where everyone can be effortlessly connected to the voices, stories and music they love wherever they are. This is the place where a diverse group of emerging talent and legends alike come to share authentic and purposeful songs, stories, sounds and insights through some of the best programming and technology in the world. Our critically-acclaimed, industry-leading audio entertainment encompasses music, sports, comedy, news, talk, live events, and podcasting. No matter their individual role, each of our employees plays a vital role in bringing SiriusXM’s vision to life everyday.\n \n SiriusXM   is the leading audio entertainment company in North America, and the premier programmer and platform for subscription and digital advertising-supported audio products. SiriusXM’s platforms collectively reach approximately 150 million listeners, the largest digital audio audience across paid and free tiers in North America, and deliver music, sports, talk, news, comedy, entertainment and podcasts. Pandora, a subsidiary of SiriusXM, is the largest ad-supported audio entertainment streaming service in the U.S. SiriusXM's subsidiaries Simplecast and AdsWizz make it a leader in podcast hosting, production, distribution, analytics and monetization. The Company’s advertising sales organization, which operates as SXM Media, leverages its scale, cross-platform sales organization and ad tech capabilities to deliver results for audio creators and advertisers. SiriusXM, through Sirius XM Canada Holdings, Inc., also offers satellite radio and audio entertainment in Canada. In addition to its audio entertainment businesses, SiriusXM offers connected vehicle services to automakers.\n \n How you’ll make an impact: \n The Marketing Transformation Staff Technical Program Manager (TPM) will drive execution excellence across SiriusXM’s Marketing Transformation portfolio, ensuring strategic subscriber growth and marketing modernization initiatives are delivered with rigor, speed, and measurable outcomes. This role partners closely with Marketing, Product, Data, Engineering, Analytics, and Operations to manage complex technical programs, align stakeholders, mitigate risk, and ensure delivery commitments translate into business value. The TPM will serve as a key execution leader across high-impact marketing technology and transformation efforts.\n \n What you’ll do: \n Become a subject matter expert in SiriusXM’s Marketing Transformation domain, serving as a direct point of contact for program execution, delivery planning, and cross-functional coordination.   \n\n Drive end-to-end execution and delivery of multiple high-profile Marketing Transformation programs, managing complex dependencies across Marketing, Product, Engineering, Data, Analytics, and Operations.   \n\n Facilitate org-level program operating mechanisms including program reviews, retrospectives, and stakeholder forums to provide visibility, surface risks and blockers, and enable timely decision-making.   \n\n Partner with teams to develop requirements aligned to technical capabilities, constraints, interdependencies, and transformation objectives.   \n\n Define and execute high-caliber delivery and communication plans for complex, multi-team programs with senior stakeholder visibility.   \n\n Support Agile delivery excellence through backlog health, story writing, prioritization, and release planning, ensuring teams are positioned for predictable execution.   \n\n Lead planning, refinement, and release ceremonies while continuously evaluating delivery processes and driving iterative improvement.   \n\n Proactively identify, communicate, and resolve program risks, issues, and delivery blockers, including forecasting mitigation plans and escalation paths when needed.   \n\n Cultivate strong relationships across technical and business teams to drive progress, influence negotiations, and advocate for outcomes that best serve SiriusXM customers and strategic priorities.\n\n \n What you’ll need: \n   7+ years of experience in technical delivery roles within software development organizations, including at least 5 years as a Technical Program Manager, Technical Project Manager   \n\n Proven track record of managing complex, high-stakes transformation initiatives involving multiple stakeholder groups.   \n\n Strong ability to distill ambiguous or complex challenges into clear, solvable, and actionable delivery plans.   \n\n Extensive experience with SDLC methodologies and the flexibility to operate effectively across Agile, hybrid, and traditional delivery models.   \n\n Strong technical proficiency demonstrated through systems knowledge, technical delivery experience, quality assurance, technical writing, or related expertise.   \n\n Experience managing programs spanning multiple teams with varying levels of Agile maturity.   \n\n Excellent communication, facilitation, and stakeholder management skills, with the ability to drive collaborative execution across diverse organizations.\n\n Working knowledge of release planning, delivery governance, and program lifecycle management.   \n\n Demonstrated experience in risk identification, reporting, mitigation, and delivery confidence management.   \n\n Preferred certifications: Certified Scrum Master (CSM/PSM), PMP, or other relevant credentials.\n\n Experience with automation and/or AI tools such as ChatGPT, Gemini, etc.\n\n Must have legal right to work in the U.S.\n\n \n At SiriusXM, we carefully consider a wide range of factors when determining compensation, including your background and experience. These considerations can cause your compensation to vary. We expect the base salary for this position to be in the range of $150,100 to $180,000 and will depend on your skills, qualifications, and experience. Additionally, this role might be eligible for discretionary short-term and long-term incentives. We encourage all interested candidates to apply.\n \n Our goal at SiriusXM is to provide and maintain a work environment that fosters mutual respect, professionalism and cooperation. SiriusXM is an equal opportunity employer that does not discriminate on the basis of actual or perceived race, creed, color, religion, national origin, ancestry, alienage or citizenship status, age, disability or handicap, sex, gender identity, marital status, familial status, veteran status, sexual orientation or any other characteristic protected by applicable federal, state or local laws.  \n \n The requirements and duties described above may be modified or waived by the Company in its sole discretion without notice. \n \n #LI-RE1 \n R-2026-02-39",
       "tags": [
         "marketing",
-        "music"
-      ]
-    },
-    {
-      "id": "dc75da3a46d9490a",
-      "title": "Social Media Manager - Ultra",
-      "company": "Sony Music",
-      "location": "United States, New York, New York",
-      "remote": "onsite",
-      "source": "Greenhouse",
-      "datePosted": "2026-05-06T13:07:19-04:00",
-      "url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8535006002",
-      "salary": null,
-      "description": "<p><strong><u>About Sony Music Entertainment</u></strong></p>\n<p>At Sony Music Entertainment, we fuel the creative journey. We’ve played a pioneering role in music history, from the first-ever music label to the invention of the flat disc record. We’ve nurtured some of music’s most iconic artists and produced some of the most influential recordings of all time.</p>\n<p>Today, we work in more than 70 countries, supporting a diverse roster of international superstars, developing and independent artists, and visionary creators. From our position at the intersection of music, entertainment, and technology, we bring imagination and expertise to the newest products and platforms, embrace new business models, employ breakthrough tools, and provide powerful insights that help our artists push creative boundaries and reach new audiences. In everything we do, we’re committed to artistic integrity, transparency, and entrepreneurship.</p>\n<p>Sony Music Entertainment is a member of the Sony family of global companies.</p>\n<p>Ultra Records is looking for a <strong>Manager, Social Media</strong> to join the Marketing team. As a Social Media Manager at Ultra Records, you will develop and implement innovative and effective digital marketing plans and social media strategy with a focus on Dance and Electronic artists.</p>\n<h2><strong>What you'll do:</strong></h2>\n<ul>\n<li>Community Management. Ensure that Ultra Records social media profiles (Instagram, TikTok, YouTube, Facebook, Snapchat, &amp; Discord) &amp; digital properties are best represented on priority social platforms.</li>\n<li>Content Development. Produce and post digital content including text, images, videos on label social profiles and label owned and operated fan pages; liaise with in-house creative team on creation, execution, &amp; delivery of label and artist centric promotional materials and generated content.</li>\n<li>Content Strategy and Management. Oversee short-form content strategy for assigned artists on the roster, ensuring alignment with the artist's vision and current trends digitally.</li>\n<li>Influencer Management. Concept influencer campaigns. Work with agencies to launch and monitor campaigns. Approve influencer drafts and oversee creative. Craft sound growth strategies while tracking development. Maintenance of internal influencer database.</li>\n<li>Reporting. Track analytics and metrics of priority single and album releases across social media platforms. Compile and distribute regular reports both internally to the Ultra Records team and externally to artists and artist management. Utilize data to evaluate campaign performance and efficacy. Monitor artist development on socials, trends, and viral moments in real time, and manage the posting and engagement on the artist's social accounts, including developing relationships with fan pages.</li>\n</ul>\n<div class=\"iCIMS_InfoMsg iCIMS_InfoMsg_Job\">&nbsp;</div>\n<h2 class=\"iCIMS_InfoMsg iCIMS_InfoField_Job\"><strong>Who you are:</strong></h2>\n<ul>\n<li>3+ years digital marketing &amp; social media management experience, with a background in media or entertainment marketing strongly preferred</li>\n<li>Proficient with major social media platforms &amp; understanding of the DSP landscape and associated strategy and new tech platforms</li>\n<li>A self-starter with ability to multi-task and thrive in a fast-paced entrepreneurial environment</li>\n<li>Ability to create digital marketing campaigns with different brand voices for both the label and artists on the roster&nbsp;</li>\n<li>A proven track record building a social following from the ground up</li>\n<li>Solid understanding of creative positioning, key art/video execution, digital advertising, and influencer marketing</li>\n<li>Equally creative and &amp; analytical, with exceptional communication skills</li>\n<li>Passionate music fan with broad knowledge of music &amp; culture, but a specific specialization for Dance / Electronic music &amp; culture</li>\n<li>Outstanding attention to organization and detail</li>\n<li>An excellent communicator and enthusiastic collaborator who works well with team members, external partners, and senior management</li>\n<li>You are hungry to learn and grow. You are curious, ask questions and get excited about new projects</li>\n</ul>\n<div class=\"iCIMS_InfoMsg iCIMS_InfoMsg_Job\">\n<div class=\"iCIMS_Expandable_Container\">\n<p>&nbsp;</p>\n</div>\n</div>\n<h2 class=\"iCIMS_InfoMsg iCIMS_InfoField_Job\"><strong>What we give you:</strong></h2>\n<ul>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"1\" data-aria-level=\"1\"><span data-contrast=\"none\">You join an inclusive, collaborative and global community where you have the opportunity to </span><span data-contrast=\"none\">channel your passion every day&nbsp;</span><span data-ccp-props=\"{}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"2\" data-aria-level=\"1\"><span data-contrast=\"none\">A modern office environment designed to foster productivity, creativity, and teamwork empowering you to bring your best</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"4\" data-aria-level=\"1\"><span data-contrast=\"none\">An attractive and comprehensive benefits package including medical, dental, vision, life &amp; disability coverage, and 401K + employer matching</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"5\" data-aria-level=\"1\"><span data-contrast=\"none\">Voluntary benefits like company-paid identity theft protection and resources for pets, mental health and meditation resources, industry-leading fertility coverage, fully paid leave for childbirth or bonding, fully paid leave for caregivers, programs for loved ones with developmental disabilities and neurodiversity, subsidized back-up child and elder care, and reimbursement for adoption, surrogacy, tuition, and student loans</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"6\" data-aria-level=\"1\"><span data-contrast=\"auto\">Investment in your professional growth and development enabling you to thrive in our vibrant community.&nbsp;</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"7\" data-aria-level=\"1\"><span data-contrast=\"auto\">The space to accelerate progress, positively disrupt, and create what happens next&nbsp;</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"8\" data-aria-level=\"1\"><span data-contrast=\"none\">Time off for a winter recess</span></li>\n</ul>\n<p><em>Sony Music is committed to providing equal employment opportunity for all persons regardless of age, disability, national origin, race, color, religion, sex, sexual orientation, gender, gender identity or expression, pregnancy, veteran or military status, marital and civil partnership/union status, alienage or citizenship status, creed, genetic information or any other status protected by applicable federal, state, or local law.</em></p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\">The anticipated annual base salary does not include any other compensation components or other benefits that an individual may be eligible for. &nbsp;The actual base salary offered depends on a variety of factors, which may include as applicable, the qualifications of the individual applicant for the position, years of relevant experience, specific and unique skills, level of education attained, certifications or other professional licenses held, and the location in which the applicant lives and/or from which they will be performing the job.</div><div class=\"title\">New York Pay Range</div><div class=\"pay-range\"><span>$71,000</span><span class=\"divider\">&mdash;</span><span>$75,000 USD</span></div></div></div>",
-      "tags": [
-        "social media",
         "music"
       ]
     },
