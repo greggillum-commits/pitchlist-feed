@@ -1,19 +1,51 @@
 {
-  "generatedAt": "2026-07-28T13:02:52.019Z",
+  "generatedAt": "2026-07-29T13:11:00.534Z",
   "jobs": [
     {
-      "id": "7825a1885edf9971",
-      "title": "Marketing Associate",
-      "company": "American Society of Nephrology",
-      "location": "Washington, D.C., US",
+      "id": "2f18fd7dcc277947",
+      "title": "Entry Level Sales & Marketing Associate | No Experience Needed",
+      "company": "GUSA",
+      "location": "Cameron Station, Alexandria City",
       "remote": "onsite",
       "source": "Adzuna",
-      "datePosted": "2026-07-27T20:32:36Z",
-      "url": "https://www.adzuna.com/land/ad/5817818688?se=vKo0o4SK8RG91ZfTIU8Pqw&utm_medium=api&utm_source=59a3324b&v=B7F85EE85E0D2306F2993DD88BFC6B5F687235C2",
-      "salary": "$38,654",
-      "description": "The American Society of Nephrology (ASN)–which represents more than 21,000 physicians, researchers, nurses, and other health professionals dedicated to creating a world without kidney diseases—seeks a full-time Marketing Associate. Reporting to the Director of Marketing and Communications, the Marketing Associate will work closely with the marketing and communications team to plan and implement the marketing campaigns and plans for the organization. This role is responsible for the operational …",
+      "datePosted": "2026-07-29T03:18:42Z",
+      "url": "https://www.adzuna.com/details/5819455346?utm_medium=api&utm_source=59a3324b",
+      "salary": "$36,400 – $52,000",
+      "description": "Are you looking for an entry-level sales and marketing job where you can gain professional experience, develop valuable skills, and make a meaningful impact? We are currently hiring motivated Entry-Level Sales & Marketing Associates to represent nonprofit organizations through live events , community outreach , and fundraising campaigns . This full-time opportunity is ideal for recent graduates, career changers, and individuals entering the workforce. No previous sales or marketing experience i…",
       "tags": [
         "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "1bda7e8c5823c530",
+      "title": "Entry Level Marketing Coordinator",
+      "company": "Goldenhqcorp",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-07-29T02:48:41Z",
+      "url": "https://www.adzuna.com/details/5819415675?utm_medium=api&utm_source=59a3324b",
+      "salary": "$45,420 – $53,100",
+      "description": "About Us Golden HQ Corp was founded to bridge traditional marketing discipline with modern consumer expectations, helping organizations build authentic positioning, meaningful engagement, and measurable business growth. Job Summary We are seeking an enthusiastic Entry Level Marketing Coordinator to support promotional campaigns, customer engagement initiatives, and brand awareness efforts. This role is ideal for individuals looking to begin a career in marketing while gaining valuable hands-on …",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "67231eef52db31c0",
+      "title": "Entry Level Communications Coordinator",
+      "company": "Limitless East Marketing",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-07-28T21:07:27Z",
+      "url": "https://www.adzuna.com/details/5819092506?utm_medium=api&utm_source=59a3324b",
+      "salary": "$40,757",
+      "description": "Job Description Job Description: We are seeking a motivated and enthusiastic Entry Level Communications Coordinator to join our dynamic team. This is an excellent opportunity for a recent graduate or someone beginning their career in communications who is eager to develop their skills in a fast-paced, collaborative environment. The ideal candidate will play a vital role in supporting the communications department by coordinating various projects, assisting with content creation, and managing in…",
+      "tags": [
+        "communications",
         "entry-level"
       ]
     },
@@ -31,22 +63,6 @@
       "tags": [
         "publicity",
         "music"
-      ]
-    },
-    {
-      "id": "9873930b51026994",
-      "title": "Entry Level Sales & Marketing Associate | No Experience Needed",
-      "company": "GUSA",
-      "location": "Alexandria, Alexandria City",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-07-27T13:54:52Z",
-      "url": "https://www.adzuna.com/details/5817556808?utm_medium=api&utm_source=59a3324b",
-      "salary": "$40,173",
-      "description": "Are you looking for an entry-level sales and marketing job where you can gain professional experience, develop valuable skills, and make a meaningful impact? We are currently hiring motivated Entry-Level Sales & Marketing Associates to represent nonprofit organizations through live events , community outreach , and fundraising campaigns . This full-time opportunity is ideal for recent graduates, career changers, and individuals entering the workforce. No previous sales or marketing experience i…",
-      "tags": [
-        "marketing",
-        "entry-level"
       ]
     },
     {
@@ -95,22 +111,6 @@
       "description": "Work Where You Learn: Build Experience, Grow Skills, and Contribute to Your University Community. This position is available only to enrolled American University students. Most student positions at American University are eligible to use Federal Work Study (FWS) awards, with a few exceptions. FWS funds cannot be applied to janitorial, construction, partisan or sectarian positions. For information or questions regarding FWS funds, please contact American University's Office of Financial Aid. Imp…",
       "tags": [
         "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "ed3f7a85467c7944",
-      "title": "Entry-Level Sales & Marketing Associate – Full-Time | Paid Training | Immediate Hire",
-      "company": "GUSA",
-      "location": "Cameron Station, Alexandria City",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-07-25T05:47:40Z",
-      "url": "https://www.adzuna.com/details/5815204348?utm_medium=api&utm_source=59a3324b",
-      "salary": "$36,400 – $52,000",
-      "description": "Are you looking for an entry-level sales and marketing job where you can gain professional experience, develop valuable skills, and make a positive impact? We are hiring motivated Sales & Marketing Associates to represent nonprofit organizations through live events, community outreach programs, and fundraising campaigns. This full-time opportunity is ideal for recent graduates, career changers, and individuals starting their first professional career . No previous experience is required — we pr…",
-      "tags": [
-        "marketing",
         "entry-level"
       ]
     },
