@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-01T12:14:36.306Z",
+  "generatedAt": "2026-08-02T12:16:50.804Z",
   "jobs": [
+    {
+      "id": "34beccbbe5a33001",
+      "title": "Communications & Marketing Assistant",
+      "company": "AMERICAN POLITICAL SCIENCE ASSOCIATION",
+      "location": "Washington, D.C., US",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-08-02T05:28:40Z",
+      "url": "https://www.adzuna.com/details/5825548012?utm_medium=api&utm_source=59a3324b",
+      "salary": "$58,406 – $67,204",
+      "description": "POSITION SUMMARY: The American Political Science Association (APSA) seeks a full-time Communications & Marketing Assistant to join our Communications & Marketing team. The Assistant plays a crucial part in supporting the marketing and content management efforts for a major membership association. The Assistant supports the efforts of the Communications & Marketing team, including assisting with online, electronic, and print communications through the association's website, social media, email c…",
+      "tags": [
+        "communications",
+        "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "ead32b88080d4550",
+      "title": "2027 Entry Level Consultant - Strategic Communications",
+      "company": "FTI Consulting",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-08-02T04:52:04Z",
+      "url": "https://www.adzuna.com/details/5825482372?utm_medium=api&utm_source=59a3324b",
+      "salary": "$73,709",
+      "description": "Who We Are FTI Consulting is the leading global expert firm for organizations facing crisis and transformation. We work with many of the world’s top multinational corporations, law firms, banks and private equity firms on their most important issues to deliver impact that makes a difference. From resolving disputes, navigating crises, managing risk and optimizing performance, our teams respond rapidly to dynamic and complex situations. At FTI Consulting, you’ll work side-by side with leaders wh…",
+      "tags": [
+        "communications",
+        "entry-level"
+      ]
+    },
     {
       "id": "6876513020278a5d",
       "title": "Communications Associate (R5514)",
@@ -50,34 +83,18 @@
       ]
     },
     {
-      "id": "effe8a3bd1fd3fcd",
+      "id": "fb81db20bc94d62e",
       "title": "Advanced Associate, Geo Marketing",
       "company": "Pearson",
       "location": "Washington, D.C., US",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-07-31T22:56:10Z",
-      "url": "https://www.adzuna.com/land/ad/5823240443?se=CttRjKKN8RGKo9gBPJHUYw&utm_medium=api&utm_source=59a3324b&v=209E859D56F0FAA18E29FD714EE28F100300207E",
+      "url": "https://www.adzuna.com/land/ad/5823240443?se=5g31BWyO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=59a3324b&v=209E859D56F0FAA18E29FD714EE28F100300207E",
       "salary": "$83,251",
       "description": "This role aligns to industry level titles such as Student Acquisition Marketing Specialist and Senior Marketing Coordinator Role Summary The Advanced Associate (IC15), Geo Marketing contributes to the execution of integrated U.S. Higher Ed student acquisition campaigns and marketing activations, both online and across U.S. campuses. You will play a key role in delivering campaigns across digital and experiential channels, supporting agency and vendor relationships, and helping execute student-f…",
       "tags": [
         "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "93487b651bf2edef",
-      "title": "Communications Associate, Transporation",
-      "company": "ICF",
-      "location": "Washington, D.C., US",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-07-31T22:55:38Z",
-      "url": "https://www.adzuna.com/land/ad/5823239454?se=tKhdi6KN8RGGgO_n0rmdiQ&utm_medium=api&utm_source=59a3324b&v=754941D935BC1EE828C11ADF934B47F57B4F59D1",
-      "salary": "$72,511",
-      "description": "Description _Please note:_ _This role is contingent upon contract award. While it is not an immediate opening, we are actively interviewing and extending contingent offers in anticipation of award._  ICF Next, we are fearless in finding new ways to solve problems, relentless in making sure it pays off for our clients and committed to making a positive change in the world. Join our community of mission-driven creatives, communicators, strategists, and technologists to challenge the status quo. W…",
-      "tags": [
-        "communications",
         "entry-level"
       ]
     },
@@ -156,22 +173,6 @@
       "url": "https://www.adzuna.com/details/5821424732?utm_medium=api&utm_source=59a3324b",
       "salary": "$70,000",
       "description": "Benefits: 401(k) Competitive salary Dental insurance Health insurance Home office stipend Paid time off Parental leave Training & development Vision insurance Wellness resources Organizational Profile: Asian Americans Advancing Justice | AAJC (\"AAJC\") is a national 501(c)(3) nonprofit founded in 1991. Our mission is to advance the civil and human rights of Asian Americans and to build and promote a fair and equitable society for all. For 30 years, we have served as the leading Asian American vo…",
-      "tags": [
-        "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "d23cf073f591ef98",
-      "title": "Library Communications & Administration Assistant (Student)",
-      "company": "American University",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-07-30T07:49:13Z",
-      "url": "https://www.adzuna.com/details/5821090613?utm_medium=api&utm_source=59a3324b",
-      "salary": "$45,378",
-      "description": "Work Where You Learn: Build Experience, Grow Skills, and Contribute to Your University Community. This position is available only to enrolled American University students. Most student positions at American University are eligible to use Federal Work Study (FWS) awards, with a few exceptions. FWS funds cannot be applied to janitorial, construction, partisan or sectarian positions. For information or questions regarding FWS funds, please contact American University's Office of Financial Aid. Imp…",
       "tags": [
         "communications",
         "entry-level"
@@ -290,14 +291,14 @@
       ]
     },
     {
-      "id": "763bcb191edd05cf",
+      "id": "d92e185642f37b7d",
       "title": "Marketing Associate",
       "company": "American Society of Nephrology",
       "location": "Washington, D.C., US",
       "remote": "onsite",
       "source": "Adzuna",
-      "datePosted": "2026-07-27T20:32:36Z",
-      "url": "https://www.adzuna.com/land/ad/5817818688?se=eIOijqKN8RGKo9gBPJHUYw&utm_medium=api&utm_source=59a3324b&v=B7F85EE85E0D2306F2993DD88BFC6B5F687235C2",
+      "datePosted": "2026-07-28T03:50:13Z",
+      "url": "https://www.adzuna.com/land/ad/5818077489?se=yhKHCGyO8RG8JMyxbRrc7Q&utm_medium=api&utm_source=59a3324b&v=15C12FA1021D20749CECA00C5536E28988A42EAC",
       "salary": "$38,654",
       "description": "The American Society of Nephrology (ASN)–which represents more than 21,000 physicians, researchers, nurses, and other health professionals dedicated to creating a world without kidney diseases—seeks a full-time Marketing Associate. Reporting to the Director of Marketing and Communications, the Marketing Associate will work closely with the marketing and communications team to plan and implement the marketing campaigns and plans for the organization. This role is responsible for the operational …",
       "tags": [
@@ -322,23 +323,6 @@
       ]
     },
     {
-      "id": "537cec63265a8e4d",
-      "title": "Digital Marketing Coordinator",
-      "company": "DLA Piper",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-07-26T07:17:56Z",
-      "url": "https://www.adzuna.com/details/5816498334?utm_medium=api&utm_source=59a3324b",
-      "salary": "$64,459 – $100,568",
-      "description": "DLA Piper is, at its core, bold, exceptional, collaborative and supportive. Our people are the backbone, heart and soul of our firm. Wherever you are in your professional journey, DLA Piper is a place you can engage in meaningful work and grow your career. Let’s see what we can achieve. Together. Summary As a key contributor within the Digital Communications Center of Excellence, and under the supervision of the Senior Manager, Communications, the Digital Marketing Coordinator works closely wit…",
-      "tags": [
-        "marketing",
-        "digital marketing",
-        "entry-level"
-      ]
-    },
-    {
       "id": "61540ab741d82ccf",
       "title": "Marketing Assistant (Student)",
       "company": "American University",
@@ -351,38 +335,6 @@
       "description": "Work Where You Learn: Build Experience, Grow Skills, and Contribute to Your University Community. This position is available only to enrolled American University students. Most student positions at American University are eligible to use Federal Work Study (FWS) awards, with a few exceptions. FWS funds cannot be applied to janitorial, construction, partisan or sectarian positions. For information or questions regarding FWS funds, please contact American University's Office of Financial Aid. Imp…",
       "tags": [
         "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "799a869296752fcd",
-      "title": "Communications Assistant (Student)",
-      "company": "American University",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-07-25T23:20:40Z",
-      "url": "https://www.adzuna.com/details/5816128976?utm_medium=api&utm_source=59a3324b",
-      "salary": "$44,473",
-      "description": "Work Where You Learn: Build Experience, Grow Skills, and Contribute to Your University Community. This position is available only to enrolled American University students. Most student positions at American University are eligible to use Federal Work Study (FWS) awards, with a few exceptions. FWS funds cannot be applied to janitorial, construction, partisan or sectarian positions. For information or questions regarding FWS funds, please contact American University's Office of Financial Aid. Imp…",
-      "tags": [
-        "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "b5940ce72ea229ad",
-      "title": "Social Media Coordinator",
-      "company": "German Marshall Fund Of The US",
-      "location": "Washington, D.C., US",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-07-25T00:11:21Z",
-      "url": "https://www.adzuna.com/details/5814911813?utm_medium=api&utm_source=59a3324b",
-      "salary": "$57,500 – $71,900",
-      "description": "About GMF The German Marshall Fund of the United States (GMF) is a nonprofit, nonpartisan organization working to strengthen transatlantic cooperation on regional, national, and global challenges. Position Summary The Social Media Coordinator supports the day-to-day management of GMF’s digital channels, including social media and website publishing. This role serves as the primary owner of day-to-day social media channel execution, ensuring consistent, high-quality content across platforms and …",
-      "tags": [
-        "social media",
         "entry-level"
       ]
     },
