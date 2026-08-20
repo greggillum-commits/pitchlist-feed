@@ -1,20 +1,68 @@
 {
-  "generatedAt": "2026-08-19T11:43:01.311Z",
+  "generatedAt": "2026-08-20T11:45:27.849Z",
   "jobs": [
     {
-      "id": "025cefeb2ff52b0f",
-      "title": "Digital Content Assistant (Student)",
-      "company": "American University",
+      "id": "6d05c91afe6d0234",
+      "title": "Public Relations Assistant",
+      "company": "Moodreact",
       "location": "Washington, Washington, D.C.",
       "remote": "onsite",
       "source": "Adzuna",
-      "datePosted": "2026-08-18T21:39:20Z",
-      "url": "https://www.adzuna.com/land/ad/5847635992?se=YoaFIcOb8RGJlOSIAyUCLQ&utm_medium=api&utm_source=59a3324b&v=F77D3DC0088094DF8CE9B8CBFC796D097C3D55FC",
-      "salary": "$50,291",
-      "description": "Work Where You Learn: Build Experience, Grow Skills, and Contribute to Your University Community. This position is available only to enrolled American University students. Most student positions at American University are eligible to use Federal Work Study (FWS) awards, with a few exceptions. FWS funds cannot be applied to janitorial, construction, partisan or sectarian positions. For information or questions regarding FWS funds, please contact American University's Office of Financial Aid. Imp…",
+      "datePosted": "2026-08-20T07:21:23Z",
+      "url": "https://www.adzuna.com/details/5849564329?utm_medium=api&utm_source=59a3324b",
+      "salary": "$54,876",
+      "description": "About Us Moodreact is a full-service maintenance company supporting homes and businesses with expert electricians, appliance repair technicians, plumbers, and skilled general labor teams.We handle the tough jobs, the technical work, and the details others overlook—always with professionalism, safety, and efficiency in mind. Job Summary We are seeking an enthusiastic and people-oriented Public Relations Assistant to support promotional outreach, customer engagement, and sales initiatives. This r…",
       "tags": [
-        "content",
+        "public relations",
         "entry-level"
+      ]
+    },
+    {
+      "id": "bdeef09d3bfb44d6",
+      "title": "Marketing Assistant",
+      "company": "Moodreact",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-08-20T07:21:23Z",
+      "url": "https://www.adzuna.com/details/5849564331?utm_medium=api&utm_source=59a3324b",
+      "salary": "$50,004",
+      "description": "About Us Moodreact is a full-service maintenance company supporting homes and businesses with expert electricians, appliance repair technicians, plumbers, and skilled general labor teams.We handle the tough jobs, the technical work, and the details others overlook—always with professionalism, safety, and efficiency in mind. Job Summary We are seeking a motivated and sales-oriented Marketing Assistant to support customer acquisition, promotional campaigns, and business growth initiatives. This r…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "234219314011bf0f",
+      "title": "Marketing Coordinator",
+      "company": "FranklinCovey",
+      "location": "Washington, D.C., US",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-08-19T23:25:13Z",
+      "url": "https://www.adzuna.com/land/ad/5849233709?se=5ge_n4yc8RGnWtPkBzIF3Q&utm_medium=api&utm_source=59a3324b&v=AFB22DC5106F155DA02B8096322245E9BE77500B",
+      "salary": "$76,422",
+      "description": "We give strategy the human edge. FranklinCovey ( NYSE: FC ) is the world's most trusted leadership and organizational performance partner that gives strategy the human edge. We help organizations achieve the breakthrough results that matter most. Using proven, principle-centered frameworks and practices, we build high-trust leaders, teams and cultures and help clients translate strategy into consistent execution. For more than 40 years, we have tested this approach with thousands of clients fro…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "fe39d4c28cb211c7",
+      "title": "Social Strategy Manager, Brand Social",
+      "company": "Spotify",
+      "location": "New York, NY",
+      "remote": "onsite",
+      "source": "Lever",
+      "datePosted": "2026-08-19T15:10:05.445Z",
+      "url": "https://jobs.lever.co/spotify/f503e610-7346-4892-ab39-fb6dbe6d1585",
+      "salary": null,
+      "description": "",
+      "tags": [
+        "brand",
+        "music"
       ]
     },
     {
@@ -47,70 +95,6 @@
       "tags": [
         "marketing",
         "digital marketing",
-        "music"
-      ]
-    },
-    {
-      "id": "810a6784fd13d998",
-      "title": "Entry Level Marketing Associate",
-      "company": "Alphabe Insight Inc",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-08-18T16:20:18Z",
-      "url": "https://www.adzuna.com/land/ad/5847219456?se=_A76IMOb8RG6QpMobORtmg&utm_medium=api&utm_source=59a3324b&v=8F325F8EEFCD61CBA7E259CFF563F4570B531FCF",
-      "salary": "$47,844",
-      "description": "Company Description At Limitless East Marketing, we redefine possibilities through innovative, data-driven strategies that inspire and connect, ensuring measurable results for your brand. Job Description Job Description: We are seeking a dynamic and motivated Entry Level Marketing Associate to join our growing marketing team. This role is perfect for recent graduates or individuals looking to start their career in marketing. As an Entry Level Marketing Associate, you will play a vital role in s…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "61bfd45e859c284c",
-      "title": "Marketing Assistant",
-      "company": "Alphabe Insight Inc",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-08-18T16:02:30Z",
-      "url": "https://www.adzuna.com/land/ad/5847192801?se=7I7QIMOb8RGcDpWkpdd9-w&utm_medium=api&utm_source=59a3324b&v=EA6AB4CA1EC1EF3EF42A27DE7F7152C66EB17A0D",
-      "salary": "$42,747",
-      "description": "Company Description At Beloform Craft, we believe exceptional service begins with great people. We are a growing, people-focused company committed to delivering professional, reliable, and positive experiences for every customer we serve. Our team values clear communication, collaboration, personal development, and a strong work ethic. We provide an environment where motivated individuals can strengthen their skills, take on new challenges, and build meaningful careers. Job Description Beloform…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "396cf2c62fafbafd",
-      "title": "Internship: Marketing (Part-Time/Seasonal)",
-      "company": "Monumental Sports & Entertainment",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-08-18T15:51:09Z",
-      "url": "https://www.adzuna.com/land/ad/5847179575?se=xHX7HcOb8RGk1JnOPlO_fg&utm_medium=api&utm_source=59a3324b&v=E8126C302006A56B19247BA3C85C5BB99B788648",
-      "salary": "$74,209",
-      "description": "Monumental Sports & Entertainment (MSE) is one of the leading integrated sports and entertainment companies globally. MSE’s portfolio spans premier professional sports teams, world-class venues, and next-generation media properties, with marquee assets including the NHL’s Washington Capitals, NBA’s Washington Wizards, WNBA’s Washington Mystics, NBA G League’s Capital City Go-Go, Capital One Arena, and Monumental Sports Network, along with an investment in Team Liquid. Rooted in the nation’s cap…",
-      "tags": [
-        "marketing",
-        "music"
-      ]
-    },
-    {
-      "id": "9a86690aea9e0c55",
-      "title": "Game Night Staff: Media Relations (Part-Time/Seasonal)",
-      "company": "Monumental Sports & Entertainment",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-08-18T15:51:06Z",
-      "url": "https://www.adzuna.com/land/ad/5847179440?se=juEMHcOb8RGcDpWkpdd9-w&utm_medium=api&utm_source=59a3324b&v=93E237ECE59863197F73EBDCE7F442DC40EDAB5F",
-      "salary": "$67,771",
-      "description": "Monumental Sports & Entertainment (MSE) is one of the leading integrated sports and entertainment companies globally. MSE’s portfolio spans premier professional sports teams, world-class venues, and next-generation media properties, with marquee assets including the NHL’s Washington Capitals, NBA’s Washington Wizards, WNBA’s Washington Mystics, NBA G League’s Capital City Go-Go, Capital One Arena, and Monumental Sports Network, along with an investment in Team Liquid. Rooted in the nation’s cap…",
-      "tags": [
-        "media relations",
         "music"
       ]
     },
@@ -309,22 +293,6 @@
       ]
     },
     {
-      "id": "d9db2525a337df8d",
-      "title": "Manager, Content Development - Columbia",
-      "company": "Sony Music",
-      "location": "United States, California, Los Angeles",
-      "remote": "onsite",
-      "source": "Greenhouse",
-      "datePosted": "2026-08-18T10:46:05-04:00",
-      "url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8065405002",
-      "salary": null,
-      "description": "<p><strong><u>About Sony Music Entertainment</u></strong></p>\n<p>At Sony Music Entertainment, we fuel the creative journey. We’ve played a pioneering role in music history, from the first-ever music label to the invention of the flat disc record. We’ve nurtured some of music’s most iconic artists and produced some of the most influential recordings of all time.</p>\n<p>Today, we work in more than 70 countries, supporting a diverse roster of international superstars, developing and independent artists, and visionary creators. From our position at the intersection of music, entertainment, and technology, we bring imagination and expertise to the newest products and platforms, embrace new business models, employ breakthrough tools, and provide powerful insights that help our artists push creative boundaries and reach new audiences. In everything we do, we’re committed to artistic integrity, transparency, and entrepreneurship.</p>\n<p>Sony Music Entertainment is a member of the Sony family of global companies.</p>\n<p>&nbsp;</p>\n<p>The&nbsp;<strong>Manager, Content Development</strong>&nbsp;role is a pivotal team member of our content development team. This role is tasked with shooting (when appropriate) and editing short form content for digital/social distribution. This person must excel in a fast-paced environment and be able to balance multiple projects simultaneously. The right person will use their creative vision across multiple artist social platforms and to help create compelling video content that is optimized for short form platforms and leads to artist discovery and consumption.</p>\n<h2><strong>What you'll do:</strong></h2>\n<ul>\n<li><strong>Produce and Edit Short Form Videos.</strong> Produce, edit, retouch, and color-correct short form videos across vertical format channels (ie TikTok, IG Reels), including content for paid media campaigns.</li>\n<li><strong>Generate Creative Content Ideas.</strong> Develop and create short form content ideas on the fly that are engaging and optimized for TikTok, IG Reels and YouTube Shorts.</li>\n<li><strong>Create Motion Graphics.</strong> Design and create animated motion graphic assets for social media, landing pages, and DSPs.</li>\n<li><strong>Shoot Social Content.</strong> Be prepared to shoot social content, primarily using a phone but also with other equipment, especially when artists are on site or when there are immediate social media opportunities to capture.</li>\n<li><strong>Monitor Social Media Trends. </strong>Stay updated on social media trends, tools, apps, and benchmarks to measure the impact and effectiveness of different types of content.</li>\n<li><strong>Manage Multiple Projects.</strong> Successfully manage numerous projects with overlapping deadlines, including project management and communication with stakeholders to gather and implement feedback.</li>\n</ul>\n<h2 class=\"iCIMS_InfoMsg iCIMS_InfoField_Job\"><strong>Who you are:</strong></h2>\n<p><strong>Technical Competencies</strong></p>\n<ul>\n<li>Content Creation and Editing: Proficiency in shooting high-quality short videos and photos, as well as editing them using software like Adobe Premiere Pro, Final Cut Pro, and Photoshop.</li>\n<li>Short Form Content Expertise: Deep understanding of the latest trends and best practices in short form vertical content, particularly for platforms like TikTok, Instagram Reels, and YouTube Shorts.</li>\n<li>Social Media Platforms: Expertise in various social media platforms (Instagram, TikTok, YouTube, Facebook, etc.), including their algorithms, trends, and best practices.</li>\n</ul>\n<p><strong>Durable Competencies</strong></p>\n<ul>\n<li>Creativity and Innovation: Strong creative vision and the ability to think outside the box to produce original and engaging content.</li>\n<li>Communication Skills: Excellent written and verbal communication skills to convey messages clearly and effectively.</li>\n<li>Time Management and Organization: Ability to manage multiple projects simultaneously, meet deadlines, and stay organized.</li>\n<li>Adaptability and Learning Agility: Openness to feedback, willingness to learn new skills, and adaptability to rapidly changing social media trends and technologies.</li>\n</ul>\n<div class=\"iCIMS_InfoMsg iCIMS_InfoMsg_Job\">&nbsp;</div>\n<h2 class=\"iCIMS_InfoMsg iCIMS_InfoField_Job\"><strong>What we give you:</strong></h2>\n<ul>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"1\" data-aria-level=\"1\"><span data-contrast=\"none\">You join an inclusive, collaborative and global community where you have the opportunity to </span><span data-contrast=\"none\">channel your passion every day&nbsp;</span><span data-ccp-props=\"{}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"2\" data-aria-level=\"1\"><span data-contrast=\"none\">A modern office environment designed to foster productivity, creativity, and teamwork empowering you to bring your best</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"4\" data-aria-level=\"1\"><span data-contrast=\"none\">An attractive and comprehensive benefits package including medical, dental, vision, life &amp; disability coverage, and 401K + employer matching</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"5\" data-aria-level=\"1\"><span data-contrast=\"none\">Voluntary benefits like company-paid identity theft protection and resources for pets, mental health and meditation resources, industry-leading fertility coverage, fully paid leave for childbirth or bonding, fully paid leave for caregivers, programs for loved ones with developmental disabilities and neurodiversity, subsidized back-up child and elder care, and reimbursement for adoption, surrogacy, tuition, and student loans</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"6\" data-aria-level=\"1\"><span data-contrast=\"auto\">Investment in your professional growth and development enabling you to thrive in our vibrant community.&nbsp;</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"7\" data-aria-level=\"1\"><span data-contrast=\"auto\">The space to accelerate progress, positively disrupt, and create what happens next&nbsp;</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"8\" data-aria-level=\"1\"><span data-contrast=\"none\">Time off for a winter recess</span></li>\n</ul>\n<p><em>Sony Music is committed to providing equal employment opportunity for all persons regardless of age, disability, national origin, race, color, religion, sex, sexual orientation, gender, gender identity or expression, pregnancy, veteran or military status, marital and civil partnership/union status, alienage or citizenship status, creed, genetic information or any other status protected by applicable federal, state, or local law.</em></p>\n<p><em>California based applicants have certain rights under California law. Please see our <a href=\"https://cdn.smehost.net/2019sonymusiccom-smeprod/wp-content/uploads/2023/01/CA-Recruitment-Privacy-Policy.pdf\" target=\"_blank\">California Recruitment Privacy Policy</a> for more details.</em></p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\">The anticipated annual base salary does not include any other compensation components or other benefits that an individual may be eligible for. &nbsp;The actual base salary offered depends on a variety of factors, which may include as applicable, the qualifications of the individual applicant for the position, years of relevant experience, specific and unique skills, level of education attained, certifications or other professional licenses held, and the location in which the applicant lives and/or from which they will be performing the job.</div><div class=\"title\">California Pay Range</div><div class=\"pay-range\"><span>$80,000</span><span class=\"divider\">&mdash;</span><span>$90,000 USD</span></div></div></div>",
-      "tags": [
-        "content",
-        "music"
-      ]
-    },
-    {
       "id": "266991db33f6714b",
       "title": "Manager, Digital Content and Social Strategy, Marketing, Film, & TV - Masterworks",
       "company": "Sony Music",
@@ -471,6 +439,22 @@
       ]
     },
     {
+      "id": "45cbc0b288d62bb2",
+      "title": "Game Night Staff: Media Relations (Part-Time/Seasonal)",
+      "company": "Monumental Sports & Entertainment",
+      "location": "Rosslyn, Arlington County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-08-18T07:42:18Z",
+      "url": "https://www.adzuna.com/details/5846666649?utm_medium=api&utm_source=59a3324b",
+      "salary": "$72,595",
+      "description": "Monumental Sports & Entertainment (MSE) is one of the leading integrated sports and entertainment companies globally. MSE’s portfolio spans premier professional sports teams, world-class venues, and next-generation media properties, with marquee assets including the NHL’s Washington Capitals, NBA’s Washington Wizards, WNBA’s Washington Mystics, NBA G League’s Capital City Go-Go, Capital One Arena, and Monumental Sports Network, along with an investment in Team Liquid. Rooted in the nation’s cap…",
+      "tags": [
+        "media relations",
+        "music"
+      ]
+    },
+    {
       "id": "42685458a3b83ce1",
       "title": "Corporate Marketing Associate",
       "company": "CoStar Group",
@@ -500,6 +484,22 @@
       "tags": [
         "media relations",
         "music"
+      ]
+    },
+    {
+      "id": "a18536f377eb1ce5",
+      "title": "Digital Content Assistant (Student)",
+      "company": "American University",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-08-18T05:16:55Z",
+      "url": "https://www.adzuna.com/details/5846409536?utm_medium=api&utm_source=59a3324b",
+      "salary": "$46,521",
+      "description": "Work Where You Learn: Build Experience, Grow Skills, and Contribute to Your University Community. This position is available only to enrolled American University students. Most student positions at American University are eligible to use Federal Work Study (FWS) awards, with a few exceptions. FWS funds cannot be applied to janitorial, construction, partisan or sectarian positions. For information or questions regarding FWS funds, please contact American University's Office of Financial Aid. Imp…",
+      "tags": [
+        "content",
+        "entry-level"
       ]
     },
     {
@@ -552,6 +552,23 @@
       ]
     },
     {
+      "id": "2c6d3be88b2ebd2a",
+      "title": "Digital Marketing Coordinator",
+      "company": "National Motor Freight Traffic Association Inc",
+      "location": "Alexandria, Alexandria City",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-08-17T11:30:56Z",
+      "url": "https://www.adzuna.com/land/ad/5845249865?se=OkGsooyc8RG61JlSLw0dhQ&utm_medium=api&utm_source=59a3324b&v=B9214F9FEA390095B0F3868CCB4CA54A39F6E8BC",
+      "salary": "$45,455",
+      "description": "Job Description Job Description Description: The National Motor Freight Traffic Association, Inc.® (NMFTA)® is a leading non-profit organization representing the interests of motor carriers throughout North America. We are dedicated to providing our members with standards, resources, education, and advocacy on critical industry issues. About the Role: The Digital Marketing Coordinator role plays a vital role in supporting the Senior Digital Marketing Manager and achieving the strategic marketin…",
+      "tags": [
+        "marketing",
+        "digital marketing",
+        "entry-level"
+      ]
+    },
+    {
       "id": "6275b6fed58a4bab",
       "title": "Marketing Associate",
       "company": "Hersha Hospitality Management LP",
@@ -580,22 +597,6 @@
       "description": "JOB SUMMARY: The Communications Coordinator supports the daily operations of the communications team responsible for advancing Truth Initiative’s mission through strategic communications. Designed for an early-career professional looking to build a strong foundation in communications, this role provides hands-on, cross-functional experience across key disciplines, including media affairs, editorial content, social media, internal communications, and digital strategy. Working under the guidance …",
       "tags": [
         "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "0b6463b010370b55",
-      "title": "Public Relations Assistant",
-      "company": "Moodreact",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-08-14T07:18:36Z",
-      "url": "https://www.adzuna.com/details/5841769652?utm_medium=api&utm_source=59a3324b",
-      "salary": "$44,527",
-      "description": "About Us Moodreact is a full-service maintenance company supporting homes and businesses with expert electricians, appliance repair technicians, plumbers, and skilled general labor teams.We handle the tough jobs, the technical work, and the details others overlook—always with professionalism, safety, and efficiency in mind. Job Summary We are seeking an enthusiastic Public Relations Assistant to support community outreach, promotional initiatives, and customer engagement activities. This role i…",
-      "tags": [
-        "public relations",
         "entry-level"
       ]
     },
@@ -744,22 +745,6 @@
       ]
     },
     {
-      "id": "94b44a61d1dd989d",
-      "title": "Communications Associate",
-      "company": "Reingold Inc",
-      "location": "Alexandria, Alexandria City",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-08-12T20:24:59Z",
-      "url": "https://www.adzuna.com/details/5839115236?utm_medium=api&utm_source=59a3324b",
-      "salary": "$69,776",
-      "description": "About Reingold Reingold is a full-service marketing and creative firm in Alexandria, VA. For more than 40 years, we’ve been driven by a simple mission: to help organizations –– whether in the government, nonprofit, or business sector –– as they strive to make the world a better place. We hire top-notch talent to develop and launch compelling, inventive communications campaigns, leveraging the latest technology and digital media strategies that enable our clients to meet their audiences where th…",
-      "tags": [
-        "communications",
-        "entry-level"
-      ]
-    },
-    {
       "id": "9f46d46167d59102",
       "title": "Manager, Sports Content Marketing & Partnerships",
       "company": "SiriusXM",
@@ -772,22 +757,6 @@
       "description": "Who We Are: \nSiriusXM and its brands (Pandora, SiriusXM Media, AdsWizz, Simplecast, and SiriusXM Connect) are leading a new era of audio entertainment and services by delivering the most compelling subscription and ad-supported audio entertainment experience for listeners -- in the car, at home, and anywhere on the go with connected devices. Our vision is to shape the future of audio, where everyone can be effortlessly connected to the voices, stories and music they love wherever they are.\n \nThis is the place where a diverse group of emerging talent and legends alike come to share authentic and purposeful songs, stories, sounds and insights through some of the best programming and technology in the world. Our critically acclaimed, industry-leading audio entertainment encompasses music, sports, comedy, news, talk, live events, and podcasting. No matter their individual role, each of our employees plays a vital part in bringing SiriusXM’s vision to life every day.\n \n SiriusXM is the leading audio entertainment company in North America, and the premier programmer and platform for subscription and digital advertising-supported audio products. SiriusXM’s platforms collectively reach approximately 150 million listeners, the largest digital audio audience across paid and free tiers in North America, and deliver music, sports, talk, news, comedy, entertainment and podcasts. Pandora, a subsidiary of SiriusXM, is the largest ad-supported audio entertainment streaming service in the U.S. SiriusXM's subsidiaries Simplecast and AdsWizz make it a leader in podcast hosting, production, distribution, analytics and monetization. The Company’s advertising sales organization, which operates as SiriusXM Media, leverages its scale, cross-platform sales organization and ad tech capabilities to deliver results for audio creators and advertisers. SiriusXM, through SiriusXM Canada Holdings, Inc., also offers satellite radio and audio entertainment in Canada. In addition to its audio entertainment businesses, SiriusXM offers connected vehicle services to automakers.\n \n How You’ll Make an Impact :\n The Manager, Sports Content Marketing & Partnerships will lead the development and execution of strategic marketing materials and initiatives that elevate SiriusXM's sports portfolio, drive audience engagement, strengthen league, team and talent partnerships, and support key business objectives. This role will help shape the marketing strategy across SiriusXM's sports properties while driving cross-functional alignment and operational excellence. This position requires an efficient, well-organized strategic marketer, relationship builder, and strong communicator with experience managing high-profile partnerships, developing compelling narratives, influencing stakeholders, and bringing integrated marketing campaigns to life. As a senior individual contributor, this role independently leads complex campaigns, partner activations, and cross-functional workstreams, exercising judgment to resolve ambiguity, recommend tradeoffs, and deliver measurable audience and business outcomes.\n \n What You’ll Do \n Develop integrated marketing strategies for key sports programming initiatives, tentpole events, channel launches, original content, and partnership opportunities.\n Partner closely with Sports Programming leadership to identify marketing opportunities that drive listening, engagement, subscriber value, and audience growth.\n Lead partner and talent marketing relationships across assigned sports properties, serving as the primary point of contact for leagues, teams, media partners, talent representatives, agencies, and other key stakeholders.\n Lead cross-functional planning across CRM, App Marketing, Social, Performance Marketing, Creative, PR, Events, Brand, Sales, and Product teams to ensure successful campaign execution.\n Create presentations, strategic recommendations, and marketing narratives that clearly communicate objectives, opportunities, results, and business impact.\n Own creative strategy and development from brief through execution, including campaign positioning, messaging frameworks, creative feedback, and go-to-market planning for major sports initiatives.\n Independently determine campaign approaches, sequencing, and stakeholder tradeoffs for complex assignments, escalating only when business risk or contractual exposure requires leadership input.\n Identify and champion innovative marketing opportunities that elevate SiriusXM's sports brands, deepen fan engagement, and create value for partners and stakeholders.\n Support marketing strategy and partnership activation efforts across current sports properties and emerging strategic partnerships.\n Analyze campaign, audience, and engagement performance to identify insights, inform future strategy, and communicate recommendations to leadership.\n Define and track success measures for assigned initiatives, including listening, engagement, audience growth, subscriber value, partner satisfaction, and campaign performance.\n Stay ahead of industry trends across sports, media, audio, streaming, social platforms, and fan engagement to identify opportunities that strengthen SiriusXM's competitive position.\n Serve as a trusted representative of the Sports Marketing & Partnerships team in meetings with external partners and internal cross-functional stakeholders.\n Track fulfillment of contractual marketing obligations across partnerships and ensure successful execution against agreed-upon commitments.\n Partner closely with Legal, Business Affairs, and external stakeholders to streamline contract approvals, navigate rights restrictions, and ensure compliant execution across campaigns, talent integrations, and partnership activations.\n Lead programs, campaigns, partner relationships, and cross-functional workstreams through influence; this role does not include formal people-management responsibility.\n Travel as needed to support events, activations, and onsite program execution.\n \n What You’ll Need: \n Typically requires a minimum of 5 years of related experience with a Bachelor’s degree; or 4 years and a Master’s degree; or a PhD with 3 years experience; or equivalent experience.\n Experience in partnerships, partner management or content/digital marketing.\n Experience managing high-profile partnerships, talent relationships, sponsorships, or sports properties.\n Exceptional written and verbal communication skills with the ability to craft compelling narratives and present recommendations to executive audiences.\n Strong strategic thinking and problem-solving skills with the ability to translate business objectives into actionable marketing plans.\n Demonstrated ability to influence cross-functional teams and drive alignment among multiple stakeholders.\n Demonstrated ability to independently resolve complex, ambiguous issues and recommend practical tradeoffs with limited supervision.\n Experience developing presentations, marketing strategies, business cases, and performance recaps.\n Experience reviewing partnership agreements, sponsorship contracts, talent agreements, or media rights deals with a strong understanding of marketing rights and obligations.\n Advanced proficiency in Microsoft PowerPoint, Excel, and Word.\n Proficiency in Adobe Creative Suite, including Adobe Acrobat, Photoshop, Illustrator, and InDesign is a plus.\n Experience using project management and collaboration tools such as Airtable, Monday.com, Asana, Wrike, or similar platforms.\n Strong familiarity with SiriusXM's sports content and talent.\n Excellent time management and project management skills, with the ability to prioritize and multi-task, and work under shifting deadlines in a fast-paced environment.\n Fast learner with strong attention to detail; proactive, self-motivated, and resourceful.\n Both a proactive team player and independent worker.\n Flexible and maintains a positive attitude when under pressure and deadlines.\n Deep knowledge/interest in sports.\n Must have legal right to work in the U.S.\n \n At SiriusXM, we carefully consider a wide range of factors when determining compensation, including your background and experience. These considerations can cause your compensation to vary. We expect the base salary for this position to be in the range of $80,000 and $110,000 and will depend on\n your skills, qualifications, and experience. Additionally, this role might be eligible for discretionary short term and long-term incentives. We encourage all interested candidates to apply.\n \n Our goal at SiriusXM is to provide and maintain a work environment that fosters mutual respect, professionalism and cooperation. SiriusXM is an equal opportunity employer that does not discriminate on the basis of actual or perceived race, creed, color, religion, national origin, ancestry, alienage or citizenship status, age, disability or handicap, sex, gender identity, marital status, familial status, veteran status, sexual orientation or any other characteristic protected by applicable federal, state or local laws.\n \n The requirements and duties described above may be modified or waived by the Company in its sole\n discretion without notice.\n R-2026-07-112",
       "tags": [
         "content",
-        "marketing",
-        "music"
-      ]
-    },
-    {
-      "id": "43e06c738f6346e1",
-      "title": "Marketing Coordinator - Austin West Riverside",
-      "company": "AEG",
-      "location": "Austin, TX",
-      "remote": "remote",
-      "source": "Greenhouse",
-      "datePosted": "2026-08-03T17:17:10-04:00",
-      "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/8621747002",
-      "salary": null,
-      "description": "<p><strong>For more than 20 years, AEG has played a pivotal role in transforming sports and live entertainment. Annually, we host more than 160 million guests, promote more than 10,000 shows and present more than 22,000 events around the world. We are committed to innovation, artistry, and community, and leverage the power of our 300+ venues, leading sports franchises, marquee music brands, integrated entertainment districts, premier ticketing platform and global sponsorship activations, to create memorable moments that give the world reason to cheer.</strong><br><br><strong>Our business is interwoven with the human mind and heart, and we strive to build a diverse and inclusive company that reflects the artists, athletes, and fans that we host; reach beyond traditional boundaries to support the communities in which we operate; and minimize our impact on the environment by adopting sustainable practices throughout our business operations.</strong><br><br><strong>If you want to be challenged to up your game and make a difference, then join us in giving the world reason to cheer!</strong></p>\n<p><strong>A Brief Overview<br></strong>The <strong>Marketing Coordinator</strong> is responsible for marketing, social media, online e-marketing public relations, promotions for venues, radio promotions, clubs, theaters, festivals, shows and one-offs. This position will develop promotional initiatives with artists and the community, to promote positive brand image. The Marketing Coordinator may also be responsible for coordinating the work of interns and street team for show promotions.</p>\n<p><strong>Essential Functions:</strong></p>\n<ul>\n<li>Monitor marketing trends, regionally, with artists, and implement new marketing strategies and campaigns based on current trends. Analyze fan base to target specific demographics to promote shows, tours and festivals.</li>\n<li>Helps coordinate and advance day-of-show activities including radio stations set ups, remote broadcasts and escorting media photographers and news crews.</li>\n<li>Creates, proof reads and distributes weekly newsletters. Order and deploy e-cards and e-blasts with AXS Advantage tool. Check that venue information and links are correct, communicate errors to designers, check for accuracy, communicate errors and sign off on final version.</li>\n<li>Develop and manage social media accounts, research new promotional activities and prizes for online social media giveaways. Collaborate with artists to promote shows on their social media accounts. Design appropriate posting schedule that corresponds with various event related deadlines: announce, on sale, maintenance and backend.</li>\n<li>Create and deliver all show settlements including actuals, backup and any special campaign notes.</li>\n<li>Collect ticket links and keep central grid, check all links, pre-sale passwords, billing, art on ticket pages and venue websites</li>\n<li>Coordinate asset trafficking for digital media campaigns – admats, banners, videos etc.</li>\n<li>Maintain good working relationships with partners, co-promoters and media. Develop special initiatives to involve the community in events. Organize artist promotions and meet and greets.</li>\n<li>May also be responsible for the upload of expense reports, updating of office calendar, ordering of supplies and general office administration.</li>\n</ul>\n<p><strong>Required Qualifications:</strong></p>\n<ul>\n<li>High School Diploma or its equivalency</li>\n<li>2-4 years Of related work experience</li>\n<li>Experience calendaring events</li>\n<li>Knowledgeable and skilled in MS Office (Excel, Word, Outlook and Photoshop)</li>\n<li>Basic accounting knowledge</li>\n<li>Strong written and verbal communication skills</li>\n<li>Strong PR skills, social media savvy, and organization skills</li>\n<li>Must have strong work ethic, problem solving and prioritization skills</li>\n<li>Must be able to work independently and as part of a team</li>\n<li>Creative thinker; thinks “outside the box”</li>\n<li>Knowledge of the music industry preferred</li>\n</ul>\n<p><strong>Payscale: $17.97 - $26.44</strong></p>\n<p><strong>Bonus: </strong><em>This position is not eligible for a bonus under the current bonus plan requirements.</em></p>\n<p><strong>Benefits:<em> Full-time: </em></strong><em>We offer a comprehensive benefits package that includes: medical, dental and vision insurance, paid holidays, vacation and sick time, company paid basic life insurance, voluntary life insurance, parental leave, 401k Plan (with a current employer match of 3%), flexible spending and health savings account options, and wellness offerings.</em></p>\n<p>AEG reserves the right to change or modify the employee’s job description whether orally or in writing, at any time during the employment relationship.&nbsp; AEG may require an employee to perform duties outside their normal description.</p>\n<p>AEG's policy is to hire the most qualified applicants, and we comply with all applicable federal, state and local employment laws in making hiring and employee decisions. &nbsp;We are an equal opportunity employer and do not discriminate against applicants or employees on the basis of race, color, marital status, disability, religion, age, sex, sexual orientation, national origin, genetic information, veteran status, or any other legally protected status recognized by applicable federal, state or local law.</p>\n<p><strong><em>Employer does not offer work visa sponsorship for this position.</em></strong></p>",
-      "tags": [
         "marketing",
         "music"
       ]
