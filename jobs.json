@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-08-21T11:45:28.517Z",
+  "generatedAt": "2026-08-22T11:38:09.594Z",
   "jobs": [
+    {
+      "id": "864489123b7c0a38",
+      "title": "PR Associate, Commercial Real Estate (DC)",
+      "company": "The Brand Guild",
+      "location": "Rosslyn, Arlington County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-08-22T07:21:26Z",
+      "url": "https://www.adzuna.com/details/5852453911?utm_medium=api&utm_source=59a3324b",
+      "salary": "$60,000 – $66,000",
+      "description": "The Brand Guild’s Commercial Real Estate team works with some of the most iconic neighborhoods, retail brands, innovative developers and leaders in the country and we are looking for a Public Relations Associate to join our growing team. In this role, you will work with and help tell the stories of innovative, cutting-edge companies that are truly revolutionizing the environment in which we work, play and live. We’re an entrepreneurial group who thrives on learning, collaborating, and topping y…",
+      "tags": [
+        "pr",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "3f814578f6ab6f1c",
+      "title": "Game Night Staff: Communications (Part-Time/Seasonal)",
+      "company": "Monumental Sports & Entertainment",
+      "location": "Rosslyn, Arlington County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-08-22T06:15:02Z",
+      "url": "https://www.adzuna.com/details/5852320365?utm_medium=api&utm_source=59a3324b",
+      "salary": "$62,388",
+      "description": "Monumental Sports & Entertainment (MSE) is one of the leading integrated sports and entertainment companies globally. MSE’s portfolio spans premier professional sports teams, world-class venues, and next-generation media properties, with marquee assets including the NHL’s Washington Capitals, NBA’s Washington Wizards, WNBA’s Washington Mystics, NBA G League’s Capital City Go-Go, Capital One Arena, and Monumental Sports Network, along with an investment in Team Liquid. Rooted in the nation’s cap…",
+      "tags": [
+        "communications",
+        "music"
+      ]
+    },
+    {
+      "id": "a797176752e9791b",
+      "title": "Game Night Staff: Partnership Marketing (Part-Time/Seasonal)",
+      "company": "Monumental Sports & Entertainment",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-08-21T08:20:32Z",
+      "url": "https://www.adzuna.com/details/5851001228?utm_medium=api&utm_source=59a3324b",
+      "salary": "$69,410",
+      "description": "Monumental Sports & Entertainment (MSE) is one of the leading integrated sports and entertainment companies globally. MSE’s portfolio spans premier professional sports teams, world-class venues, and next-generation media properties, with marquee assets including the NHL’s Washington Capitals, NBA’s Washington Wizards, WNBA’s Washington Mystics, NBA G League’s Capital City Go-Go, Capital One Arena, and Monumental Sports Network, along with an investment in Team Liquid. Rooted in the nation’s cap…",
+      "tags": [
+        "marketing",
+        "music"
+      ]
+    },
     {
       "id": "ed462b61adf0f3d9",
       "title": "Internship: Marketing (Part-Time/Seasonal)",
@@ -148,14 +196,14 @@
       ]
     },
     {
-      "id": "ad8c5e8d2bce1806",
+      "id": "bcc5bb8ee5f9d4c5",
       "title": "Marketing Coordinator",
       "company": "FranklinCovey",
       "location": "Washington, D.C., US",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-08-19T23:25:13Z",
-      "url": "https://www.adzuna.com/land/ad/5849233709?se=wIvJvVWd8RGBPduReAo1dw&utm_medium=api&utm_source=59a3324b&v=AFB22DC5106F155DA02B8096322245E9BE77500B",
+      "url": "https://www.adzuna.com/land/ad/5849233709?se=GnTr7x2e8RGSb8VpDRDiVA&utm_medium=api&utm_source=59a3324b&v=AFB22DC5106F155DA02B8096322245E9BE77500B",
       "salary": "$76,422",
       "description": "We give strategy the human edge. FranklinCovey ( NYSE: FC ) is the world's most trusted leadership and organizational performance partner that gives strategy the human edge. We help organizations achieve the breakthrough results that matter most. Using proven, principle-centered frameworks and practices, we build high-trust leaders, teams and cultures and help clients translate strategy into consistent execution. For more than 40 years, we have tested this approach with thousands of clients fro…",
       "tags": [
@@ -177,6 +225,23 @@
       "tags": [
         "brand",
         "music"
+      ]
+    },
+    {
+      "id": "be12a0abf3ced8cf",
+      "title": "Digital Marketing Associate",
+      "company": "Defender of Wildlife",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-08-19T12:14:16Z",
+      "url": "https://www.adzuna.com/land/ad/5848541778?se=BLp88h2e8RGSb8VpDRDiVA&utm_medium=api&utm_source=59a3324b&v=E78AD19B7F6FA1AEE6826B4BF6434E0B471B721B",
+      "salary": "$44,167",
+      "description": "Job Description Job Description DEFENDERS OF WILDLIFE POSITION DESCRIPTION JOB TITLE: Digital Marketing Associate SALARY: $73,000 - $80,000 FLSA: Exempt DEPARTMENT: Integrated Marketing LOCATION: Washington, DC REPORTS TO: Director of Marketing NUMBER OF DIRECT AND INDIRECT REPORT(S): 0 LAST REVISED: August 2026 POSITION SUMMARY The Digital Marketing Associate is charged with creating and managing content on Defenders’ digital marketing channels to ensure cohesive and engaging experiences for a…",
+      "tags": [
+        "marketing",
+        "digital marketing",
+        "entry-level"
       ]
     },
     {
@@ -616,14 +681,14 @@
       ]
     },
     {
-      "id": "9d47045c4902191c",
+      "id": "9b9b5560fe1d42a2",
       "title": "Digital Marketing Coordinator",
       "company": "National Motor Freight Traffic Association Inc",
       "location": "Alexandria, Alexandria City",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-08-17T11:30:56Z",
-      "url": "https://www.adzuna.com/land/ad/5845249865?se=XB1Dy1Wd8RGLv4j7pdq8Kg&utm_medium=api&utm_source=59a3324b&v=B9214F9FEA390095B0F3868CCB4CA54A39F6E8BC",
+      "url": "https://www.adzuna.com/land/ad/5845249865?se=gMsw8h2e8RGfQpohglHoaw&utm_medium=api&utm_source=59a3324b&v=B9214F9FEA390095B0F3868CCB4CA54A39F6E8BC",
       "salary": "$45,455",
       "description": "Job Description Job Description Description: The National Motor Freight Traffic Association, Inc.® (NMFTA)® is a leading non-profit organization representing the interests of motor carriers throughout North America. We are dedicated to providing our members with standards, resources, education, and advocacy on critical industry issues. About the Role: The Digital Marketing Coordinator role plays a vital role in supporting the Senior Digital Marketing Manager and achieving the strategic marketin…",
       "tags": [
@@ -649,118 +714,6 @@
       ]
     },
     {
-      "id": "1b4a9762ece41434",
-      "title": "Communications Coordinator",
-      "company": "Truth Initiative",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-08-14T14:28:18Z",
-      "url": "https://www.adzuna.com/details/5842111723?utm_medium=api&utm_source=59a3324b",
-      "salary": "$64,471",
-      "description": "JOB SUMMARY: The Communications Coordinator supports the daily operations of the communications team responsible for advancing Truth Initiative’s mission through strategic communications. Designed for an early-career professional looking to build a strong foundation in communications, this role provides hands-on, cross-functional experience across key disciplines, including media affairs, editorial content, social media, internal communications, and digital strategy. Working under the guidance …",
-      "tags": [
-        "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "e5dc3eecd16b6bdb",
-      "title": "Marketing Assistant",
-      "company": "BeloForm Craft",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-08-14T03:02:36Z",
-      "url": "https://www.adzuna.com/details/5841470922?utm_medium=api&utm_source=59a3324b",
-      "salary": "$43,845",
-      "description": "Job Description Beloform Craft is seeking a Marketing Assistant to support our day-to-day marketing and promotional initiatives. This position is ideal for someone who is organized, communicative, creative, and interested in developing a career in marketing. You will work closely with our team to coordinate campaigns, support promotional activities, assist with customer and market engagement, and help ensure that marketing initiatives are executed professionally and effectively. We provide a co…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "15aa7e03fca9e3da",
-      "title": "Marketing Strategy Coordinator",
-      "company": "Dinamic AS Group",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-08-14T03:02:35Z",
-      "url": "https://www.adzuna.com/details/5841470842?utm_medium=api&utm_source=59a3324b",
-      "salary": "$60,074",
-      "description": "Job Description Dinamic AS Group is seeking a motivated and organized Marketing Strategy Coordinator to join our team in Washington, DC . In this role, you will support the planning, coordination, and execution of marketing initiatives designed to increase brand awareness, strengthen customer engagement, and support company objectives. This position is ideal for someone who enjoys combining creativity with organization and strategic thinking. You will collaborate with different members of the t…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "db6373d37a2d170b",
-      "title": "Entry Level Marketing Associate",
-      "company": "Limitless East Marketing",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-08-14T03:02:27Z",
-      "url": "https://www.adzuna.com/details/5841470198?utm_medium=api&utm_source=59a3324b",
-      "salary": "$49,919",
-      "description": "Job Description Job Description: We are seeking a dynamic and motivated Entry Level Marketing Associate to join our growing marketing team. This role is perfect for recent graduates or individuals looking to start their career in marketing. As an Entry Level Marketing Associate, you will play a vital role in supporting the development and execution of marketing campaigns that promote our brand and drive business growth. Responsibilities: Assist in the development and execution of marketing camp…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "f53074d3945e37eb",
-      "title": "Marketing Coordinator",
-      "company": "Swift7 Consultants",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-08-14T03:02:26Z",
-      "url": "https://www.adzuna.com/details/5841470045?utm_medium=api&utm_source=59a3324b",
-      "salary": "$54,874",
-      "description": "Job Description Swift 7 Consultants is seeking a motivated and detail-oriented Marketing Coordinator to join our team in Washington, DC . In this role, you will support the planning, coordination, and execution of marketing initiatives while working closely with team members across different projects. The ideal candidate is organized, communicative, adaptable, and excited to contribute ideas in a fast-paced professional environment. This position provides an excellent opportunity to strengthen …",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "254130cdf0b1eaf5",
-      "title": "Entry Level Communications Associate",
-      "company": "Limitless East Marketing",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-08-14T03:02:26Z",
-      "url": "https://www.adzuna.com/details/5841470059?utm_medium=api&utm_source=59a3324b",
-      "salary": "$48,077",
-      "description": "Job Description Job Description: We are seeking a motivated and enthusiastic Entry Level Communications Associate to join our dynamic team. This role is ideal for recent graduates or individuals beginning their career in communications who are eager to develop their skills in a fast-paced, collaborative environment. The Communications Associate will play a vital role in supporting the company's internal and external communications strategies, contributing to content creation, social media manag…",
-      "tags": [
-        "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "b6e8aca44fef4490",
-      "title": "Executive Assistant - Global Communications",
-      "company": "Spotify",
-      "location": "New York, NY",
-      "remote": "hybrid",
-      "source": "Lever",
-      "datePosted": "2026-08-13T18:37:18.329Z",
-      "url": "https://jobs.lever.co/spotify/821b8323-784b-4a6b-9394-38d14fc989e7",
-      "salary": null,
-      "description": "Spotify is hiring an Executive Assistant to support our two Co-Heads of Global Communications. You’ll play a central role in keeping two highly visible leaders and the wider Communications team moving in the right direction—across priorities, meetings, projects, and time zones.\nThe best candidate is endlessly curious about Spotify and the artists, creators, and authors we serve: how music, podcasts, audiobooks, advertising, and product fit together, and why each decision matters. The better you understand the business, the sharper your judgment about priorities and opportunities to improve the Spotify Comms machine.\n",
-      "tags": [
-        "communications",
-        "music"
-      ]
-    },
-    {
       "id": "9f46d46167d59102",
       "title": "Manager, Sports Content Marketing & Partnerships",
       "company": "SiriusXM",
@@ -773,38 +726,6 @@
       "description": "Who We Are: \nSiriusXM and its brands (Pandora, SiriusXM Media, AdsWizz, Simplecast, and SiriusXM Connect) are leading a new era of audio entertainment and services by delivering the most compelling subscription and ad-supported audio entertainment experience for listeners -- in the car, at home, and anywhere on the go with connected devices. Our vision is to shape the future of audio, where everyone can be effortlessly connected to the voices, stories and music they love wherever they are.\n \nThis is the place where a diverse group of emerging talent and legends alike come to share authentic and purposeful songs, stories, sounds and insights through some of the best programming and technology in the world. Our critically acclaimed, industry-leading audio entertainment encompasses music, sports, comedy, news, talk, live events, and podcasting. No matter their individual role, each of our employees plays a vital part in bringing SiriusXM’s vision to life every day.\n \n SiriusXM is the leading audio entertainment company in North America, and the premier programmer and platform for subscription and digital advertising-supported audio products. SiriusXM’s platforms collectively reach approximately 150 million listeners, the largest digital audio audience across paid and free tiers in North America, and deliver music, sports, talk, news, comedy, entertainment and podcasts. Pandora, a subsidiary of SiriusXM, is the largest ad-supported audio entertainment streaming service in the U.S. SiriusXM's subsidiaries Simplecast and AdsWizz make it a leader in podcast hosting, production, distribution, analytics and monetization. The Company’s advertising sales organization, which operates as SiriusXM Media, leverages its scale, cross-platform sales organization and ad tech capabilities to deliver results for audio creators and advertisers. SiriusXM, through SiriusXM Canada Holdings, Inc., also offers satellite radio and audio entertainment in Canada. In addition to its audio entertainment businesses, SiriusXM offers connected vehicle services to automakers.\n \n How You’ll Make an Impact :\n The Manager, Sports Content Marketing & Partnerships will lead the development and execution of strategic marketing materials and initiatives that elevate SiriusXM's sports portfolio, drive audience engagement, strengthen league, team and talent partnerships, and support key business objectives. This role will help shape the marketing strategy across SiriusXM's sports properties while driving cross-functional alignment and operational excellence. This position requires an efficient, well-organized strategic marketer, relationship builder, and strong communicator with experience managing high-profile partnerships, developing compelling narratives, influencing stakeholders, and bringing integrated marketing campaigns to life. As a senior individual contributor, this role independently leads complex campaigns, partner activations, and cross-functional workstreams, exercising judgment to resolve ambiguity, recommend tradeoffs, and deliver measurable audience and business outcomes.\n \n What You’ll Do \n Develop integrated marketing strategies for key sports programming initiatives, tentpole events, channel launches, original content, and partnership opportunities.\n Partner closely with Sports Programming leadership to identify marketing opportunities that drive listening, engagement, subscriber value, and audience growth.\n Lead partner and talent marketing relationships across assigned sports properties, serving as the primary point of contact for leagues, teams, media partners, talent representatives, agencies, and other key stakeholders.\n Lead cross-functional planning across CRM, App Marketing, Social, Performance Marketing, Creative, PR, Events, Brand, Sales, and Product teams to ensure successful campaign execution.\n Create presentations, strategic recommendations, and marketing narratives that clearly communicate objectives, opportunities, results, and business impact.\n Own creative strategy and development from brief through execution, including campaign positioning, messaging frameworks, creative feedback, and go-to-market planning for major sports initiatives.\n Independently determine campaign approaches, sequencing, and stakeholder tradeoffs for complex assignments, escalating only when business risk or contractual exposure requires leadership input.\n Identify and champion innovative marketing opportunities that elevate SiriusXM's sports brands, deepen fan engagement, and create value for partners and stakeholders.\n Support marketing strategy and partnership activation efforts across current sports properties and emerging strategic partnerships.\n Analyze campaign, audience, and engagement performance to identify insights, inform future strategy, and communicate recommendations to leadership.\n Define and track success measures for assigned initiatives, including listening, engagement, audience growth, subscriber value, partner satisfaction, and campaign performance.\n Stay ahead of industry trends across sports, media, audio, streaming, social platforms, and fan engagement to identify opportunities that strengthen SiriusXM's competitive position.\n Serve as a trusted representative of the Sports Marketing & Partnerships team in meetings with external partners and internal cross-functional stakeholders.\n Track fulfillment of contractual marketing obligations across partnerships and ensure successful execution against agreed-upon commitments.\n Partner closely with Legal, Business Affairs, and external stakeholders to streamline contract approvals, navigate rights restrictions, and ensure compliant execution across campaigns, talent integrations, and partnership activations.\n Lead programs, campaigns, partner relationships, and cross-functional workstreams through influence; this role does not include formal people-management responsibility.\n Travel as needed to support events, activations, and onsite program execution.\n \n What You’ll Need: \n Typically requires a minimum of 5 years of related experience with a Bachelor’s degree; or 4 years and a Master’s degree; or a PhD with 3 years experience; or equivalent experience.\n Experience in partnerships, partner management or content/digital marketing.\n Experience managing high-profile partnerships, talent relationships, sponsorships, or sports properties.\n Exceptional written and verbal communication skills with the ability to craft compelling narratives and present recommendations to executive audiences.\n Strong strategic thinking and problem-solving skills with the ability to translate business objectives into actionable marketing plans.\n Demonstrated ability to influence cross-functional teams and drive alignment among multiple stakeholders.\n Demonstrated ability to independently resolve complex, ambiguous issues and recommend practical tradeoffs with limited supervision.\n Experience developing presentations, marketing strategies, business cases, and performance recaps.\n Experience reviewing partnership agreements, sponsorship contracts, talent agreements, or media rights deals with a strong understanding of marketing rights and obligations.\n Advanced proficiency in Microsoft PowerPoint, Excel, and Word.\n Proficiency in Adobe Creative Suite, including Adobe Acrobat, Photoshop, Illustrator, and InDesign is a plus.\n Experience using project management and collaboration tools such as Airtable, Monday.com, Asana, Wrike, or similar platforms.\n Strong familiarity with SiriusXM's sports content and talent.\n Excellent time management and project management skills, with the ability to prioritize and multi-task, and work under shifting deadlines in a fast-paced environment.\n Fast learner with strong attention to detail; proactive, self-motivated, and resourceful.\n Both a proactive team player and independent worker.\n Flexible and maintains a positive attitude when under pressure and deadlines.\n Deep knowledge/interest in sports.\n Must have legal right to work in the U.S.\n \n At SiriusXM, we carefully consider a wide range of factors when determining compensation, including your background and experience. These considerations can cause your compensation to vary. We expect the base salary for this position to be in the range of $80,000 and $110,000 and will depend on\n your skills, qualifications, and experience. Additionally, this role might be eligible for discretionary short term and long-term incentives. We encourage all interested candidates to apply.\n \n Our goal at SiriusXM is to provide and maintain a work environment that fosters mutual respect, professionalism and cooperation. SiriusXM is an equal opportunity employer that does not discriminate on the basis of actual or perceived race, creed, color, religion, national origin, ancestry, alienage or citizenship status, age, disability or handicap, sex, gender identity, marital status, familial status, veteran status, sexual orientation or any other characteristic protected by applicable federal, state or local laws.\n \n The requirements and duties described above may be modified or waived by the Company in its sole\n discretion without notice.\n R-2026-07-112",
       "tags": [
         "content",
-        "marketing",
-        "music"
-      ]
-    },
-    {
-      "id": "f56be832245b69d9",
-      "title": "Senior Director, Partner Marketing",
-      "company": "SiriusXM",
-      "location": "New York, United States",
-      "remote": "onsite",
-      "source": "Jibe",
-      "datePosted": "2026-07-24T13:48:00.000Z",
-      "url": "https://uscareers-siriusxmradio.icims.com/jobs/17542/login",
-      "salary": null,
-      "description": "Who We Are: \n SiriusXM and its brands (Pandora, SiriusXM Media, AdsWizz, Simplecast, and SiriusXM Connect) are leading a new era of audio entertainment and services by delivering the most compelling subscription and ad-supported audio entertainment experience for listeners -- in the car, at home, and anywhere on the go with connected devices. Our vision is to shape the future of audio, where everyone can be effortlessly connected to the voices, stories and music they love wherever they are.\n \n This is the place where a diverse group of emerging talent and legends alike come to share authentic and purposeful songs, stories, sounds and insights through some of the best programming and technology in the world. Our critically-acclaimed, industry-leading audio entertainment encompasses music, sports, comedy, news, talk, live events, and podcasting. No matter their individual role, each of our employees plays a vital part in bringing SiriusXM’s vision to life every day.\n \n SiriusXM  is the leading audio entertainment company in North America, and the premier programmer and platform for subscription and digital advertising-supported audio products. SiriusXM’s platforms collectively reach approximately 150 million listeners, the largest digital audio audience across paid and free tiers in North America, and deliver music, sports, talk, news, comedy, entertainment and podcasts. Pandora, a subsidiary of SiriusXM, is the largest ad-supported audio entertainment streaming service in the U.S. SiriusXM's subsidiaries Simplecast and AdsWizz make it a leader in podcast hosting, production, distribution, analytics and monetization. The Company’s advertising sales organization, which operates as SiriusXM Media, leverages its scale, cross-platform sales organization and ad tech capabilities to deliver results for audio creators and advertisers. SiriusXM, through SiriusXM Canada Holdings, Inc., also offers satellite radio and audio entertainment in Canada. In addition to its audio entertainment businesses, SiriusXM offers connected vehicle services to automakers.\n \n Pandora , a subsidiary of SiriusXM, is the largest ad-supported audio entertainment streaming service in the U.S. Pandora provides consumers with a uniquely-personalized music and podcast listening experience with its proprietary Music Genome Project® and Podcast Genome Project® technology. Pandora is available through its mobile app, the web, and integrations with more than 2,000 connected products. \n \n How you’ll make an impact: \n We are seeking a visionary and results-driven Senior Director, Partner Marketing to spearhead the integrated development and execution of our enterprise-defining Partnership Marketing strategy for a multi-product portfolio. This role requires an expert strategist capable of setting multi-year priorities, architecting marketing channel frameworks, and driving significant company-level demand generation and brand impact. You will be the executive escalation owner for complex channel and partner growth challenges, leading decisions on channel conflict, partner economics, brand risk, and capacity trade-offs. As the enterprise standard-setter for Partnership Marketing, you are recognized internally and with key partners as the subject-matter expert who defines best practices, architects scalable operating models, and shapes executive decisions.  This is an individual contributor role. \n \n What you’ll do: \n Own the multi-year Partnership Marketing strategy, investment thesis, and channel marketing architecture to align with overall company objectives and maximize marketing efficiency.\n D esign, implement, and manage the partner portfolio strategy, focusing on partner tiers, joint business planning, high-impact co-marketing campaigns, and distribution plays. Ensure sustained value capture and marketing alignment through QBRs/EBRs and executive steering committees.\n Lead marketing performance analysis, establish a scalable measurement and optimization strategy for all partner channels. Define KPI frameworks (partner-sourced revenue, retention impact, Marketing ROI) and govern experimentation to accelerate data-driven marketing decisions.\n Drive the marketing rollout for all partner launches and joint Go-to-Market (GTM) programs, developing partner-specific value propositions, messaging, and collateral, and maintaining accountability for measurable outcomes.\n Draft and submit detailed creative briefs to internal design and production teams, ensuring all assets are aligned with partner requirements, campaign objectives, and format specifications.\n Lead the cross-functional review and approval workflow for all creative assets, collaborating with Legal, Programming, and Brand teams to ensure adherence to compliance guidelines and brand integrity.\n Diagnose partner underperformance, lead corrective actions, and evolve operating models. Develop and operationalize leading-edge approaches, playbooks, and major new tools (e.g., partner economics models, launch-readiness frameworks) to elevate the entire partner marketing practice.\n Establish and continuously evolve the enterprise partner/channel marketing operating model, governance cadence, and decision frameworks (e.g., partner economics, capacity trade-offs, channel conflict resolution) adopted across the company. \n Mentor and upskill senior marketers, cross-functional leaders, and partner stakeholders by codifying playbooks, coaching on complex trade-offs, and serving as the escalation point for the toughest partner growth challenges. \n \n What you’ll need: \n Typically requires a minimum of 15 years of related experience with a Bachelor’s degree; or 10 years and a Master’s degree; or a PhD with 8 years experience; or equivalent experience. Demonstrated success leading enterprise channel/partner marketing initiatives with sustained ownership of high-stakes strategy and investment decisions.\n Deep expertise in partner ecosystems and channel strategy, including designing operating models that scale and deliver measurable growth.\n Exceptional analytical and financial acumen, with the ability to set KPI frameworks, evaluate measurement trade-offs, and drive budget allocation with a clear focus on maximizing Marketing Return on Investment (ROI).\n Proven ability to build and influence formal cross-functional networks across Sales, Marketing, Product, Analytics, Finance, and Legal/Privacy without direct authority. Demonstrated ability to mentor senior stakeholders and enable teams across the organization through coaching, playbooks, and consultative leadership. \n Track record of confidently owning ambiguous, high-stakes decisions with material business impact, including risk identification and mitigation planning.\n Communication: Executive-level written and verbal communication excellence, capable of crafting clear narratives and trade-off recommendations for senior leadership and external partner executives.\n Proficiency in Microsoft Office Suite (Excel, PowerPoint, Outlook) and preferred skills in Monday.com, Tableau, Branch, and/or Canva.\n Experience with automation and/or AI tools such as chatGPT, Gemini, etc. \n Must have legal right to work in the U.S.\n \n At SiriusXM, we carefully consider a wide range of factors when determining compensation, including your background and experience. These considerations can cause your compensation to vary. We expect the base salary for this position to be in the range of $174,000 - $183,000   and will depend on your skills, qualifications, and experience. Additionally, this role might be eligible for discretionary short-term and long-term incentives. We encourage all interested candidates to apply. \n \n Our goal at SiriusXM is to provide and maintain a work environment that fosters mutual respect, professionalism and cooperation. SiriusXM is an equal opportunity employer that does not discriminate on the basis of actual or perceived race, creed, color, religion, national origin, ancestry, alienage or citizenship status, age, disability or handicap, sex, gender identity, marital status, familial status, veteran status, sexual orientation or any other characteristic protected by applicable federal, state or local laws.\n \n The requirements and duties described above may be modified or waived by the Company in its sole discretion without notice.\n \n #LI-KC1\n\n R-2026-06-11",
-      "tags": [
-        "marketing",
-        "music"
-      ]
-    },
-    {
-      "id": "2c45364105f4acdf",
-      "title": "Part Time Merchandising & Partner Marketing Assistant",
-      "company": "SiriusXM",
-      "location": "New York, United States",
-      "remote": "onsite",
-      "source": "Jibe",
-      "datePosted": "2026-07-20T20:46:00.000Z",
-      "url": "https://uscareers-siriusxmradio.icims.com/jobs/17538/login",
-      "salary": null,
-      "description": "Who We Are: \n SiriusXM and its brands (Pandora, SiriusXM Media, AdsWizz, Simplecast, and SiriusXM Connect) are leading a new era of audio entertainment and services by delivering the most compelling subscription and ad-supported audio entertainment experience for listeners -- in the car, at home, and anywhere on the go with connected devices. Our vision is to shape the future of audio, where everyone can be effortlessly connected to the voices, stories and music they love wherever they are.\n \n This is the place where a diverse group of emerging talent and legends alike come to share authentic and purposeful songs, stories, sounds and insights through some of the best programming and technology in the world. Our critically-acclaimed, industry-leading audio entertainment encompasses music, sports, comedy, news, talk, live events, and podcasting. No matter their individual role, each of our employees plays a vital part in bringing SiriusXM’s vision to life every day.\n \n SiriusXM is the leading audio entertainment company in North America, and the premier programmer and platform for subscription and digital advertising-supported audio products. SiriusXM’s platforms collectively reach approximately 150 million listeners, the largest digital audio audience across paid and free tiers in North America, and deliver music, sports, talk, news, comedy, entertainment and podcasts. Pandora, a subsidiary of SiriusXM, is the largest ad-supported audio entertainment streaming service in the U.S. SiriusXM's subsidiaries Simplecast and AdsWizz make it a leader in podcast hosting, production, distribution, analytics and monetization. The Company’s advertising sales organization, which operates as SiriusXM Media, leverages its scale, cross-platform sales organization and ad tech capabilities to deliver results for audio creators and advertisers. SiriusXM, through SiriusXM Canada Holdings, Inc., also offers satellite radio and audio entertainment in Canada. In addition to its audio entertainment businesses, SiriusXM offers connected vehicle services to automakers. \n \n How You'll Make an Impact: \n Working approximately 20 hours per week, you will support SiriusXM’s merchandising, ecommerce, and partner marketing initiatives through creative coordination, customer service, and operational support. Under close supervision, you will help ensure marketing assets, merchandise fulfillment activities, and customer inquiries are managed efficiently to support fan engagement and brand visibility.\n \n You will assist in partnering with internal teams, external creative agencies, and fulfillment partners to help execute merchandising and marketing initiatives while maintaining a positive customer experience across SiriusXM ecommerce stores.\n \n What You’ll Do: \n Support partner marketing campaigns, merchandising initiatives, and promotional programs through routine project coordination and administrative support.\n Submit and manage creative tickets and asset requests for email, social media, ecommerce, promotional campaigns, and merchandising initiatives, following documented procedures.\n Coordinate with internal stakeholders and external creative agencies (including Fusion) to route requests, track status, and communicate updates to the lead/owner.\n Assist with the creation and delivery of email graphics, social media assets, hero banners, promotional campaign materials, and merchandise creative/artwork by gathering inputs and ensuring files are organized for review.\n Help maintain marketing calendars, campaign timelines, launch schedules, and creative deliverables by updating trackers and reminders.\n Track creative requests, revisions, approvals, and final asset delivery, escalating delays or unclear requirements to your manager.\n Organize and maintain partner asset decks, campaign documentation, creative files, and reporting materials.\n Assist with presentations, campaign recaps, and operational reporting as needed.\n Provide customer service support across SiriusXM ecommerce storefronts, responding to inquiries related to orders, shipping, returns, exchanges, and product questions, using standard templates and policies.\n Process customer orders, refunds, replacements, and returns in a timely and professional manner, escalating exceptions.\n Track merchandise shipments sent to hosts, talent, venues, partners, and live events.\n Maintain shipment tracking logs, delivery confirmations, and fulfillment records.\n Escalate customer service issues when appropriate and log recurring themes that may impact the fan experience.\n \n What you'll need: \n High school diploma required; coursework or degree progress in Marketing, Business, Communications, Merchandising, or a related field is a plus.\n Previous experience (e.g., internships, part-time roles, campus orgs, or customer service) is a plus, but not required.\n Strong organizational skills and attention to detail.\n Excellent written and verbal communication skills.\n Ability to manage multiple tasks and meet deadlines in a fast-paced environment, with guidance from your manager.\n Experience working with creative teams, agencies, or vendors is a plus.\n Familiarity with ecommerce platforms such as Shopify, WooCommerce, or similar systems is preferred.\n Proficiency in Microsoft Office Suite, particularly Excel, PowerPoint, and Outlook.\n Familiarity with Monday.com, Canva, Tableau, or Branch is a plus.\n Interest in digital marketing, merchandising, ecommerce, and fan engagement.\n Experience with automation and/or AI tools such as chatGPT, Gemini, etc.\n Must have legal right to work in the U.S.\n \n At SiriusXM, we carefully consider a wide range of factors when determining compensation, including your background and experience. These considerations can cause your compensation to vary. We expect the base salary for this position to be $20/hour and will depend on your skills, qualifications, and experience. Additionally, this role might be eligible for discretionary short-term and long-term incentives. We encourage all interested candidates to apply.\n \n Our goal at SiriusXM is to provide and maintain a work environment that fosters mutual respect, professionalism and cooperation. SiriusXM is an equal opportunity employer that does not discriminate on the basis of actual or perceived race, creed, color, religion, national origin, ancestry, alienage or citizenship status, age, disability or handicap, sex, gender identity, marital status, familial status, veteran status, sexual orientation or any other characteristic protected by applicable federal, state or local laws.\n \n The requirements and duties described above may be modified or waived by the Company in its sole discretion without notice.\n R-2026-06-21",
-      "tags": [
         "marketing",
         "music"
       ]
