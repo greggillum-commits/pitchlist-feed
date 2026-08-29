@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-28T21:26:28.717Z",
+  "generatedAt": "2026-08-29T15:39:33.176Z",
   "jobs": [
+    {
+      "id": "6a782d6ce4d62c70",
+      "title": "Public Relations Assistant – Entry Level",
+      "company": "HHV",
+      "location": "Cameron Station, Alexandria City",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-08-29T01:46:08Z",
+      "url": "https://www.adzuna.com/details/5860779806?utm_medium=api&utm_source=59a3324b",
+      "salary": "$56,528",
+      "description": "We’re looking for an enthusiastic Public Relations Assistant to join our growing team. This is an entry-level opportunity with paid training , making it a great fit for recent graduates, career changers, and motivated individuals looking to build experience in public relations, communications, marketing, community outreach, and events . No prior PR experience is required. We’re looking for someone who is professional, personable, dependable, eager to learn, and comfortable communicating with pe…",
+      "tags": [
+        "public relations",
+        "entry-level"
+      ]
+    },
     {
       "id": "d9fe9c539fa77125",
       "title": "Brand Marketing Coordinator",
@@ -19,14 +35,31 @@
       ]
     },
     {
-      "id": "d755a7a1708da832",
+      "id": "755389a738357c26",
+      "title": "Assistant, Corporate Social Media (Part-Time/Seasonal)",
+      "company": "Monumental Sports & Entertainment",
+      "location": "Rosslyn, Arlington County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-08-28T04:19:05Z",
+      "url": "https://www.adzuna.com/details/5859495932?utm_medium=api&utm_source=59a3324b",
+      "salary": "$41,600 – $47,840",
+      "description": "Monumental Sports & Entertainment (MSE) is one of the leading integrated sports and entertainment companies globally. MSE’s portfolio spans premier professional sports teams, world-class venues, and next-generation media properties, with marquee assets including the NHL’s Washington Capitals, NBA’s Washington Wizards, WNBA’s Washington Mystics, NBA G League’s Capital City Go-Go, Capital One Arena, and Monumental Sports Network, along with an investment in Team Liquid. Rooted in the nation’s cap…",
+      "tags": [
+        "social media",
+        "music",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "b32b625391f0e72c",
       "title": "Strategic Communications Coordinator with Security Clearance",
       "company": "ICF Consulting Group, Inc.",
       "location": "State Farm, Arlington County",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-08-27T23:54:16Z",
-      "url": "https://www.adzuna.com/land/ad/5859235742?se=VCC1HSej8RGxSf1iGXKoQA&utm_medium=api&utm_source=59a3324b&v=4AC3364CD0B9D8F2823620CFDC40069D6CA9CBF3",
+      "url": "https://www.adzuna.com/land/ad/5859235742?se=XBD40L-j8RGcfKYe_cIpvA&utm_medium=api&utm_source=59a3324b&v=4AC3364CD0B9D8F2823620CFDC40069D6CA9CBF3",
       "salary": "$95,718",
       "description": "Description Strategic Communications Specialist @ ICF Next, we are fearless in finding new ways to solve problems, relentless in making sure it pays off for our clients and committed to making a positive change in the world. Here's your chance to join our award-winning agency, ICF Next. We're changemakers, a community of mission driven creatives, communicators, strategists, and technologists. We're searching for our nextStrategic Communications Specialist.This role requires a strategic communic…",
       "tags": [
@@ -532,39 +565,6 @@
       "tags": [
         "communications",
         "music"
-      ]
-    },
-    {
-      "id": "a797176752e9791b",
-      "title": "Game Night Staff: Partnership Marketing (Part-Time/Seasonal)",
-      "company": "Monumental Sports & Entertainment",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-08-21T08:20:32Z",
-      "url": "https://www.adzuna.com/details/5851001228?utm_medium=api&utm_source=59a3324b",
-      "salary": "$69,410",
-      "description": "Monumental Sports & Entertainment (MSE) is one of the leading integrated sports and entertainment companies globally. MSE’s portfolio spans premier professional sports teams, world-class venues, and next-generation media properties, with marquee assets including the NHL’s Washington Capitals, NBA’s Washington Wizards, WNBA’s Washington Mystics, NBA G League’s Capital City Go-Go, Capital One Arena, and Monumental Sports Network, along with an investment in Team Liquid. Rooted in the nation’s cap…",
-      "tags": [
-        "marketing",
-        "music"
-      ]
-    },
-    {
-      "id": "eb0d4eaa911a009a",
-      "title": "Digital Marketing Associate",
-      "company": "Defender of Wildlife",
-      "location": "Washington, D.C., US",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-08-21T01:14:10Z",
-      "url": "https://www.adzuna.com/details/5850572430?utm_medium=api&utm_source=59a3324b",
-      "salary": "$73,000 – $80,000",
-      "description": "DEFENDERS OF WILDLIFE POSITION DESCRIPTION JOB TITLE: Digital Marketing Associate SALARY: $73,000 - $80,000 FLSA: Exempt DEPARTMENT: Integrated Marketing LOCATION: Washington, DC REPORTS TO: Director of Marketing NUMBER OF DIRECT AND INDIRECT REPORT(S): 0 LAST REVISED: August 2026 POSITION SUMMARY The Digital Marketing Associate is charged with creating and managing content on Defenders’ digital marketing channels to ensure cohesive and engaging experiences for all audiences via Defenders’ webs…",
-      "tags": [
-        "marketing",
-        "digital marketing",
-        "entry-level"
       ]
     },
     {
