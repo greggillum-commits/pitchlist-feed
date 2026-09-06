@@ -1,6 +1,70 @@
 {
-  "generatedAt": "2026-09-05T13:53:02.313Z",
+  "generatedAt": "2026-09-06T14:12:55.453Z",
   "jobs": [
+    {
+      "id": "f721512f73e7a502",
+      "title": "Communications Associate (R5514)",
+      "company": "Shield AI",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-09-06T10:03:57Z",
+      "url": "https://www.adzuna.com/details/5873087988?utm_medium=api&utm_source=59a3324b",
+      "salary": "$76,000 – $110,000",
+      "description": "Shield AI is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include Hivemind autonomy software, V-BAT and X-BAT aircraft, and Aechelon simulation and synthetic reality technologies. With offices and facilities across the U.S., Europe, the Middle East, and Asia-Pacific, Shield AI’s technology actively supports operations worldwide. For more information, visit www.shield.ai . Follow Shield AI on LinkedIn , …",
+      "tags": [
+        "communications",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "2214bad101c56dc8",
+      "title": "Social Media Coordinator",
+      "company": "Xpect Solutions",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-09-06T09:56:40Z",
+      "url": "https://www.adzuna.com/details/5873086945?utm_medium=api&utm_source=59a3324b",
+      "salary": "$57,710",
+      "description": "Company Overview XPECT Solutions, LLC has built a strong reputation by supporting our clients in meeting their strategic goals and mission objectives. We provide high quality resources for a wide range of IT and security solutions at best-value pricing. Our success is built on a solid foundation of well-vetted, highly technical personnel, a disciplined project management approach, and an overarching commitment to customer service. We develop, test, deploy, and support exceptional solutions that…",
+      "tags": [
+        "social media",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "19a3d776474bc614",
+      "title": "Entry-Level Marketing & Sales Representative – Immediate Hire – Paid Training",
+      "company": "GEM Global Events",
+      "location": "Cameron Station, Alexandria City",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-09-06T03:34:17Z",
+      "url": "https://www.adzuna.com/details/5872850049?utm_medium=api&utm_source=59a3324b",
+      "salary": "$55,117",
+      "description": "Full-Time | Entry Level | Paid Training | Marketing | Sales | Career Growth We are a fast-growing marketing, advertising, and consulting firm that partners with leading brands and organizations to build brand awareness, connect with customers, and drive growth. Due to continued expansion and new client partnerships, we are hiring Entry-Level Marketing Representatives, Sales Representatives, Customer Service Representatives, and Event Marketing Representatives to join our growing team. No previo…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "d54b65076cd150b9",
+      "title": "Senior Manager, Lifecycle Marketing",
+      "company": "Monumental Sports & Entertainment",
+      "location": "Rosslyn, Arlington County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-09-06T00:36:15Z",
+      "url": "https://www.adzuna.com/details/5872734049?utm_medium=api&utm_source=59a3324b",
+      "salary": "$80,000 – $90,000",
+      "description": "Monumental Sports & Entertainment (MSE) is one of the leading integrated sports and entertainment companies globally. MSE’s portfolio spans premier professional sports teams, world-class venues, and next-generation media properties, with marquee assets including the NHL’s Washington Capitals, NBA’s Washington Wizards, WNBA’s Washington Mystics, NBA G League’s Capital City Go-Go, Capital One Arena, and Monumental Sports Network, along with an investment in Team Liquid. Rooted in the nation’s cap…",
+      "tags": [
+        "marketing",
+        "music"
+      ]
+    },
     {
       "id": "0a5511baa12ca537",
       "title": "Marketing Coordinator",
@@ -547,22 +611,6 @@
       "description": "Work Where You Learn: Build Experience, Grow Skills, and Contribute to Your University Community. This position is available only to enrolled American University students. Most student positions at American University are eligible to use Federal Work Study (FWS) awards, with a few exceptions. FWS funds cannot be applied to janitorial, construction, partisan or sectarian positions. For information or questions regarding FWS funds, please contact American University's Office of Financial Aid. Imp…",
       "tags": [
         "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "6a782d6ce4d62c70",
-      "title": "Public Relations Assistant – Entry Level",
-      "company": "HHV",
-      "location": "Cameron Station, Alexandria City",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-08-29T01:46:08Z",
-      "url": "https://www.adzuna.com/details/5860779806?utm_medium=api&utm_source=59a3324b",
-      "salary": "$56,528",
-      "description": "We’re looking for an enthusiastic Public Relations Assistant to join our growing team. This is an entry-level opportunity with paid training , making it a great fit for recent graduates, career changers, and motivated individuals looking to build experience in public relations, communications, marketing, community outreach, and events . No prior PR experience is required. We’re looking for someone who is professional, personable, dependable, eager to learn, and comfortable communicating with pe…",
-      "tags": [
-        "public relations",
         "entry-level"
       ]
     },
