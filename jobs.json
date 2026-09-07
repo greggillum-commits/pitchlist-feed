@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T14:12:55.453Z",
+  "generatedAt": "2026-09-07T16:30:01.001Z",
   "jobs": [
     {
       "id": "f721512f73e7a502",
@@ -551,22 +551,6 @@
       ]
     },
     {
-      "id": "3efcf4065cd2a4ca",
-      "title": "Marketing Coordinator",
-      "company": "Myrtle Beach Pelicans",
-      "location": "Rosslyn, Arlington County",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-08-31T07:49:52Z",
-      "url": "https://www.adzuna.com/details/5862919876?utm_medium=api&utm_source=59a3324b",
-      "salary": "$44,314",
-      "description": "Position Description The Myrtle Beach Pelicans are hiring a full-time position to assist in the fan engagement department. This position will play a vital role within the organization, working on different types of projects from conception through final execution. The successful candidate needs to be high-energy, self-motivated, and ready to work in a collaborative environment. This is an ideal position for a motivated professional looking to contribute to a high-performing team, engage with fa…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
       "id": "a187b68ed0fc5d00",
       "title": "Remote Tourism and Marketing Coordinator",
       "company": "Fran's ExploreMore Travel",
@@ -595,22 +579,6 @@
       "description": "We are seeking a detail-oriented, creative, and customer-focused Remote Hospitality and Marketing Coordinator to join our growing team. In this role, you will assist with coordinating travel and hospitality experiences while supporting marketing initiatives designed to promote destinations, accommodations, and vacation experiences. You will communicate with clients, research travel options, coordinate reservation details, and assist with digital content and promotional efforts. This position is…",
       "tags": [
         "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "c0133798ca8b9c0b",
-      "title": "Athletics Communications Assistant (Student) (FWS)",
-      "company": "American University",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-08-30T02:29:15Z",
-      "url": "https://www.adzuna.com/details/5861976326?utm_medium=api&utm_source=59a3324b",
-      "salary": "$38,272 – $40,560",
-      "description": "Work Where You Learn: Build Experience, Grow Skills, and Contribute to Your University Community. This position is available only to enrolled American University students. Most student positions at American University are eligible to use Federal Work Study (FWS) awards, with a few exceptions. FWS funds cannot be applied to janitorial, construction, partisan or sectarian positions. For information or questions regarding FWS funds, please contact American University's Office of Financial Aid. Imp…",
-      "tags": [
-        "communications",
         "entry-level"
       ]
     },
