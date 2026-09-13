@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-09-12T14:11:28.489Z",
+  "generatedAt": "2026-09-13T14:55:54.632Z",
   "jobs": [
+    {
+      "id": "3b5b0906d6e2521a",
+      "title": "Communications Fellow - Asia Pacific Field Office Deployment",
+      "company": "International Justice Mission",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-09-13T04:10:24Z",
+      "url": "https://www.adzuna.com/details/5882399214?utm_medium=api&utm_source=59a3324b",
+      "salary": "$85,185",
+      "description": "Who We Are International Justice Mission (IJM) is the global leader in protecting vulnerable people from violence around the world. Our team of over 1,200 professionals are at work worldwide in over 30 offices. Together we are on a mission to rescue millions, protect half a billion, and make justice unstoppable. We are a global community that cares for one another. We believe that the way we work is as important as the results we achieve. We provide professional excellence with joy and celebrat…",
+      "tags": [
+        "communications",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "0a80ed3bf28385fb",
+      "title": "Marketing and Communication Assistant (Student)",
+      "company": "American University",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-09-13T00:57:58Z",
+      "url": "https://www.adzuna.com/details/5882230891?utm_medium=api&utm_source=59a3324b",
+      "salary": "$38,272",
+      "description": "Work Where You Learn: Build Experience, Grow Skills, and Contribute to Your University Community. This position is available only to enrolled American University students. Most student positions at American University are eligible to use Federal Work Study (FWS) awards, with a few exceptions. FWS funds cannot be applied to janitorial, construction, partisan or sectarian positions. For information or questions regarding FWS funds, please contact American University's Office of Financial Aid. Imp…",
+      "tags": [
+        "communication",
+        "marketing",
+        "entry-level"
+      ]
+    },
     {
       "id": "e3174678fa0e01be",
       "title": "Coordinator, Digital Marketing & Artist Development - Sony Music Nashville",
@@ -126,22 +159,6 @@
       "url": "https://www.adzuna.com/details/5878389225?utm_medium=api&utm_source=59a3324b",
       "salary": "$46,336",
       "description": "We are looking for an Entry-Level Sales & Marketing Associate to join our growing team. This is a great opportunity for motivated, outgoing individuals who want to start a career, gain professional experience, and develop valuable skills in sales and marketing . No previous sales or marketing experience is required. We provide paid training, hands-on coaching, and ongoing support to help you learn the fundamentals of customer engagement, sales, marketing, promotions, and business development. I…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "2cdbb7df8e340941",
-      "title": "Entry-Level Marketing & Sales | No Experience Required | Paid Training",
-      "company": "GEM Global Events",
-      "location": "Cameron Station, Alexandria City",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-09-10T05:30:27Z",
-      "url": "https://www.adzuna.com/details/5878229933?utm_medium=api&utm_source=59a3324b",
-      "salary": "$55,399",
-      "description": "We’re a fast-growing marketing, advertising, and consulting firm working with leading brands and organizations to increase brand awareness, connect with customers, and drive growth. As we continue to expand, we’re hiring Entry-Level Marketing Representatives, Sales Representatives, Customer Service Representatives, and Event Marketing Representatives . No industry experience is required — we provide full paid training and hands-on coaching. What You’ll Do Assist with marketing, advertising, and…",
       "tags": [
         "marketing",
         "entry-level"
