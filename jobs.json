@@ -1,6 +1,70 @@
 {
-  "generatedAt": "2026-09-16T15:26:06.871Z",
+  "generatedAt": "2026-09-17T15:33:51.872Z",
   "jobs": [
+    {
+      "id": "93eb35786ae3372c",
+      "title": "Marketing Assistant",
+      "company": "Surib",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-09-17T07:48:20Z",
+      "url": "https://www.adzuna.com/details/5887628624?utm_medium=api&utm_source=59a3324b",
+      "salary": "$45,000 – $52,800",
+      "description": "Job Summary We are seeking a motivated Marketing Assistant to support promotional campaigns, customer engagement, lead generation, and business growth initiatives. This entry-level position is ideal for someone who enjoys interacting with people, presenting products and services, and gaining hands-on experience in marketing and sales. Responsibilities Assist with promotional campaigns and customer engagement activities. Engage with prospective customers and generate interest in products and ser…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "bb9e94900cbdeb2d",
+      "title": "Public Relations Associate",
+      "company": "Surib",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-09-17T07:48:19Z",
+      "url": "https://www.adzuna.com/details/5887628613?utm_medium=api&utm_source=59a3324b",
+      "salary": "$45,600 – $52,620",
+      "description": "Job Summary We are seeking a personable and motivated Public Relations Associate to support customer outreach, community engagement, promotional activities, and positive brand representation. This entry-level role is ideal for someone who enjoys communicating with people, building professional relationships, and supporting customer acquisition and business development initiatives. Responsibilities Assist with customer and community outreach activities. Represent the company in a professional an…",
+      "tags": [
+        "public relations",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "6670e511d987f387",
+      "title": "Coordinator, Membership, Marketing & Strategic Programs",
+      "company": "ITI",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-09-17T02:46:20Z",
+      "url": "https://www.adzuna.com/details/5887276952?utm_medium=api&utm_source=59a3324b",
+      "salary": "$55,000 – $60,000",
+      "description": "Coordinator, Public Affairs Membership, Marketing & Strategic Programs About the role: As a Coordinator on ITI’s Public Affairs team, you will support ITI’s membership, marketing, strategic programs, and stakeholder engagement activities, working closely with the programs and membership leads. You will also serve as the backup Coordinator providing administrative and organizational support to the Executive Vice President, Public Affairs. You will help maintain the systems, relationships, and lo…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "804d3d7443c057c0",
+      "title": "Communications Specialist, Junior",
+      "company": "Georgetown University",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-09-16T20:19:16Z",
+      "url": "https://www.adzuna.com/land/ad/5886811885?se=MhePLq2y8RGFzIhtkyYOjw&utm_medium=api&utm_source=59a3324b&v=57F8405F79F26CC5025E15C63D05D36FD1B531CA",
+      "salary": "$50,308",
+      "description": "Georgetown University comprises two unique campuses in the nation’s capital. Supreme Court, Georgetown University offers rigorous academic programs, a global perspective, and unparalleled opportunities to engage with Washington, D.Our community is a close-knit group of remarkable individuals driven by intellectual inquiry, a commitment to social justice, and a shared dedication to making a difference in the world. Communications Manager, Beeck Center for Social Impact  Innovation – Georgetown U…",
+      "tags": [
+        "communications",
+        "entry-level"
+      ]
+    },
     {
       "id": "99f41dddd0351521",
       "title": "VP, Marketing - Ultra",
@@ -18,33 +82,16 @@
       ]
     },
     {
-      "id": "a1f73342bb547279",
-      "title": "Marketing and Communication Assistant (Student)",
-      "company": "American University",
-      "location": "Washington, Washington, D.C.",
+      "id": "2b1dcb232a2caa4d",
+      "title": "Entry Level Marketing Assistant",
+      "company": "HHV",
+      "location": "Cameron Station, Alexandria City",
       "remote": "onsite",
       "source": "Adzuna",
-      "datePosted": "2026-09-15T11:19:48Z",
-      "url": "https://www.adzuna.com/land/ad/5884749424?se=0Nvv6uKx8RGRsJriD9fyEw&utm_medium=api&utm_source=59a3324b&v=B427CF08FD0F2A3202924C145B524DB96116F951",
-      "salary": "$43,815",
-      "description": "Work Where You Learn: Build Experience, Grow Skills, and Contribute to Your University Community. This position is available only to enrolled American University students. Most student positions at American University are eligible to use Federal Work Study (FWS) awards, with a few exceptions. FWS funds cannot be applied to janitorial, construction, partisan or sectarian positions. For information or questions regarding FWS funds, please contact American University's Office of Financial Aid. Imp…",
-      "tags": [
-        "communication",
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "cdfd231b21cd63dc",
-      "title": "CSI Programming & Marketing Assistant (Student) (FWS)",
-      "company": "American University",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-09-15T10:57:26Z",
-      "url": "https://www.adzuna.com/land/ad/5884700278?se=_ib_7uKx8RG8HIehQbEIXg&utm_medium=api&utm_source=59a3324b&v=398B6383A8ED64134C0F96B7D796CC6E7BE7416E",
-      "salary": "$58,271",
-      "description": "Work Where You Learn: Build Experience, Grow Skills, and Contribute to Your University Community. This position is available only to enrolled American University students. Most student positions at American University are eligible to use Federal Work Study (FWS) awards, with a few exceptions. FWS funds cannot be applied to janitorial, construction, partisan or sectarian positions. For information or questions regarding FWS funds, please contact American University's Office of Financial Aid. Imp…",
+      "datePosted": "2026-09-16T01:34:40Z",
+      "url": "https://www.adzuna.com/details/5885691969?utm_medium=api&utm_source=59a3324b",
+      "salary": "$76,400",
+      "description": "We39;re looking for an enthusiastic Entry Level Marketing Assistant to join our growing team. This position is designed for individuals who enjoy working with people, learning new skills, and gaining hands-on experience in marketing, outreach, promotions, and community engagement. No previous marketing experience is required. Paid training is provided. You39;ll work alongside experienced team members while learning how marketing campaigns are planned, presented, and executed in real-world envir…",
       "tags": [
         "marketing",
         "entry-level"
@@ -79,6 +126,39 @@
       "description": "Who We Are International Justice Mission (IJM) is the global leader in protecting vulnerable people from violence around the world. Our team of over 1,200 professionals are at work worldwide in over 30 offices. Together we are on a mission to rescue millions, protect half a billion, and make justice unstoppable. We are a global community that cares for one another. We believe that the way we work is as important as the results we achieve. We provide professional excellence with joy and celebrat…",
       "tags": [
         "communications",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "b965d6207686c211",
+      "title": "CSI Programming & Marketing Assistant (Student) (FWS)",
+      "company": "American University",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-09-13T01:16:19Z",
+      "url": "https://www.adzuna.com/details/5882236579?utm_medium=api&utm_source=59a3324b",
+      "salary": "$38,272",
+      "description": "Work Where You Learn: Build Experience, Grow Skills, and Contribute to Your University Community. This position is available only to enrolled American University students. Most student positions at American University are eligible to use Federal Work Study (FWS) awards, with a few exceptions. FWS funds cannot be applied to janitorial, construction, partisan or sectarian positions. For information or questions regarding FWS funds, please contact American University's Office of Financial Aid. Imp…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "0a80ed3bf28385fb",
+      "title": "Marketing and Communication Assistant (Student)",
+      "company": "American University",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-09-13T00:57:58Z",
+      "url": "https://www.adzuna.com/details/5882230891?utm_medium=api&utm_source=59a3324b",
+      "salary": "$38,272",
+      "description": "Work Where You Learn: Build Experience, Grow Skills, and Contribute to Your University Community. This position is available only to enrolled American University students. Most student positions at American University are eligible to use Federal Work Study (FWS) awards, with a few exceptions. FWS funds cannot be applied to janitorial, construction, partisan or sectarian positions. For information or questions regarding FWS funds, please contact American University's Office of Financial Aid. Imp…",
+      "tags": [
+        "communication",
+        "marketing",
         "entry-level"
       ]
     },
@@ -127,6 +207,23 @@
       "salary": "$41,600 – $62,400",
       "description": "About the Role We are seeking a motivated and detail-oriented Marketing Coordinator (Entry-Level) to support the execution of brand campaigns, promotional initiatives, and community outreach efforts in the Washington area. Key Responsibilities Assist in planning and coordinating local marketing and promotional campaigns Support execution of brand activations, events, and outreach programs Help prepare marketing materials and ensure brand consistency Coordinate schedules, locations, and logistic…",
       "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "e670686d4a1bfb74",
+      "title": "Assistant Account Executive, Burson Global Marketing & Communications",
+      "company": "Burson",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-09-11T09:49:58Z",
+      "url": "https://www.adzuna.com/details/5879778815?utm_medium=api&utm_source=59a3324b",
+      "salary": "$35,000 – $75,000",
+      "description": "Who we are: Burson, part of WPP, is the global communications leader built to create value for clients through reputation. With highly specialized teams, industry-leading technologies and breakthrough creative, we help brands and businesses redefine reputation as a competitive advantage so they can lead today and into the future. When you work at Burson, you are part of a global community of lifelong learners who thrive at the edge of innovation. WPP (LSE/NYSE: WPP) is the trusted growth partne…",
+      "tags": [
+        "communications",
         "marketing",
         "entry-level"
       ]
@@ -255,22 +352,6 @@
       "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/8784435002",
       "salary": null,
       "description": "<p><strong>Company Information</strong><br><strong>For more than 20 years, AEG has played a pivotal role in transforming sports and live entertainment. Annually, we host more than 160 million guests, promote more than 10,000 shows and present more than 22,000 events around the world. We are committed to innovation, artistry, and community, and leverage the power of our 300+ venues, leading sports franchises, marquee music brands, integrated entertainment districts, premier ticketing platform and global sponsorship activations, to create memorable moments that give the world reason to cheer.</strong><br><br><strong>Our business is interwoven with the human mind and heart, and we strive to build a diverse and inclusive company that reflects the artists, athletes, and fans that we host; reach beyond traditional boundaries to support the communities in which we operate; and minimize our impact on the environment by adopting sustainable practices throughout our business operations.</strong><br><br><strong>If you want to be challenged to up your game and make a difference, then join us in giving the world reason to cheer!</strong></p>\n<div><strong>A Brief Overview</strong></div>\n<div>The <strong>Marketing Coordinator</strong> is responsible for marketing, social media, online e-marketing public relations, promotions for venues, radio promotions, clubs, theaters, festivals, shows and one-offs. This position will develop promotional initiatives with artists and the community, to promote positive brand image. The Marketing Coordinator may also be responsible for coordinating the work of interns and street team for show promotions.</div>\n<div>&nbsp;</div>\n<div><strong>What you will do</strong></div>\n<div>\n<ul>\n<li>Builds and maintains ad plans for AEG Presents shows, tours and festivals. Assist in coordination of media buying. Build Google campaigns. Create work orders for radio, television and manage flyer distributions. Evaluates and revise as necessary to increase ticketing revenue and event exposure.</li>\n<li>Create, preview and review press releases as needed. Coordinate the distribution of press requests with publicist. Serve as a public relations liaison. Add new shows, schedule releases and update as needed.</li>\n<li>Monitor marketing trends, regionally, with artists, and implement new marketing strategies and campaigns based on current trends. Analyze fan base to target specific demographics to promote shows, tours and festivals.</li>\n<li>Helps coordinate and advance day-of-show activities including radio stations set ups, remote broadcasts and escorting media photographers and news crews.</li>\n<li>Creates, proof reads and distributes weekly newsletters. Order and deploy e-cards and e-blasts with AXS Advantage tool. Check that venue information and links are correct, communicate errors to designers, check for accuracy, communicate errors and sign off on final version.</li>\n<li>Develop and manage social media accounts, research new promotional activities and prizes for online social media giveaways. Collaborate with artists to promote shows on their social media accounts. Design appropriate posting schedule that corresponds with various event related deadlines: announce, on sale, maintenance and backend.</li>\n<li>Monitor budget and accounting for marketing efforts and keep management up to date of potential overages. Provide report for marketing costs.</li>\n<li>Maintain good working relationships with partners, co-promoters and media. Develop special initiatives to involve the community in events. Organize artist promotions and meet and greets.</li>\n<li>May participate in hiring and training of interns and street team. May also be responsible for the upload of expense reports, updating of office calendar, ordering of supplies and general office administration.</li>\n</ul>\n</div>\n<div><strong>Skills and Abilities</strong></div>\n<div>\n<ul>\n<li>Knowledgeable and skilled in MS Office (Excel, Word, Outlook and Photoshop)</li>\n<li>Basic accounting knowledge</li>\n<li>Strong written and verbal communication skills</li>\n<li>Strong PR skills, social media savvy, and organization skills</li>\n<li>Must have strong work ethic, problem solving and prioritization skills</li>\n<li>Must be able to work independently and as part of a team</li>\n<li>Creative thinker; thinks “outside the box”</li>\n<li>Knowledge of the music industry preferred</li>\n</ul>\n</div>\n<p><strong>Qualifications</strong></p>\n<ul>\n<li>High School Diploma or its equivalency</li>\n<li>2-4 years Of related work experience</li>\n<li>Experience calendaring events</li>\n<li>Knowledgeable and skilled in MS Office (Excel, Word, Outlook and Photoshop)</li>\n<li>Basic accounting knowledge</li>\n<li>Strong written and verbal communication skills</li>\n<li>Strong PR skills, social media savvy, and organization skills</li>\n<li>Must have strong work ethic, problem solving and prioritization skills</li>\n<li>Must be able to work independently and as part of a team</li>\n<li>Creative thinker; thinks “outside the box”</li>\n<li>Knowledge of the music industry preferred</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Payscale: $20.65- $25.00</strong></p>\n<p><strong>Bonus: </strong><em>This position is not eligible for a bonus under the current bonus plan requirements.</em></p>\n<p><strong>Benefits:</strong><em><strong> Full-time: </strong>We offer a comprehensive benefits package that includes: medical, dental and vision insurance, paid holidays, vacation and sick time, company paid basic life insurance, voluntary life insurance, parental leave, 401k Plan (with a current employer match of 3%), flexible spending and health savings account options, and wellness offerings.</em></p>\n<p>&nbsp;</p>\n<p>AEG reserves the right to change or modify the employee’s job description whether orally or in writing, at any time during the employment relationship.&nbsp; AEG may require an employee to perform duties outside their normal description.</p>\n<p>AEG's policy is to hire the most qualified applicants, and we comply with all applicable federal, state and local employment laws in making hiring and employee decisions. &nbsp;We are an equal opportunity employer and do not discriminate against applicants or employees on the basis of race, color, marital status, disability, religion, age, sex, sexual orientation, national origin, genetic information, veteran status, or any other legally protected status recognized by applicable federal, state or local law.</p>\n<p><strong><em>Employer does not offer work visa sponsorship for this position.</em></strong></p>",
-      "tags": [
-        "marketing",
-        "music"
-      ]
-    },
-    {
-      "id": "e59b1691c6f249e0",
-      "title": "Associate Lifecycle Marketing Specialist (AXS)",
-      "company": "AEG",
-      "location": "Los Angeles, CA",
-      "remote": "hybrid",
-      "source": "Greenhouse",
-      "datePosted": "2026-09-02T18:13:02-04:00",
-      "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/8761401002",
-      "salary": null,
-      "description": "<p>AXS connects fans with the artists and teams they love. Each year we sell millions of tickets to thousands of incredible events – from concerts and festivals to sports and theater – at some of the most iconic venues in the world. Since our founding in 2011, we’ve consistently pushed the industry forward and improved experiences for fans, making it easier than ever to discover events, find the perfect seats, and enjoy unforgettable live entertainment, and we continue to lead the evolution of our industry today.</p>\n<p>We’re passionate about improving the fan experience and providing game-changing solutions for our clients, and we’re always looking for smart, motivated people to help make it happen. Bring your enthusiasm, your big ideas, and your desire to team up with some of the best and brightest in technology and entertainment. &nbsp;</p>\n<p><strong>The Role</strong></p>\n<p>The Associate Lifecycle Marketing Specialist supports the US Lifecycle Marketing team by assisting with the production, coordination, and quality assurance of email and push marketing campaigns. Working closely with Lifecycle Marketing Specialists, this role helps manage campaign workflows, build and validate campaigns in Salesforce Marketing Cloud, and ensure timely, accurate execution. The Associate Specialist also supports campaign reporting, documentation, and operational processes that drive ticket sales, fan engagement, and subscriber growth. This role provides hands-on experience in marketing automation and lifecycle marketing operations with opportunities to grow into a Lifecycle Marketing Specialist position.</p>\n<p><strong>What Will You Do?</strong></p>\n<p>&nbsp;</p>\n<ul type=\"disc\">\n<li>Build, configure, and schedule lifecycle and ad hoc email campaigns in Salesforce Marketing Cloud</li>\n<li>Manage inbound campaign requests, track work through the campaign intake process, and ensure requests are complete and accurately documented.</li>\n<li>Execute campaign quality assurance (QA), including link validation, personalization verification, audience targeting, content accuracy, and email rendering across devices and email clients.</li>\n<li>Maintain the lifecycle marketing campaign calendar and coordinate deployment schedules with regional Lifecycle Marketing Specialists to support timely campaign execution.</li>\n<li>Prepare standard campaign reports and dashboards and assist regional Lifecycle Marketing Specialists in compiling and distributing campaign performance metrics.</li>\n<li>Maintain campaign documentation, process guides, and operational procedures to support consistent execution and continuous process improvement.</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>What Will You Bring?</strong></p>\n<p>&nbsp;</p>\n<ul type=\"disc\">\n<li>BA/BS Degree (4-year) (Advanced Degree Preferred) Bachelor's Degree or equivalent experience required; degree in Business, Management Information Systems, Computer Science or related field preferred. </li>\n<li>1-2 years' experience in digital marketing, email/push/SMS marketing, CRM marketing or marketing operations.</li>\n<li>&nbsp;Experience assisting with campaign execution in a marketing automation platform such as Salesforce Marketing cloud, Braze, Iterable, HubSpot or similar tools preferred.</li>\n<li>Experience coordinating marketing projects or campaign workflows across multiple stakeholders.</li>\n<li>Experience performing campaign QA, link validation or marketing production tasks preferred.</li>\n<li>Experience preparing marketing reports or compiling campaign performance metrics preferred.</li>\n<li>Experience working in fast-paced marketing environments such as entertainment, ticketing, ecommerce or consumer marketplaces preferred.</li>\n<li>Familiarity with email marketing platforms or marketing automation tools such as Salesforce Marketing Cloud or similar systems.</li>\n<li>Strong attention to detail with ability to execute campaign QA processes including link validation, personalization checks and rendering tests.</li>\n<li>Strong organization and project coordination skills with the ability to manage multiple campaign requests and deadlines.</li>\n<li>Ability to collaborate effectively with marketing, creative, marketing operations and regional marketing teams.</li>\n<li>Strong written and verbal communication skills.</li>\n</ul>\n<p>&nbsp;</p>\n<p><em><span class=\"TextRun SCXW129143701 BCX0\" lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW129143701 BCX0\">At AXS, we are dedicated to building a diverse,&nbsp;</span><span class=\"NormalTextRun SCXW129143701 BCX0\">inclusive</span><span class=\"NormalTextRun SCXW129143701 BCX0\">&nbsp;and authentic workplace, so if&nbsp;</span><span class=\"NormalTextRun SCXW129143701 BCX0\">you’re</span><span class=\"NormalTextRun SCXW129143701 BCX0\">&nbsp;excited about this role but&nbsp;</span><span class=\"NormalTextRun SCXW129143701 BCX0\">can't</span><span class=\"NormalTextRun SCXW129143701 BCX0\">&nbsp;\"check every box</span><span class=\"NormalTextRun SCXW129143701 BCX0\">\"&nbsp;in</span><span class=\"NormalTextRun SCXW129143701 BCX0\">&nbsp;the job description, we encourage you to apply anyway. You may be the right candidate for this or other roles.</span></span><span class=\"EOP SCXW129143701 BCX0\" data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;201341983&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}\">&nbsp;</span></em></p>\n<p>&nbsp;</p>\n<p><strong>Pay Scale: $24.46-$30.00/hr</strong></p>\n<p><strong>Bonus: </strong>This position is Not eligible for a bonus under the current bonus plan requirements.)</p>\n<p><strong>Benefits: Full-time: </strong>We offer a comprehensive benefits package that includes: medical, dental and vision insurance, paid holidays, vacation and sick time, company paid basic life insurance, voluntary life insurance, parental leave, 401k Plan (with a current employer match of 3%), flexible spending and health savings account options, and wellness offerings. Currently, full time employees are eligible for these benefits on the first day of employment.</p>\n<p><strong>&nbsp;</strong></p>\n<p><strong><span data-olk-copy-source=\"MessageBody\">*Employer does not offer work visa sponsorship for this position.</span></strong></p>\n<p>&nbsp;</p>\n<p><strong>What’s in it for You?</strong></p>\n<ul>\n<li><strong>Extraordinary People</strong> – we’re not kidding!</li>\n<li><strong>Meaningful Mission</strong>– Helping revolutionize an industry and deliver better experiences for fans and clients around the world.</li>\n<li><strong>Development and Learning</strong> – Opportunities for learning and leveling up through training and education reimbursement.</li>\n<li><strong data-olk-copy-source=\"MessageBody\">Community &amp; Belonging&nbsp;</strong>–<strong data-olk-copy-source=\"MessageBody\"> </strong>A range of Employee Resource Groups (ERGs) that foster connection, inclusion, and professional growth. Access to meaningful volunteer opportunities and community engagement programs to make a positive impact beyond the workplace.</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>&nbsp;</strong></p>\n<p>&nbsp;</p>\n<p><strong>Curious about the typical interview process for this position? Here's what to expect:</strong></p>\n<ul>\n<li>Stage 1: 30 min Virtual Recruiter interview&nbsp;&nbsp;</li>\n<li>Stage 2: 45-min Virtual/Onsite Hiring Manager interview</li>\n<li>Stage 3: 30-min Virtual/Onsite Team Lead interview</li>\n</ul>\n<p><em>*This schedule may be subject to change.</em></p>\n<p>&nbsp;</p>\n<p><strong>&nbsp;</strong></p>\n<p><strong>More about AXS</strong></p>\n<p><u><a id=\"OWAf64366e4-af05-0b21-ad7a-bde3f3ffa339\" class=\"OWAAutoLink\" href=\"https://solutions.axs.com/\" data-olk-copy-source=\"MailCompose\">AXS</a></u>,&nbsp;a subsidiary of <u><a id=\"OWAcddfd1b0-99b0-13fb-97ee-6e3381533974\" class=\"OWAAutoLink\" href=\"https://www.aegworldwide.com/\">AEG</a></u>, sells millions of tickets each year for 1600+ premier venues, sports teams, and event organizers across North America, Europe, Asia, Australia and New Zealand. Headquartered in Downtown Los Angeles, California,&nbsp;AXS employs more than 900 professionals in multiple locations worldwide. In each location you’ll find a team of dedicated, diverse employees (we’ve dubbed ourselves “Fanatix”) who create groundbreaking products and services in a fun, fast-paced environment.&nbsp;</p>\n<div>To learn more about our culture and values, visit: <u><a id=\"OWA8feefa20-0284-d217-ba58-2946e9e1346e\" class=\"OWAAutoLink\" href=\"https://solutions.axs.com/careers/\">https://solutions.axs.com/careers/</a></u></div>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>More about AEG</strong></p>\n<p>For more than 20 years, AEG has played a pivotal role in transforming sports and live entertainment. Annually, we host more than 160 million guests, promote more than 10,000 shows and present more than 22,000 events around the world. We are committed to innovation, artistry, and community, and leverage the power of our 300+ venues, leading sports franchises, marquee music brands, integrated entertainment districts, premier ticketing platform and global sponsorship activations, to create memorable moments that give the world reason to cheer.<br><br>Our business is interwoven with the human mind and heart, and we strive to build a diverse and inclusive company that reflects the artists, athletes, and fans that we host; reach beyond traditional boundaries to support the communities in which we operate; and minimize our impact on the environment by adopting sustainable practices throughout our business operations.</p>\n<p>We are dedicated to a diverse, inclusive and authentic workplace, so if you’re excited about this role but can't \"check every box\" in the job description, we encourage you to apply anyway. You may be the right candidate for this or other roles.</p>\n<p>AEG reserves the right to change or modify the employee’s job description whether orally or in writing, at any time during the employment relationship.&nbsp; AEG may require an employee to perform duties outside their normal description.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><em><strong><span data-olk-copy-source=\"MessageBody\">AEG's policy is to hire the most qualified applicants, and we comply with all applicable federal, state and local employment laws in making hiring and employee decisions. &nbsp;We are an equal opportunity employer and do not discriminate against applicants or employees on the basis of&nbsp;race, color, marital status, disability, religion, age, sex, sexual orientation, national origin, genetic information, veteran status, or any other legally protected status recognized by applicable federal, state or local law.</span></strong></em></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>&nbsp;#LI-Hybrid</strong></p>",
       "tags": [
         "marketing",
         "music"
@@ -581,23 +662,6 @@
       "tags": [
         "marketing",
         "digital marketing",
-        "music"
-      ]
-    },
-    {
-      "id": "9f46d46167d59102",
-      "title": "Manager, Sports Content Marketing & Partnerships",
-      "company": "SiriusXM",
-      "location": "New York, New York",
-      "remote": "onsite",
-      "source": "Jibe",
-      "datePosted": "2026-08-07T06:26:00.000Z",
-      "url": "https://uscareers-siriusxmradio.icims.com/jobs/17561/login",
-      "salary": null,
-      "description": "Who We Are: \nSiriusXM and its brands (Pandora, SiriusXM Media, AdsWizz, Simplecast, and SiriusXM Connect) are leading a new era of audio entertainment and services by delivering the most compelling subscription and ad-supported audio entertainment experience for listeners -- in the car, at home, and anywhere on the go with connected devices. Our vision is to shape the future of audio, where everyone can be effortlessly connected to the voices, stories and music they love wherever they are.\n \nThis is the place where a diverse group of emerging talent and legends alike come to share authentic and purposeful songs, stories, sounds and insights through some of the best programming and technology in the world. Our critically acclaimed, industry-leading audio entertainment encompasses music, sports, comedy, news, talk, live events, and podcasting. No matter their individual role, each of our employees plays a vital part in bringing SiriusXM’s vision to life every day.\n \n SiriusXM is the leading audio entertainment company in North America, and the premier programmer and platform for subscription and digital advertising-supported audio products. SiriusXM’s platforms collectively reach approximately 150 million listeners, the largest digital audio audience across paid and free tiers in North America, and deliver music, sports, talk, news, comedy, entertainment and podcasts. Pandora, a subsidiary of SiriusXM, is the largest ad-supported audio entertainment streaming service in the U.S. SiriusXM's subsidiaries Simplecast and AdsWizz make it a leader in podcast hosting, production, distribution, analytics and monetization. The Company’s advertising sales organization, which operates as SiriusXM Media, leverages its scale, cross-platform sales organization and ad tech capabilities to deliver results for audio creators and advertisers. SiriusXM, through SiriusXM Canada Holdings, Inc., also offers satellite radio and audio entertainment in Canada. In addition to its audio entertainment businesses, SiriusXM offers connected vehicle services to automakers.\n \n How You’ll Make an Impact :\n The Manager, Sports Content Marketing & Partnerships will lead the development and execution of strategic marketing materials and initiatives that elevate SiriusXM's sports portfolio, drive audience engagement, strengthen league, team and talent partnerships, and support key business objectives. This role will help shape the marketing strategy across SiriusXM's sports properties while driving cross-functional alignment and operational excellence. This position requires an efficient, well-organized strategic marketer, relationship builder, and strong communicator with experience managing high-profile partnerships, developing compelling narratives, influencing stakeholders, and bringing integrated marketing campaigns to life. As a senior individual contributor, this role independently leads complex campaigns, partner activations, and cross-functional workstreams, exercising judgment to resolve ambiguity, recommend tradeoffs, and deliver measurable audience and business outcomes.\n \n What You’ll Do \n Develop integrated marketing strategies for key sports programming initiatives, tentpole events, channel launches, original content, and partnership opportunities.\n Partner closely with Sports Programming leadership to identify marketing opportunities that drive listening, engagement, subscriber value, and audience growth.\n Lead partner and talent marketing relationships across assigned sports properties, serving as the primary point of contact for leagues, teams, media partners, talent representatives, agencies, and other key stakeholders.\n Lead cross-functional planning across CRM, App Marketing, Social, Performance Marketing, Creative, PR, Events, Brand, Sales, and Product teams to ensure successful campaign execution.\n Create presentations, strategic recommendations, and marketing narratives that clearly communicate objectives, opportunities, results, and business impact.\n Own creative strategy and development from brief through execution, including campaign positioning, messaging frameworks, creative feedback, and go-to-market planning for major sports initiatives.\n Independently determine campaign approaches, sequencing, and stakeholder tradeoffs for complex assignments, escalating only when business risk or contractual exposure requires leadership input.\n Identify and champion innovative marketing opportunities that elevate SiriusXM's sports brands, deepen fan engagement, and create value for partners and stakeholders.\n Support marketing strategy and partnership activation efforts across current sports properties and emerging strategic partnerships.\n Analyze campaign, audience, and engagement performance to identify insights, inform future strategy, and communicate recommendations to leadership.\n Define and track success measures for assigned initiatives, including listening, engagement, audience growth, subscriber value, partner satisfaction, and campaign performance.\n Stay ahead of industry trends across sports, media, audio, streaming, social platforms, and fan engagement to identify opportunities that strengthen SiriusXM's competitive position.\n Serve as a trusted representative of the Sports Marketing & Partnerships team in meetings with external partners and internal cross-functional stakeholders.\n Track fulfillment of contractual marketing obligations across partnerships and ensure successful execution against agreed-upon commitments.\n Partner closely with Legal, Business Affairs, and external stakeholders to streamline contract approvals, navigate rights restrictions, and ensure compliant execution across campaigns, talent integrations, and partnership activations.\n Lead programs, campaigns, partner relationships, and cross-functional workstreams through influence; this role does not include formal people-management responsibility.\n Travel as needed to support events, activations, and onsite program execution.\n \n What You’ll Need: \n Typically requires a minimum of 5 years of related experience with a Bachelor’s degree; or 4 years and a Master’s degree; or a PhD with 3 years experience; or equivalent experience.\n Experience in partnerships, partner management or content/digital marketing.\n Experience managing high-profile partnerships, talent relationships, sponsorships, or sports properties.\n Exceptional written and verbal communication skills with the ability to craft compelling narratives and present recommendations to executive audiences.\n Strong strategic thinking and problem-solving skills with the ability to translate business objectives into actionable marketing plans.\n Demonstrated ability to influence cross-functional teams and drive alignment among multiple stakeholders.\n Demonstrated ability to independently resolve complex, ambiguous issues and recommend practical tradeoffs with limited supervision.\n Experience developing presentations, marketing strategies, business cases, and performance recaps.\n Experience reviewing partnership agreements, sponsorship contracts, talent agreements, or media rights deals with a strong understanding of marketing rights and obligations.\n Advanced proficiency in Microsoft PowerPoint, Excel, and Word.\n Proficiency in Adobe Creative Suite, including Adobe Acrobat, Photoshop, Illustrator, and InDesign is a plus.\n Experience using project management and collaboration tools such as Airtable, Monday.com, Asana, Wrike, or similar platforms.\n Strong familiarity with SiriusXM's sports content and talent.\n Excellent time management and project management skills, with the ability to prioritize and multi-task, and work under shifting deadlines in a fast-paced environment.\n Fast learner with strong attention to detail; proactive, self-motivated, and resourceful.\n Both a proactive team player and independent worker.\n Flexible and maintains a positive attitude when under pressure and deadlines.\n Deep knowledge/interest in sports.\n Must have legal right to work in the U.S.\n \n At SiriusXM, we carefully consider a wide range of factors when determining compensation, including your background and experience. These considerations can cause your compensation to vary. We expect the base salary for this position to be in the range of $80,000 and $110,000 and will depend on\n your skills, qualifications, and experience. Additionally, this role might be eligible for discretionary short term and long-term incentives. We encourage all interested candidates to apply.\n \n Our goal at SiriusXM is to provide and maintain a work environment that fosters mutual respect, professionalism and cooperation. SiriusXM is an equal opportunity employer that does not discriminate on the basis of actual or perceived race, creed, color, religion, national origin, ancestry, alienage or citizenship status, age, disability or handicap, sex, gender identity, marital status, familial status, veteran status, sexual orientation or any other characteristic protected by applicable federal, state or local laws.\n \n The requirements and duties described above may be modified or waived by the Company in its sole\n discretion without notice.\n R-2026-07-112",
-      "tags": [
-        "content",
-        "marketing",
         "music"
       ]
     },
