@@ -1,6 +1,103 @@
 {
-  "generatedAt": "2026-09-17T15:33:51.872Z",
+  "generatedAt": "2026-09-18T15:01:32.427Z",
   "jobs": [
+    {
+      "id": "69c48cbecaf2aec1",
+      "title": "Senior Analyst, Marketing Ops",
+      "company": "SiriusXM",
+      "location": "Georgia, United States; Alabama, United States; New Jersey, United States; New York, United States; Tennessee, United States; Virginia, United States",
+      "remote": "onsite",
+      "source": "Jibe",
+      "datePosted": "2026-09-18T12:34:00.000Z",
+      "url": "https://uscareers-siriusxmradio.icims.com/jobs/17613/login",
+      "salary": null,
+      "description": "Who We Are: \n SiriusXM and its brands (Pandora, SiriusXM Media, AdsWizz, Simplecast, and SiriusXM Connect) are leading a new era of audio entertainment and services by delivering the most compelling subscription and ad-supported audio entertainment experience for listeners -- in the car, at home, and anywhere on the go with connected devices. Our vision is to shape the future of audio, where everyone can be effortlessly connected to the voices, stories and music they love wherever they are.\n \n This is the place where a diverse group of emerging talent and legends alike come to share authentic and purposeful songs, stories, sounds and insights through some of the best programming and technology in the world. Our critically-acclaimed, industry-leading audio entertainment encompasses music, sports, comedy, news, talk, live events, and podcasting. No matter their individual role, each of our employees plays a vital part in bringing SiriusXM’s vision to life every day.\n \n SiriusXM \n SiriusXM is the leading audio entertainment company in North America, and the premier programmer and platform for subscription and digital advertising-supported audio products. SiriusXM’s platforms collectively reach approximately 150 million listeners, the largest digital audio audience across paid and free tiers in North America, and deliver music, sports, talk, news, comedy, entertainment and podcasts. Pandora, a subsidiary of SiriusXM, is the largest ad-supported audio entertainment streaming service in the U.S. SiriusXM's subsidiaries Simplecast and AdsWizz make it a leader in podcast hosting, production, distribution, analytics and monetization. The Company’s advertising sales organization, which operates as SiriusXM Media, leverages its scale, cross-platform sales organization and ad tech capabilities to deliver results for audio creators and advertisers. SiriusXM, through SiriusXM Canada Holdings, Inc., also offers satellite radio and audio entertainment in Canada. In addition to its audio entertainment businesses, SiriusXM offers connected vehicle services to automakers.\n \n \n How you’ll make an impact: \n \n This Senior Analyst, Marketing Operations will play a key role in developing and delivering highly personalized, data-driven experiences that bring SiriusXM content to life and drive subscriber engagement and retention. The role combines hands-on expertise in Salesforce Data Cloud and Salesforce Marketing Cloud with a strong understanding of customer data, lifecycle marketing, and complex journey orchestration. It builds and activates audiences, develops automated customer journeys, and translates complex business requirements and customer data into relevant, scalable experiences across channels.\n \n What you’ll do: \n Audience Development & Segmentation: Build and maintain sophisticated audiences and segmentation in Salesforce Data Cloud to support lifecycle, engagement, billing, retention, and other use cases. Validate audience counts, customer attributes, eligibility criteria, and activation readiness prior to deployment.\n Campaign Execution & Delivery: Support and execute multi-channel marketing campaigns across Direct Mail, Email, In-Vehicle Messaging, and Paid Media ensuring on-time delivery, accuracy, and alignment with business goals.\n Automation & Journey Building: You’ll design and manage journeys including decision splits, and complex logic, and multi-channel experiences.\n Quality Assurance & Post-Launch Monitoring: Validate audience eligibility, personalization logic, and journey functionality through comprehensive QA before deployment Monitor journey performance and proactively troubleshoot automation failures or data issues\n Stakeholder Collaboration: Partner with marketing teams and cross-functional stakeholders to translate business requirements into automated solutions.\n Project Coordination: Help define dates, support the management of project timelines, and coordinate with stakeholders to keep initiatives on track.\n Operational Excellence: Document technical requirements, audience and journey logic, campaign configurations, and deployment processes. Follow established governance, naming conventions, QA, and change management practices while identifying opportunities to improve and automate existing processes.\n \n What you’ll need: \n Typically requires 3+ years of hands-on Salesforce Marketing Cloud experience, including Journey Builder, Automation Studio, Contact Builder, and SQL\n 1+ years of experience with Salesforce Data Cloud (or another enterprise CDP), including audience creation and activation\n Strong SQL skills and experience working with large relational datasets\n Experience building customer segments, lifecycle campaigns, and personalized marketing experiences\n Understanding of customer identity resolution, data modeling, and audience governance\n Experience troubleshooting complex marketing automation and data integration issues\n Salesforce Marketing Cloud and/or Salesforce Data Cloud certifications are a plus\n Hands-on experience developing customer segmentation, supporting lifecycle marketing, and leveraging data to drive personalization\n Strong problem-solving skills with the ability to work across complex systems and dependencies\n Excellent communication skills, able to translate technical concepts for non-technical stakeholders\n Experience with automation and/or AI tools such as chatGPT, Gemini, etc.\n Must have legal right to work in the U.S.\n \n Skills: \n Salesforce Marketing Cloud (SFMC) Expertise - Hands-on experience designing and building complex, data-driven customer journeys and communications in SFMC. Including audience segmentation, development of complex SQL, journey orchestration, personalization, testing, QA, and troubleshooting.\n Customer Data Expertise - Ability to understand and work with complex subscriber, account, product, payment, and billing data, translating business rules and customer states into accurate audience and experience logic.\n Analytical Problem Solving & Executional Rigor - Strong analytical and troubleshooting skills with the ability to validate complex logic, identify data or execution issues, assess performance, and ensure high accuracy for business-critical customer communications.\n SQL & Relation Data Expertise - Strong SQL skills with demonstrated ability to query, validate, and troubleshoot large, complex relational datasets to support segmentation, personalization, and campaign execution.\n Technical Requirements Translation - Ability to translate complex marketing, legal, and business requirements into scalable audience logic, data requirements, automation workflows, and technical solutions across Marketing Cloud and Data Cloud.\n \n At SiriusXM, we carefully consider a wide range of factors when determining compensation, including your background and experience. These considerations can cause your compensation to vary. We expect the base salary for this position to be in the range of $69,900 to $115,000 and will depend on your skills, qualifications, and experience. Additionally, this role might be eligible for discretionary short-term and long-term incentives. We encourage all interested candidates to apply.\n \n Our goal at SiriusXM is to provide and maintain a work environment that fosters mutual respect, professionalism and cooperation. SiriusXM is an equal opportunity employer that does not discriminate on the basis of actual or perceived race, creed, color, religion, national origin, ancestry, alienage or citizenship status, age, disability or handicap, sex, gender identity, marital status, familial status, veteran status, sexual orientation or any other characteristic protected by applicable federal, state or local laws.\n \n The requirements and duties described above may be modified or waived by the Company in its sole discretion without notice.\n \n #LI-KC1\n R-2026-08-20",
+      "tags": [
+        "marketing",
+        "music"
+      ]
+    },
+    {
+      "id": "b4248f77c04d84d9",
+      "title": "Digital Strategy & Marketing Specialist",
+      "company": "Private Label Staff",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-09-18T07:55:48Z",
+      "url": "https://www.adzuna.com/land/ad/5889208702?se=bDslynGz8RGk6dCvHcHp9g&utm_medium=api&utm_source=59a3324b&v=D162ED512309B81DEAB46AA981DA1B52B14EC267",
+      "salary": "$84,936",
+      "description": "About the Role We are seeking a Senior Digital Growth & Marketing Specialist to strengthen our market presence, increase brand awareness, and drive measurable digital growth. This role will lead SEO, AI-driven search visibility, website performance, digital campaigns, analytics, and market positioning, working closely with Marketing, Sales, Solutions, and technology partners. Who Will Thrive in This Role A strategic, analytical, and hands-on marketer who can: Drive B2B digital marketing and SEO…",
+      "tags": [
+        "marketing",
+        "music"
+      ]
+    },
+    {
+      "id": "7b6fda4c213866df",
+      "title": "Communications Assistant",
+      "company": "Moodreact",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-09-18T07:51:47Z",
+      "url": "https://www.adzuna.com/details/5889203365?utm_medium=api&utm_source=59a3324b",
+      "salary": "$40,607",
+      "description": "About Us Moodreact is a full-service maintenance company supporting homes and businesses with expert electricians, appliance repair technicians, plumbers, and skilled general labor teams.We handle the tough jobs, the technical work, and the details others overlook—always with professionalism, safety, and efficiency in mind. Job Summary We are seeking an enthusiastic Communications Assistant to support customer outreach, promotional communication, and relationship-building initiatives. This entr…",
+      "tags": [
+        "communications",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "43b4cf1ebacfaf00",
+      "title": "Coordinator, Global Partnerships Marketing",
+      "company": "Monumental Sports & Entertainment",
+      "location": "Rosslyn, Arlington County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-09-18T06:26:21Z",
+      "url": "https://www.adzuna.com/details/5889069261?utm_medium=api&utm_source=59a3324b",
+      "salary": "$50,003 – $55,016",
+      "description": "Monumental Sports & Entertainment (MSE) is one of the leading integrated sports and entertainment companies globally. MSE’s portfolio spans premier professional sports teams, world-class venues, and next-generation media properties, with marquee assets including the NHL’s Washington Capitals, NBA’s Washington Wizards, WNBA’s Washington Mystics, NBA G League’s Capital City Go-Go, Capital One Arena, and Monumental Sports Network, along with an investment in Team Liquid. Rooted in the nation’s cap…",
+      "tags": [
+        "marketing",
+        "music",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "f23af5d38ebd6e50",
+      "title": "Group Vice President, Consumer Marketing",
+      "company": "SiriusXM",
+      "location": "New York, New York",
+      "remote": "onsite",
+      "source": "Jibe",
+      "datePosted": "2026-09-17T19:44:00.000Z",
+      "url": "https://uscareers-siriusxmradio.icims.com/jobs/17591/login",
+      "salary": null,
+      "description": "Who We Are: \n SiriusXM and its brands (Pandora, SiriusXM Media, AdsWizz, Simplecast, and SiriusXM Connect) are leading a new era of audio entertainment and services by delivering the most compelling subscription and ad-supported audio entertainment experience for listeners -- in the car, at home, and anywhere on the go with connected devices. Our vision is to shape the future of audio, where everyone can be effortlessly connected to the voices, stories and music they love wherever they are.\n \n This is the place where a diverse group of emerging talent and legends alike come to share authentic and purposeful songs, stories, sounds and insights through some of the best programming and technology in the world. Our critically-acclaimed, industry-leading audio entertainment encompasses music, sports, comedy, news, talk, live events, and podcasting. No matter their individual role, each of our employees plays a vital part in bringing SiriusXM’s vision to life every day.\n \n SiriusXM is the leading audio entertainment company in North America, and the premier programmer and platform for subscription and digital advertising-supported audio products. SiriusXM’s platforms collectively reach approximately 150 million listeners, the largest digital audio audience across paid and free tiers in North America, and deliver music, sports, talk, news, comedy, entertainment and podcasts. Pandora, a subsidiary of SiriusXM, is the largest ad-supported audio entertainment streaming service in the U.S. SiriusXM's subsidiaries Simplecast and AdsWizz make it a leader in podcast hosting, production, distribution, analytics and monetization. The Company’s advertising sales organization, which operates as SiriusXM Media, leverages its scale, cross-platform sales organization and ad tech capabilities to deliver results for audio creators and advertisers. SiriusXM, through SiriusXM Canada Holdings, Inc., also offers satellite radio and audio entertainment in Canada. In addition to its audio entertainment businesses, SiriusXM offers connected vehicle services to automakers.\n \n How you’ll make an impact: \n The Group Vice President, Consumer Marketing will be responsible for increasing SiriusXM’s relevance and creating demand by leveraging the power of our brand, content, talent and unique access to live events and fan experiences to develop compelling, integrated marketing opportunities across channels, partnerships and experiences. \n \n This leader will serve as SiriusXM’s senior consumer marketing expert, bringing deep expertise in building brand relevance, creative strategy, integrated marketing and media strategy. Working from the audience priorities and consumer understanding developed through Consumer Strategy, they will define how SiriusXM shows up in the market and identify new ways to use our extraordinary content, talent, live moments and experiences to make SiriusXM more relevant and compelling to current and future consumers. \n \n The role requires an exceptional combination of consumer marketing expertise, creative judgment, cultural fluency and digital orientation. The successful candidate will know how to turn consumer strategy into ideas that resonate, recognize exceptional creative work, connect marketing across channels and experiences, and see opportunities to make individual content, talent and cultural moments significantly bigger through integrated marketing. \n \n This leader will oversee Brand Strategy, Creative, Integrated Marketing & Brand Experiences, Media Strategy and Partnership Marketing, working closely with Consumer Strategy, Engagement Strategy, Product, Programming and other partners to create a more connected approach to marketing and customer outcomes.\n \n What you’ll do: \n Define and steward SiriusXM's brand positioning, differentiation, architecture and long-term brand direction, ensuring the brand remains distinctive and relevant.\n Lead the development of creative strategy and expression across SiriusXM marketing, establishing a high bar for ideas, storytelling, design and execution.\n Identify and develop integrated marketing opportunities that bring together creative, media, content, talent, partnerships, digital and live experiences to amplify our most important moments and create greater consumer relevance.\n Turn SiriusXM’s unique content, talent, access and programming into compelling consumer propositions and marketing ideas that create relevance and demand.\n Develop marketing strategies that broaden SiriusXM’s relevance with new and evolving consumer segments while strengthening the connection with our existing customer base.\n Lead Media Strategy, defining the role of media within our integrated marketing approach, including channel strategy, investment priorities and measurement.\n Partner with Marketing Activation & Operations to translate media strategy into effective activation and optimization across digital platforms.\n Develop consumer-facing marketing opportunities with partners that extend the brand, create distinctive opportunities and connect SiriusXM with consumers in relevant ways.\n Expand how SiriusXM uses experiential marketing, live moments, fandom and merchandise to create larger, more integrated brand experiences.\n Partner closely with Consumer Strategy to translate audience priorities, consumer needs and identified opportunities into brand and marketing strategies.\n Work with Engagement Strategy to connect brand and demand creation with acquisition and subscriber lifecycle strategies.\n Build strong partnerships with Programming and Product to ensure our marketing effectively communicates and amplifies the content, talent, capabilities and experiences that differentiate SiriusXM.\n Establish clear priorities across Brand, Creative, Media, Partnerships and Integrated Marketing and create stronger coordination across those capabilities.\n Serve as a senior thought partner to leadership.\n Lead multiple VPs and/or senior leaders across Brand Strategy, Creative, Integrated Marketing & Brand Experiences, Media Strategy and Partnership Marketing, creating alignment, accountability and leadership development across the broader function.\n Own cross-functional budget and investment prioritization across the consumer and brand marketing portfolio, balancing resources across teams to maximize business impact and efficiency.\n Exercise cross-functional decision-making authority across the portfolio, resolving competing priorities and aligning strategies across Brand, Creative, Media, Partnerships and Integrated Marketing.\n Collaborate directly with ELT members and peer functional leaders on company-wide priorities, and represent Consumer & Brand Marketing in high-level enterprise discussions.\n Drive transformation and innovation across the related marketing functions, improving how teams work together and scaling integrated approaches that increase consumer relevance and business performance.\n \n What you’ll need: \n Typically has 18 or more years of experience with 9-12 or more years of management experience.\n Demonstrated success making an established consumer brand more relevant to new or evolving audiences without relying primarily on traditional mass-media advertising or wholesale brand reinvention.\n Proven ability to turn content, talent, cultural moments, experiences or other differentiated assets into integrated marketing that creates consumer interest and demand.\n Strong creative judgment and demonstrated ability to inspire, evaluate and elevate creative ideas and execution.\n Deep digital fluency and experience using digital, social and emerging channels to amplify content, experiences and cultural moments.\n Experience developing integrated strategies that connect creative, media, content, partnerships, digital and physical experiences rather than treating them as independent disciplines.\n Strong understanding of modern media, with the strategic judgment to balance brand building and performance objectives and determine channel roles and investment priorities.\n Strong cultural fluency and an instinct for fandom—understanding how talent, content, live moments and access can create relevance and deeper consumer connection.\n Strong commercial orientation and a track record of connecting marketing decisions to measurable customer and business outcomes.\n Exceptional communication, storytelling and influencing skills, with the ability to establish a clear marketing point of view across senior cross-functional teams.\n Experience in media, entertainment, subscription, live experiences or another culturally relevant consumer business is strongly preferred.\n Must have legal right to work in the U.S.\n \n At SiriusXM, we carefully consider a wide range of factors when determining compensation, including your background and experience. These considerations can cause your compensation to vary. We expect the base salary for this position to be in the range of $229,000 to $300,000 and will depend on your skills, qualifications, and experience. Additionally, this role might be eligible for discretionary short-term and long-term incentives. We encourage all interested candidates to apply.\n \n Our goal at SiriusXM is to provide and maintain a work environment that fosters mutual respect, professionalism and cooperation. SiriusXM is an equal opportunity employer that does not discriminate on the basis of actual or perceived race, creed, color, religion, national origin, ancestry, alienage or citizenship status, age, disability or handicap, sex, gender identity, marital status, familial status, veteran status, sexual orientation or any other characteristic protected by applicable federal, state or local laws.\n \n The requirements and duties described above may be modified or waived by the Company in its sole discretion without notice.\n R-2026-09-2",
+      "tags": [
+        "marketing",
+        "music"
+      ]
+    },
+    {
+      "id": "7760676307bdd858",
+      "title": "Social Media Coordinator",
+      "company": "CPAC Foundation",
+      "location": "Alexandria, Alexandria City",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-09-17T13:31:26Z",
+      "url": "https://www.adzuna.com/land/ad/5888040891?se=CkoT1XGz8RGOiJ7EtV7M4g&utm_medium=api&utm_source=59a3324b&v=9802C9DE901E2BD12E67385013218AA5E6482643",
+      "salary": "$57,285",
+      "description": "Job Description Job Description About the Role We’re looking for a creative, organized, and detail-oriented Social Media Coordinator to help manage our organization’s daily social media presence, support and turn performance data into actionable insights. This role is ideal for someone who is a strong writer, understands how social platforms work, enjoys working in a fast-paced environment, and understands the importance of accuracy and sound judgment. AI is a core tool and resource on our team…",
+      "tags": [
+        "social media",
+        "entry-level"
+      ]
+    },
     {
       "id": "93eb35786ae3372c",
       "title": "Marketing Assistant",
@@ -14,54 +111,6 @@
       "description": "Job Summary We are seeking a motivated Marketing Assistant to support promotional campaigns, customer engagement, lead generation, and business growth initiatives. This entry-level position is ideal for someone who enjoys interacting with people, presenting products and services, and gaining hands-on experience in marketing and sales. Responsibilities Assist with promotional campaigns and customer engagement activities. Engage with prospective customers and generate interest in products and ser…",
       "tags": [
         "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "bb9e94900cbdeb2d",
-      "title": "Public Relations Associate",
-      "company": "Surib",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-09-17T07:48:19Z",
-      "url": "https://www.adzuna.com/details/5887628613?utm_medium=api&utm_source=59a3324b",
-      "salary": "$45,600 – $52,620",
-      "description": "Job Summary We are seeking a personable and motivated Public Relations Associate to support customer outreach, community engagement, promotional activities, and positive brand representation. This entry-level role is ideal for someone who enjoys communicating with people, building professional relationships, and supporting customer acquisition and business development initiatives. Responsibilities Assist with customer and community outreach activities. Represent the company in a professional an…",
-      "tags": [
-        "public relations",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "6670e511d987f387",
-      "title": "Coordinator, Membership, Marketing & Strategic Programs",
-      "company": "ITI",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-09-17T02:46:20Z",
-      "url": "https://www.adzuna.com/details/5887276952?utm_medium=api&utm_source=59a3324b",
-      "salary": "$55,000 – $60,000",
-      "description": "Coordinator, Public Affairs Membership, Marketing & Strategic Programs About the role: As a Coordinator on ITI’s Public Affairs team, you will support ITI’s membership, marketing, strategic programs, and stakeholder engagement activities, working closely with the programs and membership leads. You will also serve as the backup Coordinator providing administrative and organizational support to the Executive Vice President, Public Affairs. You will help maintain the systems, relationships, and lo…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "804d3d7443c057c0",
-      "title": "Communications Specialist, Junior",
-      "company": "Georgetown University",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-09-16T20:19:16Z",
-      "url": "https://www.adzuna.com/land/ad/5886811885?se=MhePLq2y8RGFzIhtkyYOjw&utm_medium=api&utm_source=59a3324b&v=57F8405F79F26CC5025E15C63D05D36FD1B531CA",
-      "salary": "$50,308",
-      "description": "Georgetown University comprises two unique campuses in the nation’s capital. Supreme Court, Georgetown University offers rigorous academic programs, a global perspective, and unparalleled opportunities to engage with Washington, D.Our community is a close-knit group of remarkable individuals driven by intellectual inquiry, a commitment to social justice, and a shared dedication to making a difference in the world. Communications Manager, Beeck Center for Social Impact  Innovation – Georgetown U…",
-      "tags": [
-        "communications",
         "entry-level"
       ]
     },
@@ -110,22 +159,6 @@
       "description": "We are seeking a motivated, organized, and customer-focused Remote Tourism and Marketing Coordinator to join our team. This role combines travel planning, client support, destination research, and digital marketing to help connect travelers with memorable vacation experiences. The ideal candidate enjoys researching destinations, communicating with clients, creating engaging content, and staying organized while managing multiple responsibilities. You will assist with travel-related requests whil…",
       "tags": [
         "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "3b5b0906d6e2521a",
-      "title": "Communications Fellow - Asia Pacific Field Office Deployment",
-      "company": "International Justice Mission",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-09-13T04:10:24Z",
-      "url": "https://www.adzuna.com/details/5882399214?utm_medium=api&utm_source=59a3324b",
-      "salary": "$85,185",
-      "description": "Who We Are International Justice Mission (IJM) is the global leader in protecting vulnerable people from violence around the world. Our team of over 1,200 professionals are at work worldwide in over 30 offices. Together we are on a mission to rescue millions, protect half a billion, and make justice unstoppable. We are a global community that cares for one another. We believe that the way we work is as important as the results we achieve. We provide professional excellence with joy and celebrat…",
-      "tags": [
-        "communications",
         "entry-level"
       ]
     },
@@ -229,22 +262,6 @@
       ]
     },
     {
-      "id": "44bbf7bc5e26f219",
-      "title": "Communications Coordinator",
-      "company": "Center for Strategic and International Studies",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-09-11T02:39:06Z",
-      "url": "https://www.adzuna.com/details/5879386777?utm_medium=api&utm_source=59a3324b",
-      "salary": "$57,000 – $62,000",
-      "description": "JOB SUMMARY The Center for Strategic and International Studies (CSIS) is a non-profit, bipartisan public policy organization established in 1962 to provide strategic insights and practical policy solutions to decision makers concerned with global security and prosperity. Over the years, it has grown to be one of the largest organizations of its kind, with a staff of some 275 employees, including more than 120 analysts working to address the changing dynamics of international security across the…",
-      "tags": [
-        "communications",
-        "entry-level"
-      ]
-    },
-    {
       "id": "da41ed5f5ec6e609",
       "title": "Marketing Specialist, Aviation & Marine Services",
       "company": "SiriusXM",
@@ -274,22 +291,6 @@
       "tags": [
         "marketing",
         "music"
-      ]
-    },
-    {
-      "id": "0cba8dec7b03ef7a",
-      "title": "Entry-Level Sales & Marketing Associate",
-      "company": "GEM",
-      "location": "Alexandria, Alexandria City",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-09-10T07:44:53Z",
-      "url": "https://www.adzuna.com/details/5878389225?utm_medium=api&utm_source=59a3324b",
-      "salary": "$46,336",
-      "description": "We are looking for an Entry-Level Sales & Marketing Associate to join our growing team. This is a great opportunity for motivated, outgoing individuals who want to start a career, gain professional experience, and develop valuable skills in sales and marketing . No previous sales or marketing experience is required. We provide paid training, hands-on coaching, and ongoing support to help you learn the fundamentals of customer engagement, sales, marketing, promotions, and business development. I…",
-      "tags": [
-        "marketing",
-        "entry-level"
       ]
     },
     {
