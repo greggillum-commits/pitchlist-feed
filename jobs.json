@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-09-18T15:01:32.427Z",
+  "generatedAt": "2026-09-19T14:28:24.771Z",
   "jobs": [
+    {
+      "id": "8e84932ece6cdf15",
+      "title": "Entry Level Public Relations Coordinator",
+      "company": "Dutuc",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-09-19T07:53:13Z",
+      "url": "https://www.adzuna.com/details/5890602486?utm_medium=api&utm_source=59a3324b",
+      "salary": "$45,300 – $53,700",
+      "description": "About Us Dutuc bridges brand strategy, content, campaigns and growth under one calm, memorable identity. Above the water, sharp marketing. Underneath, relentless execution. Job Summary We are seeking a personable and organized Entry Level Public Relations Coordinator to support community outreach, customer engagement, promotional activities, and positive brand representation. This opportunity is ideal for someone who enjoys building relationships, communicating with different audiences, and dev…",
+      "tags": [
+        "public relations",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "3106a247762613df",
+      "title": "Communication Associate",
+      "company": "Acacia Center for Justice",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-09-18T16:40:12Z",
+      "url": "https://www.adzuna.com/details/5889760879?utm_medium=api&utm_source=59a3324b",
+      "salary": "$48,840",
+      "description": "About Acacia Center for Justice: The Acacia Center for Justice (“Acacia”) provides legal support and representation to vulnerable immigrants facing deportation through the development, coordination, and management of national networks of legal services providers serving immigrants across the country. Acacia’s goals are twofold: to support immigrant legal services and defense networks to provide exceptional legal services to immigrants; and to advocate for the expansion of these programs and the…",
+      "tags": [
+        "communication",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "bc91618eb0c6c665",
+      "title": "Graphics and Communications Assistant",
+      "company": "Chimera Enterprises International",
+      "location": "Arlington, Arlington County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-09-18T13:30:39Z",
+      "url": "https://www.adzuna.com/details/5889648284?utm_medium=api&utm_source=59a3324b",
+      "salary": "$71,479",
+      "description": "The Graphics and Communications Assistant shall support the WMD Countermeasures Division by developing, organizing, and disseminating informational and outreach products that explain WMD Division activities, capabilities, and services to internal and external stakeholders. This position shall work closely with WMD Division staff to identify lessons learned, recurring questions, and emerging issues, and shall translate that information into clear, user-focused communication materials for Departm…",
+      "tags": [
+        "communications",
+        "entry-level"
+      ]
+    },
     {
       "id": "69c48cbecaf2aec1",
       "title": "Senior Analyst, Marketing Ops",
@@ -18,19 +66,35 @@
       ]
     },
     {
-      "id": "b4248f77c04d84d9",
+      "id": "a07d04b2c57c4917",
       "title": "Digital Strategy & Marketing Specialist",
       "company": "Private Label Staff",
       "location": "Washington, Washington, D.C.",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-09-18T07:55:48Z",
-      "url": "https://www.adzuna.com/land/ad/5889208702?se=bDslynGz8RGk6dCvHcHp9g&utm_medium=api&utm_source=59a3324b&v=D162ED512309B81DEAB46AA981DA1B52B14EC267",
+      "url": "https://www.adzuna.com/land/ad/5889208702?se=QiPsXDa08RGk6dCvHcHp9g&utm_medium=api&utm_source=59a3324b&v=D162ED512309B81DEAB46AA981DA1B52B14EC267",
       "salary": "$84,936",
       "description": "About the Role We are seeking a Senior Digital Growth & Marketing Specialist to strengthen our market presence, increase brand awareness, and drive measurable digital growth. This role will lead SEO, AI-driven search visibility, website performance, digital campaigns, analytics, and market positioning, working closely with Marketing, Sales, Solutions, and technology partners. Who Will Thrive in This Role A strategic, analytical, and hands-on marketer who can: Drive B2B digital marketing and SEO…",
       "tags": [
         "marketing",
         "music"
+      ]
+    },
+    {
+      "id": "51e886fb009cfbc8",
+      "title": "Public Relations Assistant",
+      "company": "Moodreact",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-09-18T07:51:47Z",
+      "url": "https://www.adzuna.com/details/5889203362?utm_medium=api&utm_source=59a3324b",
+      "salary": "$49,073",
+      "description": "About Us Moodreact is a full-service maintenance company supporting homes and businesses with expert electricians, appliance repair technicians, plumbers, and skilled general labor teams.We handle the tough jobs, the technical work, and the details others overlook—always with professionalism, safety, and efficiency in mind. Job Summary We are seeking a personable and motivated Public Relations Assistant to support outreach initiatives, customer engagement, promotional activities, and positive b…",
+      "tags": [
+        "public relations",
+        "entry-level"
       ]
     },
     {
@@ -83,22 +147,6 @@
       ]
     },
     {
-      "id": "7760676307bdd858",
-      "title": "Social Media Coordinator",
-      "company": "CPAC Foundation",
-      "location": "Alexandria, Alexandria City",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-09-17T13:31:26Z",
-      "url": "https://www.adzuna.com/land/ad/5888040891?se=CkoT1XGz8RGOiJ7EtV7M4g&utm_medium=api&utm_source=59a3324b&v=9802C9DE901E2BD12E67385013218AA5E6482643",
-      "salary": "$57,285",
-      "description": "Job Description Job Description About the Role We’re looking for a creative, organized, and detail-oriented Social Media Coordinator to help manage our organization’s daily social media presence, support and turn performance data into actionable insights. This role is ideal for someone who is a strong writer, understands how social platforms work, enjoys working in a fast-paced environment, and understands the importance of accuracy and sound judgment. AI is a core tool and resource on our team…",
-      "tags": [
-        "social media",
-        "entry-level"
-      ]
-    },
-    {
       "id": "93eb35786ae3372c",
       "title": "Marketing Assistant",
       "company": "Surib",
@@ -109,6 +157,38 @@
       "url": "https://www.adzuna.com/details/5887628624?utm_medium=api&utm_source=59a3324b",
       "salary": "$45,000 – $52,800",
       "description": "Job Summary We are seeking a motivated Marketing Assistant to support promotional campaigns, customer engagement, lead generation, and business growth initiatives. This entry-level position is ideal for someone who enjoys interacting with people, presenting products and services, and gaining hands-on experience in marketing and sales. Responsibilities Assist with promotional campaigns and customer engagement activities. Engage with prospective customers and generate interest in products and ser…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "bb9e94900cbdeb2d",
+      "title": "Public Relations Associate",
+      "company": "Surib",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-09-17T07:48:19Z",
+      "url": "https://www.adzuna.com/details/5887628613?utm_medium=api&utm_source=59a3324b",
+      "salary": "$45,600 – $52,620",
+      "description": "Job Summary We are seeking a personable and motivated Public Relations Associate to support customer outreach, community engagement, promotional activities, and positive brand representation. This entry-level role is ideal for someone who enjoys communicating with people, building professional relationships, and supporting customer acquisition and business development initiatives. Responsibilities Assist with customer and community outreach activities. Represent the company in a professional an…",
+      "tags": [
+        "public relations",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "6670e511d987f387",
+      "title": "Coordinator, Membership, Marketing & Strategic Programs",
+      "company": "ITI",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-09-17T02:46:20Z",
+      "url": "https://www.adzuna.com/details/5887276952?utm_medium=api&utm_source=59a3324b",
+      "salary": "$55,000 – $60,000",
+      "description": "Coordinator, Public Affairs Membership, Marketing & Strategic Programs About the role: As a Coordinator on ITI’s Public Affairs team, you will support ITI’s membership, marketing, strategic programs, and stakeholder engagement activities, working closely with the programs and membership leads. You will also serve as the backup Coordinator providing administrative and organizational support to the Executive Vice President, Public Affairs. You will help maintain the systems, relationships, and lo…",
       "tags": [
         "marketing",
         "entry-level"
@@ -163,6 +243,22 @@
       ]
     },
     {
+      "id": "3b5b0906d6e2521a",
+      "title": "Communications Fellow - Asia Pacific Field Office Deployment",
+      "company": "International Justice Mission",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-09-13T04:10:24Z",
+      "url": "https://www.adzuna.com/details/5882399214?utm_medium=api&utm_source=59a3324b",
+      "salary": "$85,185",
+      "description": "Who We Are International Justice Mission (IJM) is the global leader in protecting vulnerable people from violence around the world. Our team of over 1,200 professionals are at work worldwide in over 30 offices. Together we are on a mission to rescue millions, protect half a billion, and make justice unstoppable. We are a global community that cares for one another. We believe that the way we work is as important as the results we achieve. We provide professional excellence with joy and celebrat…",
+      "tags": [
+        "communications",
+        "entry-level"
+      ]
+    },
+    {
       "id": "b965d6207686c211",
       "title": "CSI Programming & Marketing Assistant (Student) (FWS)",
       "company": "American University",
@@ -210,55 +306,6 @@
         "marketing",
         "digital marketing",
         "music"
-      ]
-    },
-    {
-      "id": "e838f8d3ff144ff1",
-      "title": "Junior Marketing Coordinator",
-      "company": "CryptoGex",
-      "location": "Washington, D.C., US",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-09-11T20:58:11Z",
-      "url": "https://www.adzuna.com/details/5880423089?utm_medium=api&utm_source=59a3324b",
-      "salary": "$49,920 – $66,560",
-      "description": "About Us At CryptoGex , we specialize in designing and delivering high-impact technology experiences. We bring innovation to life through conferences, tech exhibitions, and immersive brand environments that connect companies with forward-thinking audiences. Position Overview We are seeking a proactive Marketing Coordinator to support campaign planning, event promotions, brand partnerships, and community outreach efforts. The Marketing Coordinator will assist in developing and executing marketin…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "eeed7113c8fcdf8c",
-      "title": "Marketing Coordinator (Entry-Level)",
-      "company": "Agent So Fearth",
-      "location": "Washington, D.C., US",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-09-11T20:58:01Z",
-      "url": "https://www.adzuna.com/details/5880422445?utm_medium=api&utm_source=59a3324b",
-      "salary": "$41,600 – $62,400",
-      "description": "About the Role We are seeking a motivated and detail-oriented Marketing Coordinator (Entry-Level) to support the execution of brand campaigns, promotional initiatives, and community outreach efforts in the Washington area. Key Responsibilities Assist in planning and coordinating local marketing and promotional campaigns Support execution of brand activations, events, and outreach programs Help prepare marketing materials and ensure brand consistency Coordinate schedules, locations, and logistic…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "e670686d4a1bfb74",
-      "title": "Assistant Account Executive, Burson Global Marketing & Communications",
-      "company": "Burson",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-09-11T09:49:58Z",
-      "url": "https://www.adzuna.com/details/5879778815?utm_medium=api&utm_source=59a3324b",
-      "salary": "$35,000 – $75,000",
-      "description": "Who we are: Burson, part of WPP, is the global communications leader built to create value for clients through reputation. With highly specialized teams, industry-leading technologies and breakthrough creative, we help brands and businesses redefine reputation as a competitive advantage so they can lead today and into the future. When you work at Burson, you are part of a global community of lifelong learners who thrive at the edge of innovation. WPP (LSE/NYSE: WPP) is the trusted growth partne…",
-      "tags": [
-        "communications",
-        "marketing",
-        "entry-level"
       ]
     },
     {
