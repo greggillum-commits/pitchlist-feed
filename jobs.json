@@ -1,6 +1,71 @@
 {
-  "generatedAt": "2026-09-23T15:27:50.292Z",
+  "generatedAt": "2026-09-24T15:50:08.396Z",
   "jobs": [
+    {
+      "id": "16262880ed0b405a",
+      "title": "Marketing Assistant",
+      "company": "Moodreact",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-09-24T07:29:16Z",
+      "url": "https://www.adzuna.com/details/5896751696?utm_medium=api&utm_source=59a3324b",
+      "salary": "$50,685",
+      "description": "About Us Moodreact is a full-service maintenance company supporting homes and businesses with expert electricians, appliance repair technicians, plumbers, and skilled general labor teams.We handle the tough jobs, the technical work, and the details others overlook—always with professionalism, safety, and efficiency in mind. Job Summary We are seeking an enthusiastic Marketing Assistant to support promotional initiatives, customer outreach, lead generation, and sales activities. This position is…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "b32fc647c8cedcba",
+      "title": "Director, Brand Creative & Content",
+      "company": "Monumental Sports & Entertainment",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-09-23T17:12:40Z",
+      "url": "https://www.adzuna.com/land/ad/5895668685?se=jnV3mi-48RGPOd9YPZETDw&utm_medium=api&utm_source=59a3324b&v=331194803906E01B6867EE1DF3389A750E8AFA90",
+      "salary": "$106,562",
+      "description": "Monumental Sports & Entertainment (MSE) is one of the leading integrated sports and entertainment companies globally. MSE’s portfolio spans premier professional sports teams, world-class venues, and next-generation media properties, with marquee assets including the NHL’s Washington Capitals, NBA’s Washington Wizards, WNBA’s Washington Mystics, NBA G League’s Capital City Go-Go, Capital One Arena, and Monumental Sports Network, along with an investment in Team Liquid. C's distinct influence, am…",
+      "tags": [
+        "content",
+        "brand",
+        "music"
+      ]
+    },
+    {
+      "id": "55a8ade67c014673",
+      "title": "Director, Social Media",
+      "company": "Monumental Sports & Entertainment",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-09-23T16:56:13Z",
+      "url": "https://www.adzuna.com/land/ad/5895643168?se=jnV3mi-48RGPOd9YPZETDw&utm_medium=api&utm_source=59a3324b&v=730F625DCA28929B41E8F6A389DE76C82054FFBD",
+      "salary": "$108,358",
+      "description": "Monumental Sports & Entertainment (MSE) is one of the leading integrated sports and entertainment companies globally. MSE’s portfolio spans premier professional sports teams, world-class venues, and next-generation media properties, with marquee assets including the NHL’s Washington Capitals, NBA’s Washington Wizards, WNBA’s Washington Mystics, NBA G League’s Capital City Go-Go, Capital One Arena, and Monumental Sports Network, along with an investment in Team Liquid. Rooted in the nation’s cap…",
+      "tags": [
+        "social media",
+        "music"
+      ]
+    },
+    {
+      "id": "c0c36958b7d8db97",
+      "title": "Marketing Assistant (Student)",
+      "company": "American University",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-09-23T16:49:43Z",
+      "url": "https://www.adzuna.com/land/ad/5895632010?se=9A_hmS-48RG_LevdjZ8dqA&utm_medium=api&utm_source=59a3324b&v=0A79911142CD3DBFA24B5005611500F3F1A04466",
+      "salary": "$41,035",
+      "description": "Work Where You Learn: Build Experience, Grow Skills, and Contribute to Your University Community. This position is available only to enrolled American University students. Most student positions at American University are eligible to use Federal Work Study (FWS) awards, with a few exceptions. FWS funds cannot be applied to janitorial, construction, partisan or sectarian positions. For information or questions regarding FWS funds, please contact American University's Office of Financial Aid. Imp…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
     {
       "id": "38543939a1bb9921",
       "title": "Marketing Coordinator",
@@ -30,22 +95,6 @@
       "description": "We are seeking a motivated and driven Junior Marketing Communications Assistant to join our growing team and support innovative marketing campaigns for well-established clients. Our firm provides marketing, advertising, and consulting solutions for national and local organizations. We specialize in creating customized promotional strategies that increase brand awareness, connect with target audiences, and generate new business opportunities. As a Junior Marketing Communications Assistant, you w…",
       "tags": [
         "communications",
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "4028a8056448f2e9",
-      "title": "Marketing Assistant (Student)",
-      "company": "American University",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-09-23T01:11:19Z",
-      "url": "https://www.adzuna.com/details/5894801325?utm_medium=api&utm_source=59a3324b",
-      "salary": "$38,272 – $48,880",
-      "description": "Work Where You Learn: Build Experience, Grow Skills, and Contribute to Your University Community. This position is available only to enrolled American University students. Most student positions at American University are eligible to use Federal Work Study (FWS) awards, with a few exceptions. FWS funds cannot be applied to janitorial, construction, partisan or sectarian positions. For information or questions regarding FWS funds, please contact American University's Office of Financial Aid. Imp…",
-      "tags": [
         "marketing",
         "entry-level"
       ]
@@ -132,6 +181,22 @@
       ]
     },
     {
+      "id": "6bb359844cdd18df",
+      "title": "Communication Associate",
+      "company": "Acacia Center for Justice",
+      "location": "Washington, D.C., US",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-09-20T08:30:48Z",
+      "url": "https://www.adzuna.com/details/5891736081?utm_medium=api&utm_source=59a3324b",
+      "salary": "$80,000",
+      "description": "About Acacia Center for Justice: The Acacia Center for Justice (“Acacia”) provides legal support and representation to vulnerable immigrants facing deportation through the development, coordination, and management of national networks of legal services providers serving immigrants across the country. Acacia’s goals are twofold: to support immigrant legal services and defense networks to provide exceptional legal services to immigrants; and to advocate for the expansion of these programs and the…",
+      "tags": [
+        "communication",
+        "entry-level"
+      ]
+    },
+    {
       "id": "ebdd7d0ad4c3289f",
       "title": "Entry Level Marketing Associate",
       "company": "Sparkbit 360",
@@ -165,14 +230,14 @@
       ]
     },
     {
-      "id": "11533bbc68ca9ac6",
+      "id": "692760e1965201f9",
       "title": "Marketing Coordinator",
       "company": "Hyatt",
       "location": "Washington, D.C., US",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-09-20T06:53:31Z",
-      "url": "https://www.adzuna.com/land/ad/5891620567?se=yDQdVWO38RGDPvae9fxzmA&utm_medium=api&utm_source=59a3324b&v=82150A2C08B286AA179AA3510AE8593D79C596AD",
+      "url": "https://www.adzuna.com/land/ad/5891620567?se=xD-hnS-48RGgMY43NiMBEQ&utm_medium=api&utm_source=59a3324b&v=82150A2C08B286AA179AA3510AE8593D79C596AD",
       "salary": "$32,632",
       "description": "Description: Join us for this incredible opportunity at Grand Hyatt Washington located in downtown Washington, D.C. Not only will you be part of a great team, you will also be part of a company that is one of Fortune's 100 Best Companies to Work For, for several years running! Grand Hyatt Washington hosts large volume conventions and also caters to leisure travelers. The Marketing Coordinator is responsible for developing and executing integrated marketing, communications, social media, and dig…",
       "tags": [
@@ -193,22 +258,6 @@
       "description": "About Us Dutuc bridges brand strategy, content, campaigns and growth under one calm, memorable identity. Above the water, sharp marketing. Underneath, relentless execution. Job Summary We are seeking a personable and organized Entry Level Public Relations Coordinator to support community outreach, customer engagement, promotional activities, and positive brand representation. This opportunity is ideal for someone who enjoys building relationships, communicating with different audiences, and dev…",
       "tags": [
         "public relations",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "3106a247762613df",
-      "title": "Communication Associate",
-      "company": "Acacia Center for Justice",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-09-18T16:40:12Z",
-      "url": "https://www.adzuna.com/details/5889760879?utm_medium=api&utm_source=59a3324b",
-      "salary": "$48,840",
-      "description": "About Acacia Center for Justice: The Acacia Center for Justice (“Acacia”) provides legal support and representation to vulnerable immigrants facing deportation through the development, coordination, and management of national networks of legal services providers serving immigrants across the country. Acacia’s goals are twofold: to support immigrant legal services and defense networks to provide exceptional legal services to immigrants; and to advocate for the expansion of these programs and the…",
-      "tags": [
-        "communication",
         "entry-level"
       ]
     },
@@ -245,68 +294,19 @@
       ]
     },
     {
-      "id": "2563af8f3033f1be",
+      "id": "d99cfe10f5810e34",
       "title": "Digital Strategy & Marketing Specialist",
       "company": "Private Label Staff",
       "location": "Washington, Washington, D.C.",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-09-18T07:55:48Z",
-      "url": "https://www.adzuna.com/land/ad/5889208702?se=EDMLU2O38RGC4YytmZ486A&utm_medium=api&utm_source=59a3324b&v=D162ED512309B81DEAB46AA981DA1B52B14EC267",
+      "url": "https://www.adzuna.com/land/ad/5889208702?se=LF8cmy-48RGqqJ23Mt790Q&utm_medium=api&utm_source=59a3324b&v=D162ED512309B81DEAB46AA981DA1B52B14EC267",
       "salary": "$84,936",
       "description": "About the Role We are seeking a Senior Digital Growth & Marketing Specialist to strengthen our market presence, increase brand awareness, and drive measurable digital growth. This role will lead SEO, AI-driven search visibility, website performance, digital campaigns, analytics, and market positioning, working closely with Marketing, Sales, Solutions, and technology partners. Who Will Thrive in This Role A strategic, analytical, and hands-on marketer who can: Drive B2B digital marketing and SEO…",
       "tags": [
         "marketing",
         "music"
-      ]
-    },
-    {
-      "id": "51e886fb009cfbc8",
-      "title": "Public Relations Assistant",
-      "company": "Moodreact",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-09-18T07:51:47Z",
-      "url": "https://www.adzuna.com/details/5889203362?utm_medium=api&utm_source=59a3324b",
-      "salary": "$49,073",
-      "description": "About Us Moodreact is a full-service maintenance company supporting homes and businesses with expert electricians, appliance repair technicians, plumbers, and skilled general labor teams.We handle the tough jobs, the technical work, and the details others overlook—always with professionalism, safety, and efficiency in mind. Job Summary We are seeking a personable and motivated Public Relations Assistant to support outreach initiatives, customer engagement, promotional activities, and positive b…",
-      "tags": [
-        "public relations",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "7b6fda4c213866df",
-      "title": "Communications Assistant",
-      "company": "Moodreact",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-09-18T07:51:47Z",
-      "url": "https://www.adzuna.com/details/5889203365?utm_medium=api&utm_source=59a3324b",
-      "salary": "$40,607",
-      "description": "About Us Moodreact is a full-service maintenance company supporting homes and businesses with expert electricians, appliance repair technicians, plumbers, and skilled general labor teams.We handle the tough jobs, the technical work, and the details others overlook—always with professionalism, safety, and efficiency in mind. Job Summary We are seeking an enthusiastic Communications Assistant to support customer outreach, promotional communication, and relationship-building initiatives. This entr…",
-      "tags": [
-        "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "43b4cf1ebacfaf00",
-      "title": "Coordinator, Global Partnerships Marketing",
-      "company": "Monumental Sports & Entertainment",
-      "location": "Rosslyn, Arlington County",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-09-18T06:26:21Z",
-      "url": "https://www.adzuna.com/details/5889069261?utm_medium=api&utm_source=59a3324b",
-      "salary": "$50,003 – $55,016",
-      "description": "Monumental Sports & Entertainment (MSE) is one of the leading integrated sports and entertainment companies globally. MSE’s portfolio spans premier professional sports teams, world-class venues, and next-generation media properties, with marquee assets including the NHL’s Washington Capitals, NBA’s Washington Wizards, WNBA’s Washington Mystics, NBA G League’s Capital City Go-Go, Capital One Arena, and Monumental Sports Network, along with an investment in Team Liquid. Rooted in the nation’s cap…",
-      "tags": [
-        "marketing",
-        "music",
-        "entry-level"
       ]
     },
     {
@@ -661,23 +661,6 @@
       "description": "<p><strong><u>About Sony Music Entertainment</u></strong></p>\n<p>At Sony Music Entertainment, we fuel the creative journey. We’ve played a pioneering role in music history, from the first-ever music label to the invention of the flat disc record. We’ve nurtured some of music’s most iconic artists and produced some of the most influential recordings of all time.</p>\n<p>Today, we work in more than 70 countries, supporting a diverse roster of international superstars, developing and independent artists, and visionary creators. From our position at the intersection of music, entertainment, and technology, we bring imagination and expertise to the newest products and platforms, embrace new business models, employ breakthrough tools, and provide powerful insights that help our artists push creative boundaries and reach new audiences. In everything we do, we’re committed to artistic integrity, transparency, and entrepreneurship.</p>\n<p>Sony Music Entertainment is a member of the Sony family of global companies.</p>\n<p>As Senior Director, Creator Strategy &amp; Viral Marketing at AWAL, you will lead the label's US creator ecosystem and oversee our digital content team to turn real-time internet trends, algorithmic patterns, and high-impact creator partnerships into scalable viral moments that drive global streaming consumption.</p>\n<h2><strong>What you'll do:</strong></h2>\n<ul>\n<li>Lead influencer and creator strategy across AWAL’s roster, building a scalable network of relationships with influencers/creators, agencies and managers to deliver high-impact campaigns across priority releases</li>\n<li>Act as our internal creator marketing &amp; niche community expert across all genres and target audiences, driving thought leadership across the organization</li>\n<li>Track and analyze fast-moving digital trends, internet culture, and algorithmic behaviors to ensure continuous relevance for AWAL artists.</li>\n<li>Drive creator campaigns from ideation through execution, handling outreach and budget negotiations to maximize efficiency, impact and ROI</li>\n<li>Track and analyze campaign KPIs to inform next steps &amp; identify new opportunities for growth across target audiences</li>\n<li>Deliver weekly trend analysis and innovative content strategies that keep our music at the epicenter of Gen Z conversations</li>\n<li>Oversee the Viral Content team's daily operations and weekly priorities while maintaining a comprehensive cultural calendar to capitalize on real-time trends &amp; timely events</li>\n<li>Establish internal processes to scale top-performing content across the roster, maximizing KPIs, streaming metrics, and TikTok/Reels sound engagement</li>\n<li>Collaborate with Audience Development and Viral Content teams to conceptualize and execute innovative, multi-platform initiatives, pushing boundaries to translate big-picture concepts into scalable audience acquisition and sustained viral growth</li>\n</ul>\n<h2 class=\"iCIMS_InfoMsg iCIMS_InfoField_Job\"><strong>Who you are:</strong></h2>\n<ul>\n<li>6+ years of experience in influencer or creator marketing within the music or entertainment industry</li>\n<li>Passionate about music with an expert understanding of pop culture, digital trends, and fan behavior</li>\n<li>Experience leading teams and managing junior team members</li>\n<li>Strong relationship-building skills with an established network of influencers, creators, external agencies, and talent managers</li>\n<li>Experience executing end-to-end creator marketing campaigns, from sourcing and briefing to tracking, reporting, and analysis</li>\n<li>Strategic thinker with a deep understanding of digital platform algorithms and niche online communities</li>\n<li>Expert at translating fast-moving internet trends and fan behavior into high-impact short-form content strategies</li>\n<li>Excellent organizational skills with the ability to manage multiple complex campaigns simultaneously in a fast-paced environment</li>\n</ul>\n<div class=\"iCIMS_InfoMsg iCIMS_InfoMsg_Job\">&nbsp;</div>\n<h2 class=\"iCIMS_InfoMsg iCIMS_InfoField_Job\"><strong>What we give you:</strong></h2>\n<ul>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"1\" data-aria-level=\"1\"><span data-contrast=\"none\">You join an inclusive, collaborative and global community where you have the opportunity to </span><span data-contrast=\"none\">channel your passion every day&nbsp;</span><span data-ccp-props=\"{}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"2\" data-aria-level=\"1\"><span data-contrast=\"none\">A modern office environment designed to foster productivity, creativity, and teamwork empowering you to bring your best</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"4\" data-aria-level=\"1\"><span data-contrast=\"none\">An attractive and comprehensive benefits package including medical, dental, vision, life &amp; disability coverage, and 401K + employer matching</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"5\" data-aria-level=\"1\"><span data-contrast=\"none\">Voluntary benefits like company-paid identity theft protection and resources for pets, mental health and meditation resources, industry-leading fertility coverage, fully paid leave for childbirth or bonding, fully paid leave for caregivers, programs for loved ones with developmental disabilities and neurodiversity, subsidized back-up child and elder care, and reimbursement for adoption, surrogacy, tuition, and student loans</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"6\" data-aria-level=\"1\"><span data-contrast=\"auto\">Investment in your professional growth and development enabling you to thrive in our vibrant community.&nbsp;</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"7\" data-aria-level=\"1\"><span data-contrast=\"auto\">The space to accelerate progress, positively disrupt, and create what happens next&nbsp;</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"8\" data-aria-level=\"1\"><span data-contrast=\"none\">Time off for a winter recess</span></li>\n</ul>\n<p><em>Sony Music is committed to providing equal employment opportunity for all persons regardless of age, disability, national origin, race, color, religion, sex, sexual orientation, gender, gender identity or expression, pregnancy, veteran or military status, marital and civil partnership/union status, alienage or citizenship status, creed, genetic information or any other status protected by applicable federal, state, or local law.</em></p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\">The anticipated annual base salary does not include any other compensation components or other benefits that an individual may be eligible for. &nbsp;The actual base salary offered depends on a variety of factors, which may include as applicable, the qualifications of the individual applicant for the position, years of relevant experience, specific and unique skills, level of education attained, certifications or other professional licenses held, and the location in which the applicant lives and/or from which they will be performing the job.</div><div class=\"title\">California Pay Range</div><div class=\"pay-range\"><span>$120,000</span><span class=\"divider\">&mdash;</span><span>$130,000 USD</span></div></div></div>",
       "tags": [
         "marketing",
-        "music"
-      ]
-    },
-    {
-      "id": "d7734066a7749179",
-      "title": "Senior Director, Strategic Marketing (Brand Partnerships) - AWAL",
-      "company": "Sony Music",
-      "location": "United States, California, Los Angeles",
-      "remote": "onsite",
-      "source": "Greenhouse",
-      "datePosted": "2026-09-02T09:12:37-04:00",
-      "url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8584199002",
-      "salary": null,
-      "description": "<p><strong><u>About Sony Music Entertainment</u></strong></p>\n<p>At Sony Music Entertainment, we fuel the creative journey. We’ve played a pioneering role in music history, from the first-ever music label to the invention of the flat disc record. We’ve nurtured some of music’s most iconic artists and produced some of the most influential recordings of all time.</p>\n<p>Today, we work in more than 70 countries, supporting a diverse roster of international superstars, developing and independent artists, and visionary creators. From our position at the intersection of music, entertainment, and technology, we bring imagination and expertise to the newest products and platforms, embrace new business models, employ breakthrough tools, and provide powerful insights that help our artists push creative boundaries and reach new audiences. In everything we do, we’re committed to artistic integrity, transparency, and entrepreneurship.</p>\n<p>Sony Music Entertainment is a member of the Sony family of global companies.</p>\n<p>AWAL is seeking a dynamic and passionate Senior Director&nbsp;of Strategic Marketing to lead the development, negotiation, and execution of innovative brand partnership opportunities across AWAL’s artist roster. This role will serve as a key connector between artists, managers, brands, agencies and internal teams to create culturally relevant campaigns that drive revenue, audience growth, and long-term artist brand value.</p>\n<p>The ideal candidate is a highly connected business development leader with deep experience in music, entertainment, lifestyle marketing, and integrated partnerships. This individual should possess strong negotiation skills, a passion for artist development, and a proven ability to create meaningful collaborations between brands and culture-driving talent.</p>\n<h2><strong>What you'll do:</strong></h2>\n<p><strong>Brand Partnership Strategy&nbsp;</strong></p>\n<ul>\n<li>Develop and execute AWAL’s overall brand partnerships strategy in alignment with company growth objectives and artist priorities.</li>\n<li>Identify, source, and secure new partnership opportunities across categories including fashion, technology, gaming, automotive, beverage, consumer goods, wellness, sports, and social platforms.</li>\n<li>Generate sponsorship, endorsement, experiential, content, and integrated marketing opportunities for AWAL artists and campaigns.</li>\n<li>Build custom partnership proposals and revenue-generating programs tailored to artists, releases, tours and cultural moments.</li>\n</ul>\n<p>&nbsp;</p>\n<div class=\"iCIMS_InfoMsg iCIMS_InfoMsg_Job\">\n<p><strong>Relationship Management</strong></p>\n<ul>\n<li>Cultivate and maintain senior-level relationships with brands, agencies, media partners,&nbsp; marketing executives, philanthropic organizations and other strategic partners.</li>\n<li>Serve as the primary point of contact for brand-related opportunities across AWAL’s roster.</li>\n<li>Work closely with artist managers, attorneys, and internal stakeholders to ensure alignment on partnership execution.</li>\n</ul>\n<p><strong>Campaign Execution</strong></p>\n<ul>\n<li>Lead end-to-end partnership execution from ideation and negotiation through activation and reporting</li>\n<li>Collaborate with marketing, creative, digital, sync and publicity teams to execute integrated campaigns.</li>\n<li>Ensure all partnerships authentically align with artist brands, audiences, and long-term career strategy.</li>\n<li>Oversee timelines, budgets, approvals, contractual obligations, and performance metrics.</li>\n</ul>\n<p><strong>Market Insights &amp; Innovation</strong></p>\n<ul>\n<li>Stay ahead of emerging trends across music, creator economy, social media, live experiences, and brand marketing.</li>\n<li>Identify innovative formats and nontraditional partnership opportunities that position AWAL as a leader in artist-brand collaboration.</li>\n<li>Use data and audience insights to inform partnership strategy and campaign effectiveness.</li>\n</ul>\n</div>\n<h2 class=\"iCIMS_InfoMsg iCIMS_InfoField_Job\"><strong>Who you are:</strong></h2>\n<ul>\n<li>8–10+ years of experience in brand partnerships, strategic marketing, business development, sponsorships or integrated marketing within music, entertainment, media, sports, or agency environments.</li>\n<li>Proven track record of securing and executing high-value partnerships and sponsorship deals.</li>\n<li>Deep understanding of music culture, artist marketing, digital platforms, and the brand/entertainment ecosystems.</li>\n<li>Strong network of brand and agency relationships.</li>\n<li>Exceptional communication, presentation, negotiation, and relationship management skills.</li>\n<li>Ability to work cross-functionally in a fast-paced, entrepreneurial environment.</li>\n<li>Strong strategic thinking and commercial acumen.</li>\n<li>Experience working directly with artists, managers, and talent teams preferred.</li>\n<li>Passion for independent music and artist development.</li>\n</ul>\n<div class=\"iCIMS_InfoMsg iCIMS_InfoMsg_Job\">\n<div class=\"iCIMS_Expandable_Container\">\n<p>&nbsp;</p>\n</div>\n</div>\n<h2 class=\"iCIMS_InfoMsg iCIMS_InfoField_Job\"><strong>What we give you:</strong></h2>\n<ul>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"1\" data-aria-level=\"1\"><span data-contrast=\"none\">You join an inclusive, collaborative and global community where you have the opportunity to </span><span data-contrast=\"none\">channel your passion every day&nbsp;</span><span data-ccp-props=\"{}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"2\" data-aria-level=\"1\"><span data-contrast=\"none\">A modern office environment designed to foster productivity, creativity, and teamwork empowering you to bring your best</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"4\" data-aria-level=\"1\"><span data-contrast=\"none\">An attractive and comprehensive benefits package including medical, dental, vision, life &amp; disability coverage, and 401K + employer matching</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"5\" data-aria-level=\"1\"><span data-contrast=\"none\">Voluntary benefits like company-paid identity theft protection and resources for pets, mental health and meditation resources, industry-leading fertility coverage, fully paid leave for childbirth or bonding, fully paid leave for caregivers, programs for loved ones with developmental disabilities and neurodiversity, subsidized back-up child and elder care, and reimbursement for adoption, surrogacy, tuition, and student loans</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"6\" data-aria-level=\"1\"><span data-contrast=\"auto\">Investment in your professional growth and development enabling you to thrive in our vibrant community.&nbsp;</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"7\" data-aria-level=\"1\"><span data-contrast=\"auto\">The space to accelerate progress, positively disrupt, and create what happens next&nbsp;</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"8\" data-aria-level=\"1\"><span data-contrast=\"none\">Time off for a winter recess</span></li>\n</ul>\n<p><em>Sony Music is committed to providing equal employment opportunity for all persons regardless of age, disability, national origin, race, color, religion, sex, sexual orientation, gender, gender identity or expression, pregnancy, veteran or military status, marital and civil partnership/union status, alienage or citizenship status, creed, genetic information or any other status protected by applicable federal, state, or local law.</em></p>\n<p><em>California based applicants have certain rights under California law. Please see our <a href=\"https://cdn.smehost.net/2019sonymusiccom-smeprod/wp-content/uploads/2023/01/CA-Recruitment-Privacy-Policy.pdf\" target=\"_blank\">California Recruitment Privacy Policy</a> for more details.</em></p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\">The anticipated annual base salary does not include any other compensation components or other benefits that an individual may be eligible for. &nbsp;The actual base salary offered depends on a variety of factors, which may include as applicable, the qualifications of the individual applicant for the position, years of relevant experience, specific and unique skills, level of education attained, certifications or other professional licenses held, and the location in which the applicant lives and/or from which they will be performing the job.</div><div class=\"title\">California Pay Range</div><div class=\"pay-range\"><span>$120,000</span><span class=\"divider\">&mdash;</span><span>$145,000 USD</span></div></div></div>",
-      "tags": [
-        "marketing",
-        "brand",
         "music"
       ]
     },
