@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-09-26T14:59:05.548Z",
+  "generatedAt": "2026-09-27T15:40:31.811Z",
   "jobs": [
+    {
+      "id": "81b8c0e1da213b1c",
+      "title": "Marketing Project Assistant",
+      "company": "Silver Marketing",
+      "location": "Bethesda, Montgomery County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-09-27T05:45:39Z",
+      "url": "https://www.adzuna.com/details/5900502071?utm_medium=api&utm_source=59a3324b",
+      "salary": "$69,516 – $83,718",
+      "description": "About the Job Silver Marketing is hiring a motivated, dependable, and organized Marketing Project Assistant to join our growing team. This entry-level opportunity is ideal for someone interested in marketing, project coordination, content creation, and client services. Previous marketing experience is helpful but not required, as training and ongoing support will be provided. About Silver Marketing Silver Marketing is a full-service marketing agency known for strategic thinking, compelling crea…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
     {
       "id": "82fb65230b901efd",
       "title": "Marketing Coordinator",
