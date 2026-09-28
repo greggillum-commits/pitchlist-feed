@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-09-27T15:40:31.811Z",
+  "generatedAt": "2026-09-28T18:37:03.223Z",
   "jobs": [
+    {
+      "id": "91df084f2c1ada9a",
+      "title": "Remote Hospitality & Marketing Coordinator",
+      "company": "Fran's ExploreMore Travel",
+      "location": "Washington, Washington, D.C.",
+      "remote": "remote",
+      "source": "Adzuna",
+      "datePosted": "2026-09-28T05:36:45Z",
+      "url": "https://www.adzuna.com/details/5901457838?utm_medium=api&utm_source=59a3324b",
+      "salary": "$55,000 – $65,000",
+      "description": "We are seeking a detail-oriented, creative, and customer-focused Remote Hospitality and Marketing Coordinator to join our growing team. In this role, you will assist with coordinating travel and hospitality experiences while supporting marketing initiatives designed to promote destinations, accommodations, and vacation experiences. You will communicate with clients, research travel options, coordinate reservation details, and assist with digital content and promotional efforts. This position is…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
     {
       "id": "81b8c0e1da213b1c",
       "title": "Marketing Project Assistant",
@@ -114,22 +130,6 @@
       ]
     },
     {
-      "id": "38543939a1bb9921",
-      "title": "Marketing Coordinator",
-      "company": "Clune Construction Company",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-09-23T10:56:07Z",
-      "url": "https://www.adzuna.com/details/5895266783?utm_medium=api&utm_source=59a3324b",
-      "salary": "$89,000 – $98,000",
-      "description": "Are you ready to grow your career with a company that values excellence and invests in its people? At Clune Construction, we’re more than builders—we’re a team of driven, collaborative and talented individuals who take pride in delivering exceptional work. Excellence is at the core of everything we do, from the quality of our projects to the way we support our people. As an employee-owned company, we invest in our team, and in return, our people share in our success. This shared commitment has …",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
       "id": "51b5b8a393f17553",
       "title": "Junior Marketing Communications Assistant – Entry-Level",
       "company": "HHV",
@@ -209,71 +209,6 @@
       "tags": [
         "marketing",
         "music"
-      ]
-    },
-    {
-      "id": "b2a06c40744b2006",
-      "title": "Executive & Brand Coordinator to the CEO",
-      "company": "RedPeg Marketing",
-      "location": "Trade, Alexandria City",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-09-20T10:47:35Z",
-      "url": "https://www.adzuna.com/details/5891802342?utm_medium=api&utm_source=59a3324b",
-      "salary": "$92,410",
-      "description": "Executive Assistant Location: Alexandria, VA (in office 4 days a week) Title: Executive & Brand Coordinator to the CEO Reports to: Chief Executive Office Classification: Exempt Why You’ll Love Working at RedPeg We are an independent, full-service experiential marketing agency that connects brands to the consumers they need to reach through customized, personal engagement. We have been named a Washington Post Top Workplace (2020), recognized on Event Marketer’s IT List of the Top 100 event agenc…",
-      "tags": [
-        "brand",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "6bb359844cdd18df",
-      "title": "Communication Associate",
-      "company": "Acacia Center for Justice",
-      "location": "Washington, D.C., US",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-09-20T08:30:48Z",
-      "url": "https://www.adzuna.com/details/5891736081?utm_medium=api&utm_source=59a3324b",
-      "salary": "$80,000",
-      "description": "About Acacia Center for Justice: The Acacia Center for Justice (“Acacia”) provides legal support and representation to vulnerable immigrants facing deportation through the development, coordination, and management of national networks of legal services providers serving immigrants across the country. Acacia’s goals are twofold: to support immigrant legal services and defense networks to provide exceptional legal services to immigrants; and to advocate for the expansion of these programs and the…",
-      "tags": [
-        "communication",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "ebdd7d0ad4c3289f",
-      "title": "Entry Level Marketing Associate",
-      "company": "Sparkbit 360",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-09-20T07:52:13Z",
-      "url": "https://www.adzuna.com/details/5891677345?utm_medium=api&utm_source=59a3324b",
-      "salary": "$35,360 – $56,160",
-      "description": "Job Description Job Description At Sparkbit 360 , we believe that every brand has a story worth sharing, a message that can inspire, and a vision that deserves to be seen. As a full-service marketing and public relations agency, were dedicated to helping businesses like yours thrive in an ever-evolving world. Position Overview: We are seeking a highly motivated and dynamic Entry Level Marketing Associate to join our vibrant marketing team. This role is an excellent opportunity for recent gradua…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "6953fcee92dcfc7e",
-      "title": "Press Associate, Communications and Public Engagement",
-      "company": "Partnership for Public Service",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-09-20T07:12:00Z",
-      "url": "https://www.adzuna.com/details/5891664071?utm_medium=api&utm_source=59a3324b",
-      "salary": "$52,500 – $54,500",
-      "description": "ORGANIZATION The Partnership for Public Service is a nonpartisan, nonprofit organization dedicated to building a better government and a stronger democracy. We believe that our future and our democracy depend on our ability to solve big problems—and that we need an effective federal government to do so. For 25 years, we have helped make this vision a reality by helping our government—the public institution most fundamental to our democracy—address current and future challenges. Our staff is div…",
-      "tags": [
-        "press",
-        "communications",
-        "entry-level"
       ]
     },
     {
