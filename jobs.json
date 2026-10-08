@@ -1,6 +1,71 @@
 {
-  "generatedAt": "2026-10-07T17:50:43.939Z",
+  "generatedAt": "2026-10-08T17:53:33.638Z",
   "jobs": [
+    {
+      "id": "8a310a5ea6917d54",
+      "title": "Manager, Content Acquisition",
+      "company": "Spotify",
+      "location": "Los Angeles, CA",
+      "remote": "hybrid",
+      "source": "Lever",
+      "datePosted": "2026-10-08T15:47:02.609Z",
+      "url": "https://jobs.lever.co/spotify/da45648b-3b35-4e4b-81df-31667aa4a76d",
+      "salary": null,
+      "description": "",
+      "tags": [
+        "content",
+        "music"
+      ]
+    },
+    {
+      "id": "37301391046ea9a7",
+      "title": "Marketing & Communications Assistant – Entry Level",
+      "company": "GEM",
+      "location": "Alexandria, Alexandria City",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-10-08T08:12:31Z",
+      "url": "https://www.adzuna.com/details/5918906436?utm_medium=api&utm_source=59a3324b",
+      "salary": "$45,628",
+      "description": "GEM is looking for an enthusiastic Marketing & Communications Assistant to support marketing initiatives, community outreach, events, and customer engagement campaigns. This is an entry-level opportunity designed for individuals who want to develop real-world communication and marketing skills. Responsibilities Support marketing and outreach campaigns Represent organizations at events and promotional activities Communicate campaign information to customers and community members Assist with even…",
+      "tags": [
+        "communications",
+        "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "081517fb2dc3b131",
+      "title": "Marketing Assistant : Entry Level",
+      "company": "HHV",
+      "location": "Cameron Station, Alexandria City",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-10-08T01:43:43Z",
+      "url": "https://www.adzuna.com/details/5918516797?utm_medium=api&utm_source=59a3324b",
+      "salary": "$60,261",
+      "description": "We39;re hiring an Entry-Level Marketing Assistant to join our growing marketing and sales team. This is a great opportunity for someone interested in marketing, advertising, promotions, customer engagement, brand awareness, sales, and communications. No previous marketing experience is required. Paid training is provided. You39;ll gain hands-on experience supporting marketing campaigns, promotional events, customer engagement, and brand promotions while learning from experienced team members. W…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "3e95b5f0583812e8",
+      "title": "Marketing Assistant (Student)",
+      "company": "American University",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-10-07T21:29:34Z",
+      "url": "https://www.adzuna.com/land/ad/5917946905?se=woPqLEHD8RGYlKz4wh8B5A&utm_medium=api&utm_source=59a3324b&v=780BC767167AB2326F77437EA6DFC897E9CAF58D",
+      "salary": "$53,141",
+      "description": "Work Where You Learn: Build Experience, Grow Skills, and Contribute to Your University Community. This position is available only to enrolled American University students. Most student positions at American University are eligible to use Federal Work Study (FWS) awards, with a few exceptions. FWS funds cannot be applied to janitorial, construction, partisan or sectarian positions. For information or questions regarding FWS funds, please contact American University's Office of Financial Aid. Imp…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
     {
       "id": "8f545c33324c0aec",
       "title": "Analyst, Marketing Financial Planning",
@@ -277,14 +342,30 @@
       ]
     },
     {
-      "id": "8fb066c854f76d80",
+      "id": "7b64200bebd147a7",
+      "title": "Executive & Brand Coordinator to the CEO",
+      "company": "RedPeg Marketing",
+      "location": "Alexandria, Alexandria City",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-10-07T09:02:29Z",
+      "url": "https://www.adzuna.com/land/ad/5917087833?se=5CbKLUHD8RGYlKz4wh8B5A&utm_medium=api&utm_source=59a3324b&v=E29FA19AEF5E39DB91B376BFC2957FD40635E4A7",
+      "salary": "$73,469",
+      "description": "Executive Assistant Location: Alexandria, VA (in office 4 days a week) Title: Executive & Brand Coordinator to the CEO Reports to: Chief Executive Office Classification: Exempt Why You’ll Love Working at RedPeg We are an independent, full-service experiential marketing agency that connects brands to the consumers they need to reach through customized, personal engagement. We have been named a Washington Post Top Workplace (2020), recognized on Event Marketer’s IT List of the Top 100 event agenc…",
+      "tags": [
+        "brand",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "96b7017343ea61ab",
       "title": "Marketing Associate",
       "company": "TekStream Solutions",
       "location": "Arlington, Arlington County",
       "remote": "hybrid",
       "source": "Adzuna",
       "datePosted": "2026-10-07T08:38:40Z",
-      "url": "https://www.adzuna.com/land/ad/5917057146?se=oKB7nXfC8RG_dfJx5Ytquw&utm_medium=api&utm_source=59a3324b&v=CD218C1F701D606C0CD2E27B9C832BADE45860F7",
+      "url": "https://www.adzuna.com/land/ad/5917057146?se=lh8lLUHD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=59a3324b&v=CD218C1F701D606C0CD2E27B9C832BADE45860F7",
       "salary": "$50,447",
       "description": "Marketing Associate Location: Arlington, VA 22203 (Hybrid, 3 days on-site) Citizenship: US Citizenship is required. TekStream is working with a client to identify a creative and motivated, early-career Marketing Associate to join a growing federal contractor in San Diego. The Marketing Associate will: Play a key part in supporting the implementation of the newly refreshed brand, developing creative content and updating marketing materials such as promotional papers, advertisements, and social m…",
       "tags": [
@@ -293,30 +374,14 @@
       ]
     },
     {
-      "id": "3845459afababe23",
-      "title": "Communications Coordinator",
-      "company": "DC Public Charter School Board",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-07T08:35:14Z",
-      "url": "https://www.adzuna.com/land/ad/5917049782?se=2uD9lnfC8RG_PYTtY09nDQ&utm_medium=api&utm_source=59a3324b&v=8F171854AB4C6ABD226998823CDEA51FF9DFA9C3",
-      "salary": "$49,633",
-      "description": "ABOUT THE DC PUBLIC CHARTER SCHOOL BOARD (DC PCSB) Every day, we’re doing the work to ensure that 48,000 public charter school students, families, and communities receive a quality education that makes them feel valued and prepared for lifelong learning, fulfilling careers, and economic security. DC PCSB is an independent agency of the District of Columbia government. Our mission, vision, values, and work are rooted in the principle of ensuring that every DC student has access to a quality educ…",
-      "tags": [
-        "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "362c4876c59fdbc4",
+      "id": "acbd14de5f39aba0",
       "title": "Public Relations Associate",
       "company": "ROCS Grad Staffing",
       "location": "Washington, D.C., US",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-10-07T08:33:12Z",
-      "url": "https://www.adzuna.com/land/ad/5917045399?se=nD3xnXfC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=59a3324b&v=40FB543375BD107F1597837D91C44B6A275915C3",
+      "url": "https://www.adzuna.com/land/ad/5917045399?se=vA2JLUHD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=59a3324b&v=40FB543375BD107F1597837D91C44B6A275915C3",
       "salary": "$70,895",
       "description": "Why You Want To Work Here This is a hands-on communications role focused on creating digital content, managing the organization’s website and social media channels, designing marketing and advocacy materials, and supporting communications campaigns that advance the organization’s mission. On a daily basis, you will write and edit content, develop graphics and presentations, monitor news and policy developments, and collaborate with teams across the organization to support internal and external …",
       "tags": [
@@ -325,46 +390,14 @@
       ]
     },
     {
-      "id": "3682d994d992d550",
-      "title": "Communications Coordinator",
-      "company": "Limitless East Marketing",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-07T04:30:48Z",
-      "url": "https://www.adzuna.com/land/ad/5916617935?se=2uD9lnfC8RG_PYTtY09nDQ&utm_medium=api&utm_source=59a3324b&v=389C3C7CF65E16A3DEF529F0F2DE2F0B82EC56D3",
-      "salary": "$53,157",
-      "description": "At Limitless East Marketing, we redefine possibilities through innovative, data-driven strategies that inspire and connect, ensuring measurable results for your brand. Job Description Job Description : We are seeking a dynamic and detail-oriented Communications Coordinator to join our team and help us effectively convey our organization's message to diverse audiences. In this role, you will play a pivotal part in managing our internal and external communications, ensuring consistent and clear m…",
-      "tags": [
-        "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "03dae0920432f62b",
-      "title": "Social Media Coordinator",
-      "company": "ECU Communications, LLC",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-07T04:22:42Z",
-      "url": "https://www.adzuna.com/land/ad/5916585483?se=KHAPnnfC8RGRZ6QSUIDhmA&utm_medium=api&utm_source=59a3324b&v=16F2C47B16547226624931F45B34EDCA5DEBD3EE",
-      "salary": "$79,202",
-      "description": "Job Description Job Description Benefits: Paid Holidays Life insurance Disability insurance 401(k) matching Dental insurance Health insurance Paid time off Vision insurance Flexible schedule SOCIAL MEDIA COORDINATOR We are currently seeking a highly skilled candidate with a minimum of 4 years’ experience who will serve as a Social Media Coordinator to support a Federal Government client. Must pass a background check for security clearance, be a U.S. citizen, and must be able to work on site in …",
-      "tags": [
-        "social media",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "94815c1818cc9776",
+      "id": "d5e7c51044e06f6e",
       "title": "Communications Coordinator",
       "company": "Aircare International",
       "location": "Washington, Washington, D.C.",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-10-07T02:30:11Z",
-      "url": "https://www.adzuna.com/land/ad/5916056875?se=2uD9lnfC8RG_PYTtY09nDQ&utm_medium=api&utm_source=59a3324b&v=F6AF6EE91DAE9A7941A51AE31325A914C0AF8F9E",
+      "url": "https://www.adzuna.com/land/ad/5916056875?se=6KbjK0HD8RGehKgrpTYXiQ&utm_medium=api&utm_source=59a3324b&v=F6AF6EE91DAE9A7941A51AE31325A914C0AF8F9E",
       "salary": "$63,246",
       "description": "Job Description Job Description JOB BRIEF: Aircare International is currently seeking a full-time Call Center Specialist with excellent communication and research skills. Must be able to work efficiently with computers, multi-line phone systems and be able to multi-task within a team environment. This position requires the ability to meet and exceed our client's expectations. As a member of Aircare Access employee, you will coordinate with and provide staffing assistance to corporate aircrews w…",
       "tags": [
@@ -373,146 +406,18 @@
       ]
     },
     {
-      "id": "2d5a846e51888d82",
-      "title": "Marketing Assistant",
-      "company": "PNW Web Designers",
-      "location": "Washington, Washington, D.C.",
+      "id": "3cd485b8ea4dd7f1",
+      "title": "Graphics and Communications Assistant",
+      "company": "Chimera Enterprises International",
+      "location": "Arlington, Arlington County",
       "remote": "onsite",
       "source": "Adzuna",
-      "datePosted": "2026-10-07T01:56:36Z",
-      "url": "https://www.adzuna.com/land/ad/5915761986?se=AM-xnHfC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=59a3324b&v=9CF26174E6FBF8AF173D1D9B3D753BCAC8E7FF9A",
-      "salary": "$33,474",
-      "description": "Job Description Job Description Marketing Assistant (Entry Level) Company: PNW Web Designers & Marketing Location: Onsite – Ocean Shores, WA Pay: Starting at $17.50/hour Schedule: Starting at 25 hours per week with opportunity for additional hours based on workload and performance. Position Overview PNW Web Designers & Marketing is seeking a motivated Marketing Assistant to support client projects involving website content updates, social media, local marketing campaigns, Google Business Profil…",
+      "datePosted": "2026-10-07T00:14:10Z",
+      "url": "https://www.adzuna.com/land/ad/5915375845?se=vJhPLEHD8RGehKgrpTYXiQ&utm_medium=api&utm_source=59a3324b&v=3E563FD93D68E04A1B650F7704C71FF1F35338C6",
+      "salary": "$67,635",
+      "description": "The Graphics and Communications Assistant shall support the WMD Countermeasures Division by developing, organizing, and disseminating informational and outreach products that explain WMD Division activities, capabilities, and services to internal and external stakeholders. This position shall work closely with WMD Division staff to identify lessons learned, recurring questions, and emerging issues, and shall translate that information into clear, user-focused communication materials for Departm…",
       "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "6b69f663fd1a636e",
-      "title": "Public Relations Assistant - Entry Level",
-      "company": "HHV",
-      "location": "Trade, Alexandria City",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-07T01:33:31Z",
-      "url": "https://www.adzuna.com/land/ad/5915626925?se=iPfSnXfC8RG_dfJx5Ytquw&utm_medium=api&utm_source=59a3324b&v=72FBA71A33E7A70219459C2953976458B6BA3010",
-      "salary": "$51,955",
-      "description": "We are hiring an enthusiastic Public Relations Assistant to join our growing team. This is an excellent opportunity for candidates looking to start a career in public relations, marketing, communications, community outreach, events, or customer engagement . No previous PR or marketing experience is required. We provide paid training, hands-on coaching, and professional mentorship to help you develop the skills needed to succeed. What You39;ll Do As a Public Relations Assistant, you will gain ha…",
-      "tags": [
-        "public relations",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "188eee17a044463d",
-      "title": "Marketing Coordinator",
-      "company": "Sanabria & Associates PLLC",
-      "location": "Silver Spring, Montgomery County",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-07T01:29:38Z",
-      "url": "https://www.adzuna.com/land/ad/5915606052?se=AM-xnHfC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=59a3324b&v=A95F4713C47BB9A7E76A588A0D057CBBB8AEF246",
-      "salary": "$38,238",
-      "description": "Description Sanabria & Associates, PLLC is a fast-growing and highly respected law firm with offices throughout Maryland, Virginia, and Florida. We are seeking a highly organized, creative, and results-driven Marketing Coordinator to support and execute the firm's marketing and business development initiatives. This position is ideal for a marketing professional who is comfortable taking ownership of projects, managing multiple priorities, analyzing performance, and turning ideas into well-exec…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "c0d880415664b89c",
-      "title": "Dispatcher & Social Media Coordinator",
-      "company": "Snow Goose Transit",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-07T01:16:29Z",
-      "url": "https://www.adzuna.com/land/ad/5915579900?se=Uv5mk3fC8RG_dfJx5Ytquw&utm_medium=api&utm_source=59a3324b&v=EEE97C32FF822247C9316FB7F0662388821AFF14",
-      "salary": "$50,490",
-      "description": "Job Description Job Description Snow Goose Transit is a DBA of the Lincoln Hill Retirement Community, which is a non-profit organization. SGT’s mission is to provide reliable and safe transportation focusing on those with disabilities, older adults, and low-income families. The dispatcher & social media coordinator (D&SMC) position will assist the SGT manager in accomplishing this goal. This position is an entry level part-time position, and we provide the training. The shift starts at 6:00 am …",
-      "tags": [
-        "social media",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "682364662a0c05f7",
-      "title": "Social Media Associate",
-      "company": "Public Citizen",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-07T01:14:20Z",
-      "url": "https://www.adzuna.com/land/ad/5915568592?se=Uv5mk3fC8RG_dfJx5Ytquw&utm_medium=api&utm_source=59a3324b&v=AA173FCD149DFAABE57F12A8D9B49CB923E386BB",
-      "salary": "$71,990",
-      "description": "Job Description Job Description Public Citizen’s Communications Office is seeking a social media associate to join a creative, energetic and fast-paced team at a critical political moment where authoritarianism is on the rise and the assault on our democracy is unprecedented. The social media associate will be a quick and creative thinker and a strong and detail-oriented online writer, someone who is the first to know about the latest social media trends, platforms and technology. The social me…",
-      "tags": [
-        "social media",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "7b4f0d7332e858c2",
-      "title": "Public Relations and Events Coordinator",
-      "company": "Chihuly Inc",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-07T01:03:53Z",
-      "url": "https://www.adzuna.com/land/ad/5915541652?se=RPl2jHfC8RG_PYTtY09nDQ&utm_medium=api&utm_source=59a3324b&v=5A3DD8E649505E4216A7543B3E68F29F2F238588",
-      "salary": "$58,386",
-      "description": ": Job Summary Chihuly Studio is seeking a Public Relations & Events Coordinator to join our team. Chihuly Studio is the family-owned business of world-renowned artist Dale Chihuly, where the Chihuly team is committed to a collaborative and passionate culture supporting the work, creative design, and excellent client service of our inspirational and distinguished artist, Dale Chihuly. The Public Relations & Events Coordinator reports to the Vice President of Sales and Marketing and is primarily …",
-      "tags": [
-        "public relations",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "612a857e1fe305bd",
-      "title": "Marketing Associate - Bethesda",
-      "company": "TTR Sotheby's International Realty",
-      "location": "West Bethesda, Montgomery County",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-07T00:47:19Z",
-      "url": "https://www.adzuna.com/land/ad/5915484907?se=Uv5mk3fC8RG_dfJx5Ytquw&utm_medium=api&utm_source=59a3324b&v=7BFE34DD3D03E24D653D81C85CEA9B5249F520F9",
-      "salary": "$50,541",
-      "description": "Job Description Job Description Marketing/Operations Associate Bethesda, Maryland This is a full-time, in-office role based Bethesda, MD brokerage. The Marketing/Operations Associate will also provide support our North Potomac office with occasional visits as needed. About Sotheby’s International Realty: Sotheby’s International is the Washington Metropolitan Area’s premier luxury real estate brokerage and is regarded as one of the highest-performing real estate firms in the United States. With …",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "66954ccb11d22841",
-      "title": "Marketing Associate",
-      "company": "Navaide",
-      "location": "State Farm, Arlington County",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-07T00:18:20Z",
-      "url": "https://www.adzuna.com/land/ad/5915406242?se=oKB7nXfC8RG_dfJx5Ytquw&utm_medium=api&utm_source=59a3324b&v=453F082CCF4CF2851603B06D9AC19C52BA48116E",
-      "salary": "$64,783",
-      "description": "Marketing Associate Navaide is seeking a creative and motivated Marketing Associate to join our team. In this role, you will play a key part in supporting the implementation of our brand, developing marketing materials, and enhancing our presence across various channels. In this role, you will lead marketing projects, manage content development, and enhance brand presence across digital and traditional channels. You will be expected to apply critical thinking, strategic execution, and project m…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "22fdaf1070111beb",
-      "title": "Marketing Coordinator",
-      "company": "ServiceMaster NCR",
-      "location": "Trade, Alexandria City",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-07T00:18:04Z",
-      "url": "https://www.adzuna.com/land/ad/5915404512?se=AM-xnHfC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=59a3324b&v=851ABAA03847D9E3EE78272CC6AAAFC7B8FCB662",
-      "salary": "$72,952",
-      "description": "Job Description Job Description MARKETING COORDINATOR ABOUT US ServiceMaster NCR has been a trusted leader in disaster restoration across the DC Metro area for nearly 40 years, specializing in water damage, mold remediation, fire cleaning, and reconstruction services. The Marketing Coordinator creates and coordinates our marketing materials, bid packages, and visual content, working directly with Sales and Business Development. The role also supports leadership with referral tracking, governmen…",
-      "tags": [
-        "marketing",
+        "communications",
         "entry-level"
       ]
     },
@@ -525,7 +430,7 @@
       "source": "Adzuna",
       "datePosted": "2026-10-06T23:10:10Z",
       "url": "https://www.adzuna.com/details/5915225256?utm_medium=api&utm_source=59a3324b",
-      "salary": "$61,792",
+      "salary": "$61,013",
       "description": "Who Are We: Comply is the leading provider of compliance SaaS and consulting services for the global financial services sector. With more than 5,000 clients and hundreds of employees across the globe, Comply empowers Chief Compliance Officers and their teams to proactively manage regulatory obligations, mitigate risk, and scale with efficiency and confidence. Comply serves thousands of global financial services clients including broker-dealers, insurers, investment banks, private funds, RIAs, a…",
       "tags": [
         "marketing",
@@ -533,465 +438,14 @@
       ]
     },
     {
-      "id": "3b7a8cdff961eab7",
-      "title": "Graphics and Communications Assistant",
-      "company": "Chimera Enterprises International",
-      "location": "State Farm, Arlington County",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-06T23:08:01Z",
-      "url": "https://www.adzuna.com/land/ad/5915208872?se=LlgvmnfC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=59a3324b&v=EA9434C256833A298EDED878C630619E0721CC6C",
-      "salary": "$84,454",
-      "description": "The Graphics and Communications Assistant shall support the WMD Countermeasures Division by developing, organizing, and disseminating informational and outreach products that explain WMD Division activities, capabilities, and services to internal and external stakeholders. This position shall work closely with WMD Division staff to identify lessons learned, recurring questions, and emerging issues, and shall translate that information into clear, user-focused communication materials for Departm…",
-      "tags": [
-        "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "db95836355d0da80",
-      "title": "Social Media and Marketing Assistant",
-      "company": "Circle Creek Therapy",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-06T23:07:17Z",
-      "url": "https://www.adzuna.com/land/ad/5915203498?se=suU9nXfC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=59a3324b&v=54CAE880E88C8BF3C214A138637DDAEAFEBE502E",
-      "salary": "$43,246",
-      "description": "Help Us Share Our Story At Circle Creek Therapy, we believe every child deserves the opportunity to thrive. As a family-centered pediatric therapy clinic, we provide Speech Therapy, Occupational Therapy, Physical Therapy, Behavioral Health, and ABA services in a collaborative, supportive environment. We're looking for a creative, organized, and motivated Marketing Assistant to help us grow our presence within the community and share the incredible work happening every day at Circle Creek Therap…",
-      "tags": [
-        "marketing",
-        "social media",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "9a019ef2b3d32bb2",
-      "title": "Communications Associate",
-      "company": "New Virginia Majority",
-      "location": "Alexandria, Alexandria City",
-      "remote": "hybrid",
-      "source": "Adzuna",
-      "datePosted": "2026-10-06T23:02:39Z",
-      "url": "https://www.adzuna.com/land/ad/5915166971?se=uuxDnHfC8RG_dfJx5Ytquw&utm_medium=api&utm_source=59a3324b&v=99A5F33408DB2C2DCEE0DF736B4D99B06FE05CF7",
-      "salary": "$61,321",
-      "description": "Role : Communications Associate-2 Reports to : Director of Communications Salary : $52,000-$60,000 Location: This is a hybrid position based out of the Alexandria office. About the Role New Virginia Majority (NVM), Virginia’s leading civic engagement organization, builds power in working-class communities of color across the commonwealth. We organize around issues of racial, economic, and environmental justice year-round through deep community organizing, mass voter mobilization and policy advo…",
-      "tags": [
-        "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "4825700dc55df084",
-      "title": "Digital Communications Associate",
-      "company": "Addison Group",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-06T22:43:55Z",
-      "url": "https://www.adzuna.com/land/ad/5915062455?se=uuxDnHfC8RG_dfJx5Ytquw&utm_medium=api&utm_source=59a3324b&v=F87E37C25713F0D78359749A56BD18633A1BC6E5",
-      "salary": "$62,555",
-      "description": "Job Description Job Description Job Title : Digital Communications Associate Industry : Marketing | Professional Services Location : Washington, DC (Fully Onsite) Assignment Type : Contract | 3–5 Months Pay : $25 – $29 / Hour (depending on experience) Work Schedule : Monday – Friday | 9:00 AM – 5:00 PM Benefits : This position is eligible for medical, dental, vision, and 401(k). About The Company : A well-established professional organization in Washington, DC is seeking a creative and detail-o…",
-      "tags": [
-        "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "1cadb42d198ea0b5",
-      "title": "Experienced Marketing Coordinator",
-      "company": "Thermall Heating & Cooling",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-06T22:23:27Z",
-      "url": "https://www.adzuna.com/land/ad/5915022824?se=AM-xnHfC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=59a3324b&v=63AD1F83CA05C94EC05DD64254973CDF11AA0BFE",
-      "salary": "$74,715",
-      "description": "Job Description Job Description Join Thermall Heating, Cooling & Electric in Yakima, WA as a full-time Experienced Marketing Coordinator to drive real results and success for a local business! Pay: $28.00 - $34.00/hour, based on experience Benefits: Annual bonuses 75%-paid medical 100%-paid dental and 100%-paid vision A 401(k) plan with match Profit-sharing Vacation and sick leave Paid time off (PTO) Do you thrive on meeting goals and achieving objectives? Can you adapt your strategies to fit d…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "0584e8488b13ea55",
-      "title": "Brand Marketing Coordinator",
-      "company": "[solidcore]",
-      "location": "Arlington, Arlington County",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-06T22:22:56Z",
-      "url": "https://www.adzuna.com/land/ad/5915020520?se=AM-xnHfC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=59a3324b&v=343B399C5D6B2ACCB5A29CD8400E573F30764D95",
-      "salary": "$55,899",
-      "description": "Job Description Job Description [solidcore] is looking for a Brand Marketing Coordinator to join our team. This role is the connective tissue between brand strategy and local execution — serving as the day-to-day point of contact for field activation, keeping field teams equipped and informed, and coordinating owned and partner brand experiences from planning through execution. Beyond field coordination, this person will support the broader marketing calendar and help translate brand strategy a…",
-      "tags": [
-        "marketing",
-        "brand",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "07d7a6abc9013fc0",
-      "title": "Marketing & Business Development Coordinator",
-      "company": "Holmes US",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-06T22:10:31Z",
-      "url": "https://www.adzuna.com/land/ad/5914997490?se=AM-xnHfC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=59a3324b&v=1E97DDCCD47C8A00E025A266E6DD878F708A569F",
-      "salary": "$53,275",
-      "description": "Help Us Tell Our Story & Grow Your Career! Are you a people-oriented, detail-driven communicator who's ready to roll up your sleeves and learn what great marketing looks like in a fast-paced, design-driven engineering firm? Do you love crafting compelling content, building relationships, and helping a team stay connected with the clients that matter most? Holmes US is looking for a motivated Marketing & Business Development Coordinator to grow their career! Who We Are: We're Holmes US - an inte…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "80775699ae9e2cce",
-      "title": "Influencer Marketing Coordinator (US)",
-      "company": "Later",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-06T22:00:48Z",
-      "url": "https://www.adzuna.com/land/ad/5914925171?se=AM-xnHfC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=59a3324b&v=FDA7F97E5F373112FF6387E44B6F8034C2FBA129",
-      "salary": "$53,153",
-      "description": "Later is the world’s most intelligent influencer marketing company, built to give brands the confidence to create unforgettable campaigns. By combining real creator relationships, trusted intelligence, and expert guidance, Later removes fear and guesswork from one of marketing’s most visible investments. Built on a native, AI-powered platform and more than a decade of proprietary data—including billions of social interactions, impressions, and $2. 4B in verified influencer-driven purchases—Late…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "f529c8a75bcd04da",
-      "title": "Executive & Brand Coordinator to the CEO",
-      "company": "RedPeg Marketing",
-      "location": "Alexandria, Alexandria City",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-06T21:41:29Z",
-      "url": "https://www.adzuna.com/land/ad/5914858307?se=Rs05nnfC8RGRZ6QSUIDhmA&utm_medium=api&utm_source=59a3324b&v=3B14839D7D794FAD435F08E54CF7DAF729DFBBF1",
-      "salary": "$76,978",
-      "description": "Job Description Job Description Executive Assistant Location: Alexandria, VA (in office 4 days a week) Title: Executive & Brand Coordinator to the CEO Reports to: Chief Executive Office Classification: Exempt Why You’ll Love Working at RedPeg We are an independent, full-service experiential marketing agency that connects brands to the consumers they need to reach through customized, personal engagement. We have been named a Washington Post Top Workplace (2020), recognized on Event Marketer’s IT…",
-      "tags": [
-        "brand",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "c84c413b10fb2d23",
-      "title": "Marketing Coordinator",
-      "company": "Targeted Talent",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-06T21:18:53Z",
-      "url": "https://www.adzuna.com/land/ad/5914738980?se=AM-xnHfC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=59a3324b&v=D0B15596AFD447922F7A2AC93ADBFDAD4169A22C",
-      "salary": "$52,406",
-      "description": "Job Description Job Description You Will: Identify target customers and markets, develop and implement strategies for marketing and sales in an assigned region, or industry. Collects and compiles customer feedback in an easily reviewed and understood format for review by company management and leadership. Collects and maintains sales records required to track, review, and modify the performance of marketing initiatives. Prepares and reports results, the status of accounts, and leads to the mana…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "2b050eab1ca6236e",
-      "title": "Junior Marketing Communications Assistant - Entry-Level",
-      "company": "HHV",
-      "location": "Trade, Alexandria City",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-06T21:10:27Z",
-      "url": "https://www.adzuna.com/land/ad/5914688869?se=LlgvmnfC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=59a3324b&v=2801A190F5CAA488416A4338778CF79B62807D16",
-      "salary": "$47,544",
-      "description": "Job Description Job Description We are seeking a motivated and driven Junior Marketing Communications Assistant to join our growing team and support innovative marketing campaigns for well-established clients. Our firm provides marketing, advertising, and consulting solutions for national and local organizations. We specialize in creating customized promotional strategies that increase brand awareness, connect with target audiences, and generate new business opportunities. As a Junior Marketing…",
-      "tags": [
-        "communications",
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "22185743a926a260",
-      "title": "Proposal Marketing Associate, Land Development & Public Works, West Coast",
-      "company": "Atwell, LLC",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-06T20:58:09Z",
-      "url": "https://www.adzuna.com/land/ad/5914668497?se=oKB7nXfC8RG_dfJx5Ytquw&utm_medium=api&utm_source=59a3324b&v=9AB87A7FBC4BF38B4E257B353BB96ECE20255038",
-      "salary": "$121,103",
-      "description": "Job Description Job Description Who We Are Atwell, LLC is a bold leader in the consulting, engineering, and construction services industry, delivering a broad range of creative solutions to clients in the real estate & land development, and energy markets. We have a strong national presence and a diverse, award-winning project portfolio. Atwell is a privately owned company, with 2,000 passionate team members across 75 locations and growing! Atwell, LLC is a proud recipient of the following 2025…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "6921aeee5291a753",
-      "title": "Proposal & Marketing Coordinator",
-      "company": "Smoot Construction Company of Washington, DC",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-06T20:57:23Z",
-      "url": "https://www.adzuna.com/land/ad/5914659027?se=AM-xnHfC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=59a3324b&v=0874FCCBEE845F18ADBB9633EB310C3168D0BF10",
-      "salary": "$84,145",
-      "description": "Job Description Job Description Position Summary : Smoot Construction Company of Washington, DC (SmootDC) is a construction management, design-build, and general contracting firm headquartered in Washington, DC, with offices in Boston, Massachusetts, and Ohio. For more than 55 years, SmootDC has delivered significant construction projects throughout the greater Washington region, including historic federal building renovations, K-12 schools, libraries, public spaces, and community facilities. T…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "eb63a424862300e1",
-      "title": "Support Staff & Social Media Coordinator",
-      "company": "Express Employment Professionals Express Employment Professionals",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-06T20:50:28Z",
-      "url": "https://www.adzuna.com/land/ad/5914610281?se=KHAPnnfC8RGRZ6QSUIDhmA&utm_medium=api&utm_source=59a3324b&v=0E68D8BDE336397D1762E135A8721DAC9F3806A5",
-      "salary": "$41,457",
-      "description": "Job Description: Support Staff & Social Media Coordinator A premier local winery is expanding its hospitality program and seeking a polished, guest focused professional to support its Hospitality Director in delivering an elevated, intimate tasting experience. This role blends front of house service support with behind the scenes operations and social media coordination. You’ll help execute daily service, prepare tasting spaces, engage with guests, and support the behind the scenes operations t…",
-      "tags": [
-        "social media",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "c9beb3cf2bce2e2b",
-      "title": "Community Relations & Marketing Coordinator",
-      "company": "Senior Helpers - Kennewick, WA",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-06T20:50:12Z",
-      "url": "https://www.adzuna.com/land/ad/5914607202?se=AM-xnHfC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=59a3324b&v=FB206BF7C0DC98B95A381C9C949F656BEBB40405",
-      "salary": "$53,525",
-      "description": "Community Relations & Marketing Coordinator Senior Helpers Tri-Cities Kennewick, WA Full-Time | $23–$27/hour DOE  Performance Incentives Help Us Build Relationships That Make a Difference Senior Helpers Tri-Cities is looking for an outgoing, relationship-focused Community Relations & Marketing Coordinator to help grow our presence throughout the Tri-Cities community. This is not a sit-behind-a-desk marketing position. We are looking for someone who enjoys meeting people, building genuine relati…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "f64e5c1efb5b4d37",
-      "title": "Communications Associate, Disability Project",
-      "company": "KeenLogic",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-06T20:46:11Z",
-      "url": "https://www.adzuna.com/land/ad/5914574008?se=uuxDnHfC8RG_dfJx5Ytquw&utm_medium=api&utm_source=59a3324b&v=7E8A724CED93FDE8CB44FB782488A45B767BCDD1",
-      "salary": "$60,756",
-      "description": "Communications Specialist KeenLogic is seeking a Communications Specialist to support and develop strategic communications, branding initiatives, marketing campaigns, and customer engagement efforts that support Members, Committees, Leadership Offices, and House support organizations. This position plays a critical role in developing and executing communications strategies, creating marketing content, and supporting stakeholder engagement initiatives across the House community. KeenLogic offers…",
-      "tags": [
-        "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "7d5f852f68932159",
-      "title": "Marketing Coordinator",
-      "company": "Red Carrot",
-      "location": "Washington, Washington, D.C.",
-      "remote": "remote",
-      "source": "Adzuna",
-      "datePosted": "2026-10-06T20:38:33Z",
-      "url": "https://www.adzuna.com/land/ad/5914558472?se=AM-xnHfC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=59a3324b&v=2C33DD452E70B98607C58C36C84C56EC42665634",
-      "salary": "$92,924",
-      "description": "Marketing Coordinator Level: Junior | Work Location: Remote ⚠ This position is contingent upon contract award. ABOUT THE ROLE Red Carrot is seeking a Marketing Coordinator to support marketing and communications efforts across a range of projects and clients. This generalist role blends project coordination, content creation, and administrative support to help execute marketing strategies that align with client objectives, with a strong emphasis on accuracy and attention to detail. KEY RESPONSI…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "cf4132039e5a8c70",
-      "title": "Marketing Coordinator",
-      "company": "Sparks Group",
-      "location": "Washington, Washington, D.C.",
-      "remote": "remote",
-      "source": "Adzuna",
-      "datePosted": "2026-10-06T20:38:24Z",
-      "url": "https://www.adzuna.com/land/ad/5914557422?se=AM-xnHfC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=59a3324b&v=5FAEA0547451F9AC092A3D1EE030CC898F4A518A",
-      "salary": "$70,605",
-      "description": "Job Description Job Description Marketing Coordinator Job Summary: We’re seeking a self-driven Marketing Coordinator to join a global Association in Washington, DC. This is long-term, fully remote contract role that will last at least a year, probably longer. As a Marketing Coordinator, you’ll support the marketing, logistics and production of webinars, expo partnerships, and other virtual events and lead generation products including white papers, e-books, quizzes, and surveys. In addition to …",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "169a6e3601ff9b3c",
-      "title": "Social Media Associate",
-      "company": "Jooble",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-06T20:38:21Z",
-      "url": "https://www.adzuna.com/land/ad/5914557138?se=Uv5mk3fC8RG_dfJx5Ytquw&utm_medium=api&utm_source=59a3324b&v=14A5319E727B2BF11316A836C273B2A468527BCF",
-      "salary": "$72,960",
-      "description": "Earthjustice is the nation's leading environmental law organization. We wield the power of law and the strength of partnership to protect people’s health, preserve magnificent places and wildlife, advance clean energy, and combat climate change. We are here because the Earth needs a good lawyer. Driven by a passion for justice, inclusion, partnership, and excellence, our core values lead us to seek a broad range of perspectives and backgrounds to achieve our mission and maintain an inclusive en…",
-      "tags": [
-        "social media",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "78e64c70fc46627a",
-      "title": "Administrative & Communications Assistant (PT)",
-      "company": "Lake Washington Schools Foundation",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-06T20:38:15Z",
-      "url": "https://www.adzuna.com/land/ad/5914556413?se=LlgvmnfC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=59a3324b&v=C059931FB0EBF479DC90E6AA49DACCEB2F983E12",
-      "salary": "$67,315",
-      "description": "Job Description Job Description About Lake Washington Schools Foundation: The Lake Washington Schools Foundation (LWSF) raises funds and amplifies community resources to provide students in Lake Washington School District (LWSD) what they need to thrive, both now and in the future. Over the past 20 years, the Foundation has successfully raised and allocated millions of dollars toward programs and initiatives that support students across the district. Our work helps remove barriers, support well…",
-      "tags": [
-        "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "adc1f124f0e21b1a",
-      "title": "Enrollment and Marketing Coordinator",
-      "company": "International Community Health Services",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-06T20:34:54Z",
-      "url": "https://www.adzuna.com/land/ad/5914529281?se=AM-xnHfC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=59a3324b&v=9FAA95FEF1B0DD702CEE8CDD899EEAD92C204FF3",
-      "salary": "$70,336",
-      "description": "Job Description Job Description Join the ICHS Team! Discover how you can make a difference in people’s lives and help strengthen communities. International Community Health Services (ICHS) is a nationally recognized community health center. For over 50 years, we have provided medical, dental, and wellness care to individuals and families from all regions and all walks of life many of whom face significant barriers to receiving the care they need. We believe that quality health care supports str…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "6277b746da242a9e",
-      "title": "Marketing Coordinator - Architecture & Design",
-      "company": "Quest Group Executive Search & Staffing Solutions",
-      "location": "Trade, Alexandria City",
-      "remote": "hybrid",
-      "source": "Adzuna",
-      "datePosted": "2026-10-06T20:18:13Z",
-      "url": "https://www.adzuna.com/land/ad/5914480826?se=AM-xnHfC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=59a3324b&v=AC97C85BFC67C2EC90219E4A28AC72CD39747515",
-      "salary": "$75,942",
-      "description": "Job Description Job Description Marketing Coordinator – Architecture & Design Location: Alexandria, VA Schedule: Hybrid – 3 days in office / 2 days remote Our client is a well-established, nationally recognized architecture and design firm with a long history of delivering innovative projects across hospitality, multifamily, restaurants and bars, corporate offices, K-12 and higher education, urban planning, landscape design, and branding for the built environment. We are seeking a Marketing Coo…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "ac94259f2ed63cb2",
-      "title": "Power Marketing Associate",
-      "company": "Total Energies",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-06T20:16:52Z",
-      "url": "https://www.adzuna.com/land/ad/5914474768?se=oKB7nXfC8RG_dfJx5Ytquw&utm_medium=api&utm_source=59a3324b&v=323A1B7263754247217082A188F2C9B247DCA7E1",
-      "salary": "$50,497",
-      "description": "Context & Environment TotalEnergies is implementing a global Integrated Power Business Unit which brings together its assets and capabilities to deliver power solutions to consumers across the power value chain. It will combine renewable energy, dispatchable or flexible assets, behind the meter solutions, wholesale markets and customer tools to monetize TotalEnergies renewable energy and provide value added low carbon power solutions to customers. Integrated Power provides power-related solutio…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "1ce9606d268e764f",
-      "title": "Marketing Associate",
-      "company": "HHM Hotels",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-06T20:06:49Z",
-      "url": "https://www.adzuna.com/land/ad/5914428993?se=RPl2jHfC8RG_PYTtY09nDQ&utm_medium=api&utm_source=59a3324b&v=76578167FBE7B79DBA968EB044727495ABC084B3",
-      "salary": "$59,336",
-      "description": "Job Description Job Description Overview Opportunity: Marketing Associate, DMV The Marketing Associate for DMV will assist with coordination and managing the development, production, and implementation of all marketing tactics, strategies and related projects associated with the property’s revenue and marketing objectives. This role supports a team of Marketing Directors and Marketing Managers in developing annual marketing plans to achieve both short and long-term revenue and marketing objecti…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "51def8390e259018",
-      "title": "Marketing Coordinator - Trading Post",
-      "company": "All Jobs",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-06T19:24:54Z",
-      "url": "https://www.adzuna.com/land/ad/5914392095?se=AM-xnHfC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=59a3324b&v=1DE87B6447F0C5AAA17DF2950AA7DAB1A17E916E",
-      "salary": "$47,804",
-      "description": "Job Description Job Description Description: POSITION SUMMARY The Marketing Coordinator is a self-driven, execution-focused role responsible for keeping the Trading Post brand, promotions, loyalty programs, and customer-facing messaging accurate and consistent during a growth and rebrand phase. The role ensures marketing is executed correctly across every customer touchpoint, at the pump, on the road, in-store, online, and in the community, and helps build repeatable systems that scale to futur…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "33be42326fe6b2ac",
-      "title": "Marketing Assistant",
-      "company": "ECU Communications, LLC",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-06T19:24:24Z",
-      "url": "https://www.adzuna.com/land/ad/5914389854?se=RPl2jHfC8RG_PYTtY09nDQ&utm_medium=api&utm_source=59a3324b&v=86C92E372C821032CF005EB1A15C219915A5644F",
-      "salary": "$54,390",
-      "description": "Job Description Job Description Benefits: Paid Holidays Disability insurance Life insurance 401(k) matching Dental insurance Flexible schedule Health insurance Paid time off Vision insurance Marketing Assistant (Federal Government) We are currently seeking a highly motivated and detail-oriented Marketing Assistant with a minimum 3-5 years’ account support experience and a proven track record supporting federal government accounts . The ideal candidate will have experience coordinating marketing…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "3cf87dd5315daf29",
-      "title": "Sales Marketing Coordinator - 3-10k/month - no experience",
-      "company": "A&W Windows",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-06T19:21:44Z",
-      "url": "https://www.adzuna.com/land/ad/5914377967?se=AM-xnHfC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=59a3324b&v=13B4F8D95F739B7AE9008C970D89FAB7DBFF95A1",
-      "salary": "$75,609",
-      "description": "Job Description Job Description A&W Windows is looking for motivated, outgoing individuals to join our team as Door-to-Door Appointment Setters . This is not a closing position. Your job is simple: speak with homeowners in local neighborhoods and schedule free window replacement estimates for interested homeowners. Our sales team handles the consultation and closing process from there. No previous sales experience is required. We provide hands-on training designed to give you the skills, confid…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "f8a2f812964656aa",
-      "title": "Marketing Coordinator",
-      "company": "Addison Group",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-06T19:14:21Z",
-      "url": "https://www.adzuna.com/land/ad/5914333167?se=AM-xnHfC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=59a3324b&v=DCCDD2785568B99ADF32A76AF7C885E1B7514109",
-      "salary": "$57,673",
-      "description": "Job Description Job Description Job Title: Marketing Coordinator Industry: Thinktank / Research Nonprofit Location: Washington, DC (Onsite) Assignment Type: Contract | 3–4 Months Pay: $21 – $23 / Hour, depending on experience Work Schedule: Monday–Friday, 9:00 AM–5:00 PM Benefits: This position is eligible for medical, dental, vision, and 401(k). About The Company: We are partnering with a Washington, DC-based thinktank and research nonprofit to identify a motivated Marketing Coordinator for a …",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "af646e3e51a21c4a",
+      "id": "da6318dbf75d3917",
       "title": "Marketing & Communications Coordinator",
       "company": "Housing Alexandria",
       "location": "Alexandria, Alexandria City",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-10-06T12:31:56Z",
-      "url": "https://www.adzuna.com/land/ad/5914092381?se=2uD9lnfC8RG_PYTtY09nDQ&utm_medium=api&utm_source=59a3324b&v=A16F8FCCDB1C8043560EFA959A4076CAD123B6C7",
+      "url": "https://www.adzuna.com/land/ad/5914092381?se=5N9hKEHD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=59a3324b&v=A16F8FCCDB1C8043560EFA959A4076CAD123B6C7",
       "salary": "$38,130",
       "description": "Marketing & Communications Coordinator Housing Alexandria (HALX) is a non-profit affordable housing developer and owner. Click here to learn more about our history, mission, vision, and values. Purpose of Position The Marketing & Communications Coordinator advances HALX’s mission through strategic marketing, public relations, digital communications, data-informed reporting, and meaningful community partnerships that expand visibility, strengthen the HALX brand, and support leasing, fundraising,…",
       "tags": [
@@ -1001,14 +455,14 @@
       ]
     },
     {
-      "id": "7748956a2527c3ac",
+      "id": "1234c8622fc57ff6",
       "title": "Marketing And Business Development Coordinator",
       "company": "Phyton Talent Advisors",
       "location": "Washington, D.C., US",
       "remote": "hybrid",
       "source": "Adzuna",
       "datePosted": "2026-10-06T12:30:42Z",
-      "url": "https://www.adzuna.com/land/ad/5914074683?se=AM-xnHfC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=59a3324b&v=46874C73B3AF640B5062C9905949EAEBDF59A9C6",
+      "url": "https://www.adzuna.com/land/ad/5914074683?se=FJq3KUHD8RGFeJNPAywTzg&utm_medium=api&utm_source=59a3324b&v=46874C73B3AF640B5062C9905949EAEBDF59A9C6",
       "salary": "$72,669",
       "description": "Marketing and Business Development Coordinator Location: Washington, DC Work Arrangement: Hybrid – 4 days in office / 1 day remote Employment Type: Full-Time Industry: Wealth Management / Financial Services Compensation: Competitive base salary  overtime eligibility  discretionary bonus About the Opportunity: Our client an Ultra High Net Worth Wealth Management team is seeking a highly organized and proactive Marketing/Business Development Coordinator to support a high-performing private wealth…",
       "tags": [
@@ -1017,14 +471,14 @@
       ]
     },
     {
-      "id": "228f37e6318409b8",
+      "id": "2a53c03790a8d737",
       "title": "Marketing Assistant",
       "company": "SHIK CONSULTING GROUP",
       "location": "Washington, D.C., US",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-10-06T12:30:41Z",
-      "url": "https://www.adzuna.com/land/ad/5914074358?se=suU9nXfC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=59a3324b&v=FCAC51117476CDC3E754369D388DD05594B8C39C",
+      "url": "https://www.adzuna.com/land/ad/5914074358?se=woPqLEHD8RGYlKz4wh8B5A&utm_medium=api&utm_source=59a3324b&v=FCAC51117476CDC3E754369D388DD05594B8C39C",
       "salary": "$47,468",
       "description": "*This is an onsite role working in marketing and promotions work. We are looking for an Entry Level Marketing Assistant to help raise brand awareness with target audiences. Paid training will be provided. The type of candidate we are looking for is excited about working with nonprofit causes and will bring a fresh approach to our team dynamic. You’ll work across all levels and departments of our organization to find what makes our charity clients impactful and communicate it to the world. You’l…",
       "tags": [
@@ -1033,30 +487,30 @@
       ]
     },
     {
-      "id": "910d6314541076b2",
-      "title": "Communications Associate",
-      "company": "Lilette Advisors",
+      "id": "7514451e6ada5096",
+      "title": "Marketing & Events Operations Coordinator",
+      "company": "The Structured Finance Association",
       "location": "Washington, D.C., US",
       "remote": "onsite",
       "source": "Adzuna",
-      "datePosted": "2026-10-06T12:29:38Z",
-      "url": "https://www.adzuna.com/land/ad/5914064313?se=uuxDnHfC8RG_dfJx5Ytquw&utm_medium=api&utm_source=59a3324b&v=87DF55CB9A89F45642DD52ECB750EC7EA6E23C33",
-      "salary": "$55,868",
-      "description": "Position Overview Lilette Advisors is seeking a Communications Associate to join our dynamic team. In this versatile role, you will support a variety of communications and public affairs strategies for our diverse clients. This position is ideal for a creative and strategic thinker who is enthusiastic about contributing to client success and helping them achieve their goals through impactful communications. As a Communications Associate, you will be responsible for producing original content, a…",
+      "datePosted": "2026-10-06T12:28:35Z",
+      "url": "https://www.adzuna.com/land/ad/5914054164?se=FJq3KUHD8RGFeJNPAywTzg&utm_medium=api&utm_source=59a3324b&v=94AAA2E3203EA7E0EBB7579019A9FABB58A0AF53",
+      "salary": "$47,985",
+      "description": "The Structured Finance Association (SFA) is seeking a highly organized, proactive, and detail-oriented Marketing & Events Operations Coordinator to maintain the systems, data, and workflows that support SFA’s conferences, member engagement, sponsorships, and digital content. This role combines hands-on ownership of Salesforce and Cvent operations with project coordination across marketing, events, and SFA Studios, SFA’s podcast channel. Reporting to the Head of Sponsorship & Membership Services…",
       "tags": [
-        "communications",
+        "marketing",
         "entry-level"
       ]
     },
     {
-      "id": "e17ef11f2fb781c4",
+      "id": "225ab9553a70f277",
       "title": "Entry Level Communications Assistant",
       "company": "Elevate Brand HQ",
       "location": "Arlington, Arlington County",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-10-06T12:28:33Z",
-      "url": "https://www.adzuna.com/land/ad/5914053876?se=LlgvmnfC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=59a3324b&v=8C160053B2E97570CA4772ED170DDB3C4F444239",
+      "url": "https://www.adzuna.com/land/ad/5914053876?se=vJhPLEHD8RGehKgrpTYXiQ&utm_medium=api&utm_source=59a3324b&v=8C160053B2E97570CA4772ED170DDB3C4F444239",
       "salary": "$42,249",
       "description": "CANDIDATES MUST BE ABLE TO COMMUTE TO MCLEAN, VIRGINIA Qualifications Bachelor's degree in communication, marketing, business, or a related field Excellent written and verbal communication skills Creative thinking and a flair for storytelling Strong attention to detail and organizational abilities Collaborative mindset and eagerness to learn Proactive attitude and willingness to take on new challenges Enthusiasm for staying updated on marketing trends and strategies Basic familiarity with socia…",
       "tags": [
@@ -1065,14 +519,14 @@
       ]
     },
     {
-      "id": "48922f70c685513b",
+      "id": "e83c715b7de24946",
       "title": "Digital Communications Associate",
       "company": "Jewish Institute for National Security of America ",
       "location": "Washington, D.C., US",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-10-06T12:28:17Z",
-      "url": "https://www.adzuna.com/land/ad/5914051467?se=uuxDnHfC8RG_dfJx5Ytquw&utm_medium=api&utm_source=59a3324b&v=1FBE808C51625134B5E6AA12334C5FBB61D6AD84",
+      "url": "https://www.adzuna.com/land/ad/5914051467?se=Ts2ILEHD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=59a3324b&v=1FBE808C51625134B5E6AA12334C5FBB61D6AD84",
       "salary": "$56,388",
       "description": "Job Description: JINSA, a non-profit, non-partisan policy think tank focused on strengthening U.S. national security and the U.S.-Israel security relationship, seeks a full-time Digital Communications Associate to assist with the development and curation of JINSA’s social, video, and digital communications assets. Reporting to the Director of Communications, the ideal candidate will be responsible for creating and executing digital communications strategies that strengthen JINSA’s visibility an…",
       "tags": [
@@ -1081,14 +535,14 @@
       ]
     },
     {
-      "id": "c3be70b166a4dea9",
+      "id": "a8a7b51011042870",
       "title": "Sales And Marketing Associate",
       "company": "Iviry IT",
       "location": "Arlington, Arlington County",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-10-06T12:28:12Z",
-      "url": "https://www.adzuna.com/land/ad/5914050609?se=oKB7nXfC8RG_dfJx5Ytquw&utm_medium=api&utm_source=59a3324b&v=D2FFA358AB5F00E310FCB61267AADBCB939E539B",
+      "url": "https://www.adzuna.com/land/ad/5914050609?se=FJq3KUHD8RGFeJNPAywTzg&utm_medium=api&utm_source=59a3324b&v=D2FFA358AB5F00E310FCB61267AADBCB939E539B",
       "salary": "$84,708",
       "description": "Why Join Iviry? At Iviry, the Sales & Marketing Associate is more than an entry-level support role. You'll own real pipeline systems from day one, — outreach, CRM health, and conference follow-up — that directly affect Iviry's growth as a veteran-owned cybersecurity compliance company serving the Defense Industrial Base. You'll work closely with Iviry's Marketing & Customer Success Manager, build a track record you can point to, and grow into a bigger role in Iviry's conference and event strate…",
       "tags": [
@@ -1097,14 +551,30 @@
       ]
     },
     {
-      "id": "2c3506ab5709fc6e",
+      "id": "7c5de8613d00de3d",
+      "title": "Media Relations Associate",
+      "company": "Association for Competitive Technology",
+      "location": "Washington, D.C., US",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-10-06T12:27:52Z",
+      "url": "https://www.adzuna.com/land/ad/5914047389?se=5N9hKEHD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=59a3324b&v=3F09CF63FFFB38AECC33CF77F6C5FCDD3EE57F09",
+      "salary": "$90,745",
+      "description": "Who We Are: The Association for Competitive Technology (ACT) is a global trade association for small and medium-sized technology companies. Our members are entrepreneurs, innovators, and independent developers within the global app ecosystem who engage with verticals across every industry. We work with our members to promote a policy environment that rewards and inspires innovation while providing resources that help them raise capital, create jobs, and continue to build incredible technology. …",
+      "tags": [
+        "media relations",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "c7749c9c950d90e7",
       "title": "Social Media Coordinator",
       "company": "Washington Intern Student Housing ",
       "location": "Washington, D.C., US",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-10-06T12:26:52Z",
-      "url": "https://www.adzuna.com/land/ad/5914037353?se=KHAPnnfC8RGRZ6QSUIDhmA&utm_medium=api&utm_source=59a3324b&v=0037B16E88DB41C0A102051BF28279E2EAD2F1A5",
+      "url": "https://www.adzuna.com/land/ad/5914037353?se=2rCkLUHD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=59a3324b&v=0037B16E88DB41C0A102051BF28279E2EAD2F1A5",
       "salary": "$41,124",
       "description": "Company Description Washington Intern Student Housing (WISH) is a leading provider of intern housing and residential life services in Washington, D.C., offering students an immersive and supportive internship experience. WISH manages one of the largest portfolios of fully furnished row houses, townhomes, and apartments in the nation’s capital, creating safe, active student communities year-round. The organization partners with colleges and universities to provide housing and the Washington Inte…",
       "tags": [
@@ -1129,6 +599,22 @@
       ]
     },
     {
+      "id": "6f53705b3588419e",
+      "title": "Communications Associate",
+      "company": "AAAS",
+      "location": "Washington, D.C., US",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-10-04T08:34:03Z",
+      "url": "https://www.adzuna.com/details/5911520430?utm_medium=api&utm_source=59a3324b",
+      "salary": "$52,000 – $57,000",
+      "description": "The Communications Associate will serve dual roles of supporting daily social media content development and media relations for the Office of Communications (OC) to extend the reach and thought leadership of AAAS. As part of the external affairs track of the team, the Communications Associate will also support digital storytelling campaigns, issues management, and analytics. Help us ignite the next era of science. What You’ll Do · Support proactive and reactive media relations, including drafti…",
+      "tags": [
+        "communications",
+        "entry-level"
+      ]
+    },
+    {
       "id": "f573e224fb3a545e",
       "title": "Media and Communications Assistant (Student) (FWS)",
       "company": "American University",
@@ -1145,30 +631,14 @@
       ]
     },
     {
-      "id": "7a2c48aa53ad59db",
-      "title": "Communications Associate",
-      "company": "AAAS",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-03T22:43:51Z",
-      "url": "https://www.adzuna.com/land/ad/5910938527?se=uuxDnHfC8RG_dfJx5Ytquw&utm_medium=api&utm_source=59a3324b&v=4938089ECE8A060DD6433C116DEDDE5AE9CDF591",
-      "salary": "$47,320",
-      "description": "The Communications Associate will serve dual roles of supporting daily social media content development and media relations for the Office of Communications (OC) to extend the reach and thought leadership of AAAS. As part of the external affairs track of the team, the Communications Associate will also support digital storytelling campaigns, issues management, and analytics. Help us ignite the next era of science. What You’ll Do · Support proactive and reactive media relations, including drafti…",
-      "tags": [
-        "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "88409f934a3ba861",
+      "id": "1cf512e6f40ba462",
       "title": "Experiential Marketing Associate",
       "company": "Coinbase",
       "location": "Washington, D.C., US",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-10-03T07:03:36Z",
-      "url": "https://www.adzuna.com/land/ad/5909854144?se=oKB7nXfC8RG_dfJx5Ytquw&utm_medium=api&utm_source=59a3324b&v=76C3A416212E862F18DB262698B34D6D3B2E2083",
+      "url": "https://www.adzuna.com/land/ad/5909854144?se=FJq3KUHD8RGFeJNPAywTzg&utm_medium=api&utm_source=59a3324b&v=76C3A416212E862F18DB262698B34D6D3B2E2083",
       "salary": "$62,046",
       "description": "Ready to do the most impactful work of your career? Athttps://www.coinbase.com/careers. We're hiring an Experiential Marketing Associate to join the Marketing team and help bring Coinbase to life through high-impact events and experiences. This team plans and executes events that drive brand awareness, deepen customer relationships, and support business goals across Consumer and Institutional audiences. You'll own the full lifecycle of event execution, from concept through post-event reporting,…",
       "tags": [
@@ -1177,14 +647,14 @@
       ]
     },
     {
-      "id": "716c050d472da1fd",
+      "id": "3921f536546fb8e1",
       "title": "Proposal and Marketing Assistant",
       "company": "Williams, Adley & Company-DC, LLP",
       "location": "Washington, Washington, D.C.",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-10-02T16:10:57Z",
-      "url": "https://www.adzuna.com/land/ad/5908757921?se=suU9nXfC8RGU5ZlC2ojrCw&utm_medium=api&utm_source=59a3324b&v=18A20FD6B648BA5FCCC96218D9A5B84E524F251E",
+      "url": "https://www.adzuna.com/land/ad/5908757921?se=woPqLEHD8RGYlKz4wh8B5A&utm_medium=api&utm_source=59a3324b&v=18A20FD6B648BA5FCCC96218D9A5B84E524F251E",
       "salary": "$73,890",
       "description": "Company Overview For more than 40 years, Wil has provided expert accounting, auditing, and consulting services to a growing number of federal, state, and local government agencies. Our dedication to operating with the highest levels of honesty, integrity, and transparency means we frequently go beyond the typical “vendor/client” relationship, becoming trusted advisors to our clients. Williams Adley provides its employees with a unique experience for growth, career direction, and mentorship. As …",
       "tags": [
@@ -1193,14 +663,14 @@
       ]
     },
     {
-      "id": "3f5668208f651640",
+      "id": "6e7acff68039e581",
       "title": "Consumer Banking - External Communications - Associate",
       "company": "JPMorgan Chase",
       "location": "Washington, D.C., US",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-10-02T07:01:55Z",
-      "url": "https://www.adzuna.com/land/ad/5907860924?se=uuxDnHfC8RG_dfJx5Ytquw&utm_medium=api&utm_source=59a3324b&v=312D56118C77360864987D821AFB04C04D6412B9",
+      "url": "https://www.adzuna.com/land/ad/5907860924?se=Ts2ILEHD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=59a3324b&v=312D56118C77360864987D821AFB04C04D6412B9",
       "salary": "$132,643",
       "description": "Consumer Banking - External Communications - Associate Columbus, OH, United States and 2 more Job Information  Job Identification 210765119  Job Category Communications  Business Unit Consumer & Community Banking  Posting Date 09/22/2026, 06:26 PM  Locations 1111 Polaris Pkwy, Columbus, OH, 43240, US237 Park Ave, New York, NY, 10017, US875 15th St NW, Washington, DC, 20005, US  Job Schedule Full time  Job Shift Day  Base Pay/Salary New York,NY $80,750.00-$110,000.00; Washington,DC $80,750.00-$1…",
       "tags": [
@@ -1209,19 +679,36 @@
       ]
     },
     {
-      "id": "8b79f1418ecda04b",
+      "id": "3081c79866177824",
       "title": "Assistant, Social Media (Part-Time/Seasonal)",
       "company": "Monumental Sports & Entertainment",
       "location": "Washington, Washington, D.C.",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-10-01T23:19:47Z",
-      "url": "https://www.adzuna.com/land/ad/5907042306?se=Uv5mk3fC8RG_dfJx5Ytquw&utm_medium=api&utm_source=59a3324b&v=EA39A480937016DC8C274D3832BDC98D0F9E5C14",
+      "url": "https://www.adzuna.com/land/ad/5907042306?se=YAQvKUHD8RGYlKz4wh8B5A&utm_medium=api&utm_source=59a3324b&v=EA39A480937016DC8C274D3832BDC98D0F9E5C14",
       "salary": "$48,439",
       "description": "Monumental Sports & Entertainment (MSE) is one of the leading integrated sports and entertainment companies globally. MSE’s portfolio spans premier professional sports teams, world-class venues, and next-generation media properties, with marquee assets including the NHL’s Washington Capitals, NBA’s Washington Wizards, WNBA’s Washington Mystics, NBA G League’s Capital City Go-Go, Capital One Arena, and Monumental Sports Network, along with an investment in Team Liquid. Rooted in the nation’s cap…",
       "tags": [
         "social media",
         "music",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "9b9002847d4c8523",
+      "title": "Brand and Marketing Support Associate",
+      "company": "VSG Business Solutions LLC",
+      "location": "Crystal, Arlington County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-10-01T21:44:31Z",
+      "url": "https://www.adzuna.com/details/5906699826?utm_medium=api&utm_source=59a3324b",
+      "salary": "$52,000 – $62,400",
+      "description": "Client: American Institutes for Research Our client's Communications and Public Affairs Office is seeking a Conference, Brand & Marketing Support Associate to join its collaborative team. Reporting to the Chief Communications Officer, this role supports participation in conferences and events through the coordination, preparation, shipment, tracking, receipt, and maintenance of conference and branded materials. In addition, the position assists with branding, marketing, promotional, and communi…",
+      "tags": [
+        "marketing",
+        "brand",
         "entry-level"
       ]
     },
@@ -1402,23 +889,6 @@
       "description": "At Warner Music Group, we’re a global collective of music makers and music lovers, tech innovators and inspired entrepreneurs, game-changing creatives and passionate team members. Here, we turn dreams into stardom and audiences into fans. We are guided by three core values that underpin everything we do across all our diverse businesses: \n \n• Curiosity: We do our best work when we’re immersing ourselves in culture and breaking through barriers. Curiosity is the driving force behind creativity and ingenuity. It fuels innovation, and innovation is the key to our future. \n \n• Collaboration: Making music and bringing it to the world is all about the power of originality amplified by teamwork. A great idea, like a great song, travels globally. We ignite passions and build connections across our diverse community of artists, songwriters, partners, and fans.\n \n• Commitment: We pursue excellence for our team and our talent. Everything in music starts with a leap into the unknown, and we’re committed to keeping the faith, acting with integrity, and delivering on our promises.\n \nTechnology is one of the most important parts of our business. Whether it’s signing up new artists; ensuring we provide the right data to Spotify, YouTube, and other digital service providers; or helping artists use the latest AI tools and make thoughtful decisions with data-driven insights – technology plays an invaluable role in our success. Group makes all of it a reality. Check out first-hand accounts from the WMG engineering, product, design, infrastructure and data teams in our blog!\n \nWMG is home to a wide range of artists, musicians, and songwriters that fuel our success. That is why we are committed to creating a work environment that actively values, appreciates, and respects everyone. We encourage applications from people with a wide variety of backgrounds and experiences.\n \nConsider a career at WMG and get the best of both worlds – an innovative global music company that retains the creative spirit of a nimble independent.\n\nYour Role:\nWe are seeking an articulate, highly organized, and collaborative L3 Product Marketing Manager to lead high-reach product communications and stakeholder alignment across our technology suite. In this role, you will act as the primary voice of our technology products. You will own product positioning, craft compelling messaging, launch new features, and drive sustained user engagement among internal stakeholders, with the opportunity to expand your scope to artists, songwriters, and managers. Working closely with cross-functional partners across Product, Marketing, Corporate Communications, Label Services, and Artist Relations, you will build alignment and translate complex product roadmaps into compelling, accessible narratives for our global network. If you thrive on blending broad communication strategy with tailored 1:1 outreach, building executive alignment, and rallying teams around new tech, we encourage you to apply.\n\n\n \n",
       "tags": [
         "marketing",
-        "music"
-      ]
-    },
-    {
-      "id": "b35c741f6e8b0461",
-      "title": "Digital Marketing Coordinator (Global Touring) -  Temp",
-      "company": "AEG",
-      "location": "Los Angeles, CA",
-      "remote": "onsite",
-      "source": "Greenhouse",
-      "datePosted": "2026-08-20T17:10:59-04:00",
-      "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/8716702002",
-      "salary": null,
-      "description": "<p><span style=\"color: black;\">For more than 20 years, AEG has played a pivotal role in transforming sports and live entertainment. Annually, we host more than 160 million guests, promote more than 10,000 shows and present more than 22,000 events around the world. We are committed to innovation, artistry, and community, and leverage the power of our 300+ venues, leading sports franchises, marquee music brands, integrated entertainment districts, premier ticketing platform and global sponsorship activations, to create memorable moments that give the world reason to cheer.&nbsp;</span></p>\n<p><span style=\"color: black;\">Our business is interwoven with the human mind and heart, and we strive to build a diverse and inclusive company that reflects the artists, athletes, and fans that we host; reach beyond traditional boundaries to support the communities in which we operate; and minimize our impact on the environment by adopting sustainable practices throughout our business operations.&nbsp;</span></p>\n<p><span style=\"color: black;\">If you want to be challenged to up your game and make a difference, then join us in giving the world reason to cheer!</span></p>\n<p></p>\n<p>&nbsp;</p>\n<p><strong>Position Summary: </strong>The Digital Marketing Coordinator is responsible for show marketing and promotions within their designated region to drive ticket sales. This role will work closely with the Marketing Manager, agents, artist managers and bookers. The Digital Marketing Coordinator will build the infrastructure for digital marketing campaigns, create and submit all tour settlement materials, and provide additional show marketing support to the team.</p>\n<p>&nbsp;</p>\n<p><strong>Essential Functions:</strong></p>\n<ul type=\"disc\">\n<li>Builds and maintains ad plans for Touring Team. Assist in coordination of media buying and evaluate and revise as necessary with marketing team to increase ticketing revenue and event exposure.</li>\n<li>Create, proof read and distribute e-cards and one-off email campaigns. Check that touring information and links are correct, communicate errors to designers, check for accuracy, communicate errors and sign off on final version.</li>\n<li>Monitor budget and accounting for marketing efforts and keep team up to date on spend status.</li>\n<li>Create and deliver all show settlement including actuals, backup and any special campaign notes.</li>\n<li>Places all pixel tracking for campaign conversions, configures and confirms activation including artist website, ticketing links and any additional tour site placement.</li>\n<li>Coordinate asset trafficking for digital media campaigns – banners, videos etc.</li>\n<li>Collect ticket links and keep central grid, check all links, pre-sale passwords, billing, art on ticket pages and venue websites</li>\n<li>Coordinating marketing support with ticketing (and other) partners</li>\n<li>Maintain good working relationships with partners, co-promoters and media.</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Required Qualifications:</strong></p>\n<ul>\n<li>High School Diploma or its equivalency (BA/BS Degree Preferred)</li>\n<li>2-4 years of related work experience</li>\n<li>Experience with calendaring events</li>\n<li>Knowledgeable and skilled in MS Office (Excel, Word, Outlook and Powerpoint), Adobe Photoshop</li>\n<li>Basic accounting knowledge</li>\n<li>Strong PR and creative thinking skills, social media savvy, and organization skills</li>\n<li>Strong written and verbal communication skills</li>\n<li>Must have strong work ethic, problem solving and prioritization skills</li>\n<li>Ability to work independently and as part of a team</li>\n<li>Knowledge of the music industry preferred</li>\n</ul>\n<p></p>\n<p><strong>Payscale: $21.79-$30.85</strong></p>\n<p><strong>Bonus:&nbsp;</strong><em>This position is not eligible for a bonus under the current bonus plan requirements.</em></p>\n<p>AEG reserves the right to change or modify the employee’s job description whether orally or in writing, at any time during the employment relationship. AEG may require an employee to perform duties outside his/her normal description.</p>\n<p><strong><em>AEG's policy is to hire the most qualified applicants. &nbsp;We are an equal opportunity employer and will not discriminate against any individual, employee, or application for employment on the basis of&nbsp;race, color, marital status, religion, age, sex, sexual orientation, national origin, or any other legally protected status recognized by federal, state or local law.</em></strong></p>\n<p><strong><em>Employer does not offer work visa sponsorship for this position.</em></strong></p>",
-      "tags": [
-        "marketing",
-        "digital marketing",
         "music"
       ]
     },
