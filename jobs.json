@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-10-25T14:57:51.382Z",
+  "generatedAt": "2026-10-26T17:25:04.006Z",
   "jobs": [
+    {
+      "id": "28cf3db9558e12fc",
+      "title": "Unified Communications Associate",
+      "company": "Immersive Concepts",
+      "location": "Crystal, Arlington County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-10-26T10:57:43Z",
+      "url": "https://www.adzuna.com/details/5942275029?utm_medium=api&utm_source=59a3324b",
+      "salary": "$78,000 – $83,000",
+      "description": "Position Title: Unified Communications Associate Reports to: Desmond Bell Reporting to this position: N/A Assignment: United States Agency for Global Media Job Description Immersive Concepts is seeking a full-time Unified Communications Associate to support the USAGM project. This role combines hands‑on technical troubleshooting with leadership, process improvements, and a strong focus on customer service & quality. Responsibilities Serve as the SME on Conference room operations Manage hardware…",
+      "tags": [
+        "communications",
+        "entry-level"
+      ]
+    },
     {
       "id": "6a9db41a8b3aef48",
       "title": "Entry-Level Sales & Marketing Associate | Full-Time | Paid Training",
@@ -12,22 +28,6 @@
       "url": "https://www.adzuna.com/details/5941267837?utm_medium=api&utm_source=59a3324b",
       "salary": "$48,281",
       "description": "Hiring Immediately | No Experience Required | Career Growth Opportunities Looking for a full-time opportunity where you can learn new skills, gain hands-on experience, and grow professionally? We’re hiring motivated, outgoing, and enthusiastic individuals to join our growing team as Entry-Level Sales & Marketing Associates! No previous experience is required! We provide paid training, hands-on coaching, and ongoing mentorship to help you develop valuable skills in sales, marketing, customer eng…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "670733cea2f4616e",
-      "title": "Marketing Coordinator",
-      "company": "Red Carrot",
-      "location": "Washington, Washington, D.C.",
-      "remote": "remote",
-      "source": "Adzuna",
-      "datePosted": "2026-10-24T10:08:53Z",
-      "url": "https://www.adzuna.com/details/5940555527?utm_medium=api&utm_source=59a3324b",
-      "salary": "$85,126",
-      "description": "Marketing Coordinator Level: Junior | Work Location: Remote in the DMV area ABOUT THE ROLE Red Carrot is seeking a Marketing Coordinator to support marketing and communications efforts across a range of projects and clients. This generalist role blends project coordination, content creation, and administrative support to help execute marketing strategies that align with client objectives, with a strong emphasis on accuracy and attention to detail. KEY RESPONSIBILITIES Assist the Marketing Manag…",
       "tags": [
         "marketing",
         "entry-level"
@@ -179,14 +179,14 @@
       ]
     },
     {
-      "id": "ac6e58422df5aff2",
+      "id": "c8a0968ab3c40b61",
       "title": "Entry Level Marketing Associate (Arlington)",
       "company": "Nova Acquisitions",
       "location": "State Farm, Arlington County",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-10-21T01:58:44Z",
-      "url": "https://www.adzuna.com/land/ad/5936299154?se=RAyVcoTQ8RG17O__M5KguQ&utm_medium=api&utm_source=59a3324b&v=FB164D9A120F5DC8BC7F3F394C14D155969E1777",
+      "url": "https://www.adzuna.com/land/ad/5936299154?se=fmzhKmLR8RGh_oyDYnSS7w&utm_medium=api&utm_source=59a3324b&v=FB164D9A120F5DC8BC7F3F394C14D155969E1777",
       "salary": "$51,900",
       "description": "Entry-Level Marketing Assistant Job Summary We are looking for an enthusiastic and motivated Entry-Level Marketing Assistant to support in-person promotional campaigns, event coordination, and market research. In this role, you will engage with customers, assist with event setup, and collect feedback to help the team improve marketing strategies and customer experiences. This opportunity is ideal for someone who enjoys working with people and wants to gain hands-on experience in marketing and p…",
       "tags": [
@@ -227,35 +227,19 @@
       ]
     },
     {
-      "id": "b8ad5bd9b20dd122",
+      "id": "bc8688a21398f06e",
       "title": "Manager Marketing - Festivals",
       "company": "AEG",
-      "location": "New York, NY",
+      "location": "Los Angeles, CA",
       "remote": "onsite",
       "source": "Greenhouse",
-      "datePosted": "2026-10-20T11:06:41-04:00",
-      "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/8893065002",
+      "datePosted": "2026-10-20T11:06:30-04:00",
+      "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/8885618002",
       "salary": null,
       "description": "<p><strong>Company Information</strong></p>\n<p><span data-olk-copy-source=\"MessageBody\">AEG brings music, sports, and live entertainment together to create moments people remember around the world. Each year, more than 100 million fans experience live events across five continents—from global touring, concerts, and festivals to iconic sports and entertainment destinations.</span></p>\n<p>Through our music division, AEG Presents, one of the world’s leading operators of tours, concerts, and music festivals, we help shape the sound of now. We work with artists at every stage of their careers to bring live music to life, connecting artists with fans on stages around the world.</p>\n<p>Headquartered in Los Angeles, AEG Presents is driven by creativity, innovation, and purpose, and powered by people who want their work to show up in the real world.</p>\n<p>If you’re ready to help create moments that matter, there’s a place for you here. Because it happens here.</p>\n<p><strong>Job Summary</strong></p>\n<p>The <span class=\"collapsed-field-text\">Marketing Manager- Festivals</span>&nbsp;is responsible for all marketing assets for festivals on calendar.&nbsp; This position will work in conjunction with artist management, Radio/TV, and marketing team to create and develop an effective marketing plan that will reach the correct demographic and target customers appropriate for each show.&nbsp; The Marketing Manager will develop graphic content used to inform the general public of shows for the purpose of gaining ticket sales.&nbsp; This position will also be responsible for maintaining and tracking budgets to make sure funds are allocated correctly.&nbsp; The Marketing Manager will oversee social media accounts and ensure they are up to date with engaging material.</p>\n<p><strong>Essential Functions</strong></p>\n<ul data-editing-info=\"{&quot;applyListStyleFromLevel&quot;:true}\">\n<li>\n<div>Responsible for development and execution of marketing and promotional plans. Collaborates with festival directors, talent buyers, and marketing director to plan and oversee the marketing spend.</div>\n</li>\n<li>\n<div>Generate and adhere to marketing budget. Book and account for all advertising and media ensuring funds are allocated to correct partners. Prepare advertising settlements for each show</div>\n</li>\n<li>\n<div>Oversee Social Media accounts for each show.&nbsp; Develop ad copy; implement ad schedules to appeal to a specific demographic and target customer.</div>\n</li>\n<li>\n<div>Oversee and evaluate show performance, making adjustments to meet marketing strategy in changing market or competitive conditions</div>\n</li>\n<li>\n<div>Supervise publicity, advance press interviews, secure and coordinate artist availability for promotions with management, label and public relations agencies.</div>\n</li>\n<li>\n<div>Develop and pitch promotions to media outlets.&nbsp; Contact radio and schedule radio time and set up giveaways.&nbsp; Negotiate rates and contracts with various media outlets</div>\n</li>\n<li>\n<div>Develop additional marketing opportunities to increase ticket sales when needed. &nbsp; Keep up with current marketing and social media trends to brainstorm new ideas and concepts for assets and promotions to market events.</div>\n</li>\n<li>\n<div>Work with marketing team and artist management to strategize new ways to market shows and reach the correct audience. &nbsp; Request graphics for ecards, banners, posters, social media post, radio station needs and e-mails</div>\n</li>\n<li>\n<div>May be responsible for overseeing interns and assistants.</div>\n</li>\n</ul>\n<p><strong>Required Qualifications</strong></p>\n<ul data-editing-info=\"{&quot;applyListStyleFromLevel&quot;:true}\">\n<li>BA/BS Degree (4 years) in Marketing/ Business Communications, PR Preferred</li>\n<li>4-6 years Of related work experience</li>\n<li>4-6 years Experience with media buying</li>\n<li>\n<div>May be responsible for overseeing interns and assistants.</div>\n</li>\n<li>\n<div>Strong communication and organizational skills</div>\n</li>\n<li>\n<div>Knowledge of social media and online marketing initiatives and strategies</div>\n</li>\n<li>\n<div>Must be internet savvy</div>\n</li>\n<li>\n<div>Proficient in Photoshop and MS Office</div>\n</li>\n<li>\n<div>Creative, detail-oriented person who can juggle multiple tasks</div>\n</li>\n<li>\n<div>Knowledge of Music industry preferred</div>\n</li>\n<li>\n<div>Passion for music preferred</div>\n</li>\n</ul>\n<p><strong>Payscale: </strong><span data-olk-copy-source=\"MessageBody\">$76,072.00 - $100,000.00</span></p>\n<p><strong>Bonus: </strong><em>This position is eligible for a bonus under the current bonus plan requirements.</em></p>\n<p><strong>Benefits:<em> Full-time: </em></strong><em>We offer a comprehensive benefits package that includes: medical, dental and vision insurance, paid holidays, vacation and sick time, company paid basic life insurance, voluntary life insurance, parental leave, 401k Plan (with a current employer match of 3%), flexible spending and health savings account options, and wellness offerings.</em></p>\n<p>AEG reserves the right to change or modify the employee’s job description whether orally or in writing, at any time during the employment relationship.&nbsp; AEG may require an employee to perform duties outside their normal description.</p>\n<p>AEG's policy is to hire the most qualified applicants, and we comply with all applicable federal, state and local employment laws in making hiring and employee decisions. &nbsp;We are an equal opportunity employer and do not discriminate against applicants or employees on the basis of race, color, marital status, disability, religion, age, sex, sexual orientation, national origin, genetic information, veteran status, or any other legally protected status recognized by applicable federal, state or local law.</p>\n<p><strong>Employer does not offer work visa sponsorship for this position.</strong></p>\n<p>&nbsp;</p>",
       "tags": [
         "marketing",
         "music"
-      ]
-    },
-    {
-      "id": "633a2125d767a5e4",
-      "title": "Marketing Assistant",
-      "company": "SHIK CONSULTING GROUP",
-      "location": "Washington, D.C., US",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-20T08:59:50Z",
-      "url": "https://www.adzuna.com/land/ad/5935431528?se=RAyVcoTQ8RG17O__M5KguQ&utm_medium=api&utm_source=59a3324b&v=B3AE09DD7E198364ACBD29989424B645DB4FE310",
-      "salary": "$47,468",
-      "description": "*This is an onsite role working in marketing and promotions work. We are looking for an Entry Level Marketing Assistant to help raise brand awareness with target audiences. Paid training will be provided. The type of candidate we are looking for is excited about working with nonprofit causes and will bring a fresh approach to our team dynamic. You’ll work across all levels and departments of our organization to find what makes our charity clients impactful and communicate it to the world. You’l…",
-      "tags": [
-        "marketing",
-        "entry-level"
       ]
     },
     {
