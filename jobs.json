@@ -1,19 +1,36 @@
 {
-  "generatedAt": "2026-10-26T17:25:04.006Z",
+  "generatedAt": "2026-10-27T16:42:57.145Z",
   "jobs": [
     {
-      "id": "28cf3db9558e12fc",
-      "title": "Unified Communications Associate",
-      "company": "Immersive Concepts",
+      "id": "44dd4236c054a924",
+      "title": "Marketing Coordinator - Georgetown University",
+      "company": "ARAMARK",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-10-27T00:37:36Z",
+      "url": "https://www.adzuna.com/details/5943107594?utm_medium=api&utm_source=59a3324b",
+      "salary": "$51,283",
+      "description": "Job Description The Marketing Coordinator, Administration & Graphic Designer plays a key role in promoting the Hospitality Program at Georgetown University through strategic marketing initiatives, administrative support, and compelling visual design. This multifaceted position supports student recruitment, program visibility, event coordination, and internal operations, ensuring a cohesive and professional brand presence across all platforms. Compensation Data COMPENSATION: The Hourly rate for …",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "b1b9cdccda4f8259",
+      "title": "Brand and Marketing Support Associate",
+      "company": "VSG Business Solutions LLC",
       "location": "Crystal, Arlington County",
       "remote": "onsite",
       "source": "Adzuna",
-      "datePosted": "2026-10-26T10:57:43Z",
-      "url": "https://www.adzuna.com/details/5942275029?utm_medium=api&utm_source=59a3324b",
-      "salary": "$78,000 – $83,000",
-      "description": "Position Title: Unified Communications Associate Reports to: Desmond Bell Reporting to this position: N/A Assignment: United States Agency for Global Media Job Description Immersive Concepts is seeking a full-time Unified Communications Associate to support the USAGM project. This role combines hands‑on technical troubleshooting with leadership, process improvements, and a strong focus on customer service & quality. Responsibilities Serve as the SME on Conference room operations Manage hardware…",
+      "datePosted": "2026-10-26T21:35:45Z",
+      "url": "https://www.adzuna.com/details/5942897191?utm_medium=api&utm_source=59a3324b",
+      "salary": "$52,000 – $62,400",
+      "description": "Our client's Communications and Public Affairs Office is seeking a Conference, Brand & Marketing Support Associate to join its collaborative team. Reporting to the Chief Communications Officer, this role supports participation in conferences and events through the coordination, preparation, shipment, tracking, receipt, and maintenance of conference and branded materials. In addition, the position assists with branding, marketing, promotional, and communications initiatives as organizational nee…",
       "tags": [
-        "communications",
+        "marketing",
+        "brand",
         "entry-level"
       ]
     },
@@ -50,16 +67,16 @@
       ]
     },
     {
-      "id": "032674ac64954b74",
-      "title": "Digital Communications Associate",
-      "company": "Center for Law and Social Policy",
-      "location": "Washington, D.C., US",
+      "id": "d24e62f6228751a4",
+      "title": "Communications Associate",
+      "company": "Reingold Inc",
+      "location": "Alexandria, Alexandria City",
       "remote": "onsite",
       "source": "Adzuna",
-      "datePosted": "2026-10-23T10:22:38Z",
-      "url": "https://www.adzuna.com/details/5939338444?utm_medium=api&utm_source=59a3324b",
-      "salary": "$64,980 – $81,240",
-      "description": "About CLASP The Center for Law and Social Policy (CLASP) is a national, nonpartisan, anti-poverty organization advancing policy solutions that work for people with low incomes and people of color. We advocate for public policies and programs at the federal, state, and local levels with the goals of eliminating poverty, improving the lives of people with low incomes, and advancing racial and economic justice. Our solutions directly address the barriers individuals and families face because of ra…",
+      "datePosted": "2026-10-23T17:23:19Z",
+      "url": "https://www.adzuna.com/details/5939666637?utm_medium=api&utm_source=59a3324b",
+      "salary": "$79,236",
+      "description": "About Reingold Reingold is a full-service marketing and creative firm in Alexandria, VA. For more than 40 years, we’ve been driven by a simple mission: to help organizations –– whether in the government, nonprofit, or business sector –– as they strive to make the world a better place. We hire top-notch talent to develop and launch compelling, inventive communications campaigns, leveraging the latest technology and digital media strategies that enable our clients to meet their audiences where th…",
       "tags": [
         "communications",
         "entry-level"
@@ -179,22 +196,6 @@
       ]
     },
     {
-      "id": "c8a0968ab3c40b61",
-      "title": "Entry Level Marketing Associate (Arlington)",
-      "company": "Nova Acquisitions",
-      "location": "State Farm, Arlington County",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-21T01:58:44Z",
-      "url": "https://www.adzuna.com/land/ad/5936299154?se=fmzhKmLR8RGh_oyDYnSS7w&utm_medium=api&utm_source=59a3324b&v=FB164D9A120F5DC8BC7F3F394C14D155969E1777",
-      "salary": "$51,900",
-      "description": "Entry-Level Marketing Assistant Job Summary We are looking for an enthusiastic and motivated Entry-Level Marketing Assistant to support in-person promotional campaigns, event coordination, and market research. In this role, you will engage with customers, assist with event setup, and collect feedback to help the team improve marketing strategies and customer experiences. This opportunity is ideal for someone who enjoys working with people and wants to gain hands-on experience in marketing and p…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
       "id": "8950f5863e8430d1",
       "title": "Housing & Residence Life Social Media Assistant (Student)",
       "company": "American University",
@@ -227,51 +228,19 @@
       ]
     },
     {
-      "id": "bc8688a21398f06e",
+      "id": "b8ad5bd9b20dd122",
       "title": "Manager Marketing - Festivals",
       "company": "AEG",
-      "location": "Los Angeles, CA",
+      "location": "New York, NY",
       "remote": "onsite",
       "source": "Greenhouse",
-      "datePosted": "2026-10-20T11:06:30-04:00",
-      "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/8885618002",
+      "datePosted": "2026-10-20T11:06:41-04:00",
+      "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/8893065002",
       "salary": null,
       "description": "<p><strong>Company Information</strong></p>\n<p><span data-olk-copy-source=\"MessageBody\">AEG brings music, sports, and live entertainment together to create moments people remember around the world. Each year, more than 100 million fans experience live events across five continents—from global touring, concerts, and festivals to iconic sports and entertainment destinations.</span></p>\n<p>Through our music division, AEG Presents, one of the world’s leading operators of tours, concerts, and music festivals, we help shape the sound of now. We work with artists at every stage of their careers to bring live music to life, connecting artists with fans on stages around the world.</p>\n<p>Headquartered in Los Angeles, AEG Presents is driven by creativity, innovation, and purpose, and powered by people who want their work to show up in the real world.</p>\n<p>If you’re ready to help create moments that matter, there’s a place for you here. Because it happens here.</p>\n<p><strong>Job Summary</strong></p>\n<p>The <span class=\"collapsed-field-text\">Marketing Manager- Festivals</span>&nbsp;is responsible for all marketing assets for festivals on calendar.&nbsp; This position will work in conjunction with artist management, Radio/TV, and marketing team to create and develop an effective marketing plan that will reach the correct demographic and target customers appropriate for each show.&nbsp; The Marketing Manager will develop graphic content used to inform the general public of shows for the purpose of gaining ticket sales.&nbsp; This position will also be responsible for maintaining and tracking budgets to make sure funds are allocated correctly.&nbsp; The Marketing Manager will oversee social media accounts and ensure they are up to date with engaging material.</p>\n<p><strong>Essential Functions</strong></p>\n<ul data-editing-info=\"{&quot;applyListStyleFromLevel&quot;:true}\">\n<li>\n<div>Responsible for development and execution of marketing and promotional plans. Collaborates with festival directors, talent buyers, and marketing director to plan and oversee the marketing spend.</div>\n</li>\n<li>\n<div>Generate and adhere to marketing budget. Book and account for all advertising and media ensuring funds are allocated to correct partners. Prepare advertising settlements for each show</div>\n</li>\n<li>\n<div>Oversee Social Media accounts for each show.&nbsp; Develop ad copy; implement ad schedules to appeal to a specific demographic and target customer.</div>\n</li>\n<li>\n<div>Oversee and evaluate show performance, making adjustments to meet marketing strategy in changing market or competitive conditions</div>\n</li>\n<li>\n<div>Supervise publicity, advance press interviews, secure and coordinate artist availability for promotions with management, label and public relations agencies.</div>\n</li>\n<li>\n<div>Develop and pitch promotions to media outlets.&nbsp; Contact radio and schedule radio time and set up giveaways.&nbsp; Negotiate rates and contracts with various media outlets</div>\n</li>\n<li>\n<div>Develop additional marketing opportunities to increase ticket sales when needed. &nbsp; Keep up with current marketing and social media trends to brainstorm new ideas and concepts for assets and promotions to market events.</div>\n</li>\n<li>\n<div>Work with marketing team and artist management to strategize new ways to market shows and reach the correct audience. &nbsp; Request graphics for ecards, banners, posters, social media post, radio station needs and e-mails</div>\n</li>\n<li>\n<div>May be responsible for overseeing interns and assistants.</div>\n</li>\n</ul>\n<p><strong>Required Qualifications</strong></p>\n<ul data-editing-info=\"{&quot;applyListStyleFromLevel&quot;:true}\">\n<li>BA/BS Degree (4 years) in Marketing/ Business Communications, PR Preferred</li>\n<li>4-6 years Of related work experience</li>\n<li>4-6 years Experience with media buying</li>\n<li>\n<div>May be responsible for overseeing interns and assistants.</div>\n</li>\n<li>\n<div>Strong communication and organizational skills</div>\n</li>\n<li>\n<div>Knowledge of social media and online marketing initiatives and strategies</div>\n</li>\n<li>\n<div>Must be internet savvy</div>\n</li>\n<li>\n<div>Proficient in Photoshop and MS Office</div>\n</li>\n<li>\n<div>Creative, detail-oriented person who can juggle multiple tasks</div>\n</li>\n<li>\n<div>Knowledge of Music industry preferred</div>\n</li>\n<li>\n<div>Passion for music preferred</div>\n</li>\n</ul>\n<p><strong>Payscale: </strong><span data-olk-copy-source=\"MessageBody\">$76,072.00 - $100,000.00</span></p>\n<p><strong>Bonus: </strong><em>This position is eligible for a bonus under the current bonus plan requirements.</em></p>\n<p><strong>Benefits:<em> Full-time: </em></strong><em>We offer a comprehensive benefits package that includes: medical, dental and vision insurance, paid holidays, vacation and sick time, company paid basic life insurance, voluntary life insurance, parental leave, 401k Plan (with a current employer match of 3%), flexible spending and health savings account options, and wellness offerings.</em></p>\n<p>AEG reserves the right to change or modify the employee’s job description whether orally or in writing, at any time during the employment relationship.&nbsp; AEG may require an employee to perform duties outside their normal description.</p>\n<p>AEG's policy is to hire the most qualified applicants, and we comply with all applicable federal, state and local employment laws in making hiring and employee decisions. &nbsp;We are an equal opportunity employer and do not discriminate against applicants or employees on the basis of race, color, marital status, disability, religion, age, sex, sexual orientation, national origin, genetic information, veteran status, or any other legally protected status recognized by applicable federal, state or local law.</p>\n<p><strong>Employer does not offer work visa sponsorship for this position.</strong></p>\n<p>&nbsp;</p>",
       "tags": [
         "marketing",
         "music"
-      ]
-    },
-    {
-      "id": "8c9a367a51195ca5",
-      "title": "Marketing Coordinator",
-      "company": "NextShining",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-19T14:34:21Z",
-      "url": "https://www.adzuna.com/details/5934454343?utm_medium=api&utm_source=59a3324b",
-      "salary": "$46,366",
-      "description": "Job Description NextShining is seeking a motivated, detail-oriented, and creative Marketing Coordinator to join our growing team in Washington, DC. In this role, you will support the planning, coordination, and execution of marketing initiatives designed to increase brand awareness, strengthen customer engagement, and drive business growth. The ideal candidate is an enthusiastic communicator, a natural problem-solver, and someone who enjoys working in a dynamic, team-oriented environment. Key R…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "c3858709ba162756",
-      "title": "Marketing Assistant",
-      "company": "Dinamic AS Group",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-19T14:34:21Z",
-      "url": "https://www.adzuna.com/details/5934454341?utm_medium=api&utm_source=59a3324b",
-      "salary": "$50,319",
-      "description": "Job Description Dinamic AS Group is seeking an enthusiastic and detail-oriented Marketing Assistant to join our growing team in Washington, DC. In this role, you will support the planning, coordination, and execution of marketing initiatives designed to strengthen brand awareness, improve customer engagement, and drive business growth. This opportunity is ideal for someone who enjoys working with people, bringing creative ideas to life, and developing valuable marketing and business skills in a…",
-      "tags": [
-        "marketing",
-        "entry-level"
       ]
     },
     {
