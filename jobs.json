@@ -1,6 +1,102 @@
 {
-  "generatedAt": "2026-10-27T16:42:57.145Z",
+  "generatedAt": "2026-10-28T17:10:58.558Z",
   "jobs": [
+    {
+      "id": "f6951900261f7c99",
+      "title": "Entry Level Communications Assistant",
+      "company": "Nova Acquisitions",
+      "location": "Arlington, Arlington County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-10-28T07:55:56Z",
+      "url": "https://www.adzuna.com/land/ad/5944498244?se=3GjNifLS8RGGEZv-xSOJ3w&utm_medium=api&utm_source=59a3324b&v=D0E23E91E1390DBF2984EBC8A1E6DD7CEE216505",
+      "salary": "$37,108",
+      "description": "Entry-Level Communications Assistant Location: McLean, Virginia Candidates must be able to commute to McLean, Virginia. About the Role We are seeking a creative and motivated Entry-Level Communications Assistant to support our marketing and communications team. This opportunity offers hands-on experience developing content, supporting campaigns, and engaging audiences while learning from experienced marketing professionals. Qualifications Bachelor’s degree in communications, marketing, business…",
+      "tags": [
+        "communications",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "8990f8a64d4031a7",
+      "title": "Marketing Associate (Federal Experience)",
+      "company": "MissionTek Advisors",
+      "location": "Arlington, Arlington County",
+      "remote": "hybrid",
+      "source": "Adzuna",
+      "datePosted": "2026-10-28T07:47:08Z",
+      "url": "https://www.adzuna.com/land/ad/5944484944?se=JoeMivLS8RGev_WNP7i0LA&utm_medium=api&utm_source=59a3324b&v=7C84D91FE7B336A2E2ABCBE80062580E86EEC315",
+      "salary": "$50,866",
+      "description": "Arlington, VA (Hybrid - 3 days onsite) U.S. Citizenship Required We're seeking a Marketing Associate to support brand awareness, content development, digital marketing, and internal communications. Key Responsibilities Create and update marketing content, presentations, collateral, and social media posts Manage social media scheduling, engagement tracking, and content planning Support website updates and digital branding initiatives Coordinate conferences, events, and marketing logistics Develo…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "96197478b6a752af",
+      "title": "Digital Communications Coordinator",
+      "company": "Vistra Communications",
+      "location": "South, Arlington County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-10-28T02:52:27Z",
+      "url": "https://www.adzuna.com/details/5944176663?utm_medium=api&utm_source=59a3324b",
+      "salary": "$79,437",
+      "description": "Vistra Communications is seeking a passionate and creative Digital Communications Specialist to manage the online presence of the Marine Corps Risk Management Directorate – Safety Division (RMD SD) and play a vital role in promoting a culture of safety across the service. As the Digital Communications Specialist, you will administer the RMD SD website, SharePoint sites, and social media channels. RMD SD enhances the Marine Corps’ warfighting capability through integrated “force preservation” me…",
+      "tags": [
+        "communications",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "e15972ad24fa3550",
+      "title": "Communications Associate",
+      "company": "Reingold",
+      "location": "Trade, Alexandria City",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-10-28T02:51:35Z",
+      "url": "https://www.adzuna.com/details/5944175783?utm_medium=api&utm_source=59a3324b",
+      "salary": "$59,000 – $87,400",
+      "description": "About Reingold Reingold is a full-service marketing and creative firm in Alexandria, VA. For more than 40 years, we’ve been driven by a simple mission: to help organizations –– whether in the government, nonprofit, or business sector –– as they strive to make the world a better place. We hire top-notch talent to develop and launch compelling, inventive communications campaigns, leveraging the latest technology and digital media strategies that enable our clients to meet their audiences where th…",
+      "tags": [
+        "communications",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "4e471e3b23df7c83",
+      "title": "Event Marketing Associate - Entry Level",
+      "company": "Global Events Marketing",
+      "location": "Alexandria, Alexandria City",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-10-27T14:46:45Z",
+      "url": "https://www.adzuna.com/details/5943688556?utm_medium=api&utm_source=59a3324b",
+      "salary": "$41,893",
+      "description": "Full-Time | Paid Training | No Experience Required | Career Growth We’re hiring energetic, motivated individuals to join our growing team! No previous experience is required—we provide paid training, hands-on mentorship, and opportunities for career advancement. Key Responsibilities Assist with live events, promotional campaigns, and brand activations. Engage with customers and represent brands professionally. Support event setup, coordination, and execution. Share promotional information and c…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "118c6ef9843dce74",
+      "title": "Marketing Assistant",
+      "company": "SHIK CONSULTING GROUP",
+      "location": "Washington, D.C., US",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-10-27T01:48:45Z",
+      "url": "https://www.adzuna.com/land/ad/5943160854?se=-hpmivLS8RGpb5ATKhfplw&utm_medium=api&utm_source=59a3324b&v=1F54707606F46EE722C152C27EDCF2DE57040F3A",
+      "salary": "$47,468",
+      "description": "*This is an onsite role working in marketing and promotions work. We are looking for an Entry Level Marketing Assistant to help raise brand awareness with target audiences. Paid training will be provided. The type of candidate we are looking for is excited about working with nonprofit causes and will bring a fresh approach to our team dynamic. You’ll work across all levels and departments of our organization to find what makes our charity clients impactful and communicate it to the world. You’l…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
     {
       "id": "44dd4236c054a924",
       "title": "Marketing Coordinator - Georgetown University",
@@ -14,23 +110,6 @@
       "description": "Job Description The Marketing Coordinator, Administration & Graphic Designer plays a key role in promoting the Hospitality Program at Georgetown University through strategic marketing initiatives, administrative support, and compelling visual design. This multifaceted position supports student recruitment, program visibility, event coordination, and internal operations, ensuring a cohesive and professional brand presence across all platforms. Compensation Data COMPENSATION: The Hourly rate for …",
       "tags": [
         "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "b1b9cdccda4f8259",
-      "title": "Brand and Marketing Support Associate",
-      "company": "VSG Business Solutions LLC",
-      "location": "Crystal, Arlington County",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-26T21:35:45Z",
-      "url": "https://www.adzuna.com/details/5942897191?utm_medium=api&utm_source=59a3324b",
-      "salary": "$52,000 – $62,400",
-      "description": "Our client's Communications and Public Affairs Office is seeking a Conference, Brand & Marketing Support Associate to join its collaborative team. Reporting to the Chief Communications Officer, this role supports participation in conferences and events through the coordination, preparation, shipment, tracking, receipt, and maintenance of conference and branded materials. In addition, the position assists with branding, marketing, promotional, and communications initiatives as organizational nee…",
-      "tags": [
-        "marketing",
-        "brand",
         "entry-level"
       ]
     },
@@ -51,16 +130,16 @@
       ]
     },
     {
-      "id": "537eac723008acd1",
-      "title": "Entry-Level Sales & Marketing Associate | Full-Time | Paid Training",
-      "company": "Global Events, Inc.",
-      "location": "Alexandria, Alexandria City",
+      "id": "5acff5eca614dc02",
+      "title": "Marketing Coordinator",
+      "company": "First Books",
+      "location": "Rosslyn, Arlington County",
       "remote": "onsite",
       "source": "Adzuna",
-      "datePosted": "2026-10-24T02:38:26Z",
-      "url": "https://www.adzuna.com/details/5940159577?utm_medium=api&utm_source=59a3324b",
-      "salary": "$35,047",
-      "description": "Hiring Immediately | No Experience Required | Career Growth Opportunities Looking for a full-time opportunity where you can learn new skills, gain hands-on experience, and grow professionally? We’re hiring motivated, outgoing, and enthusiastic individuals to join our growing team as Entry-Level Sales & Marketing Associates! No previous experience is required! We provide paid training, hands-on coaching, and ongoing mentorship to help you develop valuable skills in sales, marketing, customer eng…",
+      "datePosted": "2026-10-24T05:06:34Z",
+      "url": "https://www.adzuna.com/details/5940279023?utm_medium=api&utm_source=59a3324b",
+      "salary": "$52,000",
+      "description": "Application Notice – Required Application Process To be considered for employment with First Book, all applicants must complete and submit an application for the specific position through First Book's official careers website: https://firstbook.bamboohr.com/careers Submitting a resume, expressing interest, or applying through Better Teams or any other third-party platform does not satisfy First Book's application requirements. We will review and consider only completed applications submitted th…",
       "tags": [
         "marketing",
         "entry-level"
@@ -212,30 +291,14 @@
       ]
     },
     {
-      "id": "011fdd63a9ece529",
-      "title": "Social Media Associate",
-      "company": "Public Citizen",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-20T20:57:33Z",
-      "url": "https://www.adzuna.com/details/5935902555?utm_medium=api&utm_source=59a3324b",
-      "salary": "$75,682",
-      "description": "Public Citizen’s Communications Office is seeking a social media associate to join a creative, energetic and fast-paced team at a critical political moment where authoritarianism is on the rise and the assault on our democracy is unprecedented. The social media associate will be a quick and creative thinker and a strong and detail-oriented online writer, someone who is the first to know about the latest social media trends, platforms and technology. The social media associate can produce clever…",
-      "tags": [
-        "social media",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "b8ad5bd9b20dd122",
+      "id": "bc8688a21398f06e",
       "title": "Manager Marketing - Festivals",
       "company": "AEG",
-      "location": "New York, NY",
+      "location": "Los Angeles, CA",
       "remote": "onsite",
       "source": "Greenhouse",
-      "datePosted": "2026-10-20T11:06:41-04:00",
-      "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/8893065002",
+      "datePosted": "2026-10-20T11:06:30-04:00",
+      "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/8885618002",
       "salary": null,
       "description": "<p><strong>Company Information</strong></p>\n<p><span data-olk-copy-source=\"MessageBody\">AEG brings music, sports, and live entertainment together to create moments people remember around the world. Each year, more than 100 million fans experience live events across five continents—from global touring, concerts, and festivals to iconic sports and entertainment destinations.</span></p>\n<p>Through our music division, AEG Presents, one of the world’s leading operators of tours, concerts, and music festivals, we help shape the sound of now. We work with artists at every stage of their careers to bring live music to life, connecting artists with fans on stages around the world.</p>\n<p>Headquartered in Los Angeles, AEG Presents is driven by creativity, innovation, and purpose, and powered by people who want their work to show up in the real world.</p>\n<p>If you’re ready to help create moments that matter, there’s a place for you here. Because it happens here.</p>\n<p><strong>Job Summary</strong></p>\n<p>The <span class=\"collapsed-field-text\">Marketing Manager- Festivals</span>&nbsp;is responsible for all marketing assets for festivals on calendar.&nbsp; This position will work in conjunction with artist management, Radio/TV, and marketing team to create and develop an effective marketing plan that will reach the correct demographic and target customers appropriate for each show.&nbsp; The Marketing Manager will develop graphic content used to inform the general public of shows for the purpose of gaining ticket sales.&nbsp; This position will also be responsible for maintaining and tracking budgets to make sure funds are allocated correctly.&nbsp; The Marketing Manager will oversee social media accounts and ensure they are up to date with engaging material.</p>\n<p><strong>Essential Functions</strong></p>\n<ul data-editing-info=\"{&quot;applyListStyleFromLevel&quot;:true}\">\n<li>\n<div>Responsible for development and execution of marketing and promotional plans. Collaborates with festival directors, talent buyers, and marketing director to plan and oversee the marketing spend.</div>\n</li>\n<li>\n<div>Generate and adhere to marketing budget. Book and account for all advertising and media ensuring funds are allocated to correct partners. Prepare advertising settlements for each show</div>\n</li>\n<li>\n<div>Oversee Social Media accounts for each show.&nbsp; Develop ad copy; implement ad schedules to appeal to a specific demographic and target customer.</div>\n</li>\n<li>\n<div>Oversee and evaluate show performance, making adjustments to meet marketing strategy in changing market or competitive conditions</div>\n</li>\n<li>\n<div>Supervise publicity, advance press interviews, secure and coordinate artist availability for promotions with management, label and public relations agencies.</div>\n</li>\n<li>\n<div>Develop and pitch promotions to media outlets.&nbsp; Contact radio and schedule radio time and set up giveaways.&nbsp; Negotiate rates and contracts with various media outlets</div>\n</li>\n<li>\n<div>Develop additional marketing opportunities to increase ticket sales when needed. &nbsp; Keep up with current marketing and social media trends to brainstorm new ideas and concepts for assets and promotions to market events.</div>\n</li>\n<li>\n<div>Work with marketing team and artist management to strategize new ways to market shows and reach the correct audience. &nbsp; Request graphics for ecards, banners, posters, social media post, radio station needs and e-mails</div>\n</li>\n<li>\n<div>May be responsible for overseeing interns and assistants.</div>\n</li>\n</ul>\n<p><strong>Required Qualifications</strong></p>\n<ul data-editing-info=\"{&quot;applyListStyleFromLevel&quot;:true}\">\n<li>BA/BS Degree (4 years) in Marketing/ Business Communications, PR Preferred</li>\n<li>4-6 years Of related work experience</li>\n<li>4-6 years Experience with media buying</li>\n<li>\n<div>May be responsible for overseeing interns and assistants.</div>\n</li>\n<li>\n<div>Strong communication and organizational skills</div>\n</li>\n<li>\n<div>Knowledge of social media and online marketing initiatives and strategies</div>\n</li>\n<li>\n<div>Must be internet savvy</div>\n</li>\n<li>\n<div>Proficient in Photoshop and MS Office</div>\n</li>\n<li>\n<div>Creative, detail-oriented person who can juggle multiple tasks</div>\n</li>\n<li>\n<div>Knowledge of Music industry preferred</div>\n</li>\n<li>\n<div>Passion for music preferred</div>\n</li>\n</ul>\n<p><strong>Payscale: </strong><span data-olk-copy-source=\"MessageBody\">$76,072.00 - $100,000.00</span></p>\n<p><strong>Bonus: </strong><em>This position is eligible for a bonus under the current bonus plan requirements.</em></p>\n<p><strong>Benefits:<em> Full-time: </em></strong><em>We offer a comprehensive benefits package that includes: medical, dental and vision insurance, paid holidays, vacation and sick time, company paid basic life insurance, voluntary life insurance, parental leave, 401k Plan (with a current employer match of 3%), flexible spending and health savings account options, and wellness offerings.</em></p>\n<p>AEG reserves the right to change or modify the employee’s job description whether orally or in writing, at any time during the employment relationship.&nbsp; AEG may require an employee to perform duties outside their normal description.</p>\n<p>AEG's policy is to hire the most qualified applicants, and we comply with all applicable federal, state and local employment laws in making hiring and employee decisions. &nbsp;We are an equal opportunity employer and do not discriminate against applicants or employees on the basis of race, color, marital status, disability, religion, age, sex, sexual orientation, national origin, genetic information, veteran status, or any other legally protected status recognized by applicable federal, state or local law.</p>\n<p><strong>Employer does not offer work visa sponsorship for this position.</strong></p>\n<p>&nbsp;</p>",
       "tags": [
