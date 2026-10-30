@@ -1,6 +1,103 @@
 {
-  "generatedAt": "2026-10-29T17:27:15.278Z",
+  "generatedAt": "2026-10-30T17:02:18.558Z",
   "jobs": [
+    {
+      "id": "96d419e924492122",
+      "title": "Associate, Strategic Communications",
+      "company": "Raben",
+      "location": "Rosslyn, Arlington County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-10-30T09:12:37Z",
+      "url": "https://www.adzuna.com/details/5946951624?utm_medium=api&utm_source=59a3324b",
+      "salary": "$55,000",
+      "description": "Who We Are: Raben is a public policy, strategic communications and organizational consulting firm. Our talented and passionate team champions diversity, equity, and justice as core values that ignite our mission for impactful change in corporate, nonprofit, government, and foundation work. Our changemakers work to solve real-world problems and inspire lasting changes through our four service offerings: strategic communications, government affairs, issue campaigns, culture, strategy, & organizat…",
+      "tags": [
+        "communications",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "1659b97e9a694998",
+      "title": "Strategic Communications Coordinator",
+      "company": "Hylton-Rodic Law",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-10-30T06:44:35Z",
+      "url": "https://www.adzuna.com/details/5946762462?utm_medium=api&utm_source=59a3324b",
+      "salary": "$70,000 – $90,000",
+      "description": "Full-time Description Executive Communications. Thought Leadership. Real Ownership. Full-Time | Washington, DC | In-Person | $70,000–$90,000  Performance-Based Bonus Opportunities We're looking for a resourceful, intellectually curious communications professional with exceptional writing skills, strong research abilities, and the project-management experience to turn leadership priorities into completed initiatives. Hylton-Rodic Law (HRL) is a boutique intellectual property law firm serving inn…",
+      "tags": [
+        "communications",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "cf7e9dc51da263e6",
+      "title": "Digital Marketing Associate",
+      "company": "AeroVironment",
+      "location": "Arlington, Arlington County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-10-30T03:14:31Z",
+      "url": "https://www.adzuna.com/details/5946650155?utm_medium=api&utm_source=59a3324b",
+      "salary": "$47,840 – $72,800",
+      "description": "Worker Type Regular Job Description Summary The Digital Marketing Associate will support internal communications and corporate website management for AV, helping keep employees informed and engaged while ensuring website content remains accurate, current, and aligned with AV’s brand standards. Reporting to the Marketing Director, this part-time role will focus primarily on developing and publishing internal communications, maintaining content on AV’s SharePoint intranet, and supporting employee…",
+      "tags": [
+        "marketing",
+        "digital marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "a8f9b96ff9011eea",
+      "title": "Associate, Membership Operations & Communications",
+      "company": "Government Executive Media Group",
+      "location": "Rosslyn, Arlington County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-10-30T00:19:08Z",
+      "url": "https://www.adzuna.com/details/5946529039?utm_medium=api&utm_source=59a3324b",
+      "salary": "$60,000 – $65,000",
+      "description": "The Role ATARC, a division of GovExec, is seeking a highly organized and detail-oriented Associate, Membership Operations & Communications to support the day-to-day operations of the corporate membership team. This is a membership support role with a strong operational, coordination, and member engagement component. You will assist with member onboarding, HubSpot/CRM updates, newsletter coordination, engagement tracking, renewal support, and general administrative workflows tied to ATARC’s corp…",
+      "tags": [
+        "communications",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "f1fccce3ac59ad21",
+      "title": "Digital Engagement Associate on Communications Team (One-Year)",
+      "company": "ASIAN AMERICANS ADVANCING JUSTICE-AAJC, Inc.",
+      "location": "Washington, D.C., US",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-10-29T15:57:31Z",
+      "url": "https://www.adzuna.com/details/5946104653?utm_medium=api&utm_source=59a3324b",
+      "salary": "$70,000",
+      "description": "Benefits: 401(k) Competitive salary Dental insurance Health insurance Home office stipend Paid time off Parental leave Training & development Vision insurance Wellness resources Organizational Profile: Asian Americans Advancing Justice | AAJC (\"AAJC\") is a national 501(c)(3) nonprofit founded in 1991. Our mission is to advance the civil and human rights of Asian Americans and to build and promote a fair and equitable society for all. For 30 years, we have served as the leading Asian American vo…",
+      "tags": [
+        "communications",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "f223e5c548aae21c",
+      "title": "Event Marketing Associate - Entry Level",
+      "company": "Global Events Marketing",
+      "location": "Cameron Station, Alexandria City",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-10-29T14:35:48Z",
+      "url": "https://www.adzuna.com/details/5946027962?utm_medium=api&utm_source=59a3324b",
+      "salary": "$54,078",
+      "description": "Full-Time | Paid Training | No Experience Required | Career Growth We’re hiring energetic, motivated individuals to join our growing team! No previous experience is required—we provide paid training, hands-on mentorship, and opportunities for career advancement. Key Responsibilities Assist with live events, promotional campaigns, and brand activations. Engage with customers and represent brands professionally. Support event setup, coordination, and execution. Share promotional information and c…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
     {
       "id": "e04e63b55431f343",
       "title": "Senior Communications Associate, Entertainment Initiative",
@@ -51,22 +148,6 @@
       ]
     },
     {
-      "id": "aa87d2e7cd6a773e",
-      "title": "Event & Marketing Coordinator",
-      "company": "Express Employment",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-29T06:18:46Z",
-      "url": "https://www.adzuna.com/land/ad/5945511917?se=6qjU9L3T8RG4u4QP7LrhiQ&utm_medium=api&utm_source=59a3324b&v=91E736E9205B0ADFCBD3EBA63FF352D652B01071",
-      "salary": "$32,992",
-      "description": "Job Description Job Description Event & Marketing Coordinator Washington Country Club | Washington, PA Salary: $35,000 - $40,000 per year Position Summary Washington Country Club is seeking a highly organized and relationship-focused Event & Marketing Coordinator to join our team. This unique role combines event planning, marketing coordination, member engagement, and community outreach. The selected candidate will work directly with the current Event Coordinator prior to her retirement in Janu…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
       "id": "05b0b51f9c05d8cd",
       "title": "Content Creator - AWAL ",
       "company": "Sony Music",
@@ -83,14 +164,14 @@
       ]
     },
     {
-      "id": "04bccf21735d1134",
+      "id": "d45bf867f467caf7",
       "title": "Entry Level Communications Assistant",
       "company": "Nova Acquisitions",
       "location": "Arlington, Arlington County",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-10-28T07:55:56Z",
-      "url": "https://www.adzuna.com/land/ad/5944498244?se=0EFM9L3T8RGhl_tL-YadEA&utm_medium=api&utm_source=59a3324b&v=D0E23E91E1390DBF2984EBC8A1E6DD7CEE216505",
+      "url": "https://www.adzuna.com/land/ad/5944498244?se=wvjApoPU8RGdEZV2ix-apQ&utm_medium=api&utm_source=59a3324b&v=D0E23E91E1390DBF2984EBC8A1E6DD7CEE216505",
       "salary": "$37,108",
       "description": "Entry-Level Communications Assistant Location: McLean, Virginia Candidates must be able to commute to McLean, Virginia. About the Role We are seeking a creative and motivated Entry-Level Communications Assistant to support our marketing and communications team. This opportunity offers hands-on experience developing content, supporting campaigns, and engaging audiences while learning from experienced marketing professionals. Qualifications Bachelor’s degree in communications, marketing, business…",
       "tags": [
@@ -99,14 +180,14 @@
       ]
     },
     {
-      "id": "75600a0a2ff979ca",
+      "id": "e5acdb2b97584115",
       "title": "Marketing Associate (Federal Experience)",
       "company": "MissionTek Advisors",
       "location": "Arlington, Arlington County",
       "remote": "hybrid",
       "source": "Adzuna",
       "datePosted": "2026-10-28T07:47:08Z",
-      "url": "https://www.adzuna.com/land/ad/5944484944?se=ZO8O9b3T8RGQ-s1xb079dA&utm_medium=api&utm_source=59a3324b&v=7C84D91FE7B336A2E2ABCBE80062580E86EEC315",
+      "url": "https://www.adzuna.com/land/ad/5944484944?se=8C6cqIPU8RGzkfY_QG7FnA&utm_medium=api&utm_source=59a3324b&v=7C84D91FE7B336A2E2ABCBE80062580E86EEC315",
       "salary": "$50,866",
       "description": "Arlington, VA (Hybrid - 3 days onsite) U.S. Citizenship Required We're seeking a Marketing Associate to support brand awareness, content development, digital marketing, and internal communications. Key Responsibilities Create and update marketing content, presentations, collateral, and social media posts Manage social media scheduling, engagement tracking, and content planning Support website updates and digital branding initiatives Coordinate conferences, events, and marketing logistics Develo…",
       "tags": [
@@ -147,30 +228,14 @@
       ]
     },
     {
-      "id": "4e471e3b23df7c83",
-      "title": "Event Marketing Associate - Entry Level",
-      "company": "Global Events Marketing",
-      "location": "Alexandria, Alexandria City",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-27T14:46:45Z",
-      "url": "https://www.adzuna.com/details/5943688556?utm_medium=api&utm_source=59a3324b",
-      "salary": "$41,893",
-      "description": "Full-Time | Paid Training | No Experience Required | Career Growth We’re hiring energetic, motivated individuals to join our growing team! No previous experience is required—we provide paid training, hands-on mentorship, and opportunities for career advancement. Key Responsibilities Assist with live events, promotional campaigns, and brand activations. Engage with customers and represent brands professionally. Support event setup, coordination, and execution. Share promotional information and c…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "f4da7b32c37dcb4f",
+      "id": "1750adde08d6e942",
       "title": "Marketing Assistant",
       "company": "SHIK CONSULTING GROUP",
       "location": "Washington, D.C., US",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-10-27T01:48:45Z",
-      "url": "https://www.adzuna.com/land/ad/5943160854?se=ZPP29L3T8RGQ-s1xb079dA&utm_medium=api&utm_source=59a3324b&v=1F54707606F46EE722C152C27EDCF2DE57040F3A",
+      "url": "https://www.adzuna.com/land/ad/5943160854?se=CA1CqIPU8RGRQOLR_vdAhg&utm_medium=api&utm_source=59a3324b&v=1F54707606F46EE722C152C27EDCF2DE57040F3A",
       "salary": "$47,468",
       "description": "*This is an onsite role working in marketing and promotions work. We are looking for an Entry Level Marketing Assistant to help raise brand awareness with target audiences. Paid training will be provided. The type of candidate we are looking for is excited about working with nonprofit causes and will bring a fresh approach to our team dynamic. You’ll work across all levels and departments of our organization to find what makes our charity clients impactful and communicate it to the world. You’l…",
       "tags": [
@@ -195,16 +260,32 @@
       ]
     },
     {
-      "id": "6a9db41a8b3aef48",
-      "title": "Entry-Level Sales & Marketing Associate | Full-Time | Paid Training",
-      "company": "Global Events",
-      "location": "Cameron Station, Alexandria City",
+      "id": "28cf3db9558e12fc",
+      "title": "Unified Communications Associate",
+      "company": "Immersive Concepts",
+      "location": "Crystal, Arlington County",
       "remote": "onsite",
       "source": "Adzuna",
-      "datePosted": "2026-10-25T05:09:11Z",
-      "url": "https://www.adzuna.com/details/5941267837?utm_medium=api&utm_source=59a3324b",
-      "salary": "$48,281",
-      "description": "Hiring Immediately | No Experience Required | Career Growth Opportunities Looking for a full-time opportunity where you can learn new skills, gain hands-on experience, and grow professionally? We’re hiring motivated, outgoing, and enthusiastic individuals to join our growing team as Entry-Level Sales & Marketing Associates! No previous experience is required! We provide paid training, hands-on coaching, and ongoing mentorship to help you develop valuable skills in sales, marketing, customer eng…",
+      "datePosted": "2026-10-26T10:57:43Z",
+      "url": "https://www.adzuna.com/details/5942275029?utm_medium=api&utm_source=59a3324b",
+      "salary": "$78,000 – $83,000",
+      "description": "Position Title: Unified Communications Associate Reports to: Desmond Bell Reporting to this position: N/A Assignment: United States Agency for Global Media Job Description Immersive Concepts is seeking a full-time Unified Communications Associate to support the USAGM project. This role combines hands‑on technical troubleshooting with leadership, process improvements, and a strong focus on customer service & quality. Responsibilities Serve as the SME on Conference room operations Manage hardware…",
+      "tags": [
+        "communications",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "670733cea2f4616e",
+      "title": "Marketing Coordinator",
+      "company": "Red Carrot",
+      "location": "Washington, Washington, D.C.",
+      "remote": "remote",
+      "source": "Adzuna",
+      "datePosted": "2026-10-24T10:08:53Z",
+      "url": "https://www.adzuna.com/details/5940555527?utm_medium=api&utm_source=59a3324b",
+      "salary": "$85,126",
+      "description": "Marketing Coordinator Level: Junior | Work Location: Remote in the DMV area ABOUT THE ROLE Red Carrot is seeking a Marketing Coordinator to support marketing and communications efforts across a range of projects and clients. This generalist role blends project coordination, content creation, and administrative support to help execute marketing strategies that align with client objectives, with a strong emphasis on accuracy and attention to detail. KEY RESPONSIBILITIES Assist the Marketing Manag…",
       "tags": [
         "marketing",
         "entry-level"
@@ -243,6 +324,22 @@
       ]
     },
     {
+      "id": "d6a90b5193a066d1",
+      "title": "Communications & Public Involvement Coordinator",
+      "company": "WSP USA",
+      "location": "Washington, D.C., US",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-10-23T07:24:42Z",
+      "url": "https://www.adzuna.com/land/ad/5939176452?se=CH6OmoPU8RGzkfY_QG7FnA&utm_medium=api&utm_source=59a3324b&v=EE1417A4DC0BD0ED7155E7B2A5CD9FADB11E973E",
+      "salary": "$76,551",
+      "description": "This Opportunity WSP is currently initiating a search for a Public Involvement Coordinator for our Washington, DC office. Be involved in projects with our Practice and be a part of a growing organization that meets our client's objectives and solves their challenges. The position will support communications and public engagement efforts for a variety of transportation infrastructure projects in the Mid-Atlantic region. The position may also support other WSP communications and public involvemen…",
+      "tags": [
+        "communications",
+        "entry-level"
+      ]
+    },
+    {
       "id": "c78d5e46fbc144a9",
       "title": "Communications Associate - Lifeline",
       "company": "Universal Service Administrative Company",
@@ -255,39 +352,6 @@
       "description": "USAC’s target compensation range for a new hire into this position is $50,000 - $65,000 USD per year. Actual salary may vary depending on job-related factors based on knowledge, skills, and experience, as evaluated throughout the interview process. In addition, this position may be eligible for an annual performance bonus. USAC has a comprehensive benefits package that includes Medical, Dental, Vision, 401k, FSA, Life Insurance, Paid Time Off, Commuter Benefits and Wellness Programs. Why Work H…",
       "tags": [
         "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "0e73f0cab33ddfc1",
-      "title": "Sales/Marketing Coordinator",
-      "company": "Sonesta International Hotels Corporation",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-22T08:19:24Z",
-      "url": "https://www.adzuna.com/details/5937919390?utm_medium=api&utm_source=59a3324b",
-      "salary": "$62,400 – $66,560",
-      "description": "We’re People People. Are you? We’re Sonesta International Hotels—the 8th largest hotel company in the U.S. (and growing fast ). With a dynamic mix of full-service and focused hotels across major cities, our diverse portfolio of owned, managed, and franchised properties means we’re everywhere our guests need us to be. But here’s the thing—we’re not just in the business of hotels, we’re in the business of people. We bring service with passion, loyalty with purpose, and create experiences that gen…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "87228d0eaeafaf31",
-      "title": "Marketing Campaign Assistant – Entry Level",
-      "company": "HHV",
-      "location": "Cameron Station, Alexandria City",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-22T02:00:53Z",
-      "url": "https://www.adzuna.com/details/5937504198?utm_medium=api&utm_source=59a3324b",
-      "salary": "$61,355",
-      "description": "We are seeking a Marketing Campaign Assistant to support the execution of live promotional campaigns and brand engagement activities. This entry-level position offers exposure to campaign coordination, event preparation, customer interaction, and team communication. Responsibilities Assist with preparing campaign materials and event checklists. Help organize promotional schedules and campaign resources. Support the delivery of marketing campaigns at assigned locations. Ensure campaign materials…",
-      "tags": [
-        "marketing",
-        "campaign",
         "entry-level"
       ]
     },
@@ -566,22 +630,6 @@
       ]
     },
     {
-      "id": "136baaf947a7fa41",
-      "title": "VP, D2C Creative, Product and Campaign Strategy (Fan Engagement)",
-      "company": "Sony Music",
-      "location": "United States, New York, New York",
-      "remote": "onsite",
-      "source": "Greenhouse",
-      "datePosted": "2026-10-07T10:58:20-04:00",
-      "url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8700673002",
-      "salary": null,
-      "description": "<p><strong>About Sony Music Entertainment</strong></p>\n<p>At Sony Music Entertainment, we fuel the creative journey. We’ve played a pioneering role in music history, from the first-ever music label to the invention of the flat disc record. We’ve nurtured some of music’s most iconic artists and produced some of the most influential recordings of all time.</p>\n<p>Today, we work in more than 70 countries, supporting a diverse roster of international superstars, developing artists, songwriters, producers, and creators. Across our business, we are building the next generation of music commerce, fan engagement, and direct-to-consumer experiences globally.</p>\n<p><strong>The Role</strong></p>\n<p>Sony Music is seeking a VP, D2C Creative, Product and Campaign Strategy to join the global Sony Music D2C organization. Reporting directly to the Head of Sony Music D2C, this role will lead the D2C Creative, Product and Campaign Strategy team within The Greenhouse, Sony Music’s centralized D2C division.</p>\n<p>The purpose of this team is to make D2C marketing a constant, evergreen discipline for labels that today focus their effort on the release cycle. It is a central, cross-label team that acts as an extension of label digital marketing and international market execution — providing D2C expertise, filling execution capacity gaps, and building the frameworks that let others work well — while leaving artist narrative and campaign strategy with the label.</p>\n<p>This is deliberately a small centre rather than a large production function. Labels resource their own D2C people for their own repertoire; this team supplies the toolkit, standards and process that unlock the value those teams create. Where a label does not yet have that capability, the team carries more of the work early and steps back as the label staffs up. There is no embedded headcount — the team operates as a shared service across labels and territories.</p>\n<p>The VP is accountable for the quality and commercial performance of D2C creative, product and campaign activity across the roster, and for the relationships that make it work: with label marketing, creative and commerce teams, with the international marketing team, and with partners across The Greenhouse. Much of the work is proposing rather than deciding — the label approves throughout — which makes credibility, judgement and influence without authority central to the role.</p>\n<p>The role leads a team of five to six, organised around three pillars: creative, covering design systems, production and D2C visual standards; product, covering D2C product management, pricing and lifecycle; and campaign, covering CRM, fan acquisition and marketing operations. The ideal candidate combines strong D2C product instincts, fan marketing expertise, creative sensibility and operational rigour, with a deep understanding of how fans engage with artists, music, merchandise and culture across global markets.</p>\n<p><strong>How This Team Operates</strong></p>\n<ul>\n<li><strong>A small centre, not a production house. </strong>Labels resource their own D2C people; this team supplies the toolkit, standards and process that let them create value.</li>\n<li><strong>Proposes rather than decides. </strong>Recommendations are put to the label for approval. The team holds no authority independent of the label, and labels retain final say on every D2C decision.</li>\n<li><strong>Reuses and refines rather than originates. </strong>Artist narrative and campaign concept sit with the label. The team adapts existing creative for D2C — merchandise creative is the one area where it originates.</li>\n<li><strong>Depth varies by situation. </strong>On a frontline release the team is advisory. Between release cycles, on evergreen catalog, it is the primary owner of D2C activity with label approval. On superstar campaigns it is fully engaged alongside label and international teams.</li>\n<li><strong>Depth also tapers by label. </strong>Heavier engagement early where D2C capability is thin, lighter as the label staffs up — every label lands in the same place.</li>\n<li><strong>Always-on, not campaign-by-campaign. </strong>Label marketing works per release; international marketing works per market, per release. This team spans releases and keeps D2C running between them.</li>\n</ul>\n<p><strong>What You’ll Do</strong></p>\n<p><strong>Creative</strong></p>\n<ul>\n<li>Build the D2C design system — templates, asset taxonomies and scalable creative frameworks that let labels and territories execute high-quality D2C creative at volume across markets.</li>\n<li>Establish D2C visual and email standards, including motion templates, content hierarchy, build quality and testing practice, with labels supplying artist voice and brand direction.</li>\n<li>Produce merchandise and D2C product creative that labels do not produce in-house — pack shots, product mockups, banners and bundle imagery.</li>\n<li>Produce D2C social assets and CRM builds when label teams lack the capacity, and refine or extend existing creative for D2C where core assets are limited.</li>\n<li>Create pitch decks and D2C creative concepts that help label teams sell campaign ideas internally and to artist teams.</li>\n<li>Resolve international asset adaptation, where D2C creative differs meaningfully by territory and is today handled late and inconsistently.</li>\n<li>Supply campaign creative and merchandising direction to the Store Experience team, who build and run the storefronts.</li>\n</ul>\n<p><strong>Product</strong></p>\n<ul>\n<li>Establish the process linking D2C with marketing, sales and merchandising — the coordination gap labels consistently identify as their biggest constraint, where marketing learns of product and release decisions too late to build a proper campaign.</li>\n<li>Develop D2C product insight across bundles, exclusives, premium formats and drops, proposed to the label for approval.</li>\n<li>Own D2C pricing and promotional recommendations across markets, with label approval and international input from the commercial strategy team.</li>\n<li>Run competitor scanning, launch retrospectives and evergreen product ideation, bringing trend and net-new format thinking to label and commerce teams.</li>\n<li>Build lifecycle and scarcity frameworks — pre-order windows, limited editions, flash drops, live-show tie-ins, gated access and evergreen replenishment.</li>\n<li>Ensure D2C approaches are globally consistent where scale matters and locally adapted where fan behaviour, language, pricing, territory, chart rules or fulfilment realities require it.</li>\n<li>Partner with operations on launch readiness, product setup and localisation, and supply demand signals into the forecasting and insights team.</li>\n</ul>\n<p><strong>Campaign, CRM &amp; Marketing Operations</strong></p>\n<ul>\n<li>Train label teams to think D2C natively — what assets are needed, at what cadence, and which products fit which moments.</li>\n<li>Build the D2C campaign cadence, framework and schedule that keeps label campaigns on track — a named gap where no one currently owns the rhythm of D2C activity across a release.</li>\n<li>Own domestic D2C CRM and lifecycle marketing across the full fan journey — email, SMS and owned channels — including automated journeys that keep fans engaged between release moments, not only campaign sends.</li>\n<li>Develop a fan segmentation framework spanning casual fans, active fans and superfans, enabling more personalised communication and experiences across every channel.</li>\n<li>Build the first-party data strategy that captures fan preferences and behaviours to create richer fan profiles, and own domestic fan acquisition.</li>\n<li>Provide D2C budget deployment and retargeting guidance, developed with the label.</li>\n<li>Create D2C paid media best-practice frameworks across Meta, TikTok and Google, with clear guidance on campaign structure, audience strategy and measurement. D2C performance marketing is a distinct discipline from awareness and engagement advertising and is not resourced consistently across labels today.</li>\n<li>Define flywheel analytics, channel health standards and reporting — tracking acquisition, engagement, retention and monetisation, and how fans move from streaming, social and owned properties into D2C channels.</li>\n<li>Establish best practice for loyalty and VIP programmes that reward engagement rather than purchase alone, social commerce integrations, and creator and affiliate partnerships — with labels executing against those standards.</li>\n<li>Advise label teams on preorder strategy, launch timing, segmentation, local market messaging and campaign optimisation, and drive a test-and-learn culture across creative and messaging.</li>\n<li>Over time, develop predictive audience modelling to identify high-value fans and churn risk, and prepare the design system and asset taxonomy for AI-assisted asset generation.</li>\n</ul>\n<p><strong>Partnership &amp; Interlock</strong></p>\n<ul>\n<li>Serve as the central D2C creative, product and campaign partner to labels, artist teams and territories — including Columbia, RCA, Epic and the UK — and to Ceremony of Roses, The Orchard and merchandise partners.</li>\n<li>Define and operate the interlock with the international marketing team, who own market localisation and in-territory execution for US repertoire. This role owns the domestic equivalent and sets the global standard; the handoff between the two requires clear, agreed triggers.</li>\n<li>Work across The Greenhouse with the Store Experience, Business Operations, Commercial Strategy and Customer Satisfaction functions, whose scope adjoins this team’s at multiple points.</li>\n<li>Build the relationships and credibility to influence without authority across a highly matrixed global organisation.</li>\n</ul>\n<p><strong>Who You Are</strong></p>\n<ul>\n<li>10+ years across fan engagement, D2C marketing, CRM, eCommerce, merchandising or digital marketing in a high-volume, multi-stakeholder environment; music or entertainment experience strongly preferred.</li>\n<li>Deep understanding of music fan behaviour, artist marketing, D2C commerce and fan engagement ecosystems.</li>\n<li>Track record of enabling distributed teams — building playbooks, standards and frameworks that others execute — rather than only running work centrally. Comfortable moving between doing the work and teaching it.</li>\n<li>Able to operate through influence rather than authority, and to build the trust that makes label teams want to work with a central function.</li>\n<li>Strong knowledge of lifecycle marketing, CRM platforms, email and SMS execution, segmentation and first-party data strategy. Familiarity with Shopify ecosystems and D2C storefront operations.</li>\n<li>Practical experience with D2C performance marketing — paid media planning, audience targeting and return on ad spend — or the judgement to build that capability.</li>\n<li>Strong creative instincts and experience collaborating across design, marketing, merchandising and product functions, with the credibility to work alongside label creative teams.</li>\n<li>Experience building scalable campaign workflows, design systems and operational best practice in high-volume environments.</li>\n<li>Global mindset and sensitivity to local market nuance — fan behaviour, pricing, language, cultural context, release priorities, chart rules and fulfilment realities.</li>\n<li>Passion for music, fandom, culture and evolving consumer experiences.</li>\n</ul>\n<p><strong>What We Give You</strong></p>\n<ul>\n<li>An opportunity to shape the future of global music commerce and fan engagement at scale.</li>\n<li>Collaboration with industry-leading artists, labels and entertainment executives.</li>\n<li>A dynamic and entrepreneurial culture within one of the world’s leading entertainment companies.</li>\n<li>Investment in professional growth and long-term career development.</li>\n<li>Competitive compensation package including salary, bonus eligibility, comprehensive benefits and additional Sony Music perks.</li>\n</ul>\n<p>Sony Music is committed to providing equal employment opportunity for all persons regardless of age, disability, national origin, race, color, religion, sex, sexual orientation, gender identity/expression, pregnancy, veteran or military status, marital and civil partnership/union status, alienage or citizenship status, creed, genetic information, or any other status protected by applicable federal, state, or local law.</p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\">The anticipated annual base salary does not include any other compensation components or other benefits that an individual may be eligible for. &nbsp;The actual base salary offered depends on a variety of factors, which may include as applicable, the qualifications of the individual applicant for the position, years of relevant experience, specific and unique skills, level of education attained, certifications or other professional licenses held, and the location in which the applicant lives and/or from which they will be performing the job.</div><div class=\"title\">New York Pay Range</div><div class=\"pay-range\"><span>$200,000</span><span class=\"divider\">&mdash;</span><span>$250,000 USD</span></div></div></div>",
-      "tags": [
-        "campaign",
-        "music"
-      ]
-    },
-    {
       "id": "9f36c0bdf6d3ebf1",
       "title": "Director, Content Marketing",
       "company": "SiriusXM",
@@ -691,6 +739,22 @@
       "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/8716067002",
       "salary": null,
       "description": "<p><strong>For more than 20 years, AEG has played a pivotal role in transforming sports and live entertainment. Annually, we host more than 160 million guests, promote more than 10,000 shows and present more than 22,000 events around the world. We are committed to innovation, artistry, and community, and leverage the power of our 300+ venues, leading sports franchises, marquee music brands, integrated entertainment districts, premier ticketing platform and global sponsorship activations, to create memorable moments that give the world reason to cheer.</strong><br><br><strong>Our business is interwoven with the human mind and heart, and we strive to build a diverse and inclusive company that reflects the artists, athletes, and fans that we host; reach beyond traditional boundaries to support the communities in which we operate; and minimize our impact on the environment by adopting sustainable practices throughout our business operations.</strong><br><br><strong>If you want to be challenged to up your game and make a difference, then join us in giving the world reason to cheer!</strong></p>\n<div>\n<div><strong>Job Summary</strong></div>\n<div>The<strong> Marketing Coordinator</strong> is responsible for marketing, social media, online e-marketing public relations, promotions for venues, radio promotions, clubs, theaters, festivals, shows and one-offs. This position will develop promotional initiatives with artists and the community, to promote positive brand image. The Marketing Coordinator may also be responsible for coordinating the work of interns and street team for show promotions.</div>\n</div>\n<p><strong>Essential Functions</strong></p>\n<ul>\n<li>Create, preview and review press releases as needed. Coordinate the distribution of press requests with publicist. Serve as a public relations liaison. Add new shows, schedule releases and update as needed.</li>\n<li>Monitor marketing trends, regionally, with artists, and implement new marketing strategies and campaigns based on current trends. Analyze fan base to target specific demographics to promote shows, tours and festivals.</li>\n<li>Helps coordinate and advance day-of-show activities including radio stations set ups, remote broadcasts and escorting media photographers and news crews.</li>\n<li>Creates, proof reads and distributes weekly newsletters. Order and deploy e-cards and e-blasts with AXS Advantage tool. Check that venue information and links are correct, communicate errors to designers, check for accuracy, communicate errors and sign off on final version.</li>\n<li>Develop and manage social media accounts, research new promotional activities and prizes for online social media giveaways. Collaborate with artists to promote shows on their social media accounts. Design appropriate posting schedule that corresponds with various event related deadlines: announce, on sale, maintenance and backend.</li>\n<li>Monitor budget and accounting for marketing efforts and keep management up to date of potential overages. Provide report for marketing costs.</li>\n<li>Maintain good working relationships with partners, co-promoters and media. Develop special initiatives to involve the community in events. Organize artist promotions and meet and greets.</li>\n<li>May participate in hiring and training of interns and street team. May also be responsible for the upload of expense reports, updating of office calendar, ordering of supplies and general office administration.</li>\n</ul>\n<p><strong>Required Qualifications</strong></p>\n<ul>\n<li>High School Diploma or its equivalency</li>\n<li>2-4 years Of related work experience</li>\n<li>Experience calendaring events</li>\n<li>Knowledgeable and skilled in MS Office (Excel, Word, Outlook and Photoshop)</li>\n<li>Basic accounting knowledge</li>\n<li>Strong written and verbal communication skills</li>\n<li>Strong PR skills, social media savvy, and organization skills</li>\n<li>Must have strong work ethic, problem solving and prioritization skills</li>\n<li>Must be able to work independently and as part of a team</li>\n<li>Creative thinker; thinks “outside the box”</li>\n<li>Knowledge of the music industry preferred</li>\n</ul>\n<p><strong>Payscale: $17.97- $20.67</strong></p>\n<p><strong>Bonus: </strong><em>This position is not eligible for a bonus under the current bonus plan requirements.</em></p>\n<p><strong>Benefits:<em> Full-time: </em></strong><em>We offer a comprehensive benefits package that includes: medical, dental and vision insurance, paid holidays, vacation and sick time, company paid basic life insurance, voluntary life insurance, parental leave, 401k Plan (with a current employer match of 3%), flexible spending and health savings account options, and wellness offerings.</em></p>\n<p>AEG reserves the right to change or modify the employee’s job description whether orally or in writing, at any time during the employment relationship.&nbsp; AEG may require an employee to perform duties outside their normal description.</p>\n<p>AEG's policy is to hire the most qualified applicants, and we comply with all applicable federal, state and local employment laws in making hiring and employee decisions. &nbsp;We are an equal opportunity employer and do not discriminate against applicants or employees on the basis of race, color, marital status, disability, religion, age, sex, sexual orientation, national origin, genetic information, veteran status, or any other legally protected status recognized by applicable federal, state or local law.</p>\n<p><strong><em>Employer does not offer work visa sponsorship for this position.</em></strong></p>",
+      "tags": [
+        "marketing",
+        "music"
+      ]
+    },
+    {
+      "id": "40ac632c0cc3ef6a",
+      "title": "Product Marketing Manager",
+      "company": "Warner Music Group",
+      "location": "Ontario",
+      "remote": "remote",
+      "source": "Lever",
+      "datePosted": "2026-09-01T19:14:58.143Z",
+      "url": "https://jobs.lever.co/wmg/c0482692-50ee-47e0-82f9-318a1f925d90",
+      "salary": "Compensation: This position offers a base salary of $97,750 - $115,000 CAD. In addition to base salary, this role is eligible for a performance based annual bonus.\n \nVacancy Status: This posting is for an active, existing vacancy.",
+      "description": "At Warner Music Group, we’re a global collective of music makers and music lovers, tech innovators and inspired entrepreneurs, game-changing creatives and passionate team members. Here, we turn dreams into stardom and audiences into fans. We are guided by three core values that underpin everything we do across all our diverse businesses: \n \n• Curiosity: We do our best work when we’re immersing ourselves in culture and breaking through barriers. Curiosity is the driving force behind creativity and ingenuity. It fuels innovation, and innovation is the key to our future. \n \n• Collaboration: Making music and bringing it to the world is all about the power of originality amplified by teamwork. A great idea, like a great song, travels globally. We ignite passions and build connections across our diverse community of artists, songwriters, partners, and fans.\n \n• Commitment: We pursue excellence for our team and our talent. Everything in music starts with a leap into the unknown, and we’re committed to keeping the faith, acting with integrity, and delivering on our promises.\n \nTechnology is one of the most important parts of our business. Whether it’s signing up new artists; ensuring we provide the right data to Spotify, YouTube, and other digital service providers; or helping artists use the latest AI tools and make thoughtful decisions with data-driven insights – technology plays an invaluable role in our success. Group makes all of it a reality. Check out first-hand accounts from the WMG engineering, product, design, infrastructure and data teams in our blog!\n \nWMG is home to a wide range of artists, musicians, and songwriters that fuel our success. That is why we are committed to creating a work environment that actively values, appreciates, and respects everyone. We encourage applications from people with a wide variety of backgrounds and experiences.\n \nConsider a career at WMG and get the best of both worlds – an innovative global music company that retains the creative spirit of a nimble independent.\n\nYour Role:\nWe are seeking an articulate, highly organized, and collaborative L3 Product Marketing Manager to lead high-reach product communications and stakeholder alignment across our technology suite. In this role, you will act as the primary voice of our technology products. You will own product positioning, craft compelling messaging, launch new features, and drive sustained user engagement among internal stakeholders, with the opportunity to expand your scope to artists, songwriters, and managers. Working closely with cross-functional partners across Product, Marketing, Corporate Communications, Label Services, and Artist Relations, you will build alignment and translate complex product roadmaps into compelling, accessible narratives for our global network. If you thrive on blending broad communication strategy with tailored 1:1 outreach, building executive alignment, and rallying teams around new tech, we encourage you to apply.\n\n\n \n",
       "tags": [
         "marketing",
         "music"
