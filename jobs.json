@@ -1,6 +1,182 @@
 {
-  "generatedAt": "2026-11-03T18:28:16.972Z",
+  "generatedAt": "2026-11-04T18:40:09.727Z",
   "jobs": [
+    {
+      "id": "3d8dc99171fdf5ba",
+      "title": "Marketing Assistant",
+      "company": "Levant Acquisitions",
+      "location": "Washington, D.C., US",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-04T11:36:51Z",
+      "url": "https://www.adzuna.com/land/ad/5953187847?se=NgYnKX_Y8RGC6fwCFn8E0A&utm_medium=api&utm_source=59a3324b&v=BABBD6F1A3E17BD39AC6C9DBB68416DC8B7C9F3B",
+      "salary": "$38,972",
+      "description": "Landover, MD | Full-Time | On-Site Put your people skills to work on real marketing campaigns. At Levant Acquisitions, you'll learn what makes a campaign effective by helping bring it to life. As a Marketing Assistant, you'll represent client campaigns through in-person customer engagement, introduce offerings, answer questions, and help turn customer interest into measurable results. If you're looking to build practical marketing experience while strengthening your communication skills, this i…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "e971b9637f7c55a1",
+      "title": "Marketing Associate (Entry Level)",
+      "company": "Legendary Impact",
+      "location": "Silver Spring, Montgomery County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-04T11:34:38Z",
+      "url": "https://www.adzuna.com/land/ad/5953179813?se=AKM9KX_Y8RGCm8pNBtrhDA&utm_medium=api&utm_source=59a3324b&v=9ACA81DF006F14CD90D0AD9A88828A7FD03B26D4",
+      "salary": "$47,191",
+      "description": "Legendary Impact is expanding our team and looking for a Marketing Associate who enjoys working with people, learning new skills, and taking on new challenges. As a Marketing Associate, you’ll gain hands-on experience supporting brand awareness, customer engagement, sales initiatives, and client campaigns. You’ll work alongside an experienced team while developing the communication and business skills needed to grow professionally. We're seeking motivated, entry-level candidates who are ready t…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "2d09d5881533e22e",
+      "title": "Social Media Coordinator",
+      "company": "Potomac",
+      "location": "Bethesda, Montgomery County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-04T08:24:03Z",
+      "url": "https://www.adzuna.com/details/5952990385?utm_medium=api&utm_source=59a3324b",
+      "salary": "$60,000 – $80,000",
+      "description": "Summary As Social Media Coordinator at Potomac, you will keep our social presence running on time and on brand. You will schedule and publish organic content across [LinkedIn, YouTube, Facebook, X, and other priority platforms], turn approved assets into platform-ready formats and keep the content queue moving through brand and compliance review. You will work with the Potomac Social and Brand team to manage and maintain social content calendars as well as brand standards and best practices are…",
+      "tags": [
+        "social media",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "baae3516cb7c3f78",
+      "title": "Entry Level Marketing Coordinator",
+      "company": "Moodreact",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-04T08:16:11Z",
+      "url": "https://www.adzuna.com/details/5952970576?utm_medium=api&utm_source=59a3324b",
+      "salary": "$54,553",
+      "description": "About Us Moodreact is a full-service maintenance company supporting homes and businesses with expert electricians, appliance repair technicians, plumbers, and skilled general labor teams.We handle the tough jobs, the technical work, and the details others overlook—always with professionalism, safety, and efficiency in mind. About the Role We are seeking an enthusiastic Entry Level Marketing Coordinator to support promotional initiatives, increase brand awareness, and create positive experiences…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "9a648abc857e98a0",
+      "title": "Public Relations Assistant",
+      "company": "Moodreact",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-04T08:16:11Z",
+      "url": "https://www.adzuna.com/details/5952970528?utm_medium=api&utm_source=59a3324b",
+      "salary": "$57,152",
+      "description": "About Us Moodreact is a full-service maintenance company supporting homes and businesses with expert electricians, appliance repair technicians, plumbers, and skilled general labor teams.We handle the tough jobs, the technical work, and the details others overlook—always with professionalism, safety, and efficiency in mind. About the Role We are seeking a motivated Public Relations Assistant to help strengthen brand visibility and build positive relationships with customers and the community. T…",
+      "tags": [
+        "public relations",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "57bbe95d77859606",
+      "title": "Part-Time Practice Marketing Associate - Washington, D.C.",
+      "company": "Raymond James Financial, Inc.",
+      "location": "Washington, D.C., US",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-04T08:12:08Z",
+      "url": "https://www.adzuna.com/land/ad/5952945907?se=AKM9KX_Y8RGCm8pNBtrhDA&utm_medium=api&utm_source=59a3324b&v=02739D90C431E1238F6FB7698A162B61ED034BFA",
+      "salary": "$20,662",
+      "description": "Responsibilities: Assists with processing mass mailings. - Contacts prospective and existing clients to offer services or invite them to seminars. - Sends prospective and existing clients introductory letters, marketing materials, thank you letters, requests for referrals, etc. - Coordinates seminars including scheduling, room set-up, menu planning, audio visual aids, and marketing materials. - Sets up and confirms appointments. - Obtains and maintains \"leads\" lists. - Updates client relationsh…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "2474150f5c12eb92",
+      "title": "Event and Communications Coordinator",
+      "company": "Bickham Services Unlimited, LLC",
+      "location": "Washington, Washington, D.C.",
+      "remote": "remote",
+      "source": "Adzuna",
+      "datePosted": "2026-11-04T07:32:26Z",
+      "url": "https://www.adzuna.com/details/5952896848?utm_medium=api&utm_source=59a3324b",
+      "salary": "$46,511",
+      "description": "Company: Bickham Services Unlimited LLC Openings: 1 Employment Type: Full-Time, W-2, Exempt Work Arrangement: Remote – United States; Washington, DC metro area preferred Schedule: Eastern Time business hours, with occasional evenings and multiday events Travel: Up to 25% About the Opportunity Bickham Services Unlimited LLC is seeking an experienced Event and Communications Coordinator to support the planning, coordination, and execution of program events and communications activities. The succe…",
+      "tags": [
+        "communications",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "79e23a4a0de242aa",
+      "title": "Marketing Coordinator",
+      "company": "U.S. Oral Surgery Management",
+      "location": "Trade, Alexandria City",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-04T06:41:43Z",
+      "url": "https://www.adzuna.com/land/ad/5952860201?se=nKI2Jn_Y8RG2ba2xaTjwAg&utm_medium=api&utm_source=59a3324b&v=FF197F8727057B822EFA71699F4F55A4EA900BB8",
+      "salary": "$45,760 – $58,240",
+      "description": "Description Northern Virginia Oral Maxillofacial & Implant Surgery 2807 Duke St, Alexandria, VA 22314 Purpose of Position: The Marketing Coordinator supports the practice’s outreach and promotional efforts by providing marketing and public relations services. This role engages with the community to promote the practice(s), distributes marketing materials and educational information, and assists with events and special programs and their main goal is to increase patient referrals from existing p…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "5467199035ff8f28",
+      "title": "Associate Specialist, Corporate Communications",
+      "company": "SHRM",
+      "location": "Alexandria, Alexandria City",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-04T00:50:44Z",
+      "url": "https://www.adzuna.com/details/5952621288?utm_medium=api&utm_source=59a3324b",
+      "salary": "$65,000 – $75,000",
+      "description": "Summary The Associate Specialist, Corporate Communications supports the development and execution of internal and external communications initiatives, including executive communications, employee engagement, analyst relations, and corporate communications projects. As part of the Communications Team, this role assists with creating written and digital content, coordinating communications activities, and supporting initiatives that align with SHRM's mission and organizational objectives. Reporti…",
+      "tags": [
+        "communications",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "54a5752ab555e924",
+      "title": "Communications Associate",
+      "company": "Society for Science",
+      "location": "Washington, D.C., US",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-03T20:43:47Z",
+      "url": "https://www.adzuna.com/details/5952225060?utm_medium=api&utm_source=59a3324b",
+      "salary": "$52,800 – $58,000",
+      "description": "Society for Science has been dedicated to expanding scientific literacy, access to STEM education and scientific research for more than 100 years. Our mission promotes the understanding and appreciation of science and the vital role it plays in human advancement: to inform, educate, and inspire. We are best known for our award-winning magazine, Science News, our world class science research competitions and our outreach and equity STEM Programs making sure that every young person can strive to …",
+      "tags": [
+        "communications",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "a904e2638f128832",
+      "title": "Communications Coordinator",
+      "company": "National Beer Wholesalers Association",
+      "location": "Alexandria, Alexandria City",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-03T14:37:45Z",
+      "url": "https://www.adzuna.com/land/ad/5952089637?se=UgpJKH_Y8RG2ba2xaTjwAg&utm_medium=api&utm_source=59a3324b&v=59FA9FC5D8C4DA673F3A2600281A918F7A58023B",
+      "salary": "$38,540",
+      "description": "Company Description The National Beer Wholesalers Association (NBWA), founded in 1938, is a national trade association representing more than 3,000 licensed, independent beer distributors across every state and congressional district in the United States. NBWA advocates for a strong, state-based alcohol regulatory system that supports an orderly marketplace and protects consumers through transparent, accountable distribution. The association promotes responsible practices in the manufacture, di…",
+      "tags": [
+        "communications",
+        "entry-level"
+      ]
+    },
     {
       "id": "e0db82f8515c1804",
       "title": "Marketing & Communications Operations Coordinator",
@@ -14,22 +190,6 @@
       "description": "CHAOS Industries is redefining modern defense with a multi-product portfolio that gives the ultimate advantage—domain dominance. The company's products are powered by Coherent Distributed Networks (CDN™), empowering warfighters, commercial air operators, and border protection teams to act faster, adapt rapidly, and stay ahead of evolving threats. CHAOS Industries was founded in 2022 and has raised a total of $1 billion in funding from leading investors, including 8VC, Accel, and Valor Equity Pa…",
       "tags": [
         "communications",
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "04612bcdd94e06c2",
-      "title": "Entry-Level Marketing Associate",
-      "company": "GEM",
-      "location": "Alexandria, Alexandria City",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-11-03T07:05:26Z",
-      "url": "https://www.adzuna.com/details/5951653270?utm_medium=api&utm_source=59a3324b",
-      "salary": "$48,668",
-      "description": "We help organizations build brand awareness, strengthen community connections, and create meaningful customer experiences through event marketing, promotional campaigns, and community engagement. We're looking for motivated individuals who want to develop their professional skills and build a career in marketing. Position Overview As an Entry-Level Marketing Associate, you'll support promotional marketing campaigns, represent client brands, and engage directly with customers and community membe…",
-      "tags": [
         "marketing",
         "entry-level"
       ]
@@ -67,22 +227,6 @@
       ]
     },
     {
-      "id": "96d419e924492122",
-      "title": "Associate, Strategic Communications",
-      "company": "Raben",
-      "location": "Rosslyn, Arlington County",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-30T09:12:37Z",
-      "url": "https://www.adzuna.com/details/5946951624?utm_medium=api&utm_source=59a3324b",
-      "salary": "$55,000",
-      "description": "Who We Are: Raben is a public policy, strategic communications, and organizational consulting firm. Our talented and passionate team champions diversity, equity, and justice as core values that ignite our mission for impactful change in nonprofit, government, foundation, and corporate work. Our changemakers work to solve real-world problems and inspire lasting changes through our four service offerings: strategic communications, government affairs, issue campaigns, and culture, strategy, & orga…",
-      "tags": [
-        "communications",
-        "entry-level"
-      ]
-    },
-    {
       "id": "1659b97e9a694998",
       "title": "Strategic Communications Coordinator",
       "company": "Hylton-Rodic Law",
@@ -112,22 +256,6 @@
       "tags": [
         "marketing",
         "digital marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "a8f5e57c21023687",
-      "title": "Public Relations Assistant – Entry Level",
-      "company": "HHV",
-      "location": "Cameron Station, Alexandria City",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-30T02:11:42Z",
-      "url": "https://www.adzuna.com/details/5946603233?utm_medium=api&utm_source=59a3324b",
-      "salary": "$56,640",
-      "description": "We’re looking for motivated, friendly, and enthusiastic individuals to join our team as Public Relations Assistants! In this role, you’ll help promote client brands, support public relations campaigns, communicate with customers, and assist with promotional events. You’ll gain hands-on experience while developing valuable skills in communication, marketing, brand awareness, and relationship building. No previous public relations experience is required! Recent graduates and candidates with backg…",
-      "tags": [
-        "public relations",
         "entry-level"
       ]
     },
@@ -180,46 +308,14 @@
       ]
     },
     {
-      "id": "05b0b51f9c05d8cd",
-      "title": "Content Creator - AWAL ",
-      "company": "Sony Music",
-      "location": "United States, California, Los Angeles",
-      "remote": "onsite",
-      "source": "Greenhouse",
-      "datePosted": "2026-10-28T14:53:20-04:00",
-      "url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8544540002",
-      "salary": null,
-      "description": "<p><strong><u>About Sony Music Entertainment</u></strong></p>\n<p>At Sony Music Entertainment, we fuel the creative journey. We’ve played a pioneering role in music history, from the first-ever music label to the invention of the flat disc record. We’ve nurtured some of music’s most iconic artists and produced some of the most influential recordings of all time.</p>\n<p>Today, we work in more than 70 countries, supporting a diverse roster of international superstars, developing and independent artists, and visionary creators. From our position at the intersection of music, entertainment, and technology, we bring imagination and expertise to the newest products and platforms, embrace new business models, employ breakthrough tools, and provide powerful insights that help our artists push creative boundaries and reach new audiences. In everything we do, we’re committed to artistic integrity, transparency, and entrepreneurship.</p>\n<p>Sony Music Entertainment is a member of the Sony family of global companies.</p>\n<p>The <strong>Content Creator</strong>&nbsp;will be a key member of our digital&nbsp;marketing&nbsp;team, working across the full AWAL catalogue of artists.&nbsp; Your main objective is to generate interest and ultimately streams for our artists.&nbsp; You will do this by creating and distributing&nbsp;engaging and sticky&nbsp;content on social media, driving dialogue about your content and the music connected to it.&nbsp; You will have the flexibility to identify the trends you are most excited about, create the content you think will most resonate and pick the music from AWAL that is the best fit.&nbsp;You will be responsible for strategizing on the best ways and places to distribute that content and for executing on that strategy.&nbsp;If you are looking for someone to tell you what to create and where to put it, this isn't the job for you.&nbsp; The only prerequisite for consideration for this role is that you are already creating and distributing content through socials and are deeply passionate about building a career in music. Someone who can come in and deliver on this mission will find unlimited opportunities for growth at&nbsp;our&nbsp;company.&nbsp; Role is&nbsp;based in the US&nbsp;but mandate is global, so no place to drive conversation about our music is off limits to you</p>\n<ul>\n<li>You live immersed in culture</li>\n<li>You are intensely curious and highly creative</li>\n<li>You create your own path</li>\n<li>You have experience with content creation, design, editing and copywriting&nbsp;</li>\n<li>You are chronically online and tapped into current social media conversations &amp; internet trends</li>\n<li>You are hungry and hard working and as interested in team goals as your own</li>\n<li>You understand the difference between something real and something fleeting</li>\n<li>You are proactive and a self-starter</li>\n<li>You are motivated to make an immediate and tangible impact with your work</li>\n<li>You want to see your work lead to real artists building real audiences</li>\n<li>You want to shape the future of music marketing vs following strategies from the past</li>\n<li>You want a place where an accelerated career in music is within reach</li>\n</ul>\n<h2 class=\"iCIMS_InfoMsg iCIMS_InfoField_Job\"><strong>Who you are:</strong></h2>\n<p>You have previously built and grown social accounts&nbsp; and have independently created content that has achieved virality. Alongside your application, please submit links to the accounts you have created and operated containing the content you have shot/produced/designed/edited.</p>\n<h2 class=\"iCIMS_InfoMsg iCIMS_InfoField_Job\"><strong>What we give you:</strong></h2>\n<ul>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"1\" data-aria-level=\"1\"><span data-contrast=\"none\">You join an inclusive, collaborative and global community where you have the opportunity to </span><span data-contrast=\"none\">channel your passion every day&nbsp;</span><span data-ccp-props=\"{}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"2\" data-aria-level=\"1\"><span data-contrast=\"none\">A modern office environment designed to foster productivity, creativity, and teamwork empowering you to bring your best</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\">&nbsp;</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"6\" data-aria-level=\"1\"><span data-contrast=\"auto\">Investment in your professional growth and development enabling you to thrive in our vibrant community.&nbsp;</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"7\" data-aria-level=\"1\"><span data-contrast=\"auto\">The space to accelerate progress, positively disrupt, and create what happens next&nbsp;</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"8\" data-aria-level=\"1\"><span data-contrast=\"none\">Time off for a winter recess</span></li>\n</ul>\n<p><em>Sony Music is committed to providing equal employment opportunity for all persons regardless of age, disability, national origin, race, color, religion, sex, sexual orientation, gender, gender identity or expression, pregnancy, veteran or military status, marital and civil partnership/union status, alienage or citizenship status, creed, genetic information or any other status protected by applicable federal, state, or local law.</em></p>\n<p>&nbsp;</p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\">The anticipated annual base salary does not include any other compensation components or other benefits that an individual may be eligible for. &nbsp;The actual base salary offered depends on a variety of factors, which may include as applicable, the qualifications of the individual applicant for the position, years of relevant experience, specific and unique skills, level of education attained, certifications or other professional licenses held, and the location in which the applicant lives and/or from which they will be performing the job.</div><div class=\"title\">California Pay Range</div><div class=\"pay-range\"><span>$23</span><span class=\"divider\">&mdash;</span><span>$23 USD</span></div></div></div>",
-      "tags": [
-        "content",
-        "music"
-      ]
-    },
-    {
-      "id": "503865262b859882",
-      "title": "Entry Level Communications Assistant",
-      "company": "Nova Acquisitions",
-      "location": "Arlington, Arlington County",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-28T07:55:56Z",
-      "url": "https://www.adzuna.com/land/ad/5944498244?se=2oC5UrTX8RGrmcAOzaVo_w&utm_medium=api&utm_source=59a3324b&v=D0E23E91E1390DBF2984EBC8A1E6DD7CEE216505",
-      "salary": "$37,108",
-      "description": "Entry-Level Communications Assistant Location: McLean, Virginia Candidates must be able to commute to McLean, Virginia. About the Role We are seeking a creative and motivated Entry-Level Communications Assistant to support our marketing and communications team. This opportunity offers hands-on experience developing content, supporting campaigns, and engaging audiences while learning from experienced marketing professionals. Qualifications Bachelor’s degree in communications, marketing, business…",
-      "tags": [
-        "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "786d99b6100893ec",
+      "id": "0627d841bed69607",
       "title": "Marketing Associate (Federal Experience)",
       "company": "MissionTek Advisors",
       "location": "Arlington, Arlington County",
       "remote": "hybrid",
       "source": "Adzuna",
       "datePosted": "2026-10-28T07:47:08Z",
-      "url": "https://www.adzuna.com/land/ad/5944484944?se=uFUfU7TX8RGrmcAOzaVo_w&utm_medium=api&utm_source=59a3324b&v=7C84D91FE7B336A2E2ABCBE80062580E86EEC315",
+      "url": "https://www.adzuna.com/land/ad/5944484944?se=AKM9KX_Y8RGCm8pNBtrhDA&utm_medium=api&utm_source=59a3324b&v=7C84D91FE7B336A2E2ABCBE80062580E86EEC315",
       "salary": "$50,866",
       "description": "Arlington, VA (Hybrid - 3 days onsite) U.S. Citizenship Required We're seeking a Marketing Associate to support brand awareness, content development, digital marketing, and internal communications. Key Responsibilities Create and update marketing content, presentations, collateral, and social media posts Manage social media scheduling, engagement tracking, and content planning Support website updates and digital branding initiatives Coordinate conferences, events, and marketing logistics Develo…",
       "tags": [
@@ -260,38 +356,6 @@
       ]
     },
     {
-      "id": "b91e54b6e973e081",
-      "title": "Marketing Assistant",
-      "company": "SHIK CONSULTING GROUP",
-      "location": "Washington, D.C., US",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-27T01:48:45Z",
-      "url": "https://www.adzuna.com/land/ad/5943160854?se=tPQGU7TX8RGJF4UBchTzUg&utm_medium=api&utm_source=59a3324b&v=1F54707606F46EE722C152C27EDCF2DE57040F3A",
-      "salary": "$47,468",
-      "description": "*This is an onsite role working in marketing and promotions work. We are looking for an Entry Level Marketing Assistant to help raise brand awareness with target audiences. Paid training will be provided. The type of candidate we are looking for is excited about working with nonprofit causes and will bring a fresh approach to our team dynamic. You’ll work across all levels and departments of our organization to find what makes our charity clients impactful and communicate it to the world. You’l…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "44dd4236c054a924",
-      "title": "Marketing Coordinator - Georgetown University",
-      "company": "ARAMARK",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-27T00:37:36Z",
-      "url": "https://www.adzuna.com/details/5943107594?utm_medium=api&utm_source=59a3324b",
-      "salary": "$51,283",
-      "description": "Job Description The Marketing Coordinator, Administration & Graphic Designer plays a key role in promoting the Hospitality Program at Georgetown University through strategic marketing initiatives, administrative support, and compelling visual design. This multifaceted position supports student recruitment, program visibility, event coordination, and internal operations, ensuring a cohesive and professional brand presence across all platforms. Compensation Data COMPENSATION: The Hourly rate for …",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
       "id": "4071df5b88180073",
       "title": "Social Media Coordinator",
       "company": "AEG",
@@ -308,14 +372,14 @@
       ]
     },
     {
-      "id": "bc8688a21398f06e",
+      "id": "b8ad5bd9b20dd122",
       "title": "Manager Marketing - Festivals",
       "company": "AEG",
-      "location": "Los Angeles, CA",
+      "location": "New York, NY",
       "remote": "onsite",
       "source": "Greenhouse",
-      "datePosted": "2026-10-20T11:06:30-04:00",
-      "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/8885618002",
+      "datePosted": "2026-10-20T11:06:41-04:00",
+      "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/8893065002",
       "salary": null,
       "description": "<p><strong>Company Information</strong></p>\n<p><span data-olk-copy-source=\"MessageBody\">AEG brings music, sports, and live entertainment together to create moments people remember around the world. Each year, more than 100 million fans experience live events across five continents—from global touring, concerts, and festivals to iconic sports and entertainment destinations.</span></p>\n<p>Through our music division, AEG Presents, one of the world’s leading operators of tours, concerts, and music festivals, we help shape the sound of now. We work with artists at every stage of their careers to bring live music to life, connecting artists with fans on stages around the world.</p>\n<p>Headquartered in Los Angeles, AEG Presents is driven by creativity, innovation, and purpose, and powered by people who want their work to show up in the real world.</p>\n<p>If you’re ready to help create moments that matter, there’s a place for you here. Because it happens here.</p>\n<p><strong>Job Summary</strong></p>\n<p>The <span class=\"collapsed-field-text\">Marketing Manager- Festivals</span>&nbsp;is responsible for all marketing assets for festivals on calendar.&nbsp; This position will work in conjunction with artist management, Radio/TV, and marketing team to create and develop an effective marketing plan that will reach the correct demographic and target customers appropriate for each show.&nbsp; The Marketing Manager will develop graphic content used to inform the general public of shows for the purpose of gaining ticket sales.&nbsp; This position will also be responsible for maintaining and tracking budgets to make sure funds are allocated correctly.&nbsp; The Marketing Manager will oversee social media accounts and ensure they are up to date with engaging material.</p>\n<p><strong>Essential Functions</strong></p>\n<ul data-editing-info=\"{&quot;applyListStyleFromLevel&quot;:true}\">\n<li>\n<div>Responsible for development and execution of marketing and promotional plans. Collaborates with festival directors, talent buyers, and marketing director to plan and oversee the marketing spend.</div>\n</li>\n<li>\n<div>Generate and adhere to marketing budget. Book and account for all advertising and media ensuring funds are allocated to correct partners. Prepare advertising settlements for each show</div>\n</li>\n<li>\n<div>Oversee Social Media accounts for each show.&nbsp; Develop ad copy; implement ad schedules to appeal to a specific demographic and target customer.</div>\n</li>\n<li>\n<div>Oversee and evaluate show performance, making adjustments to meet marketing strategy in changing market or competitive conditions</div>\n</li>\n<li>\n<div>Supervise publicity, advance press interviews, secure and coordinate artist availability for promotions with management, label and public relations agencies.</div>\n</li>\n<li>\n<div>Develop and pitch promotions to media outlets.&nbsp; Contact radio and schedule radio time and set up giveaways.&nbsp; Negotiate rates and contracts with various media outlets</div>\n</li>\n<li>\n<div>Develop additional marketing opportunities to increase ticket sales when needed. &nbsp; Keep up with current marketing and social media trends to brainstorm new ideas and concepts for assets and promotions to market events.</div>\n</li>\n<li>\n<div>Work with marketing team and artist management to strategize new ways to market shows and reach the correct audience. &nbsp; Request graphics for ecards, banners, posters, social media post, radio station needs and e-mails</div>\n</li>\n<li>\n<div>May be responsible for overseeing interns and assistants.</div>\n</li>\n</ul>\n<p><strong>Required Qualifications</strong></p>\n<ul data-editing-info=\"{&quot;applyListStyleFromLevel&quot;:true}\">\n<li>BA/BS Degree (4 years) in Marketing/ Business Communications, PR Preferred</li>\n<li>4-6 years Of related work experience</li>\n<li>4-6 years Experience with media buying</li>\n<li>\n<div>May be responsible for overseeing interns and assistants.</div>\n</li>\n<li>\n<div>Strong communication and organizational skills</div>\n</li>\n<li>\n<div>Knowledge of social media and online marketing initiatives and strategies</div>\n</li>\n<li>\n<div>Must be internet savvy</div>\n</li>\n<li>\n<div>Proficient in Photoshop and MS Office</div>\n</li>\n<li>\n<div>Creative, detail-oriented person who can juggle multiple tasks</div>\n</li>\n<li>\n<div>Knowledge of Music industry preferred</div>\n</li>\n<li>\n<div>Passion for music preferred</div>\n</li>\n</ul>\n<p><strong>Payscale: </strong><span data-olk-copy-source=\"MessageBody\">$76,072.00 - $100,000.00</span></p>\n<p><strong>Bonus: </strong><em>This position is eligible for a bonus under the current bonus plan requirements.</em></p>\n<p><strong>Benefits:<em> Full-time: </em></strong><em>We offer a comprehensive benefits package that includes: medical, dental and vision insurance, paid holidays, vacation and sick time, company paid basic life insurance, voluntary life insurance, parental leave, 401k Plan (with a current employer match of 3%), flexible spending and health savings account options, and wellness offerings.</em></p>\n<p>AEG reserves the right to change or modify the employee’s job description whether orally or in writing, at any time during the employment relationship.&nbsp; AEG may require an employee to perform duties outside their normal description.</p>\n<p>AEG's policy is to hire the most qualified applicants, and we comply with all applicable federal, state and local employment laws in making hiring and employee decisions. &nbsp;We are an equal opportunity employer and do not discriminate against applicants or employees on the basis of race, color, marital status, disability, religion, age, sex, sexual orientation, national origin, genetic information, veteran status, or any other legally protected status recognized by applicable federal, state or local law.</p>\n<p><strong>Employer does not offer work visa sponsorship for this position.</strong></p>\n<p>&nbsp;</p>",
       "tags": [
@@ -465,22 +529,6 @@
       "description": "<h2><strong>About The Orchard</strong></h2>\n<p><span data-contrast=\"auto\">The Orchard is a leading full-service music distribution company&nbsp;operating&nbsp;in 48 markets worldwide and servicing top global independent artists and labels. With&nbsp;cutting-edge&nbsp;operations and an unparalleled global team,&nbsp;The Orchard&nbsp;partners with clients to provide&nbsp;full scale&nbsp;solutions across a variety of verticals. Championed by an exceptional community of music lovers and experts, The Orchard empowers creators to grow and evolve in the dynamic, global industry. </span><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335557856&quot;:16777215,&quot;335559739&quot;:0,&quot;335559740&quot;:240}\">&nbsp;</span></p>\n<p><span data-contrast=\"auto\">The Orchard focuses on providing a comfortable, social, and engaging environment to encourage productivity and creativity.</span><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335557856&quot;:16777215,&quot;335559739&quot;:0,&quot;335559740&quot;:240}\">&nbsp;</span></p>\n<p>As a paid part‑time employee of The Orchard, you’ll serve as a key advocate for the artists we distribute. Each month, you’ll promote 10–20 artists through a mix of digital and in‑person marketing across your campus and college town. You’ll be a tastemaker in your community, collaborating with student organizations, local businesses, record stores, DJs, promoters, and more to build meaningful visibility for new releases and touring artists across a wide range of genres.</p>\n<p>In this role, you’ll lead listening events, organize campus activations, and create social media content that directly supports our artists. You’ll gain hands-on experience in music marketing while staying ahead of the curve on emerging talent and new music, all while shaping how students in your market discover and engage with The Orchard’s roster.</p>\n<h2><strong>What you'll do: </strong></h2>\n<div class=\"iCIMS_InfoMsg iCIMS_InfoMsg_Job\">\n<div class=\"iCIMS_Expandable_Container\">\n<ul>\n<li>Organically create awareness of The Orchard’s artists by cultivating authentic relationships with key campus and local influencers including college radio, student organizations, newspapers, and community media to unlock opportunities for reviews, radio plays, interviews, and standout exposure.</li>\n<li>Maintain a local social media presence that promotes the artists you’ll be working with, utilizing a mix of digital assets that are supplied to you and creating your own content to support The Orchard’s artists</li>\n<li>Implement in-person marketing initiatives at record stores, lifestyle shops, and on campus</li>\n<li>Research appropriate online sites, forums, and networks for the key 18-24yr old demographic for each artist</li>\n<li>Research &amp; attend local and campus events that will best facilitate the promotion of our artists</li>\n<li>Attend our artists' shows to hand out promotional tools and get feedback from fans</li>\n<li>Submit a detailed report on your marketing successes and initiatives for each campaign you run</li>\n</ul>\n<p><strong>Perks</strong>:</p>\n<ul>\n<li>You will gain real world music industry experience that will be a great addition to your resume</li>\n<li>You have the opportunity to express your creativity through your locally run social channels, in our team brainstorms, and in your concert/album reviews</li>\n<li>You’ll have access to inside information that will improve your marketing outreach</li>\n<li>You’ll receive free ticket(s) into our artists’ shows &amp; possible meet and greet passes</li>\n<li>You’ll build valuable relationships within your local music industry</li>\n<li>+ many more!</li>\n</ul>\n</div>\n</div>\n<h2 class=\"iCIMS_InfoMsg iCIMS_InfoField_Job\"><strong>Who you are: </strong></h2>\n<div class=\"iCIMS_InfoMsg iCIMS_InfoMsg_Job\">\n<div class=\"iCIMS_Expandable_Container\">\n<ul>\n<li><strong>You are an Undergraduate Student currently enrolled in a 4 year university in Philadelphia with a minimum of 2 years left prior to graduation</strong></li>\n<li>You are able to manage your own hours and be accountable for the work assigned to you</li>\n<li>You have a passion for music, an understanding of how your peers discover and consume music, and a deep interest in music business &amp; marketing</li>\n<li>You have an understanding of social media marketing, you stay current on trends, and you have an active presence creating content on TikTok, Instagram, X, and YouTube</li>\n<li>You have availability of 20 hours per week</li>\n<li>You’re well-written, well-spoken, a team player, and an excellent communicator</li>\n<li>You have transportation methods and live within 30 minutes of Philadelphia</li>\n<li>You have a flexible schedule for team conference calls and tour coverage</li>\n</ul>\n<h2 class=\"iCIMS_InfoMsg iCIMS_InfoField_Job\"><strong>What We Give You</strong></h2>\n<ul>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"1\" data-aria-level=\"1\"><span data-contrast=\"none\">You join an inclusive, collaborative and global community where you have the opportunity to </span><span data-contrast=\"none\">channel your passion every day&nbsp;</span><span data-ccp-props=\"{}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"2\" data-aria-level=\"1\"><span data-contrast=\"none\">A modern office environment designed to foster productivity, creativity, and teamwork empowering you to bring your best</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\">&nbsp;</span></li>\n<li>Opportunities to connect with our valuable resources, such as our Counsel of Equity &amp; Progressive Action (CEPA), a group created by our employees tasked with developing and implementing innovative solutions to advance a globally-shared goal of ensuring fair and inclusive spaces for all</li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"4\" data-aria-level=\"1\"><span data-contrast=\"none\">An attractive and comprehensive benefits package including medical, dental, vision, life &amp; disability coverage, and 401K + employer matching</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"5\" data-aria-level=\"1\"><span data-contrast=\"none\">Voluntary benefits like company-paid identity theft protection and resources for pets, mental health and meditation resources, industry-leading fertility coverage, fully paid leave for childbirth or bonding, fully paid leave for caregivers, programs for loved ones with developmental disabilities and neurodiversity, subsidized back-up child and elder care, and reimbursement for adoption, surrogacy, tuition, and student loans</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"6\" data-aria-level=\"1\"><span data-contrast=\"auto\">Investment in your professional growth and development enabling you to thrive in our vibrant community.&nbsp;</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"7\" data-aria-level=\"1\"><span data-contrast=\"auto\">The space to accelerate progress, positively disrupt, and create what happens next&nbsp;</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\">&nbsp;</span></li>\n<li data-leveltext=\"•\" data-font=\"Arial\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Arial&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;•&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"8\" data-aria-level=\"1\"><span data-contrast=\"none\">Time off for a winter recess</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\">&nbsp;</span></li>\n</ul>\n<p>&nbsp;</p>\n<div class=\"iCIMS_InfoMsg iCIMS_InfoMsg_Job\">\n<div class=\"iCIMS_Expandable_Container\">\n<div class=\"iCIMS_Expandable_Text\">\n<p><em>The Orchard is committed to providing equal employment opportunity for all persons regardless of age, disability, national origin, race, color, religion, sex, sexual orientation, gender, gender identity or expression, pregnancy, veteran or military status, marital and civil partnership/union status, alienage or citizenship status, creed, genetic information or any other status protected by applicable federal, state, or local law.</em></p>\n</div>\n</div>\n</div>\n</div>\n</div>",
       "tags": [
         "marketing",
-        "music"
-      ]
-    },
-    {
-      "id": "6a38d2807b7a3b51",
-      "title": "Content Creator (Latin Music) - AWAL",
-      "company": "Sony Music",
-      "location": "United States, California, Los Angeles",
-      "remote": "onsite",
-      "source": "Greenhouse",
-      "datePosted": "2026-10-07T10:58:20-04:00",
-      "url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8603539002",
-      "salary": null,
-      "description": "<p>At Sony Music Entertainment, we fuel the creative journey. We’ve played a pioneering role in music history, from the first-ever music label to the invention of the flat disc record. We’ve nurtured some of music’s most iconic artists and produced some of the most influential recordings of all time.</p>\n<p>Today, we work in more than 70 countries, supporting a diverse roster of international superstars, developing and independent artists, and visionary creators. From our position at the intersection of music, entertainment, and technology, we bring imagination and expertise to the newest products and platforms, embrace new business models, employ breakthrough tools, and provide powerful insights that help our artists push creative boundaries and reach new audiences. In everything we do, we’re committed to artistic integrity, transparency, and entrepreneurship.</p>\n<p>Sony Music Entertainment is a member of the Sony family of global companies.</p>\n<p>The&nbsp;<strong>Content Creator</strong> will be a key member of our digital marketing team, working across the full AWAL catalogue of artists with a special focus on creating content for Latin region and other diaspora communities within the US.&nbsp; Your main objective is to generate interest and ultimately streams for our artists, doing so by creating and distributing engaging and sticky content on social media and driving dialogue about your content and the music connected to it.&nbsp; You must be deeply familiar with Latin music and other global music scenes to succeed in this role. You will have the flexibility to identify the trends you are most excited about, create the content you think will most resonate, and pick the music from AWAL that is the best fit. You will be responsible for strategizing on the best ways and places to distribute that content and for executing on that strategy. In a nutshell, we are looking for someone who is already creating and distributing content through socials, deeply passionate about building a career in music, self-driven in executing strategies that support our artists, and globally minded. Anyone who can join our team and deliver on that mission will find unlimited opportunities for growth at AWAL.</p>\n<h2><strong>What you'll do:</strong></h2>\n<div class=\"iCIMS_InfoMsg iCIMS_InfoMsg_Job\">\n<div class=\"iCIMS_Expandable_Container\">\n<ul>\n<li>You live immersed in culture, particularly for Latin communities in the US</li>\n<li>You speak Spanish fluently or natively</li>\n<li>You are intensely curious and highly creative</li>\n<li>You create your own path</li>\n<li>You have experience with content creation, design, editing and copywriting</li>\n<li>You are chronically online and tapped into current social media conversations &amp; internet trends</li>\n<li>You are hungry and hard working and as interested in team goals as your own</li>\n<li>You understand the difference between something real and something fleeting</li>\n<li>You are proactive and a self-starter</li>\n<li>You are motivated to make an immediate and tangible impact with your work</li>\n<li>You want to see your work lead to real artists building real audiences</li>\n<li>You want to shape the future of music marketing vs following strategies from the past</li>\n<li>You want a place where an accelerated career in music is within reach</li>\n</ul>\n</div>\n</div>\n<h2 class=\"iCIMS_InfoMsg iCIMS_InfoField_Job\"><strong>Who you are:</strong></h2>\n<p>You have previously built and grown social accounts and have independently created content that has achieved virality. Alongside your application, please submit links to the accounts you have created and operated containing the content you have shot/produced/designed/edited.</p>\n<h2 class=\"iCIMS_InfoMsg iCIMS_InfoField_Job\"><strong>What we give you:</strong></h2>\n<ul>\n<li>A temporary contract</li>\n<li>You join an inclusive, collaborative and global community where you have the opportunity to channel your passion every day</li>\n<li>A modern office environment designed to foster productivity, creativity, and teamwork empowering you to bring your best</li>\n</ul>\n<p><em>Sony Music is committed to providing equal employment opportunity for all persons regardless of age, disability, national origin, race, color, religion, sex, sexual orientation, gender, gender identity or expression, pregnancy, veteran or military status, marital and civil partnership/union status, alienage or citizenship status, creed, genetic information or any other status protected by applicable federal, state, or local law.</em></p>\n<p><em>California based applicants have certain rights under California law. Please see our <a href=\"https://cdn.smehost.net/2019sonymusiccom-smeprod/wp-content/uploads/2023/01/CA-Recruitment-Privacy-Policy.pdf\" target=\"_blank\">California Recruitment Privacy Policy</a> for more details.</em></p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\">The anticipated annual base salary does not include any other compensation components or other benefits that an individual may be eligible for. &nbsp;The actual base salary offered depends on a variety of factors, which may include as applicable, the qualifications of the individual applicant for the position, years of relevant experience, specific and unique skills, level of education attained, certifications or other professional licenses held, and the location in which the applicant lives and/or from which they will be performing the job.</div><div class=\"title\">California Pay Range</div><div class=\"pay-range\"><span>$23</span><span class=\"divider\">&mdash;</span><span>$23 USD</span></div></div></div>",
-      "tags": [
-        "content",
         "music"
       ]
     },
