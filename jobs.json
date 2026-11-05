@@ -1,33 +1,49 @@
 {
-  "generatedAt": "2026-11-04T18:40:09.727Z",
+  "generatedAt": "2026-11-05T18:47:04.134Z",
   "jobs": [
     {
-      "id": "3d8dc99171fdf5ba",
-      "title": "Marketing Assistant",
-      "company": "Levant Acquisitions",
-      "location": "Washington, D.C., US",
-      "remote": "onsite",
+      "id": "876759ed2d281b9b",
+      "title": "Marketing Coordinator",
+      "company": "First Book",
+      "location": "Rosslyn, Arlington County",
+      "remote": "hybrid",
       "source": "Adzuna",
-      "datePosted": "2026-11-04T11:36:51Z",
-      "url": "https://www.adzuna.com/land/ad/5953187847?se=NgYnKX_Y8RGC6fwCFn8E0A&utm_medium=api&utm_source=59a3324b&v=BABBD6F1A3E17BD39AC6C9DBB68416DC8B7C9F3B",
-      "salary": "$38,972",
-      "description": "Landover, MD | Full-Time | On-Site Put your people skills to work on real marketing campaigns. At Levant Acquisitions, you'll learn what makes a campaign effective by helping bring it to life. As a Marketing Assistant, you'll represent client campaigns through in-person customer engagement, introduce offerings, answer questions, and help turn customer interest into measurable results. If you're looking to build practical marketing experience while strengthening your communication skills, this i…",
+      "datePosted": "2026-11-05T07:02:11Z",
+      "url": "https://www.adzuna.com/details/5954129972?utm_medium=api&utm_source=59a3324b",
+      "salary": "$52,000",
+      "description": "First Book | Washington, DC (Hybrid: Tuesdays & Wednesdays Onsite) ABOUT FIRST BOOK First Book is a leading nonprofit social enterprise dedicated to removing barriers to quality education for children in need. Through innovative public–private partnerships and a national network of more than 600,000 educators, program leaders, and community organizations, First Book has distributed over 250 million books and educational resources to under-resourced communities. Our work spans e-commerce (First …",
       "tags": [
         "marketing",
         "entry-level"
       ]
     },
     {
-      "id": "e971b9637f7c55a1",
-      "title": "Marketing Associate (Entry Level)",
-      "company": "Legendary Impact",
-      "location": "Silver Spring, Montgomery County",
+      "id": "5e6eb92e8f26b9df",
+      "title": "Direct Marketing Associate - Capital Region Part Time",
+      "company": "Andersen",
+      "location": "Washington, Washington, D.C.",
       "remote": "onsite",
       "source": "Adzuna",
-      "datePosted": "2026-11-04T11:34:38Z",
-      "url": "https://www.adzuna.com/land/ad/5953179813?se=AKM9KX_Y8RGCm8pNBtrhDA&utm_medium=api&utm_source=59a3324b&v=9ACA81DF006F14CD90D0AD9A88828A7FD03B26D4",
-      "salary": "$47,191",
-      "description": "Legendary Impact is expanding our team and looking for a Marketing Associate who enjoys working with people, learning new skills, and taking on new challenges. As a Marketing Associate, you’ll gain hands-on experience supporting brand awareness, customer engagement, sales initiatives, and client campaigns. You’ll work alongside an experienced team while developing the communication and business skills needed to grow professionally. We're seeking motivated, entry-level candidates who are ready t…",
+      "datePosted": "2026-11-05T04:38:32Z",
+      "url": "https://www.adzuna.com/details/5954091251?utm_medium=api&utm_source=59a3324b",
+      "salary": "$7,200 – $14,400",
+      "description": "Renewal by Andersen is the full-service replacement window division of Andersen Corporation. We are united by the common goal of making a difference in the lives of our homeowners and the communities we serve. We are looking for a Direct Marketing Associate in the Capital Region! Renewal by Andersen is looking for an accomplished, driven, and collaborative Door-to-Door Canvasser to help perfect our customer’s experience in upgrading their homes. Want to join our team? This position earns uncapp…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "6c1d80dc17a3b65c",
+      "title": "Field Marketing Associate",
+      "company": "Comply",
+      "location": "State Farm, Arlington County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-04T22:21:07Z",
+      "url": "https://www.adzuna.com/details/5953745238?utm_medium=api&utm_source=59a3324b",
+      "salary": "$62,728",
+      "description": "Who Are We: Comply is the leading provider of compliance SaaS and consulting services for the global financial services sector. With more than 5,000 clients and hundreds of employees across the globe, Comply empowers Chief Compliance Officers and their teams to proactively manage regulatory obligations, mitigate risk, and scale with efficiency and confidence. Comply serves thousands of global financial services clients including broker-dealers, insurers, investment banks, private funds, RIAs, a…",
       "tags": [
         "marketing",
         "entry-level"
@@ -82,14 +98,14 @@
       ]
     },
     {
-      "id": "57bbe95d77859606",
+      "id": "e0e1075d42be5521",
       "title": "Part-Time Practice Marketing Associate - Washington, D.C.",
       "company": "Raymond James Financial, Inc.",
       "location": "Washington, D.C., US",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-11-04T08:12:08Z",
-      "url": "https://www.adzuna.com/land/ad/5952945907?se=AKM9KX_Y8RGCm8pNBtrhDA&utm_medium=api&utm_source=59a3324b&v=02739D90C431E1238F6FB7698A162B61ED034BFA",
+      "url": "https://www.adzuna.com/land/ad/5952945907?se=OhuYR0nZ8RGiyLcWFRyVsw&utm_medium=api&utm_source=59a3324b&v=02739D90C431E1238F6FB7698A162B61ED034BFA",
       "salary": "$20,662",
       "description": "Responsibilities: Assists with processing mass mailings. - Contacts prospective and existing clients to offer services or invite them to seminars. - Sends prospective and existing clients introductory letters, marketing materials, thank you letters, requests for referrals, etc. - Coordinates seminars including scheduling, room set-up, menu planning, audio visual aids, and marketing materials. - Sets up and confirms appointments. - Obtains and maintains \"leads\" lists. - Updates client relationsh…",
       "tags": [
@@ -114,14 +130,14 @@
       ]
     },
     {
-      "id": "79e23a4a0de242aa",
+      "id": "186ad4a882b9a50e",
       "title": "Marketing Coordinator",
       "company": "U.S. Oral Surgery Management",
       "location": "Trade, Alexandria City",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-11-04T06:41:43Z",
-      "url": "https://www.adzuna.com/land/ad/5952860201?se=nKI2Jn_Y8RG2ba2xaTjwAg&utm_medium=api&utm_source=59a3324b&v=FF197F8727057B822EFA71699F4F55A4EA900BB8",
+      "url": "https://www.adzuna.com/land/ad/5952860201?se=4H1gREnZ8RGfyN3H3ce7sQ&utm_medium=api&utm_source=59a3324b&v=FF197F8727057B822EFA71699F4F55A4EA900BB8",
       "salary": "$45,760 – $58,240",
       "description": "Description Northern Virginia Oral Maxillofacial & Implant Surgery 2807 Duke St, Alexandria, VA 22314 Purpose of Position: The Marketing Coordinator supports the practice’s outreach and promotional efforts by providing marketing and public relations services. This role engages with the community to promote the practice(s), distributes marketing materials and educational information, and assists with events and special programs and their main goal is to increase patient referrals from existing p…",
       "tags": [
@@ -158,39 +174,6 @@
       "description": "Society for Science has been dedicated to expanding scientific literacy, access to STEM education and scientific research for more than 100 years. Our mission promotes the understanding and appreciation of science and the vital role it plays in human advancement: to inform, educate, and inspire. We are best known for our award-winning magazine, Science News, our world class science research competitions and our outreach and equity STEM Programs making sure that every young person can strive to …",
       "tags": [
         "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "a904e2638f128832",
-      "title": "Communications Coordinator",
-      "company": "National Beer Wholesalers Association",
-      "location": "Alexandria, Alexandria City",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-11-03T14:37:45Z",
-      "url": "https://www.adzuna.com/land/ad/5952089637?se=UgpJKH_Y8RG2ba2xaTjwAg&utm_medium=api&utm_source=59a3324b&v=59FA9FC5D8C4DA673F3A2600281A918F7A58023B",
-      "salary": "$38,540",
-      "description": "Company Description The National Beer Wholesalers Association (NBWA), founded in 1938, is a national trade association representing more than 3,000 licensed, independent beer distributors across every state and congressional district in the United States. NBWA advocates for a strong, state-based alcohol regulatory system that supports an orderly marketplace and protects consumers through transparent, accountable distribution. The association promotes responsible practices in the manufacture, di…",
-      "tags": [
-        "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "e0db82f8515c1804",
-      "title": "Marketing & Communications Operations Coordinator",
-      "company": "CHAOS Industries",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-11-03T10:10:37Z",
-      "url": "https://www.adzuna.com/details/5951829862?utm_medium=api&utm_source=59a3324b",
-      "salary": "$80,000 – $110,000",
-      "description": "CHAOS Industries is redefining modern defense with a multi-product portfolio that gives the ultimate advantage—domain dominance. The company's products are powered by Coherent Distributed Networks (CDN™), empowering warfighters, commercial air operators, and border protection teams to act faster, adapt rapidly, and stay ahead of evolving threats. CHAOS Industries was founded in 2022 and has raised a total of $1 billion in funding from leading investors, including 8VC, Accel, and Valor Equity Pa…",
-      "tags": [
-        "communications",
-        "marketing",
         "entry-level"
       ]
     },
@@ -304,54 +287,6 @@
       "description": "About Us Moodreact is a full-service maintenance company supporting homes and businesses with expert electricians, appliance repair technicians, plumbers, and skilled general labor teams.We handle the tough jobs, the technical work, and the details others overlook—always with professionalism, safety, and efficiency in mind. About the Role We are seeking a motivated Marketing Assistant to support promotional campaigns, brand representation, and customer engagement initiatives. This opportunity i…",
       "tags": [
         "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "0627d841bed69607",
-      "title": "Marketing Associate (Federal Experience)",
-      "company": "MissionTek Advisors",
-      "location": "Arlington, Arlington County",
-      "remote": "hybrid",
-      "source": "Adzuna",
-      "datePosted": "2026-10-28T07:47:08Z",
-      "url": "https://www.adzuna.com/land/ad/5944484944?se=AKM9KX_Y8RGCm8pNBtrhDA&utm_medium=api&utm_source=59a3324b&v=7C84D91FE7B336A2E2ABCBE80062580E86EEC315",
-      "salary": "$50,866",
-      "description": "Arlington, VA (Hybrid - 3 days onsite) U.S. Citizenship Required We're seeking a Marketing Associate to support brand awareness, content development, digital marketing, and internal communications. Key Responsibilities Create and update marketing content, presentations, collateral, and social media posts Manage social media scheduling, engagement tracking, and content planning Support website updates and digital branding initiatives Coordinate conferences, events, and marketing logistics Develo…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "96197478b6a752af",
-      "title": "Digital Communications Coordinator",
-      "company": "Vistra Communications",
-      "location": "South, Arlington County",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-28T02:52:27Z",
-      "url": "https://www.adzuna.com/details/5944176663?utm_medium=api&utm_source=59a3324b",
-      "salary": "$65,000 – $103,000",
-      "description": "Vistra Communications is seeking a passionate and creative Digital Communications Specialist to manage the online presence of the Marine Corps Risk Management Directorate – Safety Division (RMD SD) and play a vital role in promoting a culture of safety across the service. As the Digital Communications Specialist, you will administer the RMD SD website, SharePoint sites, and social media channels. RMD SD enhances the Marine Corps’ warfighting capability through integrated “force preservation” me…",
-      "tags": [
-        "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "e15972ad24fa3550",
-      "title": "Communications Associate",
-      "company": "Reingold",
-      "location": "Trade, Alexandria City",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-28T02:51:35Z",
-      "url": "https://www.adzuna.com/details/5944175783?utm_medium=api&utm_source=59a3324b",
-      "salary": "$59,000 – $87,400",
-      "description": "About Reingold Reingold is a full-service marketing and creative firm in Alexandria, VA. For more than 40 years, we’ve been driven by a simple mission: to help organizations –– whether in the government, nonprofit, or business sector –– as they strive to make the world a better place. We hire top-notch talent to develop and launch compelling, inventive communications campaigns, leveraging the latest technology and digital media strategies that enable our clients to meet their audiences where th…",
-      "tags": [
-        "communications",
         "entry-level"
       ]
     },
