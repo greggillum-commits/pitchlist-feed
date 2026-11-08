@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-07T16:52:17.411Z",
+  "generatedAt": "2026-11-08T17:05:27.641Z",
   "jobs": [
+    {
+      "id": "a42fadbb0e633062",
+      "title": "Marketing and Operations Associate",
+      "company": "TTR Sotheby’s International Realty",
+      "location": "Bethesda, Montgomery County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-08T11:24:59Z",
+      "url": "https://www.adzuna.com/land/ad/5958297941?se=fjqgkZbb8RGD5Iv7NVeOtg&utm_medium=api&utm_source=59a3324b&v=B12322A69B70BF312D3983BD6AFA04E2566DF4EF",
+      "salary": "$51,322",
+      "description": "Marketing/Operations Associate Bethesda, Maryland This is a full-time, in-office role based in our Bethesda, MD brokerage. The Marketing/Operations Associate will also provide support our North Potomac office with occasional visits as needed. About Sotheby’s International Realty: Sotheby’s International is the Washington Metropolitan Area’s premier luxury real estate brokerage and is regarded as one of the highest-performing real estate firms in the United States. With 14 offices and over 600 r…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
     {
       "id": "90eb10a50b2662c0",
       "title": "Marketing Events Coordinator",
@@ -18,14 +34,14 @@
       ]
     },
     {
-      "id": "9e5c75695b473298",
+      "id": "b34682c78e97cc7a",
       "title": "Communications Associate",
       "company": "SHIK CONSULTING GROUP",
       "location": "Washington, D.C., US",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-11-06T15:14:23Z",
-      "url": "https://www.adzuna.com/land/ad/5956026017?se=jKxBlsva8RGJ_5m-0JeM1g&utm_medium=api&utm_source=59a3324b&v=B8B14FF7AF83CF33326C3EB408D10D92F2DA8655",
+      "url": "https://www.adzuna.com/land/ad/5956026017?se=sPq6k5bb8RGJ_5m-0JeM1g&utm_medium=api&utm_source=59a3324b&v=B8B14FF7AF83CF33326C3EB408D10D92F2DA8655",
       "salary": "$37,661",
       "description": "We're hiring: Communications Associate at SHIK Consulting Group (On-site | DMV Area) Not every important message is delivered through a screen. Some of the most meaningful connections start with a simple conversation. At SHIK Consulting Group, we bring client campaigns directly to people through face-to-face marketing, community outreach, and live customer engagement. Our approach is straightforward: communicate clearly, listen carefully, and help people make informed decisions. We're looking f…",
       "tags": [
@@ -34,14 +50,14 @@
       ]
     },
     {
-      "id": "88c7b59db3dd57a6",
+      "id": "0dde251a55c82388",
       "title": "Communications Coordinator",
       "company": "NAPEO - The National Association of Professional Employer Organizations",
       "location": "Alexandria, Alexandria City",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-11-06T15:07:40Z",
-      "url": "https://www.adzuna.com/land/ad/5956019345?se=HNmolcva8RGD5Iv7NVeOtg&utm_medium=api&utm_source=59a3324b&v=3B348A91F3F117CD6F94CEDAA54C7A2CC63ECCC9",
+      "url": "https://www.adzuna.com/land/ad/5956019345?se=Sh0Yk5bb8RGHgrfOyOjVtw&utm_medium=api&utm_source=59a3324b&v=3B348A91F3F117CD6F94CEDAA54C7A2CC63ECCC9",
       "salary": "$52,115",
       "description": "Company Description NAPEO – The National Association of Professional Employer Organizations is The Voice of the PEO Industry TM . PEOs provide payroll, benefits, workers’ comp, regulatory compliance assistance and other HR services to more than 230,000 small and mid-size businesses employing 5.4 million people nationwide. NAPEO represents the interests of the PEO industry on behalf of a membership that includes both PEOs and companies that provide services to PEOs. Role Description: The communi…",
       "tags": [
@@ -50,14 +66,14 @@
       ]
     },
     {
-      "id": "847f39696ae2a140",
+      "id": "7d433d12672e5782",
       "title": "Entry Level Communications Assistant",
       "company": "Nova Acquisitions",
       "location": "Arlington, Arlington County",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-11-05T07:24:03Z",
-      "url": "https://www.adzuna.com/land/ad/5954190183?se=1qcQlsva8RGQHOXUHmvTgQ&utm_medium=api&utm_source=59a3324b&v=5F5F7E798FE4FAA06399F6B3C8AC8CFA366836C5",
+      "url": "https://www.adzuna.com/land/ad/5954190183?se=_pJwk5bb8RGJ_5m-0JeM1g&utm_medium=api&utm_source=59a3324b&v=5F5F7E798FE4FAA06399F6B3C8AC8CFA366836C5",
       "salary": "$37,108",
       "description": "Entry-Level Communications Assistant Location: McLean, Virginia Candidates must be able to commute to McLean, Virginia. About the Role We are seeking a creative and motivated Entry-Level Communications Assistant to support our marketing and communications team. This opportunity offers hands-on experience developing content, supporting campaigns, and engaging audiences while learning from experienced marketing professionals. Qualifications Bachelor’s degree in communications, marketing, business…",
       "tags": [
@@ -131,14 +147,14 @@
       ]
     },
     {
-      "id": "00d578821b192d50",
+      "id": "3e9908976a8fb989",
       "title": "Marketing Associate (Entry Level)",
       "company": "Legendary Impact",
       "location": "Silver Spring, Montgomery County",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-11-04T11:34:38Z",
-      "url": "https://www.adzuna.com/land/ad/5953179813?se=gISYlsva8RGMj86c16zqBQ&utm_medium=api&utm_source=59a3324b&v=9ACA81DF006F14CD90D0AD9A88828A7FD03B26D4",
+      "url": "https://www.adzuna.com/land/ad/5953179813?se=FgkZlJbb8RGJ_5m-0JeM1g&utm_medium=api&utm_source=59a3324b&v=9ACA81DF006F14CD90D0AD9A88828A7FD03B26D4",
       "salary": "$47,191",
       "description": "Legendary Impact is expanding our team and looking for a Marketing Associate who enjoys working with people, learning new skills, and taking on new challenges. As a Marketing Associate, you’ll gain hands-on experience supporting brand awareness, customer engagement, sales initiatives, and client campaigns. You’ll work alongside an experienced team while developing the communication and business skills needed to grow professionally. We're seeking motivated, entry-level candidates who are ready t…",
       "tags": [
@@ -211,14 +227,14 @@
       ]
     },
     {
-      "id": "3ed45c91b98548e4",
+      "id": "54f261987c24684e",
       "title": "Marketing Coordinator",
       "company": "U.S. Oral Surgery Management",
       "location": "Trade, Alexandria City",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-11-04T06:41:43Z",
-      "url": "https://www.adzuna.com/land/ad/5952860201?se=Ukw5k8va8RGMj86c16zqBQ&utm_medium=api&utm_source=59a3324b&v=FF197F8727057B822EFA71699F4F55A4EA900BB8",
+      "url": "https://www.adzuna.com/land/ad/5952860201?se=fNSGkJbb8RGc5LWfmB4X0A&utm_medium=api&utm_source=59a3324b&v=FF197F8727057B822EFA71699F4F55A4EA900BB8",
       "salary": "$45,760 – $58,240",
       "description": "Description Northern Virginia Oral Maxillofacial & Implant Surgery 2807 Duke St, Alexandria, VA 22314 Purpose of Position: The Marketing Coordinator supports the practice’s outreach and promotional efforts by providing marketing and public relations services. This role engages with the community to promote the practice(s), distributes marketing materials and educational information, and assists with events and special programs and their main goal is to increase patient referrals from existing p…",
       "tags": [
@@ -259,14 +275,14 @@
       ]
     },
     {
-      "id": "8dccaa4e5e1b7c83",
+      "id": "42e9c5d4ea9283fc",
       "title": "Communications Associate",
       "company": "Republic Affairs",
       "location": "Washington, D.C., US",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-11-03T14:50:59Z",
-      "url": "https://www.adzuna.com/land/ad/5952096222?se=cknBk8va8RGYTsYM4DyBcw&utm_medium=api&utm_source=59a3324b&v=108E8343896CED84E2BE0CF94C40342FA0C16629",
+      "url": "https://www.adzuna.com/land/ad/5952096222?se=ON8FkZbb8RGHgrfOyOjVtw&utm_medium=api&utm_source=59a3324b&v=108E8343896CED84E2BE0CF94C40342FA0C16629",
       "salary": "$73,896",
       "description": "Republic Affairs is a Washington, DC-based strategic communications firm that helps civic organizations operate with confidence, earn public trust, and advance their missions. If you know how to find the story in a campaign and get reporters to cover it, we want to hear from you. About the role As a Communications Associate, you’ll handle media relations for a portfolio of clients, from developing the story to booking the interview to tracking the coverage. You’ll work closely with our strategi…",
       "tags": [
@@ -275,14 +291,14 @@
       ]
     },
     {
-      "id": "0070dd340a7e3c2b",
+      "id": "095218706c874dcd",
       "title": "Marketing Assistant",
       "company": "SHIK CONSULTING GROUP",
       "location": "Washington, D.C., US",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-11-03T14:45:45Z",
-      "url": "https://www.adzuna.com/land/ad/5952093960?se=5iWClsva8RGD5Iv7NVeOtg&utm_medium=api&utm_source=59a3324b&v=366D73783ACE6203EE789075571981832D2A1D3C",
+      "url": "https://www.adzuna.com/land/ad/5952093960?se=CA8DlJbb8RGD5Iv7NVeOtg&utm_medium=api&utm_source=59a3324b&v=366D73783ACE6203EE789075571981832D2A1D3C",
       "salary": "$47,468",
       "description": "*This is an onsite role working in marketing and promotions work. We are looking for an Entry Level Marketing Assistant to help raise brand awareness with target audiences. Paid training will be provided. The type of candidate we are looking for is excited about working with nonprofit causes and will bring a fresh approach to our team dynamic. You’ll work across all levels and departments of our organization to find what makes our charity clients impactful and communicate it to the world. You’l…",
       "tags": [
@@ -291,50 +307,18 @@
       ]
     },
     {
-      "id": "77340ca26cf77c7b",
+      "id": "e68eb75e3b87d4ce",
       "title": "Communications Coordinator",
       "company": "National Beer Wholesalers Association",
       "location": "Alexandria, Alexandria City",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-11-03T14:37:45Z",
-      "url": "https://www.adzuna.com/land/ad/5952089637?se=HNmolcva8RGD5Iv7NVeOtg&utm_medium=api&utm_source=59a3324b&v=59FA9FC5D8C4DA673F3A2600281A918F7A58023B",
+      "url": "https://www.adzuna.com/land/ad/5952089637?se=Sh0Yk5bb8RGHgrfOyOjVtw&utm_medium=api&utm_source=59a3324b&v=59FA9FC5D8C4DA673F3A2600281A918F7A58023B",
       "salary": "$38,540",
       "description": "Company Description The National Beer Wholesalers Association (NBWA), founded in 1938, is a national trade association representing more than 3,000 licensed, independent beer distributors across every state and congressional district in the United States. NBWA advocates for a strong, state-based alcohol regulatory system that supports an orderly marketplace and protects consumers through transparent, accountable distribution. The association promotes responsible practices in the manufacture, di…",
       "tags": [
         "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "ea7a5b11851a31b9",
-      "title": "Event & Marketing Coordinator",
-      "company": "Express Employment",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-11-01T08:17:52Z",
-      "url": "https://www.adzuna.com/land/ad/5949300431?se=En1jlsva8RGD5Iv7NVeOtg&utm_medium=api&utm_source=59a3324b&v=C399EBFEE3906C2F39FAF99CFBFC94E7B29B823B",
-      "salary": "$32,992",
-      "description": "Job Description Job Description Event & Marketing Coordinator Washington Country Club | Washington, PA Salary: $35,000 - $40,000 per year Position Summary Washington Country Club is seeking a highly organized and relationship-focused Event & Marketing Coordinator to join our team. This unique role combines event planning, marketing coordination, member engagement, and community outreach. The selected candidate will work directly with the current Event Coordinator prior to her retirement in Janu…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "efcb99aa5f3c2545",
-      "title": "Entry Level Brand Representative",
-      "company": "The Hiring Method",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-10-31T03:36:49Z",
-      "url": "https://www.adzuna.com/details/5947781696?utm_medium=api&utm_source=59a3324b",
-      "salary": "$52,000 – $62,400",
-      "description": "Entry-Level Brand Representative Location: Beltsville, MD 20705 Job Type: Part-Time (up to 30 hours per week) Compensation: $25-$30 per hour (base  bonus), weekly pay, mileage and expense reimbursement Job Summary A well-established home improvement company is seeking energetic and outgoing individuals to join our team as Brand Representatives. This role involves attending community events, fairs, and festivals to engage with potential customers, generate sales leads, and promote our products. …",
-      "tags": [
-        "brand",
         "entry-level"
       ]
     },
