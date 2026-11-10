@@ -1,6 +1,87 @@
 {
-  "generatedAt": "2026-11-09T21:27:54.788Z",
+  "generatedAt": "2026-11-10T18:41:24.824Z",
   "jobs": [
+    {
+      "id": "813b0895339a29db",
+      "title": "Social Media Coordinator",
+      "company": "CPAC Foundation",
+      "location": "Trade, Alexandria City",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-10T13:28:20Z",
+      "url": "https://www.adzuna.com/land/ad/5960620325?se=otISUzbd8RGmstUjAE4KZA&utm_medium=api&utm_source=59a3324b&v=855685D001AD6BEE37818947D879A2AEE02B24DF",
+      "salary": "$70,602",
+      "description": "About the Role Were looking for a creative, organized, and detail-oriented Social Media Coordinator to help manage our organizations daily social media presence, support and turn performance data into actionable insights. This role is ideal for someone who is a strong writer, understands how social platforms work, enjoys working in a fast-paced environment, and understands the importance of accuracy and sound judgment. AI is a core tool and resource on our team. We expect this role to use it we…",
+      "tags": [
+        "social media",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "b2b54091c2e01213",
+      "title": "Brand Marketing Associate, Product Experience",
+      "company": "Nestlé S.A.",
+      "location": "State Farm, Arlington County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-10T13:14:25Z",
+      "url": "https://www.adzuna.com/land/ad/5960589252?se=ZrBRVDbd8RGmstUjAE4KZA&utm_medium=api&utm_source=59a3324b&v=AE8470553FB2A9E5E2830EC66F885B54F51D6076",
+      "salary": "$77,983",
+      "description": "Nestlé USA is seeking an Associate, Brand Marketing- Product Experience to shape how our brands are experienced through product, packaging, and innovation. You will collaborate with cross-functional teams to ensure superior product performance and a cohesive consumer experience across first and second moments of truth. Responsibilities include driving consumer insights, developing packaging and product experiences, and supporting launch readiness with commercial tools and eContent. J-18808-Ljbf…",
+      "tags": [
+        "marketing",
+        "brand",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "2a6be3e982c28021",
+      "title": "Office & PR Assistant",
+      "company": "Sunshine Sachs Morgan & Lylis",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-10T11:20:47Z",
+      "url": "https://www.adzuna.com/land/ad/5960505108?se=sMiWUjbd8RGRTbZzUjwcZg&utm_medium=api&utm_source=59a3324b&v=1D359D7CBBB40505D232DEB2B3D231777CC746DD",
+      "salary": "$72,604",
+      "description": "Job Description Job Description Sunshine Sachs Morgan & Lylis is a leading global communications agency built to navigate the complexities of a hyper-connected world. We represent the icons and innovators shaping culture—from global heritage corporations and high-growth tech startups to the non-profits, creative legends, and visionary founders who define the global discourse. Our expertise spans the full cultural spectrum. We operate at the intersection of entertainment, social impact, corporat…",
+      "tags": [
+        "pr",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "c04d31b4c8ebf029",
+      "title": "Communications Coordinator",
+      "company": "Prevent Cancer Foundation",
+      "location": "Alexandria, Alexandria City",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-10T07:33:51Z",
+      "url": "https://www.adzuna.com/land/ad/5960291471?se=lgt3Uzbd8RG3v_F7qpyYCw&utm_medium=api&utm_source=59a3324b&v=BA3519A7823ED37C43733A22107150987D41BC88",
+      "salary": "$49,121",
+      "description": "POSITION TITLE : Communications Coordinator F.L.S.A. STATUS: Full-time (Exempt) DIVISION : External Affairs REPORTS TO: Director of Communications SUMMARY OF POSITION: We are looking for a highly skilled, self-motivated individual to be our Communications Coordinator. The position reports directly to the Director of Communications and works closely with the External Affairs Department and collaborates with others across the Foundation. This position is responsible for supporting the Foundation’…",
+      "tags": [
+        "communications",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "8f2f3fa401b2d397",
+      "title": "Marketing Assistant",
+      "company": "SHIK CONSULTING GROUP",
+      "location": "Washington, D.C., US",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-10T02:33:29Z",
+      "url": "https://www.adzuna.com/land/ad/5960046637?se=EIYxVDbd8RGRTbZzUjwcZg&utm_medium=api&utm_source=59a3324b&v=E2E6CCA088DAF07C507DA6CE67E1444A80DA108D",
+      "salary": "$47,468",
+      "description": "*This is an onsite role working in marketing and promotions work. We are looking for an Entry Level Marketing Assistant to help raise brand awareness with target audiences. Paid training will be provided. The type of candidate we are looking for is excited about working with nonprofit causes and will bring a fresh approach to our team dynamic. You’ll work across all levels and departments of our organization to find what makes our charity clients impactful and communicate it to the world. You’l…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
     {
       "id": "7ee40332da1aa0aa",
       "title": "Marketing Administrative & Events Coordinator",
@@ -18,14 +99,14 @@
       ]
     },
     {
-      "id": "6a6e85770c9128be",
+      "id": "0fe1ccd244f5ab26",
       "title": "Communications Associate",
       "company": "SHIK CONSULTING GROUP",
       "location": "Washington, D.C., US",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-11-06T15:14:23Z",
-      "url": "https://www.adzuna.com/land/ad/5956026017?se=aj8TbITc8RG6aZau-BQy2Q&utm_medium=api&utm_source=59a3324b&v=B8B14FF7AF83CF33326C3EB408D10D92F2DA8655",
+      "url": "https://www.adzuna.com/land/ad/5956026017?se=APbqUzbd8RGW67hsumO50A&utm_medium=api&utm_source=59a3324b&v=B8B14FF7AF83CF33326C3EB408D10D92F2DA8655",
       "salary": "$37,661",
       "description": "We're hiring: Communications Associate at SHIK Consulting Group (On-site | DMV Area) Not every important message is delivered through a screen. Some of the most meaningful connections start with a simple conversation. At SHIK Consulting Group, we bring client campaigns directly to people through face-to-face marketing, community outreach, and live customer engagement. Our approach is straightforward: communicate clearly, listen carefully, and help people make informed decisions. We're looking f…",
       "tags": [
@@ -34,30 +115,14 @@
       ]
     },
     {
-      "id": "ffcb4518bbc2ec55",
-      "title": "Communications Coordinator",
-      "company": "NAPEO - The National Association of Professional Employer Organizations",
-      "location": "Alexandria, Alexandria City",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-11-06T15:07:40Z",
-      "url": "https://www.adzuna.com/land/ad/5956019345?se=_gOia4Tc8RG1tbsejDVuJQ&utm_medium=api&utm_source=59a3324b&v=3B348A91F3F117CD6F94CEDAA54C7A2CC63ECCC9",
-      "salary": "$52,115",
-      "description": "Company Description NAPEO – The National Association of Professional Employer Organizations is The Voice of the PEO Industry TM . PEOs provide payroll, benefits, workers’ comp, regulatory compliance assistance and other HR services to more than 230,000 small and mid-size businesses employing 5.4 million people nationwide. NAPEO represents the interests of the PEO industry on behalf of a membership that includes both PEOs and companies that provide services to PEOs. Role Description: The communi…",
-      "tags": [
-        "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "facb225c9d52fdb3",
+      "id": "17f3f1c7fb2489ff",
       "title": "Entry Level Communications Assistant",
       "company": "Nova Acquisitions",
       "location": "Arlington, Arlington County",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-11-05T07:24:03Z",
-      "url": "https://www.adzuna.com/land/ad/5954190183?se=_sLna4Tc8RGMldQtWIx3hg&utm_medium=api&utm_source=59a3324b&v=5F5F7E798FE4FAA06399F6B3C8AC8CFA366836C5",
+      "url": "https://www.adzuna.com/land/ad/5954190183?se=ziK0Uzbd8RGRTbZzUjwcZg&utm_medium=api&utm_source=59a3324b&v=5F5F7E798FE4FAA06399F6B3C8AC8CFA366836C5",
       "salary": "$37,108",
       "description": "Entry-Level Communications Assistant Location: McLean, Virginia Candidates must be able to commute to McLean, Virginia. About the Role We are seeking a creative and motivated Entry-Level Communications Assistant to support our marketing and communications team. This opportunity offers hands-on experience developing content, supporting campaigns, and engaging audiences while learning from experienced marketing professionals. Qualifications Bachelor’s degree in communications, marketing, business…",
       "tags": [
@@ -131,22 +196,6 @@
       ]
     },
     {
-      "id": "270f86f2a61dac1b",
-      "title": "Marketing Associate (Entry Level)",
-      "company": "Legendary Impact",
-      "location": "Silver Spring, Montgomery County",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-11-04T11:34:38Z",
-      "url": "https://www.adzuna.com/land/ad/5953179813?se=vCNubITc8RG6aZau-BQy2Q&utm_medium=api&utm_source=59a3324b&v=9ACA81DF006F14CD90D0AD9A88828A7FD03B26D4",
-      "salary": "$47,191",
-      "description": "Legendary Impact is expanding our team and looking for a Marketing Associate who enjoys working with people, learning new skills, and taking on new challenges. As a Marketing Associate, you’ll gain hands-on experience supporting brand awareness, customer engagement, sales initiatives, and client campaigns. You’ll work alongside an experienced team while developing the communication and business skills needed to grow professionally. We're seeking motivated, entry-level candidates who are ready t…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
       "id": "2d09d5881533e22e",
       "title": "Social Media Coordinator",
       "company": "Potomac",
@@ -211,14 +260,14 @@
       ]
     },
     {
-      "id": "661298ff76f1730b",
+      "id": "9cd9254cda94fc6a",
       "title": "Marketing Coordinator",
       "company": "U.S. Oral Surgery Management",
       "location": "Trade, Alexandria City",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-11-04T06:41:43Z",
-      "url": "https://www.adzuna.com/land/ad/5952860201?se=yAhiaYTc8RGM0oG9aQFYaw&utm_medium=api&utm_source=59a3324b&v=FF197F8727057B822EFA71699F4F55A4EA900BB8",
+      "url": "https://www.adzuna.com/land/ad/5952860201?se=9s0GUTbd8RGRTbZzUjwcZg&utm_medium=api&utm_source=59a3324b&v=FF197F8727057B822EFA71699F4F55A4EA900BB8",
       "salary": "$45,760 – $58,240",
       "description": "Description Northern Virginia Oral Maxillofacial & Implant Surgery 2807 Duke St, Alexandria, VA 22314 Purpose of Position: The Marketing Coordinator supports the practice’s outreach and promotional efforts by providing marketing and public relations services. This role engages with the community to promote the practice(s), distributes marketing materials and educational information, and assists with events and special programs and their main goal is to increase patient referrals from existing p…",
       "tags": [
@@ -259,14 +308,14 @@
       ]
     },
     {
-      "id": "b31b4c3fef079558",
+      "id": "c8cc4091bf146ceb",
       "title": "Communications Associate",
       "company": "Republic Affairs",
       "location": "Washington, D.C., US",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-11-03T14:50:59Z",
-      "url": "https://www.adzuna.com/land/ad/5952096222?se=fjzSaYTc8RGMldQtWIx3hg&utm_medium=api&utm_source=59a3324b&v=108E8343896CED84E2BE0CF94C40342FA0C16629",
+      "url": "https://www.adzuna.com/land/ad/5952096222?se=mkOcUTbd8RG2ju3U9MuxdQ&utm_medium=api&utm_source=59a3324b&v=108E8343896CED84E2BE0CF94C40342FA0C16629",
       "salary": "$73,896",
       "description": "Republic Affairs is a Washington, DC-based strategic communications firm that helps civic organizations operate with confidence, earn public trust, and advance their missions. If you know how to find the story in a campaign and get reporters to cover it, we want to hear from you. About the role As a Communications Associate, you’ll handle media relations for a portfolio of clients, from developing the story to booking the interview to tracking the coverage. You’ll work closely with our strategi…",
       "tags": [
@@ -275,14 +324,14 @@
       ]
     },
     {
-      "id": "6348ca0ca8dc394b",
+      "id": "ae0c655aa5602269",
       "title": "Communications Coordinator",
       "company": "National Beer Wholesalers Association",
       "location": "Alexandria, Alexandria City",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-11-03T14:37:45Z",
-      "url": "https://www.adzuna.com/land/ad/5952089637?se=_gOia4Tc8RG1tbsejDVuJQ&utm_medium=api&utm_source=59a3324b&v=59FA9FC5D8C4DA673F3A2600281A918F7A58023B",
+      "url": "https://www.adzuna.com/land/ad/5952089637?se=lgt3Uzbd8RG3v_F7qpyYCw&utm_medium=api&utm_source=59a3324b&v=59FA9FC5D8C4DA673F3A2600281A918F7A58023B",
       "salary": "$38,540",
       "description": "Company Description The National Beer Wholesalers Association (NBWA), founded in 1938, is a national trade association representing more than 3,000 licensed, independent beer distributors across every state and congressional district in the United States. NBWA advocates for a strong, state-based alcohol regulatory system that supports an orderly marketplace and protects consumers through transparent, accountable distribution. The association promotes responsible practices in the manufacture, di…",
       "tags": [
