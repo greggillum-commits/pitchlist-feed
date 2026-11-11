@@ -1,15 +1,128 @@
 {
-  "generatedAt": "2026-11-10T18:41:24.824Z",
+  "generatedAt": "2026-11-11T18:43:28.461Z",
   "jobs": [
     {
-      "id": "813b0895339a29db",
+      "id": "19615a9cf456c350",
+      "title": "Field Marketing Associate",
+      "company": "Comply",
+      "location": "Arlington, Arlington County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-11T09:30:12Z",
+      "url": "https://www.adzuna.com/details/5961734182?utm_medium=api&utm_source=59a3324b",
+      "salary": "$60,000 – $75,000",
+      "description": "About the role Comply is looking for a Field Marketing Associate to plan and execute the events, conferences, and webinars that drive pipeline and brand awareness in our key markets. In this role, you’ll own the logistics and execution behind high-visibility programs, from 20 industry conferences a year to quarterly demand gen webinars to executive dinners in major financial hubs. You’ll work closely with Sales, Demand Generation, Product, and Brand, and have direct impact on how Comply shows u…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "e98427e67840c5a5",
+      "title": "Marketing Coordinator - Zonda - Arlington, VA",
+      "company": "CoStar Group",
+      "location": "Arlington, Arlington County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-11T07:53:19Z",
+      "url": "https://www.adzuna.com/details/5961590113?utm_medium=api&utm_source=59a3324b",
+      "salary": "$50,000 – $60,000",
+      "description": "Marketing Coordinator - Zonda - Arlington, VA Job Description Company Overview: CoStar Group (NASDAQ: CSGP) is a leading global provider of commercial and residential real estate information, analytics, and online marketplaces, and 3D digital twin technology. Included in the S&P 500 Index, CoStar Group is on a mission to digitize the world’s real estate, empowering all people to discover properties, insights and connections that improve their businesses and lives. We have been living and breath…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "8f3478817a39ca64",
+      "title": "Marketing Coordinator - Zonda - Arlington, VA",
+      "company": "CoStar Realty Information, Inc.",
+      "location": "Fort Myer, Arlington County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-11T07:42:02Z",
+      "url": "https://www.adzuna.com/details/5961582108?utm_medium=api&utm_source=59a3324b",
+      "salary": "$66,302",
+      "description": "US-VA Arlington Full time R40264 Marketing Coordinator - Zonda - Arlington, VA Job Description Company Overview: CoStar Group (NASDAQ: CSGP) is a leading global provider of commercial and residential real estate information, analytics, and online marketplaces, and 3D digital twin technology. Included in the S&P 500 Index, CoStar Group is on a mission to digitize the world's real estate, empowering all people to discover properties, insights and connections that improve their businesses and live…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "e33c2303ef6a3cd9",
+      "title": "Unified Communications Associate with Security Clearance",
+      "company": "Peraton",
+      "location": "Washington, D.C., US",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-10T23:49:41Z",
+      "url": "https://www.adzuna.com/land/ad/5961108739?se=VBuKxv_d8RGDw-DoHL7Y9Q&utm_medium=api&utm_source=59a3324b&v=95F16F7A5A80307D76D5E34C23156E35CB6F328B",
+      "salary": "$98,115",
+      "description": "About Peraton Peraton is a next-generation national security company that drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the world's leading mission capability integrator and transformative enterprise IT provider, we deliver trusted, highly differentiated solutions and technologies to protect our nation and allies. Peraton operates at the critical nexus between traditional and nontraditional threats across all domains: land, sea, space,…",
+      "tags": [
+        "communications",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "cd8230649353fff6",
+      "title": "Marketing Associate (Entry Level)",
+      "company": "Legendary Impact",
+      "location": "Silver Spring, Montgomery County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-10T22:37:23Z",
+      "url": "https://www.adzuna.com/details/5960972032?utm_medium=api&utm_source=59a3324b",
+      "salary": "$38,289",
+      "description": "About the Job Legendary Impact is looking for energetic, motivated individuals to join our growing team as Entry-Level, Marketing Associate . This role is ideal for those excited to build professional experience, work directly with people, and grow within a supportive, fast-moving environment. You will represent our clients in face-to-face settings, strengthen brand presence, and contribute to sales and outreach initiatives. We're seeking motivated, entry-level candidates who are ready to start…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "afe74d15b3a1e9e4",
+      "title": "Senior Director, Global Advertising Product Marketing",
+      "company": "Spotify",
+      "location": "New York, NY",
+      "remote": "hybrid",
+      "source": "Lever",
+      "datePosted": "2026-11-10T21:24:38.920Z",
+      "url": "https://jobs.lever.co/spotify/b9533f31-7bff-43f6-aaf0-60003f017d88",
+      "salary": null,
+      "description": "Spotify is shaping the future of advertising by connecting brands with fans through audio, video, and experiences that are part of people's everyday lives. As our advertising business grows, we're focused on bringing innovative products to market, helping advertisers succeed, and turning new ideas into meaningful business growth.\nWe're looking for a Senior Director, Global Advertising Product Marketing to lead the next chapter of our global Advertising Product Marketing team. Reporting to the Head of Advertising Business Marketing, you'll work closely with Product, Engineering, Sales, Business Development, and Marketing leaders to shape product strategy, strengthen our market position, and help advertisers get more value from Spotify.\nThis is an opportunity to build and lead a product marketing function with a clear voice in product decisions and a direct impact on business growth. You'll bring customer insights into product development, establish a disciplined approach to go-to-market execution and product adoption, create compelling reasons for advertisers to choose Spotify, and help a global team deliver measurable results.\n",
+      "tags": [
+        "marketing",
+        "advertising",
+        "music"
+      ]
+    },
+    {
+      "id": "64c594a0d210b38d",
+      "title": "Head of Measurement & Advertising Effectiveness",
+      "company": "Spotify",
+      "location": "New York, NY",
+      "remote": "hybrid",
+      "source": "Lever",
+      "datePosted": "2026-11-10T21:00:57.959Z",
+      "url": "https://jobs.lever.co/spotify/01b41b49-7d43-4933-9ba7-06ebe0a2a749",
+      "salary": null,
+      "description": "Spotify is building the next generation of advertising, connecting brands with audiences through audio, video, and experiences that are deeply embedded in people's lives. As our advertising business evolves, demonstrating the impact of advertising on Spotify, and helping advertisers achieve better outcomes, will be critical to our long-term success.\nWe are seeking a Head of Measurement & Advertising Effectiveness to define how Spotify proves the value of its advertising, advances measurement science, and makes advertiser effectiveness a lasting competitive advantage.\nReporting directly to the SVP of Advertising, you will be a member of the global Advertising leadership team, operating within a business with end-to-end P&L accountability. You will play an influential role in shaping our strategy, guiding investment priorities, and strengthening the value we deliver to advertisers.\nThis is an opportunity to build and lead a differentiated measurement and effectiveness organization at a time when the industry is being reshaped by AI, evolving privacy expectations, and increasing demand for measurable business outcomes. We are looking for a leader who combines scientific rigor, strategic vision, commercial judgment, and exceptional people leadership—and who can represent Spotify as a credible and influential voice in the industry.\n",
+      "tags": [
+        "advertising",
+        "music"
+      ]
+    },
+    {
+      "id": "702ccf5cbc4a6cd3",
       "title": "Social Media Coordinator",
       "company": "CPAC Foundation",
       "location": "Trade, Alexandria City",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-11-10T13:28:20Z",
-      "url": "https://www.adzuna.com/land/ad/5960620325?se=otISUzbd8RGmstUjAE4KZA&utm_medium=api&utm_source=59a3324b&v=855685D001AD6BEE37818947D879A2AEE02B24DF",
+      "url": "https://www.adzuna.com/land/ad/5960620325?se=zMNCxf_d8RGDw-DoHL7Y9Q&utm_medium=api&utm_source=59a3324b&v=855685D001AD6BEE37818947D879A2AEE02B24DF",
       "salary": "$70,602",
       "description": "About the Role Were looking for a creative, organized, and detail-oriented Social Media Coordinator to help manage our organizations daily social media presence, support and turn performance data into actionable insights. This role is ideal for someone who is a strong writer, understands how social platforms work, enjoys working in a fast-paced environment, and understands the importance of accuracy and sound judgment. AI is a core tool and resource on our team. We expect this role to use it we…",
       "tags": [
@@ -18,14 +131,14 @@
       ]
     },
     {
-      "id": "b2b54091c2e01213",
+      "id": "2e3575bae2a04bf4",
       "title": "Brand Marketing Associate, Product Experience",
       "company": "Nestlé S.A.",
       "location": "State Farm, Arlington County",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-11-10T13:14:25Z",
-      "url": "https://www.adzuna.com/land/ad/5960589252?se=ZrBRVDbd8RGmstUjAE4KZA&utm_medium=api&utm_source=59a3324b&v=AE8470553FB2A9E5E2830EC66F885B54F51D6076",
+      "url": "https://www.adzuna.com/land/ad/5960589252?se=XBr7xv_d8RG2gvl2oUmJsg&utm_medium=api&utm_source=59a3324b&v=AE8470553FB2A9E5E2830EC66F885B54F51D6076",
       "salary": "$77,983",
       "description": "Nestlé USA is seeking an Associate, Brand Marketing- Product Experience to shape how our brands are experienced through product, packaging, and innovation. You will collaborate with cross-functional teams to ensure superior product performance and a cohesive consumer experience across first and second moments of truth. Responsibilities include driving consumer insights, developing packaging and product experiences, and supporting launch readiness with commercial tools and eContent. J-18808-Ljbf…",
       "tags": [
@@ -35,30 +148,14 @@
       ]
     },
     {
-      "id": "2a6be3e982c28021",
-      "title": "Office & PR Assistant",
-      "company": "Sunshine Sachs Morgan & Lylis",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-11-10T11:20:47Z",
-      "url": "https://www.adzuna.com/land/ad/5960505108?se=sMiWUjbd8RGRTbZzUjwcZg&utm_medium=api&utm_source=59a3324b&v=1D359D7CBBB40505D232DEB2B3D231777CC746DD",
-      "salary": "$72,604",
-      "description": "Job Description Job Description Sunshine Sachs Morgan & Lylis is a leading global communications agency built to navigate the complexities of a hyper-connected world. We represent the icons and innovators shaping culture—from global heritage corporations and high-growth tech startups to the non-profits, creative legends, and visionary founders who define the global discourse. Our expertise spans the full cultural spectrum. We operate at the intersection of entertainment, social impact, corporat…",
-      "tags": [
-        "pr",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "c04d31b4c8ebf029",
+      "id": "d17a7755a9ebd14d",
       "title": "Communications Coordinator",
       "company": "Prevent Cancer Foundation",
       "location": "Alexandria, Alexandria City",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-11-10T07:33:51Z",
-      "url": "https://www.adzuna.com/land/ad/5960291471?se=lgt3Uzbd8RG3v_F7qpyYCw&utm_medium=api&utm_source=59a3324b&v=BA3519A7823ED37C43733A22107150987D41BC88",
+      "url": "https://www.adzuna.com/details/5960291471?utm_medium=api&utm_source=59a3324b",
       "salary": "$49,121",
       "description": "POSITION TITLE : Communications Coordinator F.L.S.A. STATUS: Full-time (Exempt) DIVISION : External Affairs REPORTS TO: Director of Communications SUMMARY OF POSITION: We are looking for a highly skilled, self-motivated individual to be our Communications Coordinator. The position reports directly to the Director of Communications and works closely with the External Affairs Department and collaborates with others across the Foundation. This position is responsible for supporting the Foundation’…",
       "tags": [
@@ -67,18 +164,34 @@
       ]
     },
     {
-      "id": "8f2f3fa401b2d397",
+      "id": "924562a9b1502b8b",
       "title": "Marketing Assistant",
       "company": "SHIK CONSULTING GROUP",
       "location": "Washington, D.C., US",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-11-10T02:33:29Z",
-      "url": "https://www.adzuna.com/land/ad/5960046637?se=EIYxVDbd8RGRTbZzUjwcZg&utm_medium=api&utm_source=59a3324b&v=E2E6CCA088DAF07C507DA6CE67E1444A80DA108D",
+      "url": "https://www.adzuna.com/details/5960046637?utm_medium=api&utm_source=59a3324b",
       "salary": "$47,468",
       "description": "*This is an onsite role working in marketing and promotions work. We are looking for an Entry Level Marketing Assistant to help raise brand awareness with target audiences. Paid training will be provided. The type of candidate we are looking for is excited about working with nonprofit causes and will bring a fresh approach to our team dynamic. You’ll work across all levels and departments of our organization to find what makes our charity clients impactful and communicate it to the world. You’l…",
       "tags": [
         "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "2fc8937ff9c143e6",
+      "title": "Social Media Coordinator 5020 with Security Clearance",
+      "company": "Midi Enterprises",
+      "location": "Washington, D.C., US",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-09T23:37:23Z",
+      "url": "https://www.adzuna.com/land/ad/5959893487?se=Um5bx__d8RG2gvl2oUmJsg&utm_medium=api&utm_source=59a3324b&v=904287B58883AAF37D174F94D268EE916181F0F5",
+      "salary": "$61,694",
+      "description": "MEC Energy Services Duties and Responsibilities: * Drafts and proposes an integrated digital strategy and content calendar for the Under Secretary for Economic Affairs and affiliated bureaus (CDP, EEB, OES, OCE), for government review and approval. * Develops platform-specific content strategies (e.g., X, LinkedIn, Instagram, YouTube/short-form video) tailored to each bureau’s mission and audience, for government sign-off prior to execution. * Produces and proposes visual storytelling assets — …",
+      "tags": [
+        "social media",
         "entry-level"
       ]
     },
@@ -95,38 +208,6 @@
       "description": "DARCARS Automotive Group is seeking a highly organized, detail-oriented, and proactive Marketing Administrative & Events Coordinator to join our growing marketing team in Bethesda, MD. This position plays an important role in supporting marketing operations, advertising administration, financial reporting, vendor management, and the planning and execution of corporate, dealership, and community events across multiple automotive brands. The ideal candidate is a strong multitasker with excellent …",
       "tags": [
         "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "0fe1ccd244f5ab26",
-      "title": "Communications Associate",
-      "company": "SHIK CONSULTING GROUP",
-      "location": "Washington, D.C., US",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-11-06T15:14:23Z",
-      "url": "https://www.adzuna.com/land/ad/5956026017?se=APbqUzbd8RGW67hsumO50A&utm_medium=api&utm_source=59a3324b&v=B8B14FF7AF83CF33326C3EB408D10D92F2DA8655",
-      "salary": "$37,661",
-      "description": "We're hiring: Communications Associate at SHIK Consulting Group (On-site | DMV Area) Not every important message is delivered through a screen. Some of the most meaningful connections start with a simple conversation. At SHIK Consulting Group, we bring client campaigns directly to people through face-to-face marketing, community outreach, and live customer engagement. Our approach is straightforward: communicate clearly, listen carefully, and help people make informed decisions. We're looking f…",
-      "tags": [
-        "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "17f3f1c7fb2489ff",
-      "title": "Entry Level Communications Assistant",
-      "company": "Nova Acquisitions",
-      "location": "Arlington, Arlington County",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-11-05T07:24:03Z",
-      "url": "https://www.adzuna.com/land/ad/5954190183?se=ziK0Uzbd8RGRTbZzUjwcZg&utm_medium=api&utm_source=59a3324b&v=5F5F7E798FE4FAA06399F6B3C8AC8CFA366836C5",
-      "salary": "$37,108",
-      "description": "Entry-Level Communications Assistant Location: McLean, Virginia Candidates must be able to commute to McLean, Virginia. About the Role We are seeking a creative and motivated Entry-Level Communications Assistant to support our marketing and communications team. This opportunity offers hands-on experience developing content, supporting campaigns, and engaging audiences while learning from experienced marketing professionals. Qualifications Bachelor’s degree in communications, marketing, business…",
-      "tags": [
-        "communications",
         "entry-level"
       ]
     },
@@ -157,7 +238,7 @@
       "datePosted": "2026-11-05T07:02:11Z",
       "url": "https://www.adzuna.com/details/5954129972?utm_medium=api&utm_source=59a3324b",
       "salary": "$52,000",
-      "description": "First Book | Washington, DC (Hybrid: Tuesdays & Wednesdays Onsite) ABOUT FIRST BOOK First Book is a leading nonprofit social enterprise dedicated to removing barriers to quality education for children in need. Through innovative public–private partnerships and a national network of more than 600,000 educators, program leaders, and community organizations, First Book has distributed over 250 million books and educational resources to under-resourced communities. Our work spans e-commerce (First …",
+      "description": "MANAGER, ENGAGEMENT (Temporary Position) First Book | Washington, DC (Hybrid: Tuesdays & Wednesdays Onsite) ABOUT FIRST BOOK First Book is a leading nonprofit social enterprise dedicated to removing barriers to quality education for children in need. Through innovative public–private partnerships and a national network of more than 600,000 educators, program leaders, and community organizations, First Book has distributed over 250 million books and educational resources to under-resourced commu…",
       "tags": [
         "marketing",
         "entry-level"
@@ -180,22 +261,6 @@
       ]
     },
     {
-      "id": "6c1d80dc17a3b65c",
-      "title": "Field Marketing Associate",
-      "company": "Comply",
-      "location": "State Farm, Arlington County",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-11-04T22:21:07Z",
-      "url": "https://www.adzuna.com/details/5953745238?utm_medium=api&utm_source=59a3324b",
-      "salary": "$62,728",
-      "description": "Who Are We: Comply is the leading provider of compliance SaaS and consulting services for the global financial services sector. With more than 5,000 clients and hundreds of employees across the globe, Comply empowers Chief Compliance Officers and their teams to proactively manage regulatory obligations, mitigate risk, and scale with efficiency and confidence. Comply serves thousands of global financial services clients including broker-dealers, insurers, investment banks, private funds, RIAs, a…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
       "id": "2d09d5881533e22e",
       "title": "Social Media Coordinator",
       "company": "Potomac",
@@ -208,38 +273,6 @@
       "description": "Summary As Social Media Coordinator at Potomac, you will keep our social presence running on time and on brand. You will schedule and publish organic content across [LinkedIn, YouTube, Facebook, X, and other priority platforms], turn approved assets into platform-ready formats and keep the content queue moving through brand and compliance review. You will work with the Potomac Social and Brand team to manage and maintain social content calendars as well as brand standards and best practices are…",
       "tags": [
         "social media",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "baae3516cb7c3f78",
-      "title": "Entry Level Marketing Coordinator",
-      "company": "Moodreact",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-11-04T08:16:11Z",
-      "url": "https://www.adzuna.com/details/5952970576?utm_medium=api&utm_source=59a3324b",
-      "salary": "$54,553",
-      "description": "About Us Moodreact is a full-service maintenance company supporting homes and businesses with expert electricians, appliance repair technicians, plumbers, and skilled general labor teams.We handle the tough jobs, the technical work, and the details others overlook—always with professionalism, safety, and efficiency in mind. About the Role We are seeking an enthusiastic Entry Level Marketing Coordinator to support promotional initiatives, increase brand awareness, and create positive experiences…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "9a648abc857e98a0",
-      "title": "Public Relations Assistant",
-      "company": "Moodreact",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-11-04T08:16:11Z",
-      "url": "https://www.adzuna.com/details/5952970528?utm_medium=api&utm_source=59a3324b",
-      "salary": "$57,152",
-      "description": "About Us Moodreact is a full-service maintenance company supporting homes and businesses with expert electricians, appliance repair technicians, plumbers, and skilled general labor teams.We handle the tough jobs, the technical work, and the details others overlook—always with professionalism, safety, and efficiency in mind. About the Role We are seeking a motivated Public Relations Assistant to help strengthen brand visibility and build positive relationships with customers and the community. T…",
-      "tags": [
-        "public relations",
         "entry-level"
       ]
     },
@@ -260,14 +293,14 @@
       ]
     },
     {
-      "id": "9cd9254cda94fc6a",
+      "id": "851b179c6343cf54",
       "title": "Marketing Coordinator",
       "company": "U.S. Oral Surgery Management",
       "location": "Trade, Alexandria City",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-11-04T06:41:43Z",
-      "url": "https://www.adzuna.com/land/ad/5952860201?se=9s0GUTbd8RGRTbZzUjwcZg&utm_medium=api&utm_source=59a3324b&v=FF197F8727057B822EFA71699F4F55A4EA900BB8",
+      "url": "https://www.adzuna.com/land/ad/5952860201?se=iJ58wv_d8RGYFNuPuswjLA&utm_medium=api&utm_source=59a3324b&v=FF197F8727057B822EFA71699F4F55A4EA900BB8",
       "salary": "$45,760 – $58,240",
       "description": "Description Northern Virginia Oral Maxillofacial & Implant Surgery 2807 Duke St, Alexandria, VA 22314 Purpose of Position: The Marketing Coordinator supports the practice’s outreach and promotional efforts by providing marketing and public relations services. This role engages with the community to promote the practice(s), distributes marketing materials and educational information, and assists with events and special programs and their main goal is to increase patient referrals from existing p…",
       "tags": [
@@ -288,71 +321,6 @@
       "description": "Summary The Associate Specialist, Corporate Communications supports the development and execution of internal and external communications initiatives, including executive communications, employee engagement, analyst relations, and corporate communications projects. As part of the Communications Team, this role assists with creating written and digital content, coordinating communications activities, and supporting initiatives that align with SHRM's mission and organizational objectives. Reporti…",
       "tags": [
         "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "54a5752ab555e924",
-      "title": "Communications Associate",
-      "company": "Society for Science",
-      "location": "Washington, D.C., US",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-11-03T20:43:47Z",
-      "url": "https://www.adzuna.com/details/5952225060?utm_medium=api&utm_source=59a3324b",
-      "salary": "$52,800 – $58,000",
-      "description": "Society for Science has been dedicated to expanding scientific literacy, access to STEM education and scientific research for more than 100 years. Our mission promotes the understanding and appreciation of science and the vital role it plays in human advancement: to inform, educate, and inspire. We are best known for our award-winning magazine, Science News, our world class science research competitions and our outreach and equity STEM Programs making sure that every young person can strive to …",
-      "tags": [
-        "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "c8cc4091bf146ceb",
-      "title": "Communications Associate",
-      "company": "Republic Affairs",
-      "location": "Washington, D.C., US",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-11-03T14:50:59Z",
-      "url": "https://www.adzuna.com/land/ad/5952096222?se=mkOcUTbd8RG2ju3U9MuxdQ&utm_medium=api&utm_source=59a3324b&v=108E8343896CED84E2BE0CF94C40342FA0C16629",
-      "salary": "$73,896",
-      "description": "Republic Affairs is a Washington, DC-based strategic communications firm that helps civic organizations operate with confidence, earn public trust, and advance their missions. If you know how to find the story in a campaign and get reporters to cover it, we want to hear from you. About the role As a Communications Associate, you’ll handle media relations for a portfolio of clients, from developing the story to booking the interview to tracking the coverage. You’ll work closely with our strategi…",
-      "tags": [
-        "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "ae0c655aa5602269",
-      "title": "Communications Coordinator",
-      "company": "National Beer Wholesalers Association",
-      "location": "Alexandria, Alexandria City",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-11-03T14:37:45Z",
-      "url": "https://www.adzuna.com/land/ad/5952089637?se=lgt3Uzbd8RG3v_F7qpyYCw&utm_medium=api&utm_source=59a3324b&v=59FA9FC5D8C4DA673F3A2600281A918F7A58023B",
-      "salary": "$38,540",
-      "description": "Company Description The National Beer Wholesalers Association (NBWA), founded in 1938, is a national trade association representing more than 3,000 licensed, independent beer distributors across every state and congressional district in the United States. NBWA advocates for a strong, state-based alcohol regulatory system that supports an orderly marketplace and protects consumers through transparent, accountable distribution. The association promotes responsible practices in the manufacture, di…",
-      "tags": [
-        "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "e0db82f8515c1804",
-      "title": "Marketing & Communications Operations Coordinator",
-      "company": "CHAOS Industries",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-11-03T10:10:37Z",
-      "url": "https://www.adzuna.com/details/5951829862?utm_medium=api&utm_source=59a3324b",
-      "salary": "$80,000 – $110,000",
-      "description": "CHAOS Industries is redefining modern defense with a multi-product portfolio that gives the ultimate advantage—domain dominance. The company's products are powered by Coherent Distributed Networks (CDN™), empowering warfighters, commercial air operators, and border protection teams to act faster, adapt rapidly, and stay ahead of evolving threats. CHAOS Industries was founded in 2022 and has raised a total of $1 billion in funding from leading investors, including 8VC, Accel, and Valor Equity Pa…",
-      "tags": [
-        "communications",
-        "marketing",
         "entry-level"
       ]
     },
