@@ -1,6 +1,103 @@
 {
-  "generatedAt": "2026-11-11T18:43:28.461Z",
+  "generatedAt": "2026-11-12T18:58:01.511Z",
   "jobs": [
+    {
+      "id": "d3f2e12c440b75a6",
+      "title": "Associate, Membership Digital Communications",
+      "company": "American College of Cardiology",
+      "location": "Washington, D.C., US",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-12T06:31:57Z",
+      "url": "https://www.adzuna.com/details/5963031837?utm_medium=api&utm_source=59a3324b",
+      "salary": "$51,103",
+      "description": "Description The Sr. Specialist, Marketing and Communications, Member Engagement develops and implements comprehensive, timely, creative and effective marketing and communications supporting ACC’s International membership, Member Section content and communications, key member newsletters, and CardioSmart patient resources, as well as other assigned member engagement initiatives. Serving as the day-to-day Marketing and Communications project lead for assigned programs and communications, the Sr. …",
+      "tags": [
+        "communications",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "cbb12b583c0eef12",
+      "title": "Sales & Marketing Associate",
+      "company": "Bozzuto",
+      "location": "Bethesda, Montgomery County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-12T04:15:29Z",
+      "url": "https://www.adzuna.com/details/5962851825?utm_medium=api&utm_source=59a3324b",
+      "salary": "$50,000 – $54,638",
+      "description": "At Bozzuto, every team member shares a deep commitment to doing good for those around us . We live this each day by designing, building, managing and maintaining one-of-a-kind residences. Whether it’s the talent within our communities or the expertise across our property operations teams, we work together to make extraordinary happen for our clients, residents and fellow team members. Our people are dedicated to delivering exceptional experiences to everyone we serve including each other. This …",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "4587dfbd9915e6e5",
+      "title": "Associate, Brand Marketing - Product Experience, Global Culinary Kitchen",
+      "company": "Nestlé USA",
+      "location": "Rosslyn, Arlington County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-12T03:08:31Z",
+      "url": "https://www.adzuna.com/details/5962826913?utm_medium=api&utm_source=59a3324b",
+      "salary": "$96,371",
+      "description": "Foods you love. Brands you trust. And a career that empowers you to grow. At Nestlé USA, we’re all working towards the same goal – to delight and deliver for our consumers. With a rich portfolio of beloved brands, including DiGiorno, Toll House, and Coffee mate, in 97% of U.S. households, we have a unique opportunity – and responsibility – to be there for every moment in our consumers’ lives. Joining Nestlé means becoming part of an inclusive workplace that inspires innovation, encourages strat…",
+      "tags": [
+        "marketing",
+        "brand",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "fd84002b13cfa481",
+      "title": "Associate, Marketing Programs",
+      "company": "Vanda Pharmaceuticals",
+      "location": "Rosslyn, Arlington County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-12T01:10:52Z",
+      "url": "https://www.adzuna.com/details/5962664844?utm_medium=api&utm_source=59a3324b",
+      "salary": "$70,000 – $85,000",
+      "description": "Primary Responsibilities Managing marketing projects, under guidance of marketing team leadership and collaboration with internal stakeholders Tracking results and adapting tactics as needed Coordinates and implements marketing projects, from planning through delivery Liaises between project members, cross-functional teams, external vendors, and other stakeholders to ensure deliverables, requirements, schedules, cost, and meeting plans are communicated Utilizes appropriate tools to plan project…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "30fe3f165d3f95fe",
+      "title": "Entry Level Communications Assistant",
+      "company": "Nova acquisitions",
+      "location": "Arlington, Arlington County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-11T23:37:05Z",
+      "url": "https://www.adzuna.com/land/ad/5962536700?se=3D3Q-sre8RG0NsbUZx0nZA&utm_medium=api&utm_source=59a3324b&v=CC28EAC3C33044C0129462535D33F2347AC404F9",
+      "salary": "$37,108",
+      "description": "Entry-Level Communications Assistant Location: McLean, Virginia Candidates must be able to commute to McLean, Virginia. About the Role We are seeking a creative and motivated Entry-Level Communications Assistant to support our marketing and communications team. This opportunity offers hands-on experience developing content, supporting campaigns, and engaging audiences while learning from experienced marketing professionals. Qualifications Bachelor’s degree in communications, marketing, business…",
+      "tags": [
+        "communications",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "b6e85dc57eb4f5bf",
+      "title": "Entry Level Marketing",
+      "company": "Vanguard Dynamics",
+      "location": "Silver Spring, Montgomery County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-11T23:32:11Z",
+      "url": "https://www.adzuna.com/details/5962531590?utm_medium=api&utm_source=59a3324b",
+      "salary": "$35,751",
+      "description": "Vanguard Dynamics is seeking a motivated Entry-Level Marketing professional to join our growing team. This opportunity is ideal for individuals who enjoy working with people, developing communication skills, and building a career in marketing. In this role, you’ll gain hands-on experience supporting marketing campaigns through face-to-face customer engagement, brand representation, and promotional activities in retail and other in-person environments. You’ll work closely with a team to help inc…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
     {
       "id": "19615a9cf456c350",
       "title": "Field Marketing Associate",
@@ -50,14 +147,30 @@
       ]
     },
     {
-      "id": "e33c2303ef6a3cd9",
+      "id": "0c2adfd68a593881",
+      "title": "Media Coordinator aka Strategic Communications Specialis",
+      "company": "Iq Sig",
+      "location": "Alexandria, Alexandria City",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-11T07:19:16Z",
+      "url": "https://www.adzuna.com/details/5961573821?utm_medium=api&utm_source=59a3324b",
+      "salary": "$101,676",
+      "description": "About the role This position is in the Secretariat for Special Operations (SSO), Office of the Assistant Secretary of War for Special Operations and Low-Intensity Conflict (OASW(SO/LIC)). The ASW(SO/LIC) serves as the principal civilian advisor and assistant to the Secretary of War and has statutory responsibility for overseeing special operations-peculiar administrative matters pertaining to the readiness and organization of special operations forces (SOF), resources and equipment, and civilia…",
+      "tags": [
+        "communications",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "35600d7e6bc6d69c",
       "title": "Unified Communications Associate with Security Clearance",
       "company": "Peraton",
       "location": "Washington, D.C., US",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-11-10T23:49:41Z",
-      "url": "https://www.adzuna.com/land/ad/5961108739?se=VBuKxv_d8RGDw-DoHL7Y9Q&utm_medium=api&utm_source=59a3324b&v=95F16F7A5A80307D76D5E34C23156E35CB6F328B",
+      "url": "https://www.adzuna.com/land/ad/5961108739?se=yjAI-8re8RGgDrQN4m_CPg&utm_medium=api&utm_source=59a3324b&v=95F16F7A5A80307D76D5E34C23156E35CB6F328B",
       "salary": "$98,115",
       "description": "About Peraton Peraton is a next-generation national security company that drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the world's leading mission capability integrator and transformative enterprise IT provider, we deliver trusted, highly differentiated solutions and technologies to protect our nation and allies. Peraton operates at the critical nexus between traditional and nontraditional threats across all domains: land, sea, space,…",
       "tags": [
@@ -115,35 +228,18 @@
       ]
     },
     {
-      "id": "702ccf5cbc4a6cd3",
+      "id": "3b5e38e297912d27",
       "title": "Social Media Coordinator",
       "company": "CPAC Foundation",
       "location": "Trade, Alexandria City",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-11-10T13:28:20Z",
-      "url": "https://www.adzuna.com/land/ad/5960620325?se=zMNCxf_d8RGDw-DoHL7Y9Q&utm_medium=api&utm_source=59a3324b&v=855685D001AD6BEE37818947D879A2AEE02B24DF",
+      "url": "https://www.adzuna.com/land/ad/5960620325?se=5CMu-sre8RGeRcETzs7BxQ&utm_medium=api&utm_source=59a3324b&v=855685D001AD6BEE37818947D879A2AEE02B24DF",
       "salary": "$70,602",
       "description": "About the Role Were looking for a creative, organized, and detail-oriented Social Media Coordinator to help manage our organizations daily social media presence, support and turn performance data into actionable insights. This role is ideal for someone who is a strong writer, understands how social platforms work, enjoys working in a fast-paced environment, and understands the importance of accuracy and sound judgment. AI is a core tool and resource on our team. We expect this role to use it we…",
       "tags": [
         "social media",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "2e3575bae2a04bf4",
-      "title": "Brand Marketing Associate, Product Experience",
-      "company": "Nestlé S.A.",
-      "location": "State Farm, Arlington County",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-11-10T13:14:25Z",
-      "url": "https://www.adzuna.com/land/ad/5960589252?se=XBr7xv_d8RG2gvl2oUmJsg&utm_medium=api&utm_source=59a3324b&v=AE8470553FB2A9E5E2830EC66F885B54F51D6076",
-      "salary": "$77,983",
-      "description": "Nestlé USA is seeking an Associate, Brand Marketing- Product Experience to shape how our brands are experienced through product, packaging, and innovation. You will collaborate with cross-functional teams to ensure superior product performance and a cohesive consumer experience across first and second moments of truth. Responsibilities include driving consumer insights, developing packaging and product experiences, and supporting launch readiness with commercial tools and eContent. J-18808-Ljbf…",
-      "tags": [
-        "marketing",
-        "brand",
         "entry-level"
       ]
     },
@@ -164,31 +260,15 @@
       ]
     },
     {
-      "id": "924562a9b1502b8b",
-      "title": "Marketing Assistant",
-      "company": "SHIK CONSULTING GROUP",
-      "location": "Washington, D.C., US",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-11-10T02:33:29Z",
-      "url": "https://www.adzuna.com/details/5960046637?utm_medium=api&utm_source=59a3324b",
-      "salary": "$47,468",
-      "description": "*This is an onsite role working in marketing and promotions work. We are looking for an Entry Level Marketing Assistant to help raise brand awareness with target audiences. Paid training will be provided. The type of candidate we are looking for is excited about working with nonprofit causes and will bring a fresh approach to our team dynamic. You’ll work across all levels and departments of our organization to find what makes our charity clients impactful and communicate it to the world. You’l…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "2fc8937ff9c143e6",
+      "id": "095f87087dfb329a",
       "title": "Social Media Coordinator 5020 with Security Clearance",
       "company": "Midi Enterprises",
-      "location": "Washington, D.C., US",
+      "location": "Rosslyn, Arlington County",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-11-09T23:37:23Z",
-      "url": "https://www.adzuna.com/land/ad/5959893487?se=Um5bx__d8RG2gvl2oUmJsg&utm_medium=api&utm_source=59a3324b&v=904287B58883AAF37D174F94D268EE916181F0F5",
-      "salary": "$61,694",
+      "url": "https://www.adzuna.com/land/ad/5959893487?se=mkGf-8re8RGZqo4-VsdaPQ&utm_medium=api&utm_source=59a3324b&v=904287B58883AAF37D174F94D268EE916181F0F5",
+      "salary": "$76,556",
       "description": "MEC Energy Services Duties and Responsibilities: * Drafts and proposes an integrated digital strategy and content calendar for the Under Secretary for Economic Affairs and affiliated bureaus (CDP, EEB, OES, OCE), for government review and approval. * Develops platform-specific content strategies (e.g., X, LinkedIn, Instagram, YouTube/short-form video) tailored to each bureau’s mission and audience, for government sign-off prior to execution. * Produces and proposes visual storytelling assets — …",
       "tags": [
         "social media",
@@ -261,70 +341,6 @@
       ]
     },
     {
-      "id": "2d09d5881533e22e",
-      "title": "Social Media Coordinator",
-      "company": "Potomac",
-      "location": "Bethesda, Montgomery County",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-11-04T08:24:03Z",
-      "url": "https://www.adzuna.com/details/5952990385?utm_medium=api&utm_source=59a3324b",
-      "salary": "$60,000 – $80,000",
-      "description": "Summary As Social Media Coordinator at Potomac, you will keep our social presence running on time and on brand. You will schedule and publish organic content across [LinkedIn, YouTube, Facebook, X, and other priority platforms], turn approved assets into platform-ready formats and keep the content queue moving through brand and compliance review. You will work with the Potomac Social and Brand team to manage and maintain social content calendars as well as brand standards and best practices are…",
-      "tags": [
-        "social media",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "2474150f5c12eb92",
-      "title": "Event and Communications Coordinator",
-      "company": "Bickham Services Unlimited, LLC",
-      "location": "Washington, Washington, D.C.",
-      "remote": "remote",
-      "source": "Adzuna",
-      "datePosted": "2026-11-04T07:32:26Z",
-      "url": "https://www.adzuna.com/details/5952896848?utm_medium=api&utm_source=59a3324b",
-      "salary": "$46,511",
-      "description": "Company: Bickham Services Unlimited LLC Openings: 1 Employment Type: Full-Time, W-2, Exempt Work Arrangement: Remote – United States; Washington, DC metro area preferred Schedule: Eastern Time business hours, with occasional evenings and multiday events Travel: Up to 25% About the Opportunity Bickham Services Unlimited LLC is seeking an experienced Event and Communications Coordinator to support the planning, coordination, and execution of program events and communications activities. The succe…",
-      "tags": [
-        "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "851b179c6343cf54",
-      "title": "Marketing Coordinator",
-      "company": "U.S. Oral Surgery Management",
-      "location": "Trade, Alexandria City",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-11-04T06:41:43Z",
-      "url": "https://www.adzuna.com/land/ad/5952860201?se=iJ58wv_d8RGYFNuPuswjLA&utm_medium=api&utm_source=59a3324b&v=FF197F8727057B822EFA71699F4F55A4EA900BB8",
-      "salary": "$45,760 – $58,240",
-      "description": "Description Northern Virginia Oral Maxillofacial & Implant Surgery 2807 Duke St, Alexandria, VA 22314 Purpose of Position: The Marketing Coordinator supports the practice’s outreach and promotional efforts by providing marketing and public relations services. This role engages with the community to promote the practice(s), distributes marketing materials and educational information, and assists with events and special programs and their main goal is to increase patient referrals from existing p…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "5467199035ff8f28",
-      "title": "Associate Specialist, Corporate Communications",
-      "company": "SHRM",
-      "location": "Alexandria, Alexandria City",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-11-04T00:50:44Z",
-      "url": "https://www.adzuna.com/details/5952621288?utm_medium=api&utm_source=59a3324b",
-      "salary": "$65,000 – $75,000",
-      "description": "Summary The Associate Specialist, Corporate Communications supports the development and execution of internal and external communications initiatives, including executive communications, employee engagement, analyst relations, and corporate communications projects. As part of the Communications Team, this role assists with creating written and digital content, coordinating communications activities, and supporting initiatives that align with SHRM's mission and organizational objectives. Reporti…",
-      "tags": [
-        "communications",
-        "entry-level"
-      ]
-    },
-    {
       "id": "64a894a46b7e7aba",
       "title": "Coordinator, Artist Lead, Marketing – Columbia Records",
       "company": "Sony Music",
@@ -357,14 +373,14 @@
       ]
     },
     {
-      "id": "bc8688a21398f06e",
+      "id": "b8ad5bd9b20dd122",
       "title": "Manager Marketing - Festivals",
       "company": "AEG",
-      "location": "Los Angeles, CA",
+      "location": "New York, NY",
       "remote": "onsite",
       "source": "Greenhouse",
-      "datePosted": "2026-10-20T11:06:30-04:00",
-      "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/8885618002",
+      "datePosted": "2026-10-20T11:06:41-04:00",
+      "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/8893065002",
       "salary": null,
       "description": "<p><strong>Company Information</strong></p>\n<p><span data-olk-copy-source=\"MessageBody\">AEG brings music, sports, and live entertainment together to create moments people remember around the world. Each year, more than 100 million fans experience live events across five continents—from global touring, concerts, and festivals to iconic sports and entertainment destinations.</span></p>\n<p>Through our music division, AEG Presents, one of the world’s leading operators of tours, concerts, and music festivals, we help shape the sound of now. We work with artists at every stage of their careers to bring live music to life, connecting artists with fans on stages around the world.</p>\n<p>Headquartered in Los Angeles, AEG Presents is driven by creativity, innovation, and purpose, and powered by people who want their work to show up in the real world.</p>\n<p>If you’re ready to help create moments that matter, there’s a place for you here. Because it happens here.</p>\n<p><strong>Job Summary</strong></p>\n<p>The <span class=\"collapsed-field-text\">Marketing Manager- Festivals</span>&nbsp;is responsible for all marketing assets for festivals on calendar.&nbsp; This position will work in conjunction with artist management, Radio/TV, and marketing team to create and develop an effective marketing plan that will reach the correct demographic and target customers appropriate for each show.&nbsp; The Marketing Manager will develop graphic content used to inform the general public of shows for the purpose of gaining ticket sales.&nbsp; This position will also be responsible for maintaining and tracking budgets to make sure funds are allocated correctly.&nbsp; The Marketing Manager will oversee social media accounts and ensure they are up to date with engaging material.</p>\n<p><strong>Essential Functions</strong></p>\n<ul data-editing-info=\"{&quot;applyListStyleFromLevel&quot;:true}\">\n<li>\n<div>Responsible for development and execution of marketing and promotional plans. Collaborates with festival directors, talent buyers, and marketing director to plan and oversee the marketing spend.</div>\n</li>\n<li>\n<div>Generate and adhere to marketing budget. Book and account for all advertising and media ensuring funds are allocated to correct partners. Prepare advertising settlements for each show</div>\n</li>\n<li>\n<div>Oversee Social Media accounts for each show.&nbsp; Develop ad copy; implement ad schedules to appeal to a specific demographic and target customer.</div>\n</li>\n<li>\n<div>Oversee and evaluate show performance, making adjustments to meet marketing strategy in changing market or competitive conditions</div>\n</li>\n<li>\n<div>Supervise publicity, advance press interviews, secure and coordinate artist availability for promotions with management, label and public relations agencies.</div>\n</li>\n<li>\n<div>Develop and pitch promotions to media outlets.&nbsp; Contact radio and schedule radio time and set up giveaways.&nbsp; Negotiate rates and contracts with various media outlets</div>\n</li>\n<li>\n<div>Develop additional marketing opportunities to increase ticket sales when needed. &nbsp; Keep up with current marketing and social media trends to brainstorm new ideas and concepts for assets and promotions to market events.</div>\n</li>\n<li>\n<div>Work with marketing team and artist management to strategize new ways to market shows and reach the correct audience. &nbsp; Request graphics for ecards, banners, posters, social media post, radio station needs and e-mails</div>\n</li>\n<li>\n<div>May be responsible for overseeing interns and assistants.</div>\n</li>\n</ul>\n<p><strong>Required Qualifications</strong></p>\n<ul data-editing-info=\"{&quot;applyListStyleFromLevel&quot;:true}\">\n<li>BA/BS Degree (4 years) in Marketing/ Business Communications, PR Preferred</li>\n<li>4-6 years Of related work experience</li>\n<li>4-6 years Experience with media buying</li>\n<li>\n<div>May be responsible for overseeing interns and assistants.</div>\n</li>\n<li>\n<div>Strong communication and organizational skills</div>\n</li>\n<li>\n<div>Knowledge of social media and online marketing initiatives and strategies</div>\n</li>\n<li>\n<div>Must be internet savvy</div>\n</li>\n<li>\n<div>Proficient in Photoshop and MS Office</div>\n</li>\n<li>\n<div>Creative, detail-oriented person who can juggle multiple tasks</div>\n</li>\n<li>\n<div>Knowledge of Music industry preferred</div>\n</li>\n<li>\n<div>Passion for music preferred</div>\n</li>\n</ul>\n<p><strong>Payscale: </strong><span data-olk-copy-source=\"MessageBody\">$76,072.00 - $100,000.00</span></p>\n<p><strong>Bonus: </strong><em>This position is eligible for a bonus under the current bonus plan requirements.</em></p>\n<p><strong>Benefits:<em> Full-time: </em></strong><em>We offer a comprehensive benefits package that includes: medical, dental and vision insurance, paid holidays, vacation and sick time, company paid basic life insurance, voluntary life insurance, parental leave, 401k Plan (with a current employer match of 3%), flexible spending and health savings account options, and wellness offerings.</em></p>\n<p>AEG reserves the right to change or modify the employee’s job description whether orally or in writing, at any time during the employment relationship.&nbsp; AEG may require an employee to perform duties outside their normal description.</p>\n<p>AEG's policy is to hire the most qualified applicants, and we comply with all applicable federal, state and local employment laws in making hiring and employee decisions. &nbsp;We are an equal opportunity employer and do not discriminate against applicants or employees on the basis of race, color, marital status, disability, religion, age, sex, sexual orientation, national origin, genetic information, veteran status, or any other legally protected status recognized by applicable federal, state or local law.</p>\n<p><strong>Employer does not offer work visa sponsorship for this position.</strong></p>\n<p>&nbsp;</p>",
       "tags": [
@@ -399,39 +415,6 @@
       "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/8888899002",
       "salary": null,
       "description": "<p><strong>Company Information</strong><br>For more than 20 years, AEG has played a pivotal role in transforming sports and live entertainment. Annually, we host more than 160 million guests, promote more than 10,000 shows and present more than 22,000 events around the world. We are committed to innovation, artistry, and community, and leverage the power of our 300+ venues, leading sports franchises, marquee music brands, integrated entertainment districts, premier ticketing platform and global sponsorship activations, to create memorable moments that give the world reason to cheer.<br><br>Our business is interwoven with the human mind and heart, and we strive to build a diverse and inclusive company that reflects the artists, athletes, and fans that we host; reach beyond traditional boundaries to support the communities in which we operate; and minimize our impact on the environment by adopting sustainable practices throughout our business operations.<br><br>If you want to be challenged to up your game and make a difference, then join us in giving the world reason to cheer!</p>\n<p><strong>Job Summary</strong></p>\n<p>The Marketing Coordinator is responsible for marketing, social media, online e-marketing public relations, promotions for venues, radio promotions, clubs, theaters, festivals, shows and one-offs. This position will develop promotional initiatives with artists and the community, to promote positive brand image. The Marketing Coordinator may also be responsible for coordinating the work of interns and street team for show promotions.</p>\n<p><strong>Essential Functions</strong></p>\n<ul type=\"disc\">\n<li>Builds and maintains ad plans for AEG Presents shows, tours and festivals. Assist in coordination of media buying. Build Google campaigns. Create work orders for radio, television and manage flyer distributions. Evaluates and revise as necessary to increase ticketing revenue and event exposure.</li>\n<li>Create, preview and review press releases as needed. Coordinate the distribution of press requests with publicist. Serve as a public relations liaison. Add new shows, schedule releases and update as needed.</li>\n<li>Monitor marketing trends, regionally, with artists, and implement new marketing strategies and campaigns based on current trends. Analyze fan base to target specific demographics to promote shows, tours and festivals.</li>\n<li>Helps coordinate and advance day-of-show activities including radio stations set ups, remote broadcasts and escorting media photographers and news crews.</li>\n<li>Creates, proof reads and distributes weekly newsletters. Order and deploy e-cards and e-blasts with AXS Advantage tool. Check that venue information and links are correct, communicate errors to designers, check for accuracy, communicate errors and sign off on final version.</li>\n<li>Develop and manage social media accounts, research new promotional activities and prizes for online social media giveaways. Collaborate with artists to promote shows on their social media accounts. Design appropriate posting schedule that corresponds with various event related deadlines: announce, on sale, maintenance and backend.</li>\n<li>Monitor budget and accounting for marketing efforts and keep management up to date of potential overages. Provide report for marketing costs.</li>\n<li>Maintain good working relationships with partners, co-promoters and media. Develop special initiatives to involve the community in events. Organize artist promotions and meet and greets.</li>\n<li>May participate in hiring and training of interns and street team. May also be responsible for the upload of expense reports, updating of office calendar, ordering of supplies and general office administration.</li>\n</ul>\n<p><strong>Required Qualifications</strong>&nbsp;</p>\n<ul type=\"disc\">\n<li>High School Diploma or its equivalency</li>\n<li>2-4 years Of related work experience</li>\n<li>Experience calendaring events</li>\n<li>Knowledgeable and skilled in MS Office (Excel, Word, Outlook and Photoshop)</li>\n<li>Basic accounting knowledge</li>\n<li>Strong written and verbal communication skills</li>\n<li>Strong PR skills, social media savvy, and organization skills</li>\n<li>Must have strong work ethic, problem solving and prioritization skills</li>\n<li>Must be able to work independently and as part of a team</li>\n<li>Creative thinker; thinks “outside the box”</li>\n<li>Knowledge of the music industry preferred</li>\n</ul>\n<p><strong>Payscale: $22.95 - $30.34</strong></p>\n<p><strong>Bonus:</strong><em><strong>&nbsp;</strong>This position is not eligible for a bonus under the current bonus plan requirements.</em></p>\n<p><strong>Benefits:</strong><em><strong> Full-time: </strong>We offer a comprehensive benefits package that includes: medical, dental and vision insurance, paid holidays, vacation and sick time, company paid basic life insurance, voluntary life insurance, parental leave, 401k Plan (with a current employer match of 3%), flexible spending and health savings account options, and wellness offerings.</em></p>\n<p>AEG reserves the right to change or modify the employee’s job description whether orally or in writing, at any time during the employment relationship.&nbsp; AEG may require an employee to perform duties outside their normal description.</p>\n<p><strong><em>AEG's policy is to hire the most qualified applicants. &nbsp;We are an equal opportunity employer and will not discriminate against any individual, employee, or application for employment on the basis of&nbsp;race, color, marital status, religion, age, sex, sexual orientation, national origin, or any other legally protected status recognized by federal, state or local law.</em></strong></p>\n<p><strong><em>Employer does not offer work visa sponsorship for this position.</em></strong></p>",
-      "tags": [
-        "marketing",
-        "music"
-      ]
-    },
-    {
-      "id": "95e251ee0aa60885",
-      "title": "Associate Director, Digital Marketing - Alamo",
-      "company": "Sony Music",
-      "location": "United States, New York, New York",
-      "remote": "onsite",
-      "source": "Greenhouse",
-      "datePosted": "2026-10-07T10:58:20-04:00",
-      "url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/7699273002",
-      "salary": null,
-      "description": "<p>Alamo was founded by music veteran, Todd Moscowitz in 2016 and is home to some of today's most promising artists; Lil Durk, Rod Wave, Blackbear, Lil Gotit, Slimelife Shawty, YN Jay, Dee Watkins, and more.</p>\n<p>The label was birthed to reflect the current landscape of the industry, artistry, and culture, ushering in a new generation of talent. Alamo is cultivating the stars of tomorrow.</p>\n<p>The Associate Director, Digital Marketing will serve as a member of Alamo’s digital department. This role requires comprehensive communication and coordination both internally and externally to keep projects moving forward while contributing to and building out digital and social driven campaigns. This is a unique opportunity to influence how music reaches listeners around the world via a digital lens.</p>\n<h2><strong>What you'll do:</strong></h2>\n<ul>\n<li>Responsible for setting goals for our artists/projects, and building out timelines, content and activations meant to achieve those goals.</li>\n<li>Secure artist and partner buy-in and execute across all ideas and activations.</li>\n<li>Oversee social and platform optimization and delivery logistics.</li>\n<li>Collaborate in brainstorms to deliver custom and creative digital marketing ideas for each artist, presenting them to the artists’ teams and executing the campaigns. Ideas will come from knowledge of music culture, key brands, influencers and out-of-the-box thinking.</li>\n<li>In addition to the high-level creative ideas, you will also be responsible for multiple social accounts with millions of followers and for their activity and growth. You will need to deliver next level creative both commissioned and designed in-house, content ranging from custom videos to Snapchat lenses to memes and more</li>\n</ul>\n<h2 class=\"iCIMS_InfoMsg iCIMS_InfoField_Job\"><strong>Who you are:</strong></h2>\n<ul>\n<li>Must have at least 5 years of experience running point on digital campaign for rap artists &amp; projects (label experience preferred).</li>\n<li>A deep and thorough knowledge of the modern rap genre/scene with a firm understanding of the history that lead to today’s market.&nbsp;</li>\n<li>Experience in working with staff from social platforms and music streaming sites preferred.&nbsp;</li>\n<li>The job entails both normal business hours as well as other music events at night.&nbsp;</li>\n<li>Our team is ultra-inclusive and we’re looking for open-minded and passionate music fans who collaborate well and bring a positive energy to any task that comes their way.</li>\n</ul>\n<div class=\"iCIMS_InfoMsg iCIMS_InfoMsg_Job\">&nbsp;</div>\n<h2 class=\"iCIMS_InfoMsg iCIMS_InfoField_Job\"><strong>What we give you:</strong></h2>\n<ul>\n<li>You join an inclusive, collaborative and global community where you have the opportunity to fuel the creative journey</li>\n<li>A modern office environment designed to foster productivity, creativity, and teamwork</li>\n<li>An attractive and comprehensive benefits package including medical, dental, vision, life &amp; disability coverage, and 401K + employer matching</li>\n<li>Voluntary benefits like company-paid identity theft protection and resources for pets, mental health and meditation resources, industry-leading fertility coverage, fully paid leave for childbirth or bonding, fully paid leave for caregivers, programs for loved ones with developmental disabilities and neurodiversity, subsidized back-up child and elder care, and reimbursement for adoption, surrogacy, tuition and student loans</li>\n<li>We invest in your professional growth &amp; development</li>\n<li>Time off for a winter recess</li>\n</ul>\n<p><em>Sony Music is committed to providing equal employment opportunity for all persons regardless of age, disability, national origin, race, color, religion, sex, sexual orientation, gender, gender identity or expression, pregnancy, veteran or military status, marital and civil partnership/union status, alienage or citizenship status, creed, genetic information or any other status protected by applicable federal, state, or local law.</em></p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\">The anticipated annual base salary does not include any other compensation components or other benefits that an individual may be eligible for. &nbsp;The actual base salary offered depends on a variety of factors, which may include as applicable, the qualifications of the individual applicant for the position, years of relevant experience, specific and unique skills, level of education attained, certifications or other professional licenses held, and the location in which the applicant lives and/or from which they will be performing the job.</div><div class=\"title\">New York Pay Range</div><div class=\"pay-range\"><span>$70,000</span><span class=\"divider\">&mdash;</span><span>$80,000 USD</span></div></div></div>",
-      "tags": [
-        "marketing",
-        "digital marketing",
-        "music"
-      ]
-    },
-    {
-      "id": "32460b610d2c542b",
-      "title": "Associate Director, Marketing - Alamo",
-      "company": "Sony Music",
-      "location": "United States, New York, New York",
-      "remote": "onsite",
-      "source": "Greenhouse",
-      "datePosted": "2026-10-07T10:58:20-04:00",
-      "url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/7699281002",
-      "salary": null,
-      "description": "<p>Alamo was founded by music veteran, Todd Moscowitz in 2016 and is home to some of today's most promising artists; Lil Durk, Rod Wave, Blackbear, Lil Gotit, Slimelife Shawty, YN Jay, Dee Watkins, and more.</p>\n<p>The label was birthed to reflect the current landscape of the industry, artistry, and culture, ushering in a new generation of talent. Alamo is cultivating the stars of tomorrow.</p>\n<p>The Associate Director, Marketing will serve as a member of Alamo’s marketing department. This role requires comprehensive communication and coordination both internally and externally to keep projects moving forward while maintaining the overall message and brand. This is a unique opportunity to influence how music reaches listeners around the world.</p>\n<h2><strong>What you'll do:</strong></h2>\n<ul>\n<li>Manage music releases, maintain campaign timelines, and oversee release logistics.</li>\n<li>Initiate well-thought-out plans for music releases and assist in long-term career planning for Alamo’s artists.</li>\n<li>Set up and maintain timelines of project needs and key dates/deadlines with all departments and oversee the timely delivery of those needs in partnership with various departments, including publicity, radio, and synch.</li>\n<li>Create weekly marketing reports and communicate updates to brief teams on all release information and ensure results are communicated efficiently.</li>\n<li>Participate in creative planning to create big marketing ideas and ensure a continuous flow of content surrounding each artist.</li>\n<li>Work closely with artists and management for campaign updates and communicate goals and plans for each release.</li>\n<li>Partner with artists, managers, and all departments to create, maintain, and evolve artist brands.</li>\n<li>Work with A&amp;R and creative teams to gather all necessary assets to meet delivery deadlines.</li>\n<li>Collaborate closely with digital and commerce teams to formulate and implement digital plans, social media rollouts, and DSP campaigns.</li>\n<li>Manage the creation and distribution of marketing tools.</li>\n</ul>\n<h2 class=\"iCIMS_InfoMsg iCIMS_InfoField_Job\"><strong>Who you are:</strong></h2>\n<ul>\n<li>You’re a passionate music fan with at least 5 years of progressive marketing experience in the music industry</li>\n<li>Self-starter who adapts quickly to change and can work in a fast-paced, entrepreneurial environment.</li>\n<li>An excellent communicator and enthusiastic collaborator who works well with team members, external partners, and senior management</li>\n<li>Creative thinker with a demonstrated ability to apply ideas strategically while working to a set budget and timeline.</li>\n<li>Proficient with major social media platforms including TikTok, Instagram, Twitter, Triller, Reddit and Snapchat.</li>\n<li>Understanding of the DSP landscape and associated strategy and new tech platforms such as Twitch and Discord.</li>\n</ul>\n<div class=\"iCIMS_InfoMsg iCIMS_InfoMsg_Job\">&nbsp;</div>\n<h2 class=\"iCIMS_InfoMsg iCIMS_InfoField_Job\"><strong>What we give you:</strong></h2>\n<ul>\n<li>You join an inclusive, collaborative and global community where you have the opportunity to fuel the creative journey</li>\n<li>A modern office environment designed to foster productivity, creativity, and teamwork</li>\n<li>An attractive and comprehensive benefits package including medical, dental, vision, life &amp; disability coverage, and 401K + employer matching</li>\n<li>Voluntary benefits like company-paid identity theft protection and resources for pets, mental health and meditation resources, industry-leading fertility coverage, fully paid leave for childbirth or bonding, fully paid leave for caregivers, programs for loved ones with developmental disabilities and neurodiversity, subsidized back-up child and elder care, and reimbursement for adoption, surrogacy, tuition and student loans</li>\n<li>We invest in your professional growth &amp; development</li>\n<li>Time off for a winter recess</li>\n</ul>\n<p><em>Sony Music is committed to providing equal employment opportunity for all persons regardless of age, disability, national origin, race, color, religion, sex, sexual orientation, gender, gender identity or expression, pregnancy, veteran or military status, marital and civil partnership/union status, alienage or citizenship status, creed, genetic information or any other status protected by applicable federal, state, or local law.</em></p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\">The anticipated annual base salary does not include any other compensation components or other benefits that an individual may be eligible for. &nbsp;The actual base salary offered depends on a variety of factors, which may include as applicable, the qualifications of the individual applicant for the position, years of relevant experience, specific and unique skills, level of education attained, certifications or other professional licenses held, and the location in which the applicant lives and/or from which they will be performing the job.</div><div class=\"title\">New York Pay Range</div><div class=\"pay-range\"><span>$80,000</span><span class=\"divider\">&mdash;</span><span>$100,000 USD</span></div></div></div>",
       "tags": [
         "marketing",
         "music"
