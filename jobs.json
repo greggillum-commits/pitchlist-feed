@@ -1,15 +1,31 @@
 {
-  "generatedAt": "2026-11-23T22:41:55.515Z",
+  "generatedAt": "2026-11-24T21:18:00.896Z",
   "jobs": [
     {
-      "id": "9589a73f3153d07e",
+      "id": "462a382f4863d86e",
+      "title": "Demand Generation & Campaign Operations Manager",
+      "company": "Spotify",
+      "location": "New York, NY",
+      "remote": "remote",
+      "source": "Lever",
+      "datePosted": "2026-11-24T20:14:39.857Z",
+      "url": "https://jobs.lever.co/spotify/419c2f72-1e1f-4832-a375-7d19fba8cd6a",
+      "salary": null,
+      "description": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers.\nYou run our websites, search, webinars and email across the Spotify Technology portfolio. Your job is to bring people into the funnel and move them through it: from finding us in search or at a webinar, to signing up, to becoming an active user, to a meeting with sales. You also own the numbers. Every week you tell the team what’s working, what isn’t and what we’re changing. You work AI-first, you know our martech stack inside out, and you use the newest features of both.\n",
+      "tags": [
+        "campaign",
+        "music"
+      ]
+    },
+    {
+      "id": "73c05c02c61adf49",
       "title": "2028 Campaign Producer/Reporter",
       "company": "Disney Entertainment",
       "location": "Washington, D.C., US",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-11-22T08:13:52Z",
-      "url": "https://www.adzuna.com/land/ad/5975068415?se=CvE3DY_n8RGAK5ROwE4aYA&utm_medium=api&utm_source=59a3324b&v=7996F4697E85A24CA7C97D12BAF8F90F56AFCCE4",
+      "url": "https://www.adzuna.com/land/ad/5975068415?se=XnNEhUzo8RGtv9F-yvC5dQ&utm_medium=api&utm_source=59a3324b&v=7996F4697E85A24CA7C97D12BAF8F90F56AFCCE4",
       "salary": "$89,207",
       "description": "Job Requirements ABC News is looking for Campaign Producers/Reporters to cover the 2028 presidential election, and work across network platforms, including broadcast television, streaming, digital (text, video and social) and audio. Applicants with previous on-air experience are encouraged to apply. However, although opportunities for broadcast or streaming appearances may arise, this position is primarily focused on off-air reporting and producing responsibilities. Candidates should be prepare…",
       "tags": [
@@ -18,16 +34,32 @@
       ]
     },
     {
-      "id": "6966da20b6880b2e",
+      "id": "ca08f7ccd7f29004",
       "title": "Marketing Coordinator",
       "company": "FREEMAN",
       "location": "Washington, D.C., US",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-11-22T08:10:48Z",
-      "url": "https://www.adzuna.com/land/ad/5975053103?se=8sc7Do_n8RGAK5ROwE4aYA&utm_medium=api&utm_source=59a3324b&v=5B723346EA96698B214DB35790E4854C23022ED8",
+      "url": "https://www.adzuna.com/land/ad/5975053103?se=4pp5hkzo8RGLYqZYfSmpUQ&utm_medium=api&utm_source=59a3324b&v=5B723346EA96698B214DB35790E4854C23022ED8",
       "salary": "$69,121",
       "description": "About Us For five decades, mdg has been a leader in the association and event marketing space. And while we've been leading, we've also been learning: learning what motivates audiences now, how to build loyalty, and which performance tools actually impact registration numbers. We specialize in audience development and attendee acquisition for associations and trade shows, working across strategy, creative, digital, and communications to make that happen. We don't copy and paste strategies or us…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "41f8e771e2ca51ff",
+      "title": "Entry Level Event Marketing | Paid Training | No Experience Required",
+      "company": "Global Events Marketing",
+      "location": "Cameron Station, Alexandria City",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-22T08:02:20Z",
+      "url": "https://www.adzuna.com/details/5975031740?utm_medium=api&utm_source=59a3324b",
+      "salary": "$48,771",
+      "description": "IMMEDIATE OPENINGS | PAID TRAINING | FULL-TIME OPPORTUNITIES | CAREER GROWTH JUST GRADUATED? LOOKING FOR A FRESH START? Want more than just a job and a paycheck? Looking for an opportunity to develop new skills, meet great people, and build a rewarding career? Who says you can't have fun while building your future? We're a growing event-based marketing firm looking for outgoing, energetic, and motivated individuals to join our expanding team! We represent national brands and nonprofit organizat…",
       "tags": [
         "marketing",
         "entry-level"
@@ -99,14 +131,14 @@
       ]
     },
     {
-      "id": "3af8165741e64f88",
+      "id": "13f37488dd2095f2",
       "title": "Entry Level Communications Assistant",
       "company": "Nova Acquisitions",
       "location": "Arlington, Arlington County",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-11-19T23:17:41Z",
-      "url": "https://www.adzuna.com/land/ad/5972427467?se=jCz8DY_n8RGCSsN2jRBeTA&utm_medium=api&utm_source=59a3324b&v=E31B785164FF0032E55A04EA649CA130051393BB",
+      "url": "https://www.adzuna.com/land/ad/5972427467?se=Quwnhkzo8RGtv9F-yvC5dQ&utm_medium=api&utm_source=59a3324b&v=E31B785164FF0032E55A04EA649CA130051393BB",
       "salary": "$37,108",
       "description": "Entry-Level Communications Assistant Location: McLean, Virginia Candidates must be able to commute to McLean, Virginia. About the Role We are seeking a creative and motivated Entry-Level Communications Assistant to support our marketing and communications team. This opportunity offers hands-on experience developing content, supporting campaigns, and engaging audiences while learning from experienced marketing professionals. Qualifications Bachelor’s degree in communications, marketing, business…",
       "tags": [
@@ -115,18 +147,18 @@
       ]
     },
     {
-      "id": "fdf6c4750a263736",
-      "title": "Entry Level Event Marketing | Paid Training | No Experience Required",
-      "company": "Global Events Marketing",
-      "location": "Alexandria, Alexandria City",
+      "id": "962c6e6c4230fbcc",
+      "title": "Unified Communications Associate",
+      "company": "Immersive Concepts",
+      "location": "Crystal, Arlington County",
       "remote": "onsite",
       "source": "Adzuna",
-      "datePosted": "2026-11-19T18:29:26Z",
-      "url": "https://www.adzuna.com/details/5972194385?utm_medium=api&utm_source=59a3324b",
-      "salary": "$37,040",
-      "description": "IMMEDIATE OPENINGS | PAID TRAINING | FULL-TIME OPPORTUNITIES | CAREER GROWTH JUST GRADUATED? LOOKING FOR A FRESH START? Want more than just a job and a paycheck? Looking for an opportunity to develop new skills, meet great people, and build a rewarding career? Who says you can't have fun while building your future? We're a growing event-based marketing firm looking for outgoing, energetic, and motivated individuals to join our expanding team! We represent national brands and nonprofit organizat…",
+      "datePosted": "2026-11-19T10:36:12Z",
+      "url": "https://www.adzuna.com/details/5971799113?utm_medium=api&utm_source=59a3324b",
+      "salary": "$78,000 – $83,000",
+      "description": "Position Title: Unified Communications Associate Reports to: Desmond Bell Reporting to this position: N/A Assignment: United States Agency for Global Media Job Description Immersive Concepts is seeking a full-time Unified Communications Associate to support the USAGM project. This role combines hands‑on technical troubleshooting with leadership, process improvements, and a strong focus on customer service & quality. Responsibilities Serve as the SME on Conference room operations Manage hardware…",
       "tags": [
-        "marketing",
+        "communications",
         "entry-level"
       ]
     },
@@ -211,50 +243,18 @@
       ]
     },
     {
-      "id": "7e043f3d9ef60014",
+      "id": "91448fb523044b48",
       "title": "Associate, Communications",
       "company": "Meridian International Center",
       "location": "Washington, D.C., US",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-11-18T01:52:37Z",
-      "url": "https://www.adzuna.com/land/ad/5969948341?se=jCz8DY_n8RGCSsN2jRBeTA&utm_medium=api&utm_source=59a3324b&v=5DEC8070B2B32F6F4515CD09AEF51B557383AF71",
+      "url": "https://www.adzuna.com/land/ad/5969948341?se=Quwnhkzo8RGtv9F-yvC5dQ&utm_medium=api&utm_source=59a3324b&v=5DEC8070B2B32F6F4515CD09AEF51B557383AF71",
       "salary": "$50,568 – $58,635",
       "description": "Title: Associate, Communications Salary: $50,568-$58,635 Employment Status: FULL-TIME FLSA Classification: EXEMPT Direct Reports: None Supervisor Title: Associate Director, Communications and Marketing Summary of Position: Meridian International Center seeks a collaborative and strategic Communications Associate to support content creation and execute communications strategy across Meridian’s digital and social channels. This position will help the team with audience curation and grow sustained…",
       "tags": [
         "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "1c7d2e8e95c82611",
-      "title": "Sports-Minded Marketing Associate",
-      "company": "Legendary Impact",
-      "location": "Bethesda, Montgomery County",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-11-18T01:33:02Z",
-      "url": "https://www.adzuna.com/details/5969938238?utm_medium=api&utm_source=59a3324b",
-      "salary": "$53,269",
-      "description": "Sports-Minded Marketing Associate Ready to turn your competitive spirit into a career? We’re growing our marketing and sales team in the Maryland office and we’re looking for motivated, outgoing people who enjoy working with others, setting goals, and challenging themselves to improve. Whether you’re a recent graduate, coming from retail or hospitality, an athlete, or simply looking for your first opportunity to build professional experience, you’ll receive hands-on training in sales, product m…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "baa587692cc747af",
-      "title": "Marketing Associate (Entry Level)",
-      "company": "Legendary Impact",
-      "location": "Silver Spring, Montgomery County",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-11-18T01:31:54Z",
-      "url": "https://www.adzuna.com/details/5969937393?utm_medium=api&utm_source=59a3324b",
-      "salary": "$38,289",
-      "description": "About the Job Legendary Impact is looking for energetic, motivated individuals to join our growing team as Entry-Level, Marketing Associate . This role is ideal for those excited to build professional experience, work directly with people, and grow within a supportive, fast-moving environment. You will represent our clients in face-to-face settings, strengthen brand presence, and contribute to sales and outreach initiatives. We're seeking motivated, entry-level candidates who are ready to start…",
-      "tags": [
-        "marketing",
         "entry-level"
       ]
     },
@@ -661,6 +661,22 @@
       "url": "https://uscareers-siriusxmradio.icims.com/jobs/17590/login",
       "salary": null,
       "description": "Who We Are: \n SiriusXM and its brands (Pandora, SiriusXM Media, AdsWizz, Simplecast, and SiriusXM Connect) are leading a new era of audio entertainment and services by delivering the most compelling subscription and ad-supported audio entertainment experience for listeners -- in the car, at home, and anywhere on the go with connected devices. Our vision is to shape the future of audio, where everyone can be effortlessly connected to the voices, stories and music they love wherever they are.\n \n This is the place where a diverse group of emerging talent and legends alike come to share authentic and purposeful songs, stories, sounds and insights through some of the best programming and technology in the world. Our critically-acclaimed, industry-leading audio entertainment encompasses music, sports, comedy, news, talk, live events, and podcasting. No matter their individual role, each of our employees plays a vital part in bringing SiriusXM’s vision to life every day.\n \n SiriusXM  is the leading audio entertainment company in North America, and the premier programmer and platform for subscription and digital advertising-supported audio products. SiriusXM’s platforms collectively reach approximately 150 million listeners, the largest digital audio audience across paid and free tiers in North America, and deliver music, sports, talk, news, comedy, entertainment and podcasts. Pandora, a subsidiary of SiriusXM, is the largest ad-supported audio entertainment streaming service in the U.S. SiriusXM's subsidiaries Simplecast and AdsWizz make it a leader in podcast hosting, production, distribution, analytics and monetization. The Company’s advertising sales organization, which operates as SiriusXM Media, leverages its scale, cross-platform sales organization and ad tech capabilities to deliver results for audio creators and advertisers. SiriusXM, through SiriusXM Canada Holdings, Inc., also offers satellite radio and audio entertainment in Canada. In addition to its audio entertainment businesses, SiriusXM offers connected vehicle services to automakers.\n \n How you’ll make an impact: \n The Marketing Specialist, Aviation & Marine Services, plays a key role in owning and exec uting defined marketing initiatives that drive brand awareness, engagement, and subscriber growth for SiriusXM’s Aviation and Marine lines of business. This role combines creativity with analytical rigor to execut e marketing initiatives, coordi na te partnerships, and e v aluat e campaign performance within established processes and guidelines . The Marketing Specialist supports a wide range of activities from social media management to video production, digital campaigns, event marketing, and more.\n \n What you’ll do: \n Develop and manage social media content calendars for SiriusXM Aviation and Marine brands across Facebook, Instagram, and YouTube.\n Schedule and publish content while monitoring engagement, responding to comments, refining strategies based on analytics , and determining appropriate routine adjustments within established marketing guidelines .\n Keep up to date on current social media practices to identify new ideas and content that will increase engagement with our target audiences.\n Assist in filming marketing videos, including setup, interviews, and capturing b-roll.\n Collaborate on creative assets such as emails, brochures, digital and print ads, and podcasts.\n Support website updates and coordinate with SiriusXM’s .com team and external vendors.\n Conduct monthly analysis and reporting for organic and paid search, digital advertising, social media, and email marketing ; evaluate performance across channels, identify trends, and recommend actions based on multiple data points .\n Manage the production, updates, and ordering of printed materials and merchandise.\n Assist with communications with Aviation & Marine influencers and brand ambassadors, including reviewing annual contracts.\n Own project coordi na tio n for defined marketing initiatives and events, including boat shows, airshows, and tournaments , applying independent judgment to keep deliverables on schedule and within budget .\n Collaborate cross-functionally with internal stakeholders – including Legal, Brand, Finance, DE, and Operations - and external partners to ensure marketing consistency and brand alignment , building productive internal and external working relationships .\n Manage onboarding of new external paid search agency including contract process.\n Maintain expertise with internal systems including promotion approvals, customer care, billing, and contracts.\n \n What you’ll need: \n Bachelor’s degree in Marketing, Business, Communications, or a related field, or equivalent experience.\n Minimum of 2 years of rel a t e d experience ; or an adva nc ed degree witho u t exper i e n ce; o r equ i v alent wo r k e xper ien ce .\n Ability to travel to select events and partner meetings within the U.S.\n Strong organizational and project management skills with attention to detail.\n Ability to prioritize information and tasks by urgent vs. less time-sensitive and critical vs. non-critical.\n Consistent follow-through to completion of tasks and activities – to ensure prioritized activities are completed on schedule and within budget.\n Experience managing vendor and partner relationships.\n Proven interpersonal skills – able to work effectively and develop relationships with key contacts across functions internally and at partner organizations as needed.\n Listens well – not only in meetings, but also open to coaching for professional development.\n Positive attitude and flexible – willing and able to perform other duties as necessary for team success.\n Able to work independently on routine assignments with ge n er al direction and appropriately seek input and approvals on new projects or assignments .\n Strong written and verbal communication skills.\n Proficiency with MS Office Suite, Google Docs, social media platforms, and digital analytics tools.\n Experience with Adobe Premiere and Photoshop is a plus.\n Aviation and/or Marine industry or weather services experience is a plus.\n Experience with automation and/or AI is a plus.\n Must have legal right to work in the U.S.\n \n At SiriusXM, we carefully consider a wide range of factors when determining compensation, including your background and experience. These considerations can cause your compensation to vary. We expect the base salary for this position to be in the range of $61,584 - $82,112 and will depend on your skills, qualifications, and experience. Additionally, this role might be eligible for discretionary short-term and long-term incentives. We encourage all interested candidates to apply.\n \n Our goal at SiriusXM is to provide and maintain a work environment that fosters mutual respect, professionalism and cooperation. SiriusXM is an equal opportunity employer that does not discriminate on the basis of actual or perceived race, creed, color, religion, national origin, ancestry, alienage or citizenship status, age, disability or handicap, sex, gender identity, marital status, familial status, veteran status, sexual orientation or any other characteristic protected by applicable federal, state or local laws.\n \n The requirements and duties described above may be modified or waived by the Company in its sole discretion without notice.\n R-2026-09-23",
+      "tags": [
+        "marketing",
+        "music"
+      ]
+    },
+    {
+      "id": "40ac632c0cc3ef6a",
+      "title": "Product Marketing Manager",
+      "company": "Warner Music Group",
+      "location": "Ontario",
+      "remote": "remote",
+      "source": "Lever",
+      "datePosted": "2026-09-01T19:14:58.143Z",
+      "url": "https://jobs.lever.co/wmg/c0482692-50ee-47e0-82f9-318a1f925d90",
+      "salary": "Compensation: This position offers a base salary of $97,750 - $115,000 CAD. In addition to base salary, this role is eligible for a performance based annual bonus.\n \nVacancy Status: This posting is for an active, existing vacancy.",
+      "description": "At Warner Music Group, we’re a global collective of music makers and music lovers, tech innovators and inspired entrepreneurs, game-changing creatives and passionate team members. Here, we turn dreams into stardom and audiences into fans. We are guided by three core values that underpin everything we do across all our diverse businesses: \n \n• Curiosity: We do our best work when we’re immersing ourselves in culture and breaking through barriers. Curiosity is the driving force behind creativity and ingenuity. It fuels innovation, and innovation is the key to our future. \n \n• Collaboration: Making music and bringing it to the world is all about the power of originality amplified by teamwork. A great idea, like a great song, travels globally. We ignite passions and build connections across our diverse community of artists, songwriters, partners, and fans.\n \n• Commitment: We pursue excellence for our team and our talent. Everything in music starts with a leap into the unknown, and we’re committed to keeping the faith, acting with integrity, and delivering on our promises.\n \nTechnology is one of the most important parts of our business. Whether it’s signing up new artists; ensuring we provide the right data to Spotify, YouTube, and other digital service providers; or helping artists use the latest AI tools and make thoughtful decisions with data-driven insights – technology plays an invaluable role in our success. Group makes all of it a reality. Check out first-hand accounts from the WMG engineering, product, design, infrastructure and data teams in our blog!\n \nWMG is home to a wide range of artists, musicians, and songwriters that fuel our success. That is why we are committed to creating a work environment that actively values, appreciates, and respects everyone. We encourage applications from people with a wide variety of backgrounds and experiences.\n \nConsider a career at WMG and get the best of both worlds – an innovative global music company that retains the creative spirit of a nimble independent.\n\nYour Role:\nWe are seeking an articulate, highly organized, and collaborative L3 Product Marketing Manager to lead high-reach product communications and stakeholder alignment across our technology suite. In this role, you will act as the primary voice of our technology products. You will own product positioning, craft compelling messaging, launch new features, and drive sustained user engagement among internal stakeholders, with the opportunity to expand your scope to artists, songwriters, and managers. Working closely with cross-functional partners across Product, Marketing, Corporate Communications, Label Services, and Artist Relations, you will build alignment and translate complex product roadmaps into compelling, accessible narratives for our global network. If you thrive on blending broad communication strategy with tailored 1:1 outreach, building executive alignment, and rallying teams around new tech, we encourage you to apply.\n\n\n \n",
       "tags": [
         "marketing",
         "music"
