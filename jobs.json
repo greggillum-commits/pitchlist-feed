@@ -1,6 +1,87 @@
 {
-  "generatedAt": "2026-11-25T20:29:37.628Z",
+  "generatedAt": "2026-11-26T20:13:06.993Z",
   "jobs": [
+    {
+      "id": "fcaf88d78af83e6d",
+      "title": "Events and Communications Coordinator",
+      "company": "PathForward",
+      "location": "State Farm, Arlington County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-26T09:24:26Z",
+      "url": "https://www.adzuna.com/details/5979766696?utm_medium=api&utm_source=59a3324b",
+      "salary": "$55,000 – $60,000",
+      "description": "Events & Communications Coordinator PathForward | Arlington, Virginia Department: Development Reports to: Director of Events & Communications Position: Full-time Help Us Tell the Story of Ending Homelessness Do you love writing, creating content, connecting with people, and bringing events to life? PathForward is looking for a creative, organized, and motivated Events & Communications Coordinator to help share our story and rally our community around ending homelessness in Arlington. About Path…",
+      "tags": [
+        "communications",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "0c364e39951fd717",
+      "title": "Communications Assistant- Immediate Start",
+      "company": "Moodreact",
+      "location": "Washington, Washington, D.C.",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-26T08:20:11Z",
+      "url": "https://www.adzuna.com/details/5979669836?utm_medium=api&utm_source=59a3324b",
+      "salary": "$42,128",
+      "description": "About Us Moodreact is a full-service maintenance company supporting homes and businesses with expert electricians, appliance repair technicians, plumbers, and skilled general labor teams.We handle the tough jobs, the technical work, and the details others overlook—always with professionalism, safety, and efficiency in mind. Job Summary We are seeking a motivated and personable Communications Assistant to support daily communication activities, customer engagement, and brand representation. This…",
+      "tags": [
+        "communications",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "0f7f59b77cbc2fe6",
+      "title": "EY Americas Alliances-Brand and Marketing, Supervising Associate",
+      "company": "EY",
+      "location": "Washington, D.C., US",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-26T08:16:20Z",
+      "url": "https://www.adzuna.com/land/ad/5979641231?se=ss29yNXp8RGUftSZHefMtw&utm_medium=api&utm_source=59a3324b&v=C07A3E4F325149BCEB6E3F077D821D5EAC581A34",
+      "salary": "$133,059",
+      "description": "Location: Anywhere in Country At EY, we're all in to shape your future with confidence. We'll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go. Join EY and help to build a better working world. The opportunity EY is seeking an Event and Sponsorship Manager to own Americas Alliances events from strategy through onsite execution. Programs range from intimate executive dinners to major conference sponsorships. You will work across…",
+      "tags": [
+        "marketing",
+        "brand",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "af6ad305e70ff7b0",
+      "title": "Trademark and Copyright Associate - Prosecution and Brand Management",
+      "company": "BCG Attorney Search",
+      "location": "Washington, D.C., US",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-26T06:12:30Z",
+      "url": "https://www.adzuna.com/details/5979484108?utm_medium=api&utm_source=59a3324b",
+      "salary": "$132,540",
+      "description": "Pay scale: $250000- $340000 Job Overview A law firm seeks a Trademark and Copyright Associate with expertise in prosecution and brand management in Washington, DC. The ideal candidate will have over two years of experience in brand management, including managing high-volume, multi-jurisdictional trademark clearance and developing global trademark programs. Duties Conduct and manage high-volume, multi-jurisdictional trademark clearance. Develop and implement global trademark filing and enforceme…",
+      "tags": [
+        "brand",
+        "entry-level"
+      ]
+    },
+    {
+      "id": "b523c65fa356ef13",
+      "title": "Marketing & Sales Assistant",
+      "company": "Washington Drama Society",
+      "location": "Crystal, Arlington County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-26T05:32:53Z",
+      "url": "https://www.adzuna.com/details/5979419915?utm_medium=api&utm_source=59a3324b",
+      "salary": "$31,404",
+      "description": "Full-time Description WHO WE ARE Arena Stage is the voice of American theater resident in our nation's capital. Focused on American artists, our productions are innovative and representative of stories from across the country. We nurture new plays and reimagine classics. We celebrate our democracy and diversity through a multitude of voices in our productions and community engagement programs to inspire people to action. WHAT WE VALUE A work culture that values experimentation and collaboration…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
     {
       "id": "3ada705a41f99c53",
       "title": "Business Development & Marketing Coordinator",
@@ -50,6 +131,22 @@
       ]
     },
     {
+      "id": "9651ebada198d40a",
+      "title": "Sports-Minded Marketing Associate",
+      "company": "Legendary Impact",
+      "location": "Bethesda, Montgomery County",
+      "remote": "onsite",
+      "source": "Adzuna",
+      "datePosted": "2026-11-24T23:57:35Z",
+      "url": "https://www.adzuna.com/details/5977858115?utm_medium=api&utm_source=59a3324b",
+      "salary": "$53,269",
+      "description": "Sports-Minded Marketing Associate Ready to turn your competitive spirit into a career? We’re growing our marketing and sales team in the Maryland office and we’re looking for motivated, outgoing people who enjoy working with others, setting goals, and challenging themselves to improve. Whether you’re a recent graduate, coming from retail or hospitality, an athlete, or simply looking for your first opportunity to build professional experience, you’ll receive hands-on training in sales, product m…",
+      "tags": [
+        "marketing",
+        "entry-level"
+      ]
+    },
+    {
       "id": "462a382f4863d86e",
       "title": "Demand Generation & Campaign Operations Manager",
       "company": "Spotify",
@@ -66,35 +163,19 @@
       ]
     },
     {
-      "id": "ecadd8412fe36853",
+      "id": "896b3bdcd255dcf9",
       "title": "2028 Campaign Producer/Reporter",
       "company": "Disney Entertainment",
       "location": "Washington, D.C., US",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-11-22T08:13:52Z",
-      "url": "https://www.adzuna.com/land/ad/5975068415?se=2nqs6g7p8RGCzaY2c7Xc0w&utm_medium=api&utm_source=59a3324b&v=7996F4697E85A24CA7C97D12BAF8F90F56AFCCE4",
+      "url": "https://www.adzuna.com/land/ad/5975068415?se=isKBydXp8RGSgvTnNGszzQ&utm_medium=api&utm_source=59a3324b&v=7996F4697E85A24CA7C97D12BAF8F90F56AFCCE4",
       "salary": "$89,207",
       "description": "Job Requirements ABC News is looking for Campaign Producers/Reporters to cover the 2028 presidential election, and work across network platforms, including broadcast television, streaming, digital (text, video and social) and audio. Applicants with previous on-air experience are encouraged to apply. However, although opportunities for broadcast or streaming appearances may arise, this position is primarily focused on off-air reporting and producing responsibilities. Candidates should be prepare…",
       "tags": [
         "campaign",
         "music"
-      ]
-    },
-    {
-      "id": "41f8e771e2ca51ff",
-      "title": "Entry Level Event Marketing | Paid Training | No Experience Required",
-      "company": "Global Events Marketing",
-      "location": "Cameron Station, Alexandria City",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-11-22T08:02:20Z",
-      "url": "https://www.adzuna.com/details/5975031740?utm_medium=api&utm_source=59a3324b",
-      "salary": "$48,771",
-      "description": "IMMEDIATE OPENINGS | PAID TRAINING | FULL-TIME OPPORTUNITIES | CAREER GROWTH JUST GRADUATED? LOOKING FOR A FRESH START? Want more than just a job and a paycheck? Looking for an opportunity to develop new skills, meet great people, and build a rewarding career? Who says you can't have fun while building your future? We're a growing event-based marketing firm looking for outgoing, energetic, and motivated individuals to join our expanding team! We represent national brands and nonprofit organizat…",
-      "tags": [
-        "marketing",
-        "entry-level"
       ]
     },
     {
@@ -163,14 +244,14 @@
       ]
     },
     {
-      "id": "da75e8858cdcfb67",
+      "id": "43c78d6eb58c8420",
       "title": "Entry Level Communications Assistant",
       "company": "Nova Acquisitions",
       "location": "Arlington, Arlington County",
       "remote": "onsite",
       "source": "Adzuna",
       "datePosted": "2026-11-19T23:17:41Z",
-      "url": "https://www.adzuna.com/land/ad/5972427467?se=eM106w7p8RGq4p5KapsR2w&utm_medium=api&utm_source=59a3324b&v=E31B785164FF0032E55A04EA649CA130051393BB",
+      "url": "https://www.adzuna.com/land/ad/5972427467?se=8gE-ytXp8RGBybtV_f-Aaw&utm_medium=api&utm_source=59a3324b&v=E31B785164FF0032E55A04EA649CA130051393BB",
       "salary": "$37,108",
       "description": "Entry-Level Communications Assistant Location: McLean, Virginia Candidates must be able to commute to McLean, Virginia. About the Role We are seeking a creative and motivated Entry-Level Communications Assistant to support our marketing and communications team. This opportunity offers hands-on experience developing content, supporting campaigns, and engaging audiences while learning from experienced marketing professionals. Qualifications Bachelor’s degree in communications, marketing, business…",
       "tags": [
@@ -195,22 +276,6 @@
       ]
     },
     {
-      "id": "48a3ac95ebd591ca",
-      "title": "Marketing Assistant",
-      "company": "Moodreact",
-      "location": "Washington, Washington, D.C.",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-11-19T08:16:35Z",
-      "url": "https://www.adzuna.com/details/5971666181?utm_medium=api&utm_source=59a3324b",
-      "salary": "$46,452",
-      "description": "About the Role We are seeking an energetic Marketing Assistant to support promotional campaigns, brand awareness initiatives, and customer acquisition activities. This is an excellent opportunity for someone who enjoys working with people, presenting products and services, and contributing to creative marketing strategies through direct customer engagement. Responsibilities Assist with planning and executing promotional campaigns. Represent brands during in-person marketing activities and event…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
       "id": "9ebbfdf9c47f06ed",
       "title": "Social Media Coordinator",
       "company": "CPAC Foundation",
@@ -223,54 +288,6 @@
       "description": "About the Role We’re looking for a creative, organized, and detail-oriented Social Media Coordinator to help manage our organization’s daily social media presence, support and turn performance data into actionable insights. This role is ideal for someone who is a strong writer, understands how social platforms work, enjoys working in a fast-paced environment, and understands the importance of accuracy and sound judgment. AI is a core tool and resource on our team. We expect this role to use it …",
       "tags": [
         "social media",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "18f6ef31ac4f9d30",
-      "title": "Sports-Minded Marketing Associate",
-      "company": "Legendary Impact",
-      "location": "West Bethesda, Montgomery County",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-11-18T18:13:42Z",
-      "url": "https://www.adzuna.com/land/ad/5970818782?se=7DPM6w7p8RGwQtGPxt0HFQ&utm_medium=api&utm_source=59a3324b&v=CF85CCA8F9E36EAA13508E5E28EEFE76538360D5",
-      "salary": "$58,006",
-      "description": "Job Description Sports-Minded Marketing Associate \\n \\n Ready to turn your competitive spirit into a career? \\n \\n We’re growing our marketing and sales team in the Maryland office and we’re looking for motivated, outgoing people who enjoy working with others, setting goals, and challenging themselves to improve. \\n \\n Whether you’re a recent graduate, coming from retail or hospitality, an athlete, or simply looking for your first opportunity to build professional experience, you’ll receive han…",
-      "tags": [
-        "marketing",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "495473b24b39caad",
-      "title": "Executive Assistant and Communications Associate",
-      "company": "Summit",
-      "location": "Washington, D.C., US",
-      "remote": "hybrid",
-      "source": "Adzuna",
-      "datePosted": "2026-11-18T08:01:01Z",
-      "url": "https://www.adzuna.com/details/5970283053?utm_medium=api&utm_source=59a3324b",
-      "salary": "$65,000 – $85,000",
-      "description": "Location: Washington DC Area/Hybrid Summit guides federal agencies to design, launch, manage, and evaluate loan and grant programs so they can put public capital to work effectively and manage risk. We foster a collaborative workplace built on diverse perspectives, continuous learning, and trust. We are committed to creating an environment where people can do their best work. Summit is seeking an Executive Assistant and Communications Coordinator to support one of the Senior Partners. You'll ma…",
-      "tags": [
-        "communications",
-        "entry-level"
-      ]
-    },
-    {
-      "id": "bdd37025006b655f",
-      "title": "Associate, Communications",
-      "company": "Meridian International Center",
-      "location": "Washington, D.C., US",
-      "remote": "onsite",
-      "source": "Adzuna",
-      "datePosted": "2026-11-18T01:52:37Z",
-      "url": "https://www.adzuna.com/land/ad/5969948341?se=eM106w7p8RGq4p5KapsR2w&utm_medium=api&utm_source=59a3324b&v=5DEC8070B2B32F6F4515CD09AEF51B557383AF71",
-      "salary": "$50,568 – $58,635",
-      "description": "Title: Associate, Communications Salary: $50,568-$58,635 Employment Status: FULL-TIME FLSA Classification: EXEMPT Direct Reports: None Supervisor Title: Associate Director, Communications and Marketing Summary of Position: Meridian International Center seeks a collaborative and strategic Communications Associate to support content creation and execute communications strategy across Meridian’s digital and social channels. This position will help the team with audience curation and grow sustained…",
-      "tags": [
-        "communications",
         "entry-level"
       ]
     },
